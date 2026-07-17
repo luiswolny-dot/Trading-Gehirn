@@ -65,6 +65,24 @@ def analyze_symbol(symbol, quote):
         "target_2": target_2,
         "risk_reward": risk_reward,
     }
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
+
+def send_notification(pick):
+    if not NTFY_TOPIC:
+        return
+    try:
+        requests.post(
+            f"https://ntfy.sh/{NTFY_TOPIC}",
+            data=f"{pick['symbol']} bei ${pick['entry']} — Signalstärke {pick['buy_pct']}%. Stop: ${pick['stop_loss']}, Ziel 1: ${pick['target_1']}".encode("utf-8"),
+            headers={
+                "Title": f"Neues Kaufsignal: {pick['symbol']}",
+                "Priority": "high",
+                "Tags": "chart_with_upwards_trend"
+            },
+            timeout=10
+        )
+    except Exception as e:
+        print(f"Notification fehlgeschlagen: {e}")
 
 def main():
     os.makedirs("data", exist_ok=True)
