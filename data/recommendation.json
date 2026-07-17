@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T20:14:20.131949+00:00",
+  "timestamp": "2026-07-17T23:12:48.529364+00:00",
   "picks": [
     {
       "symbol": "NTAP",
@@ -18,7 +18,7 @@
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
-      "timestamp": "2026-07-17T20:14:20.131949+00:00",
+      "timestamp": "2026-07-17T23:12:48.529364+00:00",
       "fundamental_score": 88,
       "news_score": 100,
       "momentum_quality": 50
@@ -40,7 +40,7 @@
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
-      "timestamp": "2026-07-17T20:14:20.131949+00:00",
+      "timestamp": "2026-07-17T23:12:48.529364+00:00",
       "fundamental_score": 86,
       "news_score": 98,
       "momentum_quality": 50
@@ -62,7 +62,7 @@
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
-      "timestamp": "2026-07-17T20:14:20.131949+00:00",
+      "timestamp": "2026-07-17T23:12:48.529364+00:00",
       "fundamental_score": 45,
       "news_score": 100,
       "momentum_quality": 50
