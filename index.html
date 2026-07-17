@@ -264,13 +264,16 @@ async function loadData(){
             <span class="pick-price">${fmt(p.price)}</span>
             <span class="pick-change ${p.change_pct >= 0 ? 'pos' : 'neg'}">${p.change_pct >= 0 ? '+' : ''}${p.change_pct}%</span>
           </span>
-        </div>
-        <div class="pick-conf">Gesamt-Score: <b>${p.final_score}%</b> · Chance-Risiko: ${p.risk_reward ?? '—'}</div>
-        <div class="factors">
+          
+              <div class="factors">
           <span class="factor-chip">Technik: <b>${p.buy_pct}%</b></span>
           <span class="factor-chip">KGV: <b>${p.pe_ratio ? p.pe_ratio.toFixed(1) : '—'}</b></span>
           <span class="factor-chip ${newsClass}">News: <b>${p.news_label || '—'}</b></span>
+          <span class="factor-chip">Trend: <b>${p.trend_label || '—'}</b></span>
+          <span class="factor-chip">RSI: <b>${p.rsi ?? '—'}</b></span>
+          <span class="factor-chip">Volumen: <b>${p.volume_label || '—'}</b></span>
         </div>
+
         <div class="levels">
           <div class="level entry"><div class="k">Einstieg</div><div class="v">${fmt(p.entry)}</div></div>
           <div class="level stop"><div class="k">Stop-Loss</div><div class="v">${fmt(p.stop_loss)}</div></div>
