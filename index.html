@@ -21,7 +21,6 @@
   .status{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--muted); margin-bottom:16px;}
   .status.error{color:var(--red);}
 
-  /* Selbstbewertungs-Meter */
   .self-rating{
     background:var(--panel); border:2px solid var(--border); border-radius:16px;
     padding:22px 20px; margin-bottom:20px; text-align:center;
@@ -49,7 +48,7 @@
     background:var(--panel); border:1px solid var(--border); border-radius:10px;
     padding:16px; margin-bottom:20px; display:flex; justify-content:space-around; text-align:center;
   }
-  .track-record .stat .num{font-family:'IBM Plex Mono',monospace; font-size:22px; font-weight:600;}
+  .track-record .stat .num{font-family:'IBM Plex Mono',monospace; font-size:20px; font-weight:600;}
   .track-record .stat .lbl{font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin-top:2px;}
   .track-record .stat.win .num{color:var(--green);}
   .track-record .stat.loss .num{color:var(--red);}
@@ -134,13 +133,13 @@ function setStatus(msg, isError){
 }
 
 const RATING_STAGES = [
-  { max: 20,  emoji: '💀', caption: 'Trading kündigen, Bürgergeld beantragen', color: '#E5484D' },
+  { max: 20,  emoji: '💀', caption: 'RIP',                                      color: '#E5484D' },
   { max: 35,  emoji: '😬', caption: 'Autsch. Nochmal in Ruhe nachdenken.',       color: '#E5484D' },
   { max: 45,  emoji: '🤔', caption: 'Hmm, ausbaufähig.',                        color: '#E8A33D' },
   { max: 55,  emoji: '🪙', caption: 'Münzwurf-Niveau, ehrlich gesagt.',          color: '#E8D93D' },
   { max: 65,  emoji: '📈', caption: 'Ganz ordentlich!',                          color: '#A3D93D' },
   { max: 80,  emoji: '😎', caption: 'Läuft richtig gut.',                        color: '#3FB27F' },
-  { max: 101, emoji: '🚀', caption: 'Nächster Aktien-Millionär!',                color: '#3FB27F' },
+  { max: 101, emoji: '🚀', caption: 'AbuKleber to the Sky',                      color: '#3FB27F' },
 ];
 
 function getStage(winRate){
@@ -159,7 +158,7 @@ function renderSelfRating(tr){
         <div class="self-rating-caption">Noch im Trainingslager</div>
         <div class="self-rating-sub">${have}/${MIN_SAMPLE} abgeschlossene Empfehlungen — Selbstbewertung startet danach</div>
         <div class="meter-track"><div class="meter-needle" style="left:50%;"></div></div>
-        <div class="meter-labels"><span>Bürgergeld</span><span>Millionär</span></div>
+        <div class="meter-labels"><span>RIP</span><span>AbuKleber to the Sky</span></div>
       </div>
     `;
     return;
@@ -172,7 +171,7 @@ function renderSelfRating(tr){
       <div class="self-rating-caption">${stage.caption}</div>
       <div class="self-rating-sub">Selbsteinschätzung bei ${tr.win_rate}% Trefferquote (${tr.total_closed} Empfehlungen)</div>
       <div class="meter-track"><div class="meter-needle" style="left:${tr.win_rate}%;"></div></div>
-      <div class="meter-labels"><span>Bürgergeld</span><span>Millionär</span></div>
+      <div class="meter-labels"><span>RIP</span><span>AbuKleber to the Sky</span></div>
     </div>
   `;
 }
@@ -183,9 +182,11 @@ function renderTrackRecord(tr){
     el.innerHTML = '';
     return;
   }
+  const expClass = tr.expectancy > 0 ? 'win' : tr.expectancy < 0 ? 'loss' : '';
   el.innerHTML = `
     <div class="track-record">
       <div class="stat win"><div class="num">${tr.win_rate}%</div><div class="lbl">Trefferquote</div></div>
+      <div class="stat ${expClass}"><div class="num">${tr.expectancy !== null && tr.expectancy !== undefined ? (tr.expectancy > 0 ? '+' : '') + tr.expectancy + '%' : '—'}</div><div class="lbl">Ø pro Trade</div></div>
       <div class="stat"><div class="num">${tr.total_closed}</div><div class="lbl">Abgeschlossen</div></div>
       <div class="stat"><div class="num">${tr.still_open}</div><div class="lbl">Noch offen</div></div>
     </div>
@@ -292,7 +293,7 @@ setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Die Selbstbewertung oben ist zur Auflockerung gedacht und basiert auf derselben Trefferquote wie die Statistik darunter — bei wenigen abgeschlossenen Empfehlungen ist sie statistisch wenig aussagekräftig. Keine Finanzberatung, keine Garantie für zukünftige Treffer.
+  Die Selbstbewertung oben ist zur Auflockerung gedacht und basiert auf derselben Trefferquote wie die Statistik darunter — bei wenigen abgeschlossenen Empfehlungen ist sie statistisch wenig aussagekräftig. Der "Ø pro Trade"-Wert zeigt den durchschnittlichen Gewinn/Verlust über alle abgeschlossenen Empfehlungen hinweg. Keine Finanzberatung, keine Garantie für zukünftige Treffer.
 </p>
 </body>
 </html>
