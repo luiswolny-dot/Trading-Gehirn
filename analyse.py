@@ -11,6 +11,7 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/master/data/constituents.csv"
 REQUEST_DELAY = 1.05
 DEEP_DIVE_COUNT = 25
+EXPIRY_DAYS = 3
 
 POSITIVE_WORDS = {"beat","beats","surge","soar","rally","upgrade","outperform","record",
                    "growth","strong","gain","gains","jump","rise","rises","bullish","buy",
@@ -18,6 +19,10 @@ POSITIVE_WORDS = {"beat","beats","surge","soar","rally","upgrade","outperform","
 NEGATIVE_WORDS = {"miss","misses","plunge","crash","downgrade","underperform","weak","loss",
                    "losses","fall","falls","drop","drops","bearish","sell","cuts","cut",
                    "lawsuit","fraud","investigation","recall","decline","plunges"}
+
+REC_LOG_PATH = "data/recommendations_log.csv"
+REC_LOG_FIELDS = ["id", "symbol", "opened_at", "entry", "stop_loss", "target_1", "target_2",
+                   "status", "resolved_at", "resolved_price"]
 
 def load_watchlist():
     try:
@@ -174,11 +179,102 @@ def send_notification(pick):
     except Exception as e:
         print(f"Notification fehlgeschlagen: {e}")
 
+def load_rec_log():
+    if not os.path.exists(REC_LOG_PATH):
+        return []
+    with open(REC_LOG_PATH, newline="") as f:
+        return list(csv.DictReader(f))
+
+def save_rec_log(rows):
+    with open(REC_LOG_PATH, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=REC_LOG_FIELDS)
+        writer.writeheader()
+        writer.writerows(rows)
+
+def resolve_open_recommendations(rows, now):
+    open_rows = [r for r in rows if r["status"] == "open"]
+    for row in open_rows:
+        try:
+            quote = fetch_quote(row["symbol"])
+        except Exception as e:
+            print(f"Konnte {row['symbol']} für Tracking nicht abfragen: {e}")
+            continue
+        time.sleep(REQUEST_DELAY)
+
+        price = quote.get("c")
+        if not price:
+            continue
+
+        entry = float(row["entry"])
+        stop_loss = float(row["stop_loss"])
+        target_1 = float(row["target_1"])
+        target_2 = float(row["target_2"])
+        opened_at = datetime.fromisoformat(row["opened_at"])
+
+        if price >= target_2:
+            row["status"] = "ziel_2_erreicht"
+        elif price >= target_1:
+            row["status"] = "ziel_1_erreicht"
+        elif price <= stop_loss:
+            row["status"] = "stop_loss_ausgeloest"
+        elif now - opened_at > timedelta(days=EXPIRY_DAYS):
+            row["status"] = "abgelaufen_gewinn" if price > entry else "abgelaufen_verlust"
+        else:
+            continue
+
+        row["resolved_at"] = now.isoformat()
+        row["resolved_price"] = price
+        print(f"{row['symbol']} abgeschlossen: {row['status']} bei ${price}")
+
+    return rows
+
+def add_new_recommendations(rows, top_picks, timestamp):
+    open_symbols = {r["symbol"] for r in rows if r["status"] == "open"}
+    for pick in top_picks:
+        if pick["symbol"] in open_symbols:
+            continue
+        rows.append({
+            "id": f"{pick['symbol']}_{timestamp}",
+            "symbol": pick["symbol"],
+            "opened_at": timestamp,
+            "entry": pick["entry"],
+            "stop_loss": pick["stop_loss"],
+            "target_1": pick["target_1"],
+            "target_2": pick["target_2"],
+            "status": "open",
+            "resolved_at": "",
+            "resolved_price": "",
+        })
+    return rows
+
+def compute_track_record(rows, timestamp):
+    closed = [r for r in rows if r["status"] != "open"]
+    wins = [r for r in closed if r["status"] in ("ziel_1_erreicht", "ziel_2_erreicht", "abgelaufen_gewinn")]
+    losses = [r for r in closed if r["status"] in ("stop_loss_ausgeloest", "abgelaufen_verlust")]
+    still_open = [r for r in rows if r["status"] == "open"]
+
+    win_rate = round(len(wins) / len(closed) * 100) if closed else None
+
+    return {
+        "updated": timestamp,
+        "total_closed": len(closed),
+        "wins": len(wins),
+        "losses": len(losses),
+        "win_rate": win_rate,
+        "still_open": len(still_open),
+        "recent": sorted(closed, key=lambda r: r["resolved_at"], reverse=True)[:10],
+    }
+
 def main():
     os.makedirs("data", exist_ok=True)
-    timestamp = datetime.now(timezone.utc).isoformat()
+    now = datetime.now(timezone.utc)
+    timestamp = now.isoformat()
     results = []
     watchlist = load_watchlist()
+
+    # Zuerst: offene Empfehlungen aus früheren Läufen prüfen
+    rec_rows = load_rec_log()
+    rec_rows = resolve_open_recommendations(rec_rows, now)
 
     # Stufe 1: breiter, schneller Scan
     for i, symbol in enumerate(watchlist):
@@ -221,6 +317,14 @@ def main():
     with open("data/recommendation.json", "w") as f:
         json.dump({"timestamp": timestamp, "picks": top_picks}, f, indent=2)
 
+    # Neue Empfehlungen ins Tracking-Log aufnehmen, Trefferquote berechnen
+    rec_rows = add_new_recommendations(rec_rows, top_picks, timestamp)
+    save_rec_log(rec_rows)
+
+    track_record = compute_track_record(rec_rows, timestamp)
+    with open("data/track_record.json", "w") as f:
+        json.dump(track_record, f, indent=2)
+
     state_path = "data/state.json"
     last_symbol = None
     if os.path.exists(state_path):
@@ -235,6 +339,7 @@ def main():
             json.dump({"last_top_symbol": current_top}, f)
 
     print(f"{len(results)} von {len(watchlist)} Aktien gescreent, {len(top_candidates)} vertieft analysiert, {len(top_picks)} Empfehlung(en).")
+    print(f"Trefferquote bisher: {track_record['win_rate']}% ({track_record['wins']} Treffer, {track_record['losses']} Fehlschläge, {track_record['still_open']} offen)")
 
 if __name__ == "__main__":
     main()
