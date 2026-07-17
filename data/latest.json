@@ -1,10 +1,50 @@
 [
   {
-    "timestamp": "2026-07-17T14:38:03.507201+00:00",
+    "timestamp": "2026-07-17T15:08:06.196959+00:00",
     "symbol": "STI",
-    "price": 6.21,
-    "change_pct": -0.8,
-    "buy_pct": 60,
-    "sell_pct": 40
+    "price": 6.07,
+    "change_pct": -3.04,
+    "buy_pct": 32,
+    "sell_pct": 68
+  },
+  {
+    "timestamp": "2026-07-17T15:08:06.196959+00:00",
+    "symbol": "AAPL",
+    "price": 333.26,
+    "change_pct": 0.0,
+    "buy_pct": 58,
+    "sell_pct": 42
+  },
+  {
+    "timestamp": "2026-07-17T15:08:06.196959+00:00",
+    "symbol": "MSFT",
+    "price": 392.2,
+    "change_pct": -2.22,
+    "buy_pct": 31,
+    "sell_pct": 69
+  },
+  {
+    "timestamp": "2026-07-17T15:08:06.196959+00:00",
+    "symbol": "TSLA",
+    "price": 379.98,
+    "change_pct": -2.83,
+    "buy_pct": 39,
+    "sell_pct": 61
+  },
+  {
+    "timestamp": "2026-07-17T15:08:06.196959+00:00",
+    "symbol": "NVDA",
+    "price": 202.92,
+    "change_pct": -2.16,
+    "buy_pct": 48,
+    "sell_pct": 52
+  },
+  {
+    "timestamp": "2026-07-17T15:08:06.196959+00:00",
+    "symbol": "SPY",
+    "price": 744.52,
+    "change_pct": -0.83,
+    "buy_pct": 50,
+    "sell_pct": 50
   }
 ]
