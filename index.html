@@ -36,8 +36,17 @@
   .pick-price{font-family:'IBM Plex Mono',monospace; font-size:18px; font-weight:600;}
   .pick-change{font-family:'IBM Plex Mono',monospace; font-size:12px; margin-left:6px;}
   .pick-change.pos{color:var(--green);} .pick-change.neg{color:var(--red);}
-  .pick-conf{font-size:12px; color:var(--muted); margin-bottom:16px;}
+  .pick-conf{font-size:12px; color:var(--muted); margin-bottom:10px;}
   .pick-conf b{color:var(--green);}
+
+  .factors{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px;}
+  .factor-chip{
+    background:var(--panel-2); border:1px solid var(--border); border-radius:20px;
+    padding:5px 12px; font-size:11px; font-family:'IBM Plex Mono',monospace; color:var(--muted);
+  }
+  .factor-chip b{color:var(--text);}
+  .factor-chip.pos-news{color:var(--green); border-color:var(--green);}
+  .factor-chip.neg-news{color:var(--red); border-color:var(--red);}
 
   .levels{display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--border); border:1px solid var(--border); border-radius:8px; overflow:hidden;}
   .level{background:var(--panel-2); padding:12px 14px;}
@@ -46,7 +55,6 @@
   .level.entry .v{color:var(--text);}
   .level.stop .v{color:var(--red);}
   .level.target .v{color:var(--green);}
-  .level .rr{font-size:10px; color:var(--muted); margin-top:2px;}
 
   .checkback{
     margin-top:14px; padding:10px 14px; background:var(--panel-2); border-radius:6px;
@@ -62,7 +70,7 @@
 <div class="wrap">
   <div class="eyebrow">Trading-Gehirn · Live</div>
   <h1>Heutige Empfehlungen</h1>
-  <p class="sub">Die stärksten Kaufsignale aus dem S&P 500, mit Einstieg, Stop-Loss und Kurszielen. Aktualisiert alle 15 Minuten.</p>
+  <p class="sub">Zweistufige Analyse: breiter Scan über den S&P 500, dann Tiefenanalyse (Fundamentaldaten + News) der stärksten Kandidaten. Aktualisiert alle 15 Minuten.</p>
 
   <div class="status" id="status">Lade Empfehlungen …</div>
   <div id="picks"></div>
@@ -90,7 +98,9 @@ async function loadData(){
       return;
     }
 
-    picksEl.innerHTML = data.picks.map((p, i) => `
+    picksEl.innerHTML = data.picks.map((p, i) => {
+      const newsClass = p.news_label === 'positiv' ? 'pos-news' : p.news_label === 'negativ' ? 'neg-news' : '';
+      return `
       <div class="pick-card rank-${i}">
         ${i === 0 ? '<div class="rank-badge">Stärkstes Signal</div>' : ''}
         <div class="pick-top">
@@ -100,7 +110,12 @@ async function loadData(){
             <span class="pick-change ${p.change_pct >= 0 ? 'pos' : 'neg'}">${p.change_pct >= 0 ? '+' : ''}${p.change_pct}%</span>
           </span>
         </div>
-        <div class="pick-conf">Kaufsignal-Stärke: <b>${p.buy_pct}%</b> · Chance-Risiko: ${p.risk_reward ?? '—'}</div>
+        <div class="pick-conf">Gesamt-Score: <b>${p.final_score}%</b> · Chance-Risiko: ${p.risk_reward ?? '—'}</div>
+        <div class="factors">
+          <span class="factor-chip">Technik: <b>${p.buy_pct}%</b></span>
+          <span class="factor-chip">KGV: <b>${p.pe_ratio ? p.pe_ratio.toFixed(1) : '—'}</b></span>
+          <span class="factor-chip ${newsClass}">News: <b>${p.news_label || '—'}</b></span>
+        </div>
         <div class="levels">
           <div class="level entry"><div class="k">Einstieg</div><div class="v">${fmt(p.entry)}</div></div>
           <div class="level stop"><div class="k">Stop-Loss</div><div class="v">${fmt(p.stop_loss)}</div></div>
@@ -109,7 +124,8 @@ async function loadData(){
         </div>
         <div class="checkback">⏱ Position spätestens zum Handelsschluss prüfen — keine Zeitprognose, sondern gängige Daytrading-Disziplin.</div>
       </div>
-    `).join('');
+    `;
+    }).join('');
 
     setStatus('Zuletzt geprüft: ' + new Date(data.timestamp).toLocaleString('de-DE'));
   }catch(err){
@@ -122,7 +138,7 @@ setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Diese Kursziele und Stop-Loss-Werte werden rechnerisch aus der Tagesvolatilität abgeleitet (regelbasierte Heuristik) — sie sind keine Vorhersage und keine Finanzberatung. Niemand kann kurzfristige Kursbewegungen zuverlässig vorhersagen, auch dieses System nicht. Nutze die Werte als strukturierten Ausgangspunkt für deine eigene Entscheidung, nicht als Garantie.
+  Der Gesamt-Score kombiniert Kursbewegung (50%), Fundamentaldaten wie KGV und 52-Wochen-Position (30%) und eine einfache, stichwortbasierte Auswertung aktueller Firmennews (20%). Das ist eine transparente, regelbasierte Heuristik — kein trainiertes Modell, keine Ersetzung echter Analystenarbeit und keine Finanzberatung. Nutze die Werte als strukturierten Ausgangspunkt, nicht als Garantie.
 </p>
 </body>
 </html>
