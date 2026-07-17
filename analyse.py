@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 import requests
 
 API_KEY = os.environ["FINNHUB_API_KEY"]
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/master/data/constituents.csv"
 REQUEST_DELAY = 1.05
 
@@ -65,10 +66,10 @@ def analyze_symbol(symbol, quote):
         "target_2": target_2,
         "risk_reward": risk_reward,
     }
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 
 def send_notification(pick):
     if not NTFY_TOPIC:
+        print("Kein NTFY_TOPIC gesetzt, überspringe Benachrichtigung.")
         return
     try:
         requests.post(
@@ -81,6 +82,7 @@ def send_notification(pick):
             },
             timeout=10
         )
+        print(f"Benachrichtigung für {pick['symbol']} gesendet.")
     except Exception as e:
         print(f"Notification fehlgeschlagen: {e}")
 
@@ -105,7 +107,6 @@ def main():
 
     results.sort(key=lambda r: r["buy_pct"], reverse=True)
 
-    # Vollständige Liste (für Historie/spätere Auswertung)
     with open("data/latest.json", "w") as f:
         json.dump(results, f, indent=2)
 
@@ -120,10 +121,22 @@ def main():
             writer.writeheader()
         writer.writerows(results)
 
-    # Nur die Top-3-Empfehlungen fürs Dashboard, mit Mindest-Schwelle
     top_picks = [r for r in results if r["buy_pct"] >= 60][:3]
     with open("data/recommendation.json", "w") as f:
         json.dump({"timestamp": timestamp, "picks": top_picks}, f, indent=2)
+
+    state_path = "data/state.json"
+    last_symbol = None
+    if os.path.exists(state_path):
+        with open(state_path) as f:
+            last_symbol = json.load(f).get("last_top_symbol")
+
+    if top_picks:
+        current_top = top_picks[0]["symbol"]
+        if current_top != last_symbol:
+            send_notification(top_picks[0])
+        with open(state_path, "w") as f:
+            json.dump({"last_top_symbol": current_top}, f)
 
     print(f"{len(results)} von {len(watchlist)} Aktien analysiert. {len(top_picks)} Empfehlung(en) erstellt.")
 
