@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trading-Gehirn — Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B0E11;
+    --panel:#12161C;
+    --border:#232830;
+    --text:#E6E8EB;
+    --muted:#7C8591;
+    --amber:#E8A33D;
+    --amber-dim:#8A6528;
+    --red:#E5484D;
+    --green:#3FB27F;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter', sans-serif;
+    min-height:100vh;
+    padding:24px 16px 80px;
+  }
+  .wrap{max-width:720px; margin:0 auto;}
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--amber);
+  }
+  h1{
+    font-family:'Space Grotesk', sans-serif;
+    font-weight:700;
+    font-size:26px;
+    letter-spacing:-0.01em;
+    margin-bottom:4px;
+  }
+  .sub{color:var(--muted); font-size:13px; margin-bottom:20px;}
+  .status{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--muted);
+    margin-bottom:16px;
+  }
+  .status.error{color:var(--red);}
+  .card{
+    background:var(--panel);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:18px;
+    margin-bottom:14px;
+  }
+  .card-top{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:14px;}
+  .ticker{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:19px;}
+  .price{font-family:'IBM Plex Mono',monospace; font-size:19px; font-weight:600;}
+  .change{font-family:'IBM Plex Mono',monospace; font-size:13px; margin-left:8px;}
+  .change.pos{color:var(--green);}
+  .change.neg{color:var(--red);}
+  .bar-track{
+    position:relative;
+    height:8px;
+    border-radius:5px;
+    background:linear-gradient(90deg, var(--red), #444 50%, var(--green));
+    margin-bottom:10px;
+  }
+  .bar-needle{
+    position:absolute; top:-4px; width:2px; height:16px;
+    background:var(--text); transform:translateX(-1px);
+  }
+  .bar-needle::after{
+    content:''; position:absolute; top:-4px; left:-4px;
+    width:10px; height:10px; border-radius:50%; background:var(--text);
+  }
+  .readout{display:flex; justify-content:space-between; font-family:'IBM Plex Mono',monospace; font-size:12px;}
+  .readout .buy{color:var(--green);}
+  .readout .sell{color:var(--red);}
+  .timestamp{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); margin-top:10px;}
+  .empty{text-align:center; padding:40px 20px; color:var(--muted); font-size:13px; line-height:1.6;}
+  .disclaimer{
+    margin-top:24px;
+    font-size:11.5px;
+    color:#5B6270;
+    line-height:1.6;
+    border-top:1px solid var(--border);
+    padding-top:16px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow">Trading-Gehirn · Live</div>
+  <h1>Dashboard</h1>
+  <p class="sub">Automatisch aktualisiert bei jedem neuen Analyse-Lauf (alle 30 Minuten).</p>
+
+  <div class="status" id="status">Lade Daten …</div>
+  <div id="cards"></div>
+</div>
+
+<script>
+function fmtNum(n, digits){
+  if(n === null || n === undefined || isNaN(n)) return '—';
+  return Number(n).toFixed(digits !== undefined ? digits : 2);
+}
+
+function setStatus(msg, isError){
+  const el = document.getElementById('status');
+  el.textContent = msg || '';
+  el.className = 'status' + (isError ? ' error' : '');
+}
+
+async function loadData(){
+  try{
+    const res = await fetch('data/latest.json?t=' + Date.now());
+    if(!res.ok) throw new Error('data/latest.json nicht gefunden (Status ' + res.status + ')');
+    const data = await res.json();
+    const cardsEl = document.getElementById('cards');
+
+    if(!Array.isArray(data) || data.length === 0){
+      cardsEl.innerHTML = '<div class="card"><div class="empty">Noch keine Analyse-Daten vorhanden.</div></div>';
+      setStatus('Verbunden, aber noch keine Daten.');
+      return;
+    }
+
+    cardsEl.innerHTML = data.map(row => {
+      const buyPct = row.buy_pct;
+      const changePct = row.change_pct;
+      const ts = new Date(row.timestamp);
+      return `
+        <div class="card">
+          <div class="card-top">
+            <span class="ticker">${row.symbol}</span>
+            <span>
+              <span class="price">$${fmtNum(row.price)}</span>
+              <span class="change ${changePct >= 0 ? 'pos' : 'neg'}">${changePct >= 0 ? '+' : ''}${fmtNum(changePct)}%</span>
+            </span>
+          </div>
+          <div class="bar-track"><div class="bar-needle" style="left:${buyPct}%;"></div></div>
+          <div class="readout">
+            <span class="sell">${100 - buyPct}% Verkauf</span>
+            <span class="buy">${buyPct}% Kauf</span>
+          </div>
+          <div class="timestamp">Stand: ${ts.toLocaleString('de-DE')}</div>
+        </div>
+      `;
+    }).join('');
+
+    setStatus('Zuletzt geladen: ' + new Date().toLocaleTimeString('de-DE'));
+  }catch(err){
+    setStatus(err.message || 'Fehler beim Laden.', true);
+  }
+}
+
+loadData();
+setInterval(loadData, 60000);
+</script>
+
+<p class="disclaimer" style="max-width:720px; margin:24px auto 0;">
+  Diese Werte basieren auf einer vereinfachten, regelbasierten Heuristik (Tagesspanne + Kursbewegung) — kein trainiertes Wahrscheinlichkeitsmodell und keine Finanzberatung. Nutze sie als einen Datenpunkt unter vielen.
+</p>
+</body>
+</html>
