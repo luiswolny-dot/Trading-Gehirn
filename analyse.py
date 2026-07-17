@@ -22,7 +22,7 @@ NEGATIVE_WORDS = {"miss","misses","plunge","crash","downgrade","underperform","w
 
 REC_LOG_PATH = "data/recommendations_log.csv"
 REC_LOG_FIELDS = ["id", "symbol", "opened_at", "entry", "stop_loss", "target_1", "target_2",
-                   "status", "resolved_at", "resolved_price"]
+                   "status", "resolved_at", "resolved_price", "pnl_pct"]
 
 def load_watchlist():
     try:
@@ -183,11 +183,15 @@ def load_rec_log():
     if not os.path.exists(REC_LOG_PATH):
         return []
     with open(REC_LOG_PATH, newline="") as f:
-        return list(csv.DictReader(f))
+        rows = list(csv.DictReader(f))
+    for row in rows:
+        if "pnl_pct" not in row:
+            row["pnl_pct"] = ""
+    return rows
 
 def save_rec_log(rows):
     with open(REC_LOG_PATH, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=REC_LOG_FIELDS)
+        writer = csv.DictWriter(f, fieldnames=REC_LOG_FIELDS, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
 
@@ -224,7 +228,8 @@ def resolve_open_recommendations(rows, now):
 
         row["resolved_at"] = now.isoformat()
         row["resolved_price"] = price
-        print(f"{row['symbol']} abgeschlossen: {row['status']} bei ${price}")
+        row["pnl_pct"] = round((price - entry) / entry * 100, 2)
+        print(f"{row['symbol']} abgeschlossen: {row['status']} bei ${price} ({row['pnl_pct']:+}%)")
 
     return rows
 
@@ -244,6 +249,7 @@ def add_new_recommendations(rows, top_picks, timestamp):
             "status": "open",
             "resolved_at": "",
             "resolved_price": "",
+            "pnl_pct": "",
         })
     return rows
 
@@ -255,12 +261,32 @@ def compute_track_record(rows, timestamp):
 
     win_rate = round(len(wins) / len(closed) * 100) if closed else None
 
+    def avg_pnl(items):
+        vals = [float(r["pnl_pct"]) for r in items if r.get("pnl_pct") not in ("", None)]
+        return round(sum(vals) / len(vals), 2) if vals else None
+
+    avg_win = avg_pnl(wins)
+    avg_loss = avg_pnl(losses)
+
+    expectancy = None
+    if win_rate is not None and avg_win is not None and avg_loss is not None:
+        p_win = win_rate / 100
+        expectancy = round(p_win * avg_win + (1 - p_win) * avg_loss, 2)
+    total_pnl = None
+    all_pnls = [float(r["pnl_pct"]) for r in closed if r.get("pnl_pct") not in ("", None)]
+    if all_pnls:
+        total_pnl = round(sum(all_pnls), 2)
+
     return {
         "updated": timestamp,
         "total_closed": len(closed),
         "wins": len(wins),
         "losses": len(losses),
         "win_rate": win_rate,
+        "avg_win": avg_win,
+        "avg_loss": avg_loss,
+        "expectancy": expectancy,
+        "total_pnl": total_pnl,
         "still_open": len(still_open),
         "recent": sorted(closed, key=lambda r: r["resolved_at"], reverse=True)[:10],
     }
@@ -272,11 +298,9 @@ def main():
     results = []
     watchlist = load_watchlist()
 
-    # Zuerst: offene Empfehlungen aus früheren Läufen prüfen
     rec_rows = load_rec_log()
     rec_rows = resolve_open_recommendations(rec_rows, now)
 
-    # Stufe 1: breiter, schneller Scan
     for i, symbol in enumerate(watchlist):
         try:
             quote = fetch_quote(symbol)
@@ -291,7 +315,6 @@ def main():
 
     results.sort(key=lambda r: r["buy_pct"], reverse=True)
 
-    # Stufe 2: Tiefenanalyse der vielversprechendsten Kandidaten
     top_candidates = results[:DEEP_DIVE_COUNT]
     for candidate in top_candidates:
         deep_dive(candidate)
@@ -317,7 +340,6 @@ def main():
     with open("data/recommendation.json", "w") as f:
         json.dump({"timestamp": timestamp, "picks": top_picks}, f, indent=2)
 
-    # Neue Empfehlungen ins Tracking-Log aufnehmen, Trefferquote berechnen
     rec_rows = add_new_recommendations(rec_rows, top_picks, timestamp)
     save_rec_log(rec_rows)
 
@@ -338,8 +360,8 @@ def main():
         with open(state_path, "w") as f:
             json.dump({"last_top_symbol": current_top}, f)
 
-    print(f"{len(results)} von {len(watchlist)} Aktien gescreent, {len(top_candidates)} vertieft analysiert, {len(top_picks)} Empfehlung(en).")
-    print(f"Trefferquote bisher: {track_record['win_rate']}% ({track_record['wins']} Treffer, {track_record['losses']} Fehlschläge, {track_record['still_open']} offen)")
+    print(f"{len(results)} von {len(watchlist)} Aktien gescreent, {len(top_candidates)} vertieft, {len(top_picks)} Empfehlung(en).")
+    print(f"Trefferquote: {track_record['win_rate']}%, Ø Gewinn: {track_record['avg_win']}%, Ø Verlust: {track_record['avg_loss']}%, Erwartungswert: {track_record['expectancy']}%")
 
 if __name__ == "__main__":
     main()
