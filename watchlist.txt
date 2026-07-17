@@ -1,1 +1,7 @@
 STI
+AAPL
+MSFT
+TSLA
+NVDA
+SPY
+
