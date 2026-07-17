@@ -2,7 +2,7 @@ name: Trading-Gehirn Analyse
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   analyze:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -20,6 +21,7 @@ jobs:
       - run: python analyse.py
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
       - run: |
           git config user.name "trading-gehirn-bot"
           git config user.email "bot@users.noreply.github.com"
