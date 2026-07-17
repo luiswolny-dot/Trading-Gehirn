@@ -21,6 +21,39 @@
   .status{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--muted); margin-bottom:16px;}
   .status.error{color:var(--red);}
 
+  /* Selbstbewertungs-Meter */
+  .self-rating{
+    background:var(--panel); border:2px solid var(--border); border-radius:16px;
+    padding:22px 20px; margin-bottom:20px; text-align:center;
+    transition:border-color 0.3s ease;
+  }
+  .self-rating-emoji{font-size:52px; line-height:1; margin-bottom:8px;}
+  .self-rating-caption{
+    font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:19px;
+    margin-bottom:4px;
+  }
+  .self-rating-sub{font-size:11px; color:var(--muted); margin-bottom:16px; font-family:'IBM Plex Mono',monospace;}
+  .meter-track{
+    position:relative; height:14px; border-radius:8px; margin:0 4px 8px;
+    background:linear-gradient(90deg, #E5484D 0%, #E8A33D 25%, #E8D93D 50%, #A3D93D 75%, #3FB27F 100%);
+  }
+  .meter-needle{
+    position:absolute; top:-7px; width:4px; height:28px; border-radius:2px;
+    background:var(--text); transform:translateX(-2px);
+    box-shadow:0 0 0 3px var(--bg), 0 0 8px rgba(0,0,0,0.5);
+    transition:left 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  .meter-labels{display:flex; justify-content:space-between; font-size:9px; color:var(--muted); font-family:'IBM Plex Mono',monospace; padding:0 2px;}
+
+  .track-record{
+    background:var(--panel); border:1px solid var(--border); border-radius:10px;
+    padding:16px; margin-bottom:20px; display:flex; justify-content:space-around; text-align:center;
+  }
+  .track-record .stat .num{font-family:'IBM Plex Mono',monospace; font-size:22px; font-weight:600;}
+  .track-record .stat .lbl{font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin-top:2px;}
+  .track-record .stat.win .num{color:var(--green);}
+  .track-record .stat.loss .num{color:var(--red);}
+
   .pick-card{
     background:var(--panel); border:1px solid var(--border); border-radius:12px;
     padding:20px; margin-bottom:16px; position:relative; overflow:hidden;
@@ -63,6 +96,18 @@
 
   .empty{background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:32px 20px; text-align:center; color:var(--muted); font-size:13px; line-height:1.6;}
 
+  .history-section{margin-top:28px;}
+  .history-title{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:16px; margin-bottom:12px;}
+  .history-row{
+    display:flex; justify-content:space-between; align-items:center;
+    padding:10px 14px; background:var(--panel); border:1px solid var(--border);
+    border-radius:8px; margin-bottom:8px; font-size:12px;
+  }
+  .history-row .sym{font-family:'Space Grotesk',sans-serif; font-weight:700;}
+  .history-row .outcome{font-family:'IBM Plex Mono',monospace; font-size:11px;}
+  .history-row .outcome.win{color:var(--green);}
+  .history-row .outcome.loss{color:var(--red);}
+
   .disclaimer{margin-top:24px; font-size:11.5px; color:#5B6270; line-height:1.6; border-top:1px solid var(--border); padding-top:16px;}
 </style>
 </head>
@@ -70,10 +115,13 @@
 <div class="wrap">
   <div class="eyebrow">Trading-Gehirn · Live</div>
   <h1>Heutige Empfehlungen</h1>
-  <p class="sub">Zweistufige Analyse: breiter Scan über den S&P 500, dann Tiefenanalyse (Fundamentaldaten + News) der stärksten Kandidaten. Aktualisiert alle 15 Minuten.</p>
+  <p class="sub">Zweistufige Analyse über den S&P 500. Jede Empfehlung wird nachverfolgt, bis sie ihr Ziel oder den Stop-Loss erreicht.</p>
 
-  <div class="status" id="status">Lade Empfehlungen …</div>
+  <div class="status" id="status">Lade Daten …</div>
+  <div id="selfRating"></div>
+  <div id="trackRecord"></div>
   <div id="picks"></div>
+  <div id="history"></div>
 </div>
 
 <script>
@@ -85,11 +133,117 @@ function setStatus(msg, isError){
   el.className = 'status' + (isError ? ' error' : '');
 }
 
+const RATING_STAGES = [
+  { max: 20,  emoji: '💀', caption: 'Trading kündigen, Bürgergeld beantragen', color: '#E5484D' },
+  { max: 35,  emoji: '😬', caption: 'Autsch. Nochmal in Ruhe nachdenken.',       color: '#E5484D' },
+  { max: 45,  emoji: '🤔', caption: 'Hmm, ausbaufähig.',                        color: '#E8A33D' },
+  { max: 55,  emoji: '🪙', caption: 'Münzwurf-Niveau, ehrlich gesagt.',          color: '#E8D93D' },
+  { max: 65,  emoji: '📈', caption: 'Ganz ordentlich!',                          color: '#A3D93D' },
+  { max: 80,  emoji: '😎', caption: 'Läuft richtig gut.',                        color: '#3FB27F' },
+  { max: 101, emoji: '🚀', caption: 'Nächster Aktien-Millionär!',                color: '#3FB27F' },
+];
+
+function getStage(winRate){
+  return RATING_STAGES.find(s => winRate < s.max) || RATING_STAGES[RATING_STAGES.length - 1];
+}
+
+function renderSelfRating(tr){
+  const el = document.getElementById('selfRating');
+  const MIN_SAMPLE = 5;
+
+  if(!tr || tr.total_closed < MIN_SAMPLE){
+    const have = tr ? tr.total_closed : 0;
+    el.innerHTML = `
+      <div class="self-rating">
+        <div class="self-rating-emoji">🐣</div>
+        <div class="self-rating-caption">Noch im Trainingslager</div>
+        <div class="self-rating-sub">${have}/${MIN_SAMPLE} abgeschlossene Empfehlungen — Selbstbewertung startet danach</div>
+        <div class="meter-track"><div class="meter-needle" style="left:50%;"></div></div>
+        <div class="meter-labels"><span>Bürgergeld</span><span>Millionär</span></div>
+      </div>
+    `;
+    return;
+  }
+
+  const stage = getStage(tr.win_rate);
+  el.innerHTML = `
+    <div class="self-rating" style="border-color:${stage.color};">
+      <div class="self-rating-emoji">${stage.emoji}</div>
+      <div class="self-rating-caption">${stage.caption}</div>
+      <div class="self-rating-sub">Selbsteinschätzung bei ${tr.win_rate}% Trefferquote (${tr.total_closed} Empfehlungen)</div>
+      <div class="meter-track"><div class="meter-needle" style="left:${tr.win_rate}%;"></div></div>
+      <div class="meter-labels"><span>Bürgergeld</span><span>Millionär</span></div>
+    </div>
+  `;
+}
+
+function renderTrackRecord(tr){
+  const el = document.getElementById('trackRecord');
+  if(!tr || tr.total_closed === 0){
+    el.innerHTML = '';
+    return;
+  }
+  el.innerHTML = `
+    <div class="track-record">
+      <div class="stat win"><div class="num">${tr.win_rate}%</div><div class="lbl">Trefferquote</div></div>
+      <div class="stat"><div class="num">${tr.total_closed}</div><div class="lbl">Abgeschlossen</div></div>
+      <div class="stat"><div class="num">${tr.still_open}</div><div class="lbl">Noch offen</div></div>
+    </div>
+  `;
+}
+
+function outcomeLabel(status){
+  const map = {
+    "ziel_1_erreicht": "Ziel 1 erreicht",
+    "ziel_2_erreicht": "Ziel 2 erreicht",
+    "stop_loss_ausgeloest": "Stop-Loss ausgelöst",
+    "abgelaufen_gewinn": "Abgelaufen (im Plus)",
+    "abgelaufen_verlust": "Abgelaufen (im Minus)",
+  };
+  return map[status] || status;
+}
+
+function isWin(status){
+  return ["ziel_1_erreicht", "ziel_2_erreicht", "abgelaufen_gewinn"].includes(status);
+}
+
+function renderHistory(tr){
+  const el = document.getElementById('history');
+  if(!tr || !tr.recent || tr.recent.length === 0){
+    el.innerHTML = '';
+    return;
+  }
+  el.innerHTML = `
+    <div class="history-section">
+      <div class="history-title">Zuletzt abgeschlossen</div>
+      ${tr.recent.map(r => `
+        <div class="history-row">
+          <span class="sym">${r.symbol}</span>
+          <span class="outcome ${isWin(r.status) ? 'win' : 'loss'}">${outcomeLabel(r.status)}</span>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
 async function loadData(){
   try{
-    const res = await fetch('data/recommendation.json?t=' + Date.now());
-    if(!res.ok) throw new Error('Noch keine Empfehlungsdaten vorhanden (Status ' + res.status + ')');
-    const data = await res.json();
+    const [recRes, trackRes] = await Promise.all([
+      fetch('data/recommendation.json?t=' + Date.now()),
+      fetch('data/track_record.json?t=' + Date.now()).catch(() => null)
+    ]);
+
+    if(!recRes.ok) throw new Error('Noch keine Empfehlungsdaten vorhanden (Status ' + recRes.status + ')');
+    const data = await recRes.json();
+
+    let track = null;
+    if(trackRes && trackRes.ok){
+      track = await trackRes.json();
+    }
+    renderSelfRating(track);
+    renderTrackRecord(track);
+    renderHistory(track);
+
     const picksEl = document.getElementById('picks');
 
     if(!data.picks || data.picks.length === 0){
@@ -138,7 +292,7 @@ setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Der Gesamt-Score kombiniert Kursbewegung (50%), Fundamentaldaten wie KGV und 52-Wochen-Position (30%) und eine einfache, stichwortbasierte Auswertung aktueller Firmennews (20%). Das ist eine transparente, regelbasierte Heuristik — kein trainiertes Modell, keine Ersetzung echter Analystenarbeit und keine Finanzberatung. Nutze die Werte als strukturierten Ausgangspunkt, nicht als Garantie.
+  Die Selbstbewertung oben ist zur Auflockerung gedacht und basiert auf derselben Trefferquote wie die Statistik darunter — bei wenigen abgeschlossenen Empfehlungen ist sie statistisch wenig aussagekräftig. Keine Finanzberatung, keine Garantie für zukünftige Treffer.
 </p>
 </body>
 </html>
