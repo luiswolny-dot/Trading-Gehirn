@@ -60,6 +60,17 @@ def fetch_company_news(symbol):
     r.raise_for_status()
     return r.json() or []
 
+def fetch_candles(symbol, days=30):
+    to_ts = int(datetime.now(timezone.utc).timestamp())
+    from_ts = to_ts - days * 86400
+    url = f"https://finnhub.io/api/v1/stock/candle?symbol={symbol}&resolution=D&from={from_ts}&to={to_ts}&token={API_KEY}"
+    r = requests.get(url, timeout=10)
+    r.raise_for_status()
+    data = r.json()
+    if data.get("s") != "ok" or not data.get("c"):
+        return None
+    return data  # enthält c (closes), v (volumes), t (timestamps)
+
 def analyze_symbol(symbol, quote):
     c, pc, h, l = quote.get("c"), quote.get("pc"), quote.get("h"), quote.get("l")
     if not c or not pc:
@@ -95,6 +106,9 @@ def analyze_symbol(symbol, quote):
         "final_score": buy_pct,
         "pe_ratio": None,
         "news_label": None,
+        "rsi": None,
+        "trend_label": None,
+        "volume_label": None,
     }
 
 def compute_fundamental_score(metric, price):
@@ -128,6 +142,57 @@ def analyze_news_sentiment(news_items):
     label = "positiv" if score > 60 else "negativ" if score < 40 else "neutral"
     return score, label
 
+def compute_rsi(closes, period=14):
+    if len(closes) < period + 1:
+        return None
+    gains, losses = [], []
+    for i in range(1, len(closes)):
+        change = closes[i] - closes[i - 1]
+        gains.append(max(change, 0))
+        losses.append(max(-change, 0))
+    avg_gain = sum(gains[-period:]) / period
+    avg_loss = sum(losses[-period:]) / period
+    if avg_loss == 0:
+        return 100
+    rs = avg_gain / avg_loss
+    return round(100 - (100 / (1 + rs)), 1)
+
+def compute_momentum_quality(candles, current_price):
+    """Kombiniert Mehrtage-Trend, RSI und Handelsvolumen zu einem Qualitäts-Score.
+    Gibt bei fehlenden Daten neutrale 50-Werte zurück, statt abzubrechen."""
+    trend_score, rsi_value, volume_score = 50, None, 50
+    trend_label, volume_label = "unbekannt", "unbekannt"
+
+    if candles:
+        closes = candles.get("c", [])
+        volumes = candles.get("v", [])
+
+        if len(closes) >= 5:
+            sma5 = sum(closes[-5:]) / 5
+            deviation = (current_price - sma5) / sma5 if sma5 else 0
+            trend_score = max(0, min(100, 50 + deviation * 500))
+            trend_label = "aufwärts" if current_price > sma5 else "abwärts"
+
+        rsi_value = compute_rsi(closes)
+        if rsi_value is not None:
+            rsi_component = max(0, 100 - abs(rsi_value - 55) * 2)
+        else:
+            rsi_component = 50
+
+        if len(volumes) >= 6:
+            today_vol = volumes[-1]
+            avg_vol = sum(volumes[-6:-1]) / 5
+            if avg_vol > 0:
+                ratio = today_vol / avg_vol
+                volume_score = max(0, min(100, 50 + (ratio - 1) * 50))
+                volume_label = "hoch" if ratio > 1.2 else "niedrig" if ratio < 0.8 else "normal"
+
+        momentum_quality = round((trend_score + rsi_component + volume_score) / 3)
+    else:
+        momentum_quality = 50
+
+    return momentum_quality, rsi_value, trend_label, volume_label
+
 def deep_dive(candidate):
     symbol = candidate["symbol"]
     fundamental_score = 50
@@ -149,12 +214,34 @@ def deep_dive(candidate):
         print(f"News-Fehler bei {symbol}: {e}")
     time.sleep(REQUEST_DELAY)
 
-    final_score = round(0.5 * candidate["buy_pct"] + 0.3 * fundamental_score + 0.2 * news_score)
+    momentum_quality = 50
+    rsi_value = None
+    trend_label = "unbekannt"
+    volume_label = "unbekannt"
+    try:
+        candles = fetch_candles(symbol)
+        momentum_quality, rsi_value, trend_label, volume_label = compute_momentum_quality(candles, candidate["price"])
+        if candles is None:
+            print(f"Keine Candle-Daten für {symbol} verfügbar (evtl. Free-Tier-Limit) — nutze neutrale Werte.")
+    except Exception as e:
+        print(f"Momentum-Fehler bei {symbol}: {e}")
+    time.sleep(REQUEST_DELAY)
+
+    final_score = round(
+        0.35 * candidate["buy_pct"] +
+        0.20 * momentum_quality +
+        0.25 * fundamental_score +
+        0.20 * news_score
+    )
 
     candidate["pe_ratio"] = pe
     candidate["fundamental_score"] = fundamental_score
     candidate["news_score"] = news_score
     candidate["news_label"] = news_label
+    candidate["momentum_quality"] = momentum_quality
+    candidate["rsi"] = rsi_value
+    candidate["trend_label"] = trend_label
+    candidate["volume_label"] = volume_label
     candidate["final_score"] = final_score
     return candidate
 
@@ -166,7 +253,8 @@ def send_notification(pick):
         requests.post(
             f"https://ntfy.sh/{NTFY_TOPIC}",
             data=(f"{pick['symbol']} bei ${pick['entry']} — Gesamt-Score {pick['final_score']}%. "
-                  f"KGV: {pick.get('pe_ratio') or '—'}, News: {pick.get('news_label') or '—'}. "
+                  f"KGV: {pick.get('pe_ratio') or '—'}, News: {pick.get('news_label') or '—'}, "
+                  f"Trend: {pick.get('trend_label') or '—'}. "
                   f"Stop: ${pick['stop_loss']}, Ziel 1: ${pick['target_1']}").encode("utf-8"),
             headers={
                 "Title": f"Neues Kaufsignal: {pick['symbol']}",
