@@ -12,6 +12,7 @@ SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/ma
 REQUEST_DELAY = 1.05
 DEEP_DIVE_COUNT = 25
 EXPIRY_DAYS = 3
+ATR_PERIOD = 10
 
 POSITIVE_WORDS = {"beat","beats","surge","soar","rally","upgrade","outperform","record",
                    "growth","strong","gain","gains","jump","rise","rises","bullish","buy",
@@ -69,7 +70,7 @@ def fetch_candles(symbol, days=30):
     data = r.json()
     if data.get("s") != "ok" or not data.get("c"):
         return None
-    return data  # enthält c (closes), v (volumes), t (timestamps)
+    return data  # enthält c, h, l, o, v, t
 
 def analyze_symbol(symbol, quote):
     c, pc, h, l = quote.get("c"), quote.get("pc"), quote.get("h"), quote.get("l")
@@ -109,6 +110,7 @@ def analyze_symbol(symbol, quote):
         "rsi": None,
         "trend_label": None,
         "volume_label": None,
+        "target_basis": "tagesspanne",
     }
 
 def compute_fundamental_score(metric, price):
@@ -157,9 +159,20 @@ def compute_rsi(closes, period=14):
     rs = avg_gain / avg_loss
     return round(100 - (100 / (1 + rs)), 1)
 
+def compute_atr(candles, period=ATR_PERIOD):
+    """Durchschnittliche Tagesspanne der letzten N Handelstage — robusteres Maß für Volatilität als nur heute."""
+    if not candles:
+        return None
+    highs = candles.get("h", [])
+    lows = candles.get("l", [])
+    if len(highs) < period or len(lows) < period:
+        return None
+    ranges = [highs[i] - lows[i] for i in range(-period, 0) if highs[i] and lows[i] and highs[i] > lows[i]]
+    if not ranges:
+        return None
+    return sum(ranges) / len(ranges)
+
 def compute_momentum_quality(candles, current_price):
-    """Kombiniert Mehrtage-Trend, RSI und Handelsvolumen zu einem Qualitäts-Score.
-    Gibt bei fehlenden Daten neutrale 50-Werte zurück, statt abzubrechen."""
     trend_score, rsi_value, volume_score = 50, None, 50
     trend_label, volume_label = "unbekannt", "unbekannt"
 
@@ -193,6 +206,23 @@ def compute_momentum_quality(candles, current_price):
 
     return momentum_quality, rsi_value, trend_label, volume_label
 
+def recompute_levels_with_atr(candidate, atr):
+    """Ersetzt die tagesspannen-basierten Ziele durch mehrtägige Volatilität, sofern verfügbar."""
+    entry = candidate["entry"]
+    stop_loss = round(entry - atr * 1.0, 2)
+    target_1 = round(entry + atr * 1.5, 2)
+    target_2 = round(entry + atr * 2.5, 2)
+
+    risk = entry - stop_loss
+    reward = target_1 - entry
+    risk_reward = round(reward / risk, 2) if risk > 0 else None
+
+    candidate["stop_loss"] = stop_loss
+    candidate["target_1"] = target_1
+    candidate["target_2"] = target_2
+    candidate["risk_reward"] = risk_reward
+    candidate["target_basis"] = "10-tage-volatilitaet"
+
 def deep_dive(candidate):
     symbol = candidate["symbol"]
     fundamental_score = 50
@@ -218,6 +248,7 @@ def deep_dive(candidate):
     rsi_value = None
     trend_label = "unbekannt"
     volume_label = "unbekannt"
+    candles = None
     try:
         candles = fetch_candles(symbol)
         momentum_quality, rsi_value, trend_label, volume_label = compute_momentum_quality(candles, candidate["price"])
@@ -226,6 +257,12 @@ def deep_dive(candidate):
     except Exception as e:
         print(f"Momentum-Fehler bei {symbol}: {e}")
     time.sleep(REQUEST_DELAY)
+
+    atr = compute_atr(candles)
+    if atr and atr > 0:
+        recompute_levels_with_atr(candidate, atr)
+    else:
+        print(f"Kein ATR für {symbol} berechenbar — behalte tagesspannen-basierte Ziele.")
 
     final_score = round(
         0.35 * candidate["buy_pct"] +
