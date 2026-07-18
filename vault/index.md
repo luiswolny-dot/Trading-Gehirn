@@ -12,11 +12,11 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[EBAY]] — Score 74%
 - [[ALL]] — Score 73%
 - [[MPC]] — Score 73%
-- [[NTAP]] — Score 72%
 - [[CNC]] — Score 71%
 - [[ADM]] — Score 71%
 - [[HUM]] — Score 71%
 - [[SWKS]] — Score 71%
+- [[NTAP]] — Score 71%
 - [[HST]] — Score 69%
 - [[FOX]] — Score 69%
 - [[HPQ]] — Score 69%
