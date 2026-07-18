@@ -3,7 +3,7 @@
 Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[TRV]] — Score 78%
+- [[TRV]] — Score 79%
 - [[APA]] — Score 76%
 - [[VLO]] — Score 75%
 - [[PSX]] — Score 74%
