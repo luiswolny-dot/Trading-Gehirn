@@ -3,20 +3,20 @@
 Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[TRV]] — Score 78%
 - [[APA]] — Score 76%
-- [[TRV]] — Score 74%
-- [[VLO]] — Score 74%
+- [[VLO]] — Score 75%
+- [[PSX]] — Score 74%
 - [[GEV]] — Score 74%
 - [[EBAY]] — Score 74%
 - [[ALL]] — Score 73%
-- [[PSX]] — Score 73%
-- [[MPC]] — Score 72%
+- [[MPC]] — Score 73%
 - [[NTAP]] — Score 72%
 - [[CNC]] — Score 71%
+- [[ADM]] — Score 71%
 - [[HUM]] — Score 71%
 - [[SWKS]] — Score 71%
 - [[HUBB]] — Score 71%
-- [[ADM]] — Score 70%
 - [[HST]] — Score 69%
 - [[FOX]] — Score 69%
 - [[HPQ]] — Score 69%
