@@ -10,7 +10,6 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[GEV]] — Score 74%
 - [[HUBB]] — Score 74%
 - [[EBAY]] — Score 74%
-- [[ALL]] — Score 73%
 - [[MPC]] — Score 73%
 - [[CNC]] — Score 71%
 - [[ADM]] — Score 71%
@@ -31,5 +30,6 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[IRM]] — Score 67%
 - [[KEYS]] — Score 67%
 - [[WDC]] — Score 67%
+- [[ALL]] — Score 66%
 - [[DD]] — Score 66%
 - [[EME]] — Score 66%
