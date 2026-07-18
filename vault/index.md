@@ -8,6 +8,7 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[VLO]] — Score 75%
 - [[PSX]] — Score 74%
 - [[GEV]] — Score 74%
+- [[HUBB]] — Score 74%
 - [[EBAY]] — Score 74%
 - [[ALL]] — Score 73%
 - [[MPC]] — Score 73%
@@ -16,7 +17,6 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[ADM]] — Score 71%
 - [[HUM]] — Score 71%
 - [[SWKS]] — Score 71%
-- [[HUBB]] — Score 71%
 - [[HST]] — Score 69%
 - [[FOX]] — Score 69%
 - [[HPQ]] — Score 69%
