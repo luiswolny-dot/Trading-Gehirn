@@ -19,10 +19,10 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[TDY]] — Score 69%
 - [[SWKS]] — Score 68%
 - [[LITE]] — Score 68%
-- [[EBAY]] — Score 68%
 - [[EQIX]] — Score 68%
 - [[VST]] — Score 68%
 - [[NTAP]] — Score 67%
+- [[EBAY]] — Score 67%
 - [[IRM]] — Score 67%
 - [[KEYS]] — Score 67%
 - [[WDC]] — Score 67%
