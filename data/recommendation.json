@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T15:32:30.251430+00:00",
+  "timestamp": "2026-07-19T18:46:19.961491+00:00",
   "picks": [
     {
       "symbol": "TRV",
@@ -19,7 +19,7 @@
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
-      "timestamp": "2026-07-19T15:32:30.251430+00:00",
+      "timestamp": "2026-07-19T18:46:19.961491+00:00",
       "fundamental_score": 61,
       "news_score": 90,
       "momentum_quality": 50
@@ -42,7 +42,7 @@
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
-      "timestamp": "2026-07-19T15:32:30.251430+00:00",
+      "timestamp": "2026-07-19T18:46:19.961491+00:00",
       "fundamental_score": 68,
       "news_score": 100,
       "momentum_quality": 50
@@ -65,7 +65,7 @@
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
-      "timestamp": "2026-07-19T15:32:30.251430+00:00",
+      "timestamp": "2026-07-19T18:46:19.961491+00:00",
       "fundamental_score": 75,
       "news_score": 100,
       "momentum_quality": 50

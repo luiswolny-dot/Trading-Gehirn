@@ -26,10 +26,10 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[IRM]] — Score 67%
 - [[KEYS]] — Score 67%
 - [[WDC]] — Score 67%
+- [[STX]] — Score 66%
 - [[HST]] — Score 66%
 - [[DD]] — Score 66%
 - [[EME]] — Score 66%
 - [[EG]] — Score 66%
 - [[FFIV]] — Score 66%
 - [[OXY]] — Score 66%
-- [[STLD]] — Score 66%
