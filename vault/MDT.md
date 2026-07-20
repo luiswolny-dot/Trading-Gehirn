@@ -1,15 +1,15 @@
-# FOXA
+# MDT
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 0.54%
+- Preis: $83.35
+- Tagesbewegung: 0.18%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.36
-- Ziel 1: $58.79
-- Ziel 2: $59.65
+- Einstieg: $83.35
+- Stop-Loss: $83.05
+- Ziel 1: $83.8
+- Ziel 2: $84.24
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

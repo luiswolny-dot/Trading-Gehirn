@@ -1,15 +1,15 @@
-# FOXA
+# WELL
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 0.54%
+- Preis: $245.1
+- Tagesbewegung: 0.76%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.36
-- Ziel 1: $58.79
-- Ziel 2: $59.65
+- Einstieg: $245.1
+- Stop-Loss: $244.1
+- Ziel 1: $246.6
+- Ziel 2: $248.1
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

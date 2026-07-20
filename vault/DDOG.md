@@ -1,15 +1,15 @@
-# FOXA
+# DDOG
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 0.54%
+- Preis: $265.36
+- Tagesbewegung: 2.58%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.36
-- Ziel 1: $58.79
-- Ziel 2: $59.65
+- Einstieg: $265.36
+- Stop-Loss: $259.69
+- Ziel 1: $273.86
+- Ziel 2: $282.36
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

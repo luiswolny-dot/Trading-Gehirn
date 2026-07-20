@@ -1,15 +1,15 @@
-# FOXA
+# TPL
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 0.54%
+- Preis: $416.68
+- Tagesbewegung: 0.24%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.36
-- Ziel 1: $58.79
-- Ziel 2: $59.65
+- Einstieg: $416.68
+- Stop-Loss: $412.81
+- Ziel 1: $422.48
+- Ziel 2: $428.28
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# FOXA
+# TJX
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 0.54%
+- Preis: $155.24
+- Tagesbewegung: 0.5%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.36
-- Ziel 1: $58.79
-- Ziel 2: $59.65
+- Einstieg: $155.24
+- Stop-Loss: $154.45
+- Ziel 1: $156.43
+- Ziel 2: $157.61
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

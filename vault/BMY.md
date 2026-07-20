@@ -1,15 +1,15 @@
-# FOXA
+# BMY
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 0.54%
+- Preis: $61.26
+- Tagesbewegung: 0.86%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.36
-- Ziel 1: $58.79
-- Ziel 2: $59.65
+- Einstieg: $61.26
+- Stop-Loss: $60.93
+- Ziel 1: $61.75
+- Ziel 2: $62.24
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

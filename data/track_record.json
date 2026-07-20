@@ -1,13 +1,42 @@
 {
-  "updated": "2026-07-20T09:27:37.539769+00:00",
-  "total_closed": 0,
+  "updated": "2026-07-20T14:13:31.163687+00:00",
+  "total_closed": 2,
   "wins": 0,
-  "losses": 0,
-  "win_rate": null,
+  "losses": 2,
+  "win_rate": 0,
   "avg_win": null,
-  "avg_loss": null,
+  "avg_loss": -2.63,
   "expectancy": null,
-  "total_pnl": null,
-  "still_open": 9,
-  "recent": []
+  "total_pnl": -5.27,
+  "still_open": 10,
+  "recent": [
+    {
+      "id": "HPQ_2026-07-17T17:18:46.953203+00:00",
+      "symbol": "HPQ",
+      "opened_at": "2026-07-17T17:18:46.953203+00:00",
+      "entry": "25.04",
+      "stop_loss": "24.5",
+      "target_1": "25.85",
+      "target_2": "26.66",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-07-20T14:13:31.163687+00:00",
+      "resolved_price": 24.11,
+      "pnl_pct": -3.71,
+      "invested_eur": ""
+    },
+    {
+      "id": "APA_2026-07-17T20:14:20.131949+00:00",
+      "symbol": "APA",
+      "opened_at": "2026-07-17T20:14:20.131949+00:00",
+      "entry": "35.22",
+      "stop_loss": "34.69",
+      "target_1": "36.01",
+      "target_2": "36.8",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-07-20T14:13:31.163687+00:00",
+      "resolved_price": 34.67,
+      "pnl_pct": -1.56,
+      "invested_eur": ""
+    }
+  ]
 }
