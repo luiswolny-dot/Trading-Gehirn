@@ -17,9 +17,18 @@
   .wrap{max-width:720px; margin:0 auto;}
   .eyebrow{font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.14em; text-transform:uppercase; color:var(--amber);}
   h1{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:26px; margin-bottom:4px;}
-  .sub{color:var(--muted); font-size:13px; margin-bottom:20px; line-height:1.5;}
-  .status{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--muted); margin-bottom:16px;}
+  .sub{color:var(--muted); font-size:13px; margin-bottom:16px; line-height:1.5;}
+
+  .status-row{display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:16px;}
+  .status{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--muted);}
   .status.error{color:var(--red);}
+  .refresh-btn{
+    background:var(--amber); color:#12161C; border:none; border-radius:6px;
+    font-family:'Space Grotesk',sans-serif; font-weight:600; font-size:12px;
+    padding:8px 14px; cursor:pointer; white-space:nowrap; flex-shrink:0;
+  }
+  .refresh-btn:active{opacity:0.8;}
+  .refresh-btn:disabled{opacity:0.5;}
 
   .self-rating{
     background:var(--panel); border:2px solid var(--border); border-radius:16px;
@@ -55,6 +64,15 @@
   .portfolio-cell .k{font-family:'IBM Plex Mono',monospace; font-size:9px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:3px;}
   .portfolio-cell .v{font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;}
   .portfolio-trades{margin-top:14px;}
+  .position-card{
+    background:var(--panel-2); border:1px solid var(--border); border-radius:8px;
+    padding:12px 14px; margin-bottom:8px;
+  }
+  .position-top{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:6px;}
+  .position-sym{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:15px;}
+  .position-change{font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600;}
+  .position-change.pos{color:var(--green);} .position-change.neg{color:var(--red);}
+  .position-detail{display:flex; justify-content:space-between; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted);}
   .portfolio-trade-row{display:flex; justify-content:space-between; padding:6px 0; font-size:12px; border-top:1px solid var(--border);}
   .portfolio-trade-row .sym{font-family:'Space Grotesk',sans-serif; font-weight:700;}
   .portfolio-trade-row .amt{font-family:'IBM Plex Mono',monospace;}
@@ -104,6 +122,18 @@
   .level.stop .v{color:var(--red);}
   .level.target .v{color:var(--green);}
 
+  .chart-toggle{
+    margin-top:14px; width:100%; background:var(--panel-2); border:1px solid var(--border);
+    border-radius:6px; color:var(--text); font-family:'IBM Plex Mono',monospace; font-size:12px;
+    padding:9px; cursor:pointer; text-align:center;
+  }
+  .chart-panel{margin-top:10px;}
+  .chart-panel.collapsed{display:none;}
+  .chart-wrap{background:var(--panel-2); border:1px solid var(--border); border-radius:8px; padding:12px;}
+  .chart-meta{display:flex; justify-content:space-between; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted); margin-bottom:8px;}
+  .chart-svg{width:100%; height:60px; display:block;}
+  .chart-empty{font-size:12px; color:var(--muted); text-align:center; padding:14px 0;}
+
   .checkback{
     margin-top:14px; padding:10px 14px; background:var(--panel-2); border-radius:6px;
     font-size:12px; color:var(--muted); display:flex; gap:8px; align-items:flex-start;
@@ -132,7 +162,11 @@
   <h1>Heutige Empfehlungen</h1>
   <p class="sub">Zweistufige Analyse über den S&P 500. Jede Empfehlung wird nachverfolgt, bis sie ihr Ziel oder den Stop-Loss erreicht.</p>
 
-  <div class="status" id="status">Lade Daten …</div>
+  <div class="status-row">
+    <div class="status" id="status">Lade Daten …</div>
+    <button class="refresh-btn" id="refreshBtn">🔄 Aktualisieren</button>
+  </div>
+
   <div id="selfRating"></div>
   <div id="portfolio"></div>
   <div id="trackRecord"></div>
@@ -194,7 +228,7 @@ function renderSelfRating(tr){
   `;
 }
 
-function renderPortfolio(p, openRecs){
+function renderPortfolio(p, openRecs, latestMap){
   const el = document.getElementById('portfolio');
   if(!p){
     el.innerHTML = '';
@@ -220,12 +254,33 @@ function renderPortfolio(p, openRecs){
       ${openInvested.length > 0 ? `
         <div class="portfolio-trades">
           <div style="font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin:14px 0 8px;">Aktuell investiert in</div>
-          ${openInvested.map(r => `
-            <div class="portfolio-trade-row">
-              <span class="sym">${r.symbol}</span>
-              <span class="amt">${fmtEur(r.invested_eur)} bei $${r.entry}</span>
-            </div>
-          `).join('')}
+          ${openInvested.map(r => {
+            const currentPrice = latestMap && latestMap[r.symbol] ? latestMap[r.symbol] : null;
+            const entryPrice = parseFloat(r.entry);
+            const invested = parseFloat(r.invested_eur);
+            let changePct = null, currentValueEur = null;
+            if(currentPrice !== null && entryPrice){
+              changePct = ((currentPrice - entryPrice) / entryPrice * 100);
+              currentValueEur = invested * (1 + changePct / 100);
+            }
+            const changeClass = changePct === null ? '' : (changePct >= 0 ? 'pos' : 'neg');
+            return `
+              <div class="position-card">
+                <div class="position-top">
+                  <span class="position-sym">${r.symbol}</span>
+                  <span class="position-change ${changeClass}">${changePct === null ? '—' : (changePct >= 0 ? '+' : '') + changePct.toFixed(2) + '%'}</span>
+                </div>
+                <div class="position-detail">
+                  <span>Einstieg: $${entryPrice.toFixed(2)}</span>
+                  <span>Jetzt: ${currentPrice !== null ? '$' + currentPrice.toFixed(2) : '—'}</span>
+                </div>
+                <div class="position-detail" style="margin-top:4px;">
+                  <span>Investiert: ${fmtEur(invested)}</span>
+                  <span>Aktueller Wert: ${currentValueEur !== null ? fmtEur(currentValueEur) : '—'}</span>
+                </div>
+              </div>
+            `;
+          }).join('')}
         </div>
       ` : ''}
       ${p.recent_closed_trades.length > 0 ? `
@@ -294,12 +349,54 @@ function renderHistory(tr){
   `;
 }
 
+function buildChart(chartData){
+  if(!chartData || chartData.length < 2){
+    return '<div class="chart-empty">Keine Chart-Daten verfügbar (API-Limit oder neue Analyse)</div>';
+  }
+  const closes = chartData.map(d => d.close);
+  const min = Math.min(...closes);
+  const max = Math.max(...closes);
+  const range = max - min || 1;
+  const w = 280, h = 60, pad = 4;
+  const stepX = (w - pad * 2) / (closes.length - 1);
+  const points = closes.map((c, i) => {
+    const x = pad + i * stepX;
+    const y = pad + (h - pad * 2) * (1 - (c - min) / range);
+    return x.toFixed(1) + ',' + y.toFixed(1);
+  }).join(' ');
+  const changePct = ((closes[closes.length - 1] - closes[0]) / closes[0] * 100).toFixed(2);
+  const isPos = closes[closes.length - 1] >= closes[0];
+  const color = isPos ? '#3FB27F' : '#E5484D';
+  const firstDate = chartData[0].date;
+  const lastDate = chartData[chartData.length - 1].date;
+  return `
+    <div class="chart-wrap">
+      <div class="chart-meta">
+        <span>${firstDate} → ${lastDate} (Tagesschlusskurse)</span>
+        <span style="color:${color};">${isPos ? '+' : ''}${changePct}%</span>
+      </div>
+      <svg viewBox="0 0 ${w} ${h}" class="chart-svg" preserveAspectRatio="none">
+        <polyline points="${points}" fill="none" stroke="${color}" stroke-width="2"/>
+      </svg>
+    </div>
+  `;
+}
+
+function toggleChartPanel(i){
+  const el = document.getElementById('chart-panel-' + i);
+  if(el) el.classList.toggle('collapsed');
+}
+window.toggleChartPanel = toggleChartPanel;
+
 async function loadData(){
+  const btn = document.getElementById('refreshBtn');
+  if(btn) btn.disabled = true;
   try{
-    const [recRes, trackRes, portfolioRes] = await Promise.all([
+    const [recRes, trackRes, portfolioRes, latestRes] = await Promise.all([
       fetch('data/recommendation.json?t=' + Date.now()),
       fetch('data/track_record.json?t=' + Date.now()).catch(() => null),
-      fetch('data/portfolio_summary.json?t=' + Date.now()).catch(() => null)
+      fetch('data/portfolio_summary.json?t=' + Date.now()).catch(() => null),
+      fetch('data/latest.json?t=' + Date.now()).catch(() => null)
     ]);
 
     if(!recRes.ok) throw new Error('Noch keine Empfehlungsdaten vorhanden (Status ' + recRes.status + ')');
@@ -312,6 +409,14 @@ async function loadData(){
     let portfolio = null;
     if(portfolioRes && portfolioRes.ok){
       portfolio = await portfolioRes.json();
+    }
+
+    let latestMap = {};
+    if(latestRes && latestRes.ok){
+      try{
+        const latestArr = await latestRes.json();
+        latestArr.forEach(item => { latestMap[item.symbol] = item.price; });
+      }catch(e){ /* optional */ }
     }
 
     let openRecsData = [];
@@ -331,7 +436,7 @@ async function loadData(){
     }catch(e){ /* optional, kein harter Fehler */ }
 
     renderSelfRating(track);
-    renderPortfolio(portfolio, openRecsData);
+    renderPortfolio(portfolio, openRecsData, latestMap);
     renderTrackRecord(track);
     renderHistory(track);
 
@@ -370,6 +475,10 @@ async function loadData(){
           <div class="level target"><div class="k">Ziel 1</div><div class="v">${fmt(p.target_1)}</div></div>
           <div class="level target"><div class="k">Ziel 2</div><div class="v">${fmt(p.target_2)}</div></div>
         </div>
+        <button class="chart-toggle" onclick="toggleChartPanel(${i})">📈 Kursverlauf anzeigen</button>
+        <div class="chart-panel collapsed" id="chart-panel-${i}">
+          ${buildChart(p.chart)}
+        </div>
         <div class="checkback">⏱ Position spätestens zum Handelsschluss prüfen — keine Zeitprognose, sondern gängige Daytrading-Disziplin.</div>
       </div>
     `;
@@ -378,15 +487,19 @@ async function loadData(){
     setStatus('Zuletzt geprüft: ' + new Date(data.timestamp).toLocaleString('de-DE'));
   }catch(err){
     setStatus(err.message || 'Fehler beim Laden.', true);
+  }finally{
+    if(btn) btn.disabled = false;
   }
 }
+
+document.getElementById('refreshBtn').addEventListener('click', loadData);
 
 loadData();
 setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Das virtuelle Portfolio simuliert 100€ Startkapital, aufgeteilt auf bis zu 3 gleichzeitige Positionen, inklusive 2€ simulierter Handelsgebühren pro abgeschlossenem Trade. Es fließt kein echtes Geld — keine Bank- oder Broker-Verbindung ist beteiligt. Die Selbstbewertung und Trefferquote basieren auf denselben Daten und sind bei wenigen abgeschlossenen Trades statistisch wenig aussagekräftig. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
+  Der Kursverlauf zeigt Tagesschlusskurse der letzten ~20 Handelstage — keine Innertages-Daten, da diese auf dem kostenlosen API-Tarif nicht verfügbar sind. Aktuelle Preise für offene Positionen stammen aus dem letzten Analyse-Lauf (alle 15 Minuten). Das virtuelle Portfolio simuliert 100€ Startkapital, aufgeteilt auf bis zu 3 gleichzeitige Positionen, inklusive 2€ simulierter Handelsgebühren pro abgeschlossenem Trade. Es fließt kein echtes Geld. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
 </p>
 </body>
 </html>
