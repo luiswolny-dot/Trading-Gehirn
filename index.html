@@ -194,13 +194,16 @@ function renderSelfRating(tr){
   `;
 }
 
-function renderPortfolio(p){
+function renderPortfolio(p, openRecs){
   const el = document.getElementById('portfolio');
   if(!p){
     el.innerHTML = '';
     return;
   }
   const returnClass = p.return_pct > 0 ? 'pos' : p.return_pct < 0 ? 'neg' : '';
+
+  const openInvested = (openRecs || []).filter(r => r.invested_eur && parseFloat(r.invested_eur) > 0);
+
   el.innerHTML = `
     <div class="portfolio-card">
       <div class="portfolio-title">Virtuelles Papier-Portfolio · Start: ${fmtEur(p.starting_balance)}</div>
@@ -214,8 +217,20 @@ function renderPortfolio(p){
         <div class="portfolio-cell"><div class="k">Offene Positionen</div><div class="v">${p.open_position_count}</div></div>
         <div class="portfolio-cell"><div class="k">Abgeschl. Trades</div><div class="v">${p.recent_closed_trades.length}</div></div>
       </div>
+      ${openInvested.length > 0 ? `
+        <div class="portfolio-trades">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin:14px 0 8px;">Aktuell investiert in</div>
+          ${openInvested.map(r => `
+            <div class="portfolio-trade-row">
+              <span class="sym">${r.symbol}</span>
+              <span class="amt">${fmtEur(r.invested_eur)} bei $${r.entry}</span>
+            </div>
+          `).join('')}
+        </div>
+      ` : ''}
       ${p.recent_closed_trades.length > 0 ? `
         <div class="portfolio-trades">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin:14px 0 8px;">Zuletzt abgeschlossen</div>
           ${p.recent_closed_trades.map(t => `
             <div class="portfolio-trade-row">
               <span class="sym">${t.symbol}</span>
@@ -299,8 +314,24 @@ async function loadData(){
       portfolio = await portfolioRes.json();
     }
 
+    let openRecsData = [];
+    try{
+      const recLogRes = await fetch('data/recommendations_log.csv?t=' + Date.now());
+      if(recLogRes.ok){
+        const csvText = await recLogRes.text();
+        const lines = csvText.trim().split('\n');
+        const headers = lines[0].split(',');
+        openRecsData = lines.slice(1).map(line => {
+          const values = line.split(',');
+          const row = {};
+          headers.forEach((h, idx) => row[h] = values[idx]);
+          return row;
+        }).filter(r => r.status === 'open');
+      }
+    }catch(e){ /* optional, kein harter Fehler */ }
+
     renderSelfRating(track);
-    renderPortfolio(portfolio);
+    renderPortfolio(portfolio, openRecsData);
     renderTrackRecord(track);
     renderHistory(track);
 
