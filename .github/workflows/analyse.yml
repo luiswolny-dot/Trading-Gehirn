@@ -1,9 +1,10 @@
 name: Trading-Gehirn Analyse
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"
+  repository_dispatch:
+    types: [trigger-analyse]
   workflow_dispatch:
+
 
 permissions:
   contents: write
