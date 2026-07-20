@@ -1,15 +1,15 @@
-# PSX
+# CPAY
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $369.74
+- Tagesbewegung: 1.08%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $369.74
+- Stop-Loss: $365.45
+- Ziel 1: $376.17
+- Ziel 2: $382.6
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# PSX
+# MGM
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $47.03
+- Tagesbewegung: 1.95%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $47.03
+- Stop-Loss: $46.57
+- Ziel 1: $47.72
+- Ziel 2: $48.4
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

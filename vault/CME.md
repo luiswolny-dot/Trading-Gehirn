@@ -1,15 +1,15 @@
-# PSX
+# CME
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $245.24
+- Tagesbewegung: 0.08%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $245.24
+- Stop-Loss: $243.21
+- Ziel 1: $248.29
+- Ziel 2: $251.34
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

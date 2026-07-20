@@ -1,15 +1,15 @@
-# PSX
+# ICE
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $140.91
+- Tagesbewegung: 0.9%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $140.91
+- Stop-Loss: $139.24
+- Ziel 1: $143.41
+- Ziel 2: $145.92
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

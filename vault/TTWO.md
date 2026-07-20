@@ -1,15 +1,15 @@
-# PSX
+# TTWO
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $241.04
+- Tagesbewegung: 1.84%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $241.04
+- Stop-Loss: $238.52
+- Ziel 1: $244.82
+- Ziel 2: $248.6
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

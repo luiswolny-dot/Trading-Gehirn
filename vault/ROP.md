@@ -1,15 +1,15 @@
-# PSX
+# ROP
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $363.84
+- Tagesbewegung: 0.19%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $363.84
+- Stop-Loss: $359.34
+- Ziel 1: $370.58
+- Ziel 2: $377.32
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# PSX
+# VEEV
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $197.63
+- Tagesbewegung: 1.15%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $197.63
+- Stop-Loss: $194.16
+- Ziel 1: $202.83
+- Ziel 2: $208.04
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

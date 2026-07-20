@@ -1,15 +1,15 @@
-# OXY
+# TTD
 
 tags: #Aktie #S-P-500
 
-- Preis: $55.31
-- Tagesbewegung: 0.82%
+- Preis: $18.72
+- Tagesbewegung: 0.7%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $55.31
-- Stop-Loss: $54.64
-- Ziel 1: $56.32
-- Ziel 2: $57.34
+- Einstieg: $18.72
+- Stop-Loss: $18.42
+- Ziel 1: $19.17
+- Ziel 2: $19.62
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

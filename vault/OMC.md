@@ -1,15 +1,15 @@
-# OXY
+# OMC
 
 tags: #Aktie #S-P-500
 
-- Preis: $55.31
-- Tagesbewegung: 0.82%
+- Preis: $82.16
+- Tagesbewegung: 0.53%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $55.31
-- Stop-Loss: $54.64
-- Ziel 1: $56.32
-- Ziel 2: $57.34
+- Einstieg: $82.16
+- Stop-Loss: $81.57
+- Ziel 1: $83.05
+- Ziel 2: $83.93
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

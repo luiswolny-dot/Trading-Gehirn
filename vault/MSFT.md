@@ -1,15 +1,15 @@
-# PSX
+# MSFT
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.06
-- Tagesbewegung: 1.06%
+- Preis: $397.45
+- Tagesbewegung: 0.92%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $209.06
-- Stop-Loss: $207.44
-- Ziel 1: $211.48
-- Ziel 2: $213.91
+- Einstieg: $397.45
+- Stop-Loss: $393.21
+- Ziel 1: $403.81
+- Ziel 2: $410.17
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
