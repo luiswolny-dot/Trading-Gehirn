@@ -6,12 +6,13 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[MA]] — Score 77%
 - [[GPN]] — Score 75%
 - [[MSFT]] — Score 74%
+- [[WRB]] — Score 74%
 - [[CBOE]] — Score 74%
-- [[WRB]] — Score 72%
 - [[EBAY]] — Score 71%
 - [[ICE]] — Score 71%
 - [[ALL]] — Score 70%
 - [[PGR]] — Score 69%
+- [[LVS]] — Score 69%
 - [[PAYX]] — Score 69%
 - [[ROST]] — Score 69%
 - [[EL]] — Score 68%
@@ -32,4 +33,3 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[TJX]] — Score 66%
 - [[TRMB]] — Score 66%
 - [[LYB]] — Score 65%
-- [[MO]] — Score 65%

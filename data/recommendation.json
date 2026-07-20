@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T20:51:51.123433+00:00",
+  "timestamp": "2026-07-20T21:15:21.257982+00:00",
   "picks": [
     {
       "symbol": "MA",
@@ -20,7 +20,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-20T20:51:51.123433+00:00",
+      "timestamp": "2026-07-20T21:15:21.257982+00:00",
       "fundamental_score": 89,
       "news_score": 100,
       "momentum_quality": 50
@@ -44,7 +44,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-20T20:51:51.123433+00:00",
+      "timestamp": "2026-07-20T21:15:21.257982+00:00",
       "fundamental_score": 66,
       "news_score": 100,
       "momentum_quality": 50
@@ -68,7 +68,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-20T20:51:51.123433+00:00",
+      "timestamp": "2026-07-20T21:15:21.257982+00:00",
       "fundamental_score": 71,
       "news_score": 100,
       "momentum_quality": 50
