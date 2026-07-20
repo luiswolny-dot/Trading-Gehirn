@@ -1,15 +1,15 @@
-# WRB
+# VRSK
 
 tags: #Aktie #S-P-500
 
-- Preis: $72.52
-- Tagesbewegung: 1.27%
+- Preis: $201.48
+- Tagesbewegung: 0.4%
 - Gesamt-Score: 68%
 - KGV: —
-- Einstieg: $72.52
-- Stop-Loss: $71.86
-- Ziel 1: $73.5
-- Ziel 2: $74.48
+- Einstieg: $201.48
+- Stop-Loss: $199.26
+- Ziel 1: $204.81
+- Ziel 2: $208.15
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

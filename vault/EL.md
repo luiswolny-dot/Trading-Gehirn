@@ -1,15 +1,15 @@
-# LYB
+# EL
 
 tags: #Aktie #S-P-500
 
-- Preis: $60.62
-- Tagesbewegung: 2.45%
-- Gesamt-Score: 66%
+- Preis: $83.34
+- Tagesbewegung: 1.47%
+- Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $60.62
-- Stop-Loss: $59.34
-- Ziel 1: $62.54
-- Ziel 2: $64.45
+- Einstieg: $83.34
+- Stop-Loss: $82.69
+- Ziel 1: $84.31
+- Ziel 2: $85.29
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

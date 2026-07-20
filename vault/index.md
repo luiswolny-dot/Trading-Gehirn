@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 0% über 8 abgeschlossene Empfehlungen.
+Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[XOM]] — Score 78%
-- [[COP]] — Score 78%
-- [[ELV]] — Score 77%
-- [[GPN]] — Score 75%
-- [[HRL]] — Score 75%
+- [[GPN]] — Score 74%
+- [[CBOE]] — Score 74%
+- [[MSFT]] — Score 73%
 - [[TJX]] — Score 73%
-- [[CBOE]] — Score 73%
+- [[VLO]] — Score 71%
+- [[ICE]] — Score 71%
+- [[CRM]] — Score 71%
+- [[EBAY]] — Score 70%
 - [[ALL]] — Score 70%
-- [[SCHW]] — Score 70%
 - [[BF-B]] — Score 69%
-- [[PGR]] — Score 68%
+- [[PGR]] — Score 69%
+- [[VRSK]] — Score 68%
+- [[WRB]] — Score 68%
+- [[EL]] — Score 67%
 - [[TMUS]] — Score 67%
-- [[APA]] — Score 67%
-- [[CVX]] — Score 67%
-- [[CPAY]] — Score 67%
-- [[EBAY]] — Score 67%
-- [[HSY]] — Score 67%
-- [[ICE]] — Score 67%
-- [[IQV]] — Score 67%
-- [[KHC]] — Score 67%
-- [[MSFT]] — Score 67%
+- [[AJG]] — Score 67%
+- [[T]] — Score 67%
+- [[COP]] — Score 67%
+- [[STZ]] — Score 67%
+- [[DDOG]] — Score 67%
+- [[MA]] — Score 67%
 - [[LYB]] — Score 66%
-- [[DOW]] — Score 66%
-- [[AXON]] — Score 66%
+- [[CVX]] — Score 66%
+- [[CME]] — Score 66%
 - [[CMCSA]] — Score 66%
-- [[OXY]] — Score 66%
-- [[OMC]] — Score 66%
-- [[T]] — Score 65%
-- [[ACN]] — Score 65%
-- [[ADM]] — Score 65%
+- [[LVS]] — Score 66%
+- [[MAA]] — Score 66%
+- [[PAYX]] — Score 66%
+- [[PYPL]] — Score 66%
+- [[RMD]] — Score 66%

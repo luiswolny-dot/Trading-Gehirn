@@ -1,15 +1,15 @@
-# DDOG
+# AJG
 
 tags: #Aktie #S-P-500
 
-- Preis: $265.51
-- Tagesbewegung: 2.64%
+- Preis: $253.98
+- Tagesbewegung: 0.03%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $265.51
-- Stop-Loss: $259.63
-- Ziel 1: $274.33
-- Ziel 2: $283.14
+- Einstieg: $253.98
+- Stop-Loss: $251.71
+- Ziel 1: $257.39
+- Ziel 2: $260.8
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

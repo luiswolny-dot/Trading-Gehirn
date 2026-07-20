@@ -1,15 +1,15 @@
-# ICE
+# CRM
 
 tags: #Aktie #S-P-500
 
-- Preis: $141.52
-- Tagesbewegung: 1.34%
+- Preis: $173.71
+- Tagesbewegung: 1.72%
 - Gesamt-Score: 71%
-- KGV: 20.0379
-- Einstieg: $141.52
-- Stop-Loss: $139.32
-- Ziel 1: $144.81
-- Ziel 2: $148.11
+- KGV: 17.5009
+- Einstieg: $173.71
+- Stop-Loss: $169.26
+- Ziel 1: $180.38
+- Ziel 2: $187.05
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

@@ -1,15 +1,15 @@
-# CVX
+# MAA
 
 tags: #Aktie #S-P-500
 
-- Preis: $189.55
-- Tagesbewegung: 1.16%
+- Preis: $133.73
+- Tagesbewegung: 0.58%
 - Gesamt-Score: 66%
 - KGV: —
-- Einstieg: $189.55
-- Stop-Loss: $187.34
-- Ziel 1: $192.87
-- Ziel 2: $196.18
+- Einstieg: $133.73
+- Stop-Loss: $133.23
+- Ziel 1: $134.48
+- Ziel 2: $135.23
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

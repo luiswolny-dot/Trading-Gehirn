@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-20T18:54:09.988787+00:00",
+  "updated": "2026-07-20T19:30:31.599958+00:00",
   "starting_balance": 100.0,
-  "cash": 100.0,
-  "invested_in_open_positions": 0,
+  "cash": 0.01,
+  "invested_in_open_positions": 99.99,
   "total_value": 100.0,
   "return_pct": 0.0,
-  "open_position_count": 0,
+  "open_position_count": 3,
   "recent_closed_trades": []
 }
