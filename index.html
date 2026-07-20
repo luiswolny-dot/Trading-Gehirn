@@ -27,10 +27,7 @@
     transition:border-color 0.3s ease;
   }
   .self-rating-emoji{font-size:52px; line-height:1; margin-bottom:8px;}
-  .self-rating-caption{
-    font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:19px;
-    margin-bottom:4px;
-  }
+  .self-rating-caption{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:19px; margin-bottom:4px;}
   .self-rating-sub{font-size:11px; color:var(--muted); margin-bottom:16px; font-family:'IBM Plex Mono',monospace;}
   .meter-track{
     position:relative; height:14px; border-radius:8px; margin:0 4px 8px;
@@ -43,6 +40,25 @@
     transition:left 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
   }
   .meter-labels{display:flex; justify-content:space-between; font-size:9px; color:var(--muted); font-family:'IBM Plex Mono',monospace; padding:0 2px;}
+
+  .portfolio-card{
+    background:var(--panel); border:1px solid var(--border); border-radius:12px;
+    padding:20px; margin-bottom:20px;
+  }
+  .portfolio-title{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.08em; margin-bottom:10px;}
+  .portfolio-value-row{display:flex; align-items:baseline; gap:10px; margin-bottom:14px;}
+  .portfolio-value{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:32px;}
+  .portfolio-return{font-family:'IBM Plex Mono',monospace; font-size:15px;}
+  .portfolio-return.pos{color:var(--green);} .portfolio-return.neg{color:var(--red);}
+  .portfolio-grid{display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--border); border:1px solid var(--border); border-radius:8px; overflow:hidden;}
+  .portfolio-cell{background:var(--panel-2); padding:10px 14px;}
+  .portfolio-cell .k{font-family:'IBM Plex Mono',monospace; font-size:9px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:3px;}
+  .portfolio-cell .v{font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;}
+  .portfolio-trades{margin-top:14px;}
+  .portfolio-trade-row{display:flex; justify-content:space-between; padding:6px 0; font-size:12px; border-top:1px solid var(--border);}
+  .portfolio-trade-row .sym{font-family:'Space Grotesk',sans-serif; font-weight:700;}
+  .portfolio-trade-row .amt{font-family:'IBM Plex Mono',monospace;}
+  .portfolio-trade-row .amt.pos{color:var(--green);} .portfolio-trade-row .amt.neg{color:var(--red);}
 
   .track-record{
     background:var(--panel); border:1px solid var(--border); border-radius:10px;
@@ -118,6 +134,7 @@
 
   <div class="status" id="status">Lade Daten …</div>
   <div id="selfRating"></div>
+  <div id="portfolio"></div>
   <div id="trackRecord"></div>
   <div id="picks"></div>
   <div id="history"></div>
@@ -125,6 +142,7 @@
 
 <script>
 function fmt(n){ return n === null || n === undefined ? '—' : '$' + Number(n).toFixed(2); }
+function fmtEur(n){ return n === null || n === undefined ? '—' : Number(n).toFixed(2) + '€'; }
 
 function setStatus(msg, isError){
   const el = document.getElementById('status');
@@ -172,6 +190,40 @@ function renderSelfRating(tr){
       <div class="self-rating-sub">Selbsteinschätzung bei ${tr.win_rate}% Trefferquote (${tr.total_closed} Empfehlungen)</div>
       <div class="meter-track"><div class="meter-needle" style="left:${tr.win_rate}%;"></div></div>
       <div class="meter-labels"><span>RIP</span><span>AbuKleber to the Sky</span></div>
+    </div>
+  `;
+}
+
+function renderPortfolio(p){
+  const el = document.getElementById('portfolio');
+  if(!p){
+    el.innerHTML = '';
+    return;
+  }
+  const returnClass = p.return_pct > 0 ? 'pos' : p.return_pct < 0 ? 'neg' : '';
+  el.innerHTML = `
+    <div class="portfolio-card">
+      <div class="portfolio-title">Virtuelles Papier-Portfolio · Start: ${fmtEur(p.starting_balance)}</div>
+      <div class="portfolio-value-row">
+        <span class="portfolio-value">${fmtEur(p.total_value)}</span>
+        <span class="portfolio-return ${returnClass}">${p.return_pct >= 0 ? '+' : ''}${p.return_pct}%</span>
+      </div>
+      <div class="portfolio-grid">
+        <div class="portfolio-cell"><div class="k">Verfügbares Cash</div><div class="v">${fmtEur(p.cash)}</div></div>
+        <div class="portfolio-cell"><div class="k">In Positionen</div><div class="v">${fmtEur(p.invested_in_open_positions)}</div></div>
+        <div class="portfolio-cell"><div class="k">Offene Positionen</div><div class="v">${p.open_position_count}</div></div>
+        <div class="portfolio-cell"><div class="k">Abgeschl. Trades</div><div class="v">${p.recent_closed_trades.length}</div></div>
+      </div>
+      ${p.recent_closed_trades.length > 0 ? `
+        <div class="portfolio-trades">
+          ${p.recent_closed_trades.map(t => `
+            <div class="portfolio-trade-row">
+              <span class="sym">${t.symbol}</span>
+              <span class="amt ${t.net_pnl_eur >= 0 ? 'pos' : 'neg'}">${t.net_pnl_eur >= 0 ? '+' : ''}${fmtEur(t.net_pnl_eur)}</span>
+            </div>
+          `).join('')}
+        </div>
+      ` : ''}
     </div>
   `;
 }
@@ -229,9 +281,10 @@ function renderHistory(tr){
 
 async function loadData(){
   try{
-    const [recRes, trackRes] = await Promise.all([
+    const [recRes, trackRes, portfolioRes] = await Promise.all([
       fetch('data/recommendation.json?t=' + Date.now()),
-      fetch('data/track_record.json?t=' + Date.now()).catch(() => null)
+      fetch('data/track_record.json?t=' + Date.now()).catch(() => null),
+      fetch('data/portfolio_summary.json?t=' + Date.now()).catch(() => null)
     ]);
 
     if(!recRes.ok) throw new Error('Noch keine Empfehlungsdaten vorhanden (Status ' + recRes.status + ')');
@@ -241,7 +294,13 @@ async function loadData(){
     if(trackRes && trackRes.ok){
       track = await trackRes.json();
     }
+    let portfolio = null;
+    if(portfolioRes && portfolioRes.ok){
+      portfolio = await portfolioRes.json();
+    }
+
     renderSelfRating(track);
+    renderPortfolio(portfolio);
     renderTrackRecord(track);
     renderHistory(track);
 
@@ -296,7 +355,7 @@ setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Die Selbstbewertung oben ist zur Auflockerung gedacht und basiert auf derselben Trefferquote wie die Statistik darunter — bei wenigen abgeschlossenen Empfehlungen ist sie statistisch wenig aussagekräftig. Der "Ø pro Trade"-Wert zeigt den durchschnittlichen Gewinn/Verlust über alle abgeschlossenen Empfehlungen hinweg. "Trend", "RSI" und "Volumen" können "unbekannt" anzeigen, falls der zugrunde liegende Datenpunkt auf dem kostenlosen API-Tarif nicht verfügbar ist. Keine Finanzberatung, keine Garantie für zukünftige Treffer.
+  Das virtuelle Portfolio simuliert 100€ Startkapital, aufgeteilt auf bis zu 3 gleichzeitige Positionen, inklusive 2€ simulierter Handelsgebühren pro abgeschlossenem Trade. Es fließt kein echtes Geld — keine Bank- oder Broker-Verbindung ist beteiligt. Die Selbstbewertung und Trefferquote basieren auf denselben Daten und sind bei wenigen abgeschlossenen Trades statistisch wenig aussagekräftig. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
 </p>
 </body>
 </html>
