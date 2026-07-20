@@ -102,8 +102,22 @@
   .pick-price{font-family:'IBM Plex Mono',monospace; font-size:18px; font-weight:600;}
   .pick-change{font-family:'IBM Plex Mono',monospace; font-size:12px; margin-left:6px;}
   .pick-change.pos{color:var(--green);} .pick-change.neg{color:var(--red);}
-  .pick-conf{font-size:12px; color:var(--muted); margin-bottom:10px;}
+  .pick-conf{font-size:12px; color:var(--muted); margin-bottom:12px;}
   .pick-conf b{color:var(--green);}
+
+  .summary-line{
+    font-size:13px; line-height:1.5; color:var(--text); margin-bottom:14px;
+    padding:10px 14px; background:var(--panel-2); border-radius:8px;
+    border-left:2px solid var(--amber-dim);
+  }
+
+  .details-toggle{
+    width:100%; background:none; border:none; color:var(--muted);
+    font-family:'IBM Plex Mono',monospace; font-size:11px; text-align:left;
+    padding:6px 0; cursor:pointer;
+  }
+  .details-panel{margin-bottom:0;}
+  .details-panel.collapsed{display:none;}
 
   .factors{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px;}
   .factor-chip{
@@ -114,7 +128,7 @@
   .factor-chip.pos-news{color:var(--green); border-color:var(--green);}
   .factor-chip.neg-news{color:var(--red); border-color:var(--red);}
 
-  .levels{display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--border); border:1px solid var(--border); border-radius:8px; overflow:hidden;}
+  .levels{display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--border); border:1px solid var(--border); border-radius:8px; overflow:hidden; margin-bottom:14px;}
   .level{background:var(--panel-2); padding:12px 14px;}
   .level .k{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:4px;}
   .level .v{font-family:'IBM Plex Mono',monospace; font-size:16px; font-weight:600;}
@@ -123,7 +137,7 @@
   .level.target .v{color:var(--green);}
 
   .chart-toggle{
-    margin-top:14px; width:100%; background:var(--panel-2); border:1px solid var(--border);
+    margin-top:4px; width:100%; background:var(--panel-2); border:1px solid var(--border);
     border-radius:6px; color:var(--text); font-family:'IBM Plex Mono',monospace; font-size:12px;
     padding:9px; cursor:pointer; text-align:center;
   }
@@ -349,9 +363,35 @@ function renderHistory(tr){
   `;
 }
 
+function buildSummary(p){
+  const parts = [];
+  if(p.trend_label === 'aufwärts') parts.push('im Aufwärtstrend');
+  else if(p.trend_label === 'abwärts') parts.push('im Abwärtstrend');
+
+  if(p.rsi !== null && p.rsi !== undefined){
+    if(p.rsi > 70) parts.push('technisch überkauft');
+    else if(p.rsi < 30) parts.push('technisch überverkauft, evtl. Erholungschance');
+  }
+
+  if(p.pe_ratio){
+    if(p.pe_ratio < 15) parts.push('günstig bewertet (niedriges KGV)');
+    else if(p.pe_ratio > 35) parts.push('hoch bewertet (hohes KGV)');
+    else parts.push('moderat bewertet');
+  }
+
+  if(p.news_label === 'positiv') parts.push('positive Nachrichtenlage');
+  else if(p.news_label === 'negativ') parts.push('negative Nachrichtenlage');
+
+  if(p.volume_label === 'hoch') parts.push('überdurchschnittliches Handelsvolumen');
+
+  if(parts.length === 0) return 'Solides technisches Signal, weitere Faktoren neutral.';
+  const capitalized = parts[0].charAt(0).toUpperCase() + parts[0].slice(1);
+  return capitalized + (parts.length > 1 ? ', ' + parts.slice(1).join(', ') : '') + '.';
+}
+
 function buildChart(chartData){
   if(!chartData || chartData.length < 2){
-    return '<div class="chart-empty">Keine Chart-Daten verfügbar (API-Limit oder neue Analyse)</div>';
+    return '<div class="chart-empty">Keine Chart-Daten verfügbar</div>';
   }
   const closes = chartData.map(d => d.close);
   const min = Math.min(...closes);
@@ -387,6 +427,12 @@ function toggleChartPanel(i){
   if(el) el.classList.toggle('collapsed');
 }
 window.toggleChartPanel = toggleChartPanel;
+
+function toggleDetails(i){
+  const el = document.getElementById('details-panel-' + i);
+  if(el) el.classList.toggle('collapsed');
+}
+window.toggleDetails = toggleDetails;
 
 async function loadData(){
   const btn = document.getElementById('refreshBtn');
@@ -461,14 +507,20 @@ async function loadData(){
           </span>
         </div>
         <div class="pick-conf">Gesamt-Score: <b>${p.final_score}%</b> · Chance-Risiko: ${p.risk_reward ?? '—'}</div>
-        <div class="factors">
-          <span class="factor-chip">Technik: <b>${p.buy_pct}%</b></span>
-          <span class="factor-chip">KGV: <b>${p.pe_ratio ? p.pe_ratio.toFixed(1) : '—'}</b></span>
-          <span class="factor-chip ${newsClass}">News: <b>${p.news_label || '—'}</b></span>
-          <span class="factor-chip">Trend: <b>${p.trend_label || '—'}</b></span>
-          <span class="factor-chip">RSI: <b>${p.rsi ?? '—'}</b></span>
-          <span class="factor-chip">Volumen: <b>${p.volume_label || '—'}</b></span>
+        <div class="summary-line">${buildSummary(p)}</div>
+
+        <button class="details-toggle" onclick="toggleDetails(${i})">▸ Details anzeigen</button>
+        <div class="details-panel collapsed" id="details-panel-${i}">
+          <div class="factors">
+            <span class="factor-chip">Technik: <b>${p.buy_pct}%</b></span>
+            <span class="factor-chip">KGV: <b>${p.pe_ratio ? p.pe_ratio.toFixed(1) : '—'}</b></span>
+            <span class="factor-chip ${newsClass}">News: <b>${p.news_label || '—'}</b></span>
+            <span class="factor-chip">Trend: <b>${p.trend_label || '—'}</b></span>
+            <span class="factor-chip">RSI: <b>${p.rsi ?? '—'}</b></span>
+            <span class="factor-chip">Volumen: <b>${p.volume_label || '—'}</b></span>
+          </div>
         </div>
+
         <div class="levels">
           <div class="level entry"><div class="k">Einstieg</div><div class="v">${fmt(p.entry)}</div></div>
           <div class="level stop"><div class="k">Stop-Loss</div><div class="v">${fmt(p.stop_loss)}</div></div>
@@ -499,7 +551,7 @@ setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Der Kursverlauf zeigt Tagesschlusskurse der letzten ~20 Handelstage — keine Innertages-Daten, da diese auf dem kostenlosen API-Tarif nicht verfügbar sind. Aktuelle Preise für offene Positionen stammen aus dem letzten Analyse-Lauf (alle 15 Minuten). Das virtuelle Portfolio simuliert 100€ Startkapital, aufgeteilt auf bis zu 3 gleichzeitige Positionen, inklusive 2€ simulierter Handelsgebühren pro abgeschlossenem Trade. Es fließt kein echtes Geld. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
+  Der Kursverlauf zeigt Tagesschlusskurse der letzten ~20 Handelstage über Stooq. Die Zusammenfassung ist eine automatisch generierte, regelbasierte Beschreibung der wichtigsten Faktoren — keine echte Analyse. Aktuelle Preise für offene Positionen stammen aus dem letzten Analyse-Lauf (alle 15 Minuten). Das virtuelle Portfolio simuliert 100€ Startkapital ohne echtes Geld. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
 </p>
 </body>
 </html>
