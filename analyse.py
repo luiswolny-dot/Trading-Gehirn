@@ -14,6 +14,11 @@ DEEP_DIVE_COUNT = 25
 EXPIRY_DAYS = 3
 ATR_PERIOD = 10
 
+STARTING_BALANCE = 100.0
+MAX_CONCURRENT_POSITIONS = 3
+TRADE_FEE = 1.0  # pro Order, also 2€ Rundtrip
+MIN_TRADE_EUR = 5.0
+
 POSITIVE_WORDS = {"beat","beats","surge","soar","rally","upgrade","outperform","record",
                    "growth","strong","gain","gains","jump","rise","rises","bullish","buy",
                    "raises","raised","exceed","exceeds","soars","surges"}
@@ -23,7 +28,8 @@ NEGATIVE_WORDS = {"miss","misses","plunge","crash","downgrade","underperform","w
 
 REC_LOG_PATH = "data/recommendations_log.csv"
 REC_LOG_FIELDS = ["id", "symbol", "opened_at", "entry", "stop_loss", "target_1", "target_2",
-                   "status", "resolved_at", "resolved_price", "pnl_pct"]
+                   "status", "resolved_at", "resolved_price", "pnl_pct", "invested_eur"]
+PORTFOLIO_PATH = "data/portfolio.json"
 
 def load_watchlist():
     try:
@@ -70,7 +76,7 @@ def fetch_candles(symbol, days=30):
     data = r.json()
     if data.get("s") != "ok" or not data.get("c"):
         return None
-    return data  # enthält c, h, l, o, v, t
+    return data
 
 def analyze_symbol(symbol, quote):
     c, pc, h, l = quote.get("c"), quote.get("pc"), quote.get("h"), quote.get("l")
@@ -160,7 +166,6 @@ def compute_rsi(closes, period=14):
     return round(100 - (100 / (1 + rs)), 1)
 
 def compute_atr(candles, period=ATR_PERIOD):
-    """Durchschnittliche Tagesspanne der letzten N Handelstage — robusteres Maß für Volatilität als nur heute."""
     if not candles:
         return None
     highs = candles.get("h", [])
@@ -207,7 +212,6 @@ def compute_momentum_quality(candles, current_price):
     return momentum_quality, rsi_value, trend_label, volume_label
 
 def recompute_levels_with_atr(candidate, atr):
-    """Ersetzt die tagesspannen-basierten Ziele durch mehrtägige Volatilität, sofern verfügbar."""
     entry = candidate["entry"]
     stop_loss = round(entry - atr * 1.0, 2)
     target_1 = round(entry + atr * 1.5, 2)
@@ -312,6 +316,8 @@ def load_rec_log():
     for row in rows:
         if "pnl_pct" not in row:
             row["pnl_pct"] = ""
+        if "invested_eur" not in row:
+            row["invested_eur"] = ""
     return rows
 
 def save_rec_log(rows):
@@ -320,7 +326,27 @@ def save_rec_log(rows):
         writer.writeheader()
         writer.writerows(rows)
 
-def resolve_open_recommendations(rows, now):
+def load_portfolio():
+    default = {
+        "cash": STARTING_BALANCE,
+        "starting_balance": STARTING_BALANCE,
+        "updated": None,
+        "closed_trades": [],
+    }
+    if not os.path.exists(PORTFOLIO_PATH):
+        return default
+    with open(PORTFOLIO_PATH) as f:
+        data = json.load(f)
+    data.setdefault("closed_trades", [])
+    data.setdefault("cash", STARTING_BALANCE)
+    data.setdefault("starting_balance", STARTING_BALANCE)
+    return data
+
+def save_portfolio(portfolio):
+    with open(PORTFOLIO_PATH, "w") as f:
+        json.dump(portfolio, f, indent=2)
+
+def resolve_open_recommendations(rows, now, portfolio):
     open_rows = [r for r in rows if r["status"] == "open"]
     for row in open_rows:
         try:
@@ -356,13 +382,40 @@ def resolve_open_recommendations(rows, now):
         row["pnl_pct"] = round((price - entry) / entry * 100, 2)
         print(f"{row['symbol']} abgeschlossen: {row['status']} bei ${price} ({row['pnl_pct']:+}%)")
 
+        invested = float(row.get("invested_eur") or 0)
+        if invested > 0:
+            gross_pnl_eur = invested * (row["pnl_pct"] / 100)
+            net_pnl_eur = round(gross_pnl_eur - 2 * TRADE_FEE, 2)
+            portfolio["cash"] = round(portfolio["cash"] + invested + net_pnl_eur, 2)
+            portfolio["closed_trades"].append({
+                "symbol": row["symbol"],
+                "opened_at": row["opened_at"],
+                "resolved_at": row["resolved_at"],
+                "invested_eur": invested,
+                "net_pnl_eur": net_pnl_eur,
+                "status": row["status"],
+            })
+            print(f"Portfolio: {row['symbol']} → {net_pnl_eur:+.2f}€ (netto, inkl. Gebühren)")
+
     return rows
 
-def add_new_recommendations(rows, top_picks, timestamp):
+def add_new_recommendations(rows, top_picks, timestamp, portfolio):
     open_symbols = {r["symbol"] for r in rows if r["status"] == "open"}
+    open_count = len(open_symbols)
+    slice_size = portfolio["starting_balance"] / MAX_CONCURRENT_POSITIONS
+
     for pick in top_picks:
         if pick["symbol"] in open_symbols:
             continue
+
+        invest_amount = 0.0
+        if open_count < MAX_CONCURRENT_POSITIONS:
+            candidate_amount = min(portfolio["cash"], slice_size)
+            if candidate_amount >= MIN_TRADE_EUR:
+                invest_amount = round(candidate_amount, 2)
+                portfolio["cash"] = round(portfolio["cash"] - invest_amount, 2)
+                open_count += 1
+
         rows.append({
             "id": f"{pick['symbol']}_{timestamp}",
             "symbol": pick["symbol"],
@@ -375,7 +428,10 @@ def add_new_recommendations(rows, top_picks, timestamp):
             "resolved_at": "",
             "resolved_price": "",
             "pnl_pct": "",
+            "invested_eur": invest_amount if invest_amount > 0 else "",
         })
+        if invest_amount > 0:
+            print(f"Papier-Trade eröffnet: {pick['symbol']} mit {invest_amount}€")
     return rows
 
 def compute_track_record(rows, timestamp):
@@ -416,6 +472,23 @@ def compute_track_record(rows, timestamp):
         "recent": sorted(closed, key=lambda r: r["resolved_at"], reverse=True)[:10],
     }
 
+def compute_portfolio_summary(portfolio, rows, timestamp):
+    open_rows = [r for r in rows if r["status"] == "open" and float(r.get("invested_eur") or 0) > 0]
+    invested_in_open = sum(float(r["invested_eur"]) for r in open_rows)
+    total_value = round(portfolio["cash"] + invested_in_open, 2)
+    return_pct = round((total_value - portfolio["starting_balance"]) / portfolio["starting_balance"] * 100, 2)
+
+    return {
+        "updated": timestamp,
+        "starting_balance": portfolio["starting_balance"],
+        "cash": round(portfolio["cash"], 2),
+        "invested_in_open_positions": round(invested_in_open, 2),
+        "total_value": total_value,
+        "return_pct": return_pct,
+        "open_position_count": len(open_rows),
+        "recent_closed_trades": sorted(portfolio["closed_trades"], key=lambda t: t["resolved_at"], reverse=True)[:10],
+    }
+
 def main():
     os.makedirs("data", exist_ok=True)
     now = datetime.now(timezone.utc)
@@ -424,7 +497,9 @@ def main():
     watchlist = load_watchlist()
 
     rec_rows = load_rec_log()
-    rec_rows = resolve_open_recommendations(rec_rows, now)
+    portfolio = load_portfolio()
+
+    rec_rows = resolve_open_recommendations(rec_rows, now, portfolio)
 
     for i, symbol in enumerate(watchlist):
         try:
@@ -465,12 +540,19 @@ def main():
     with open("data/recommendation.json", "w") as f:
         json.dump({"timestamp": timestamp, "picks": top_picks}, f, indent=2)
 
-    rec_rows = add_new_recommendations(rec_rows, top_picks, timestamp)
+    rec_rows = add_new_recommendations(rec_rows, top_picks, timestamp, portfolio)
     save_rec_log(rec_rows)
+
+    portfolio["updated"] = timestamp
+    save_portfolio(portfolio)
 
     track_record = compute_track_record(rec_rows, timestamp)
     with open("data/track_record.json", "w") as f:
         json.dump(track_record, f, indent=2)
+
+    portfolio_summary = compute_portfolio_summary(portfolio, rec_rows, timestamp)
+    with open("data/portfolio_summary.json", "w") as f:
+        json.dump(portfolio_summary, f, indent=2)
 
     state_path = "data/state.json"
     last_symbol = None
@@ -486,7 +568,8 @@ def main():
             json.dump({"last_top_symbol": current_top}, f)
 
     print(f"{len(results)} von {len(watchlist)} Aktien gescreent, {len(top_candidates)} vertieft, {len(top_picks)} Empfehlung(en).")
-    print(f"Trefferquote: {track_record['win_rate']}%, Ø Gewinn: {track_record['avg_win']}%, Ø Verlust: {track_record['avg_loss']}%, Erwartungswert: {track_record['expectancy']}%")
+    print(f"Trefferquote: {track_record['win_rate']}%, Erwartungswert: {track_record['expectancy']}%")
+    print(f"Portfolio: {portfolio_summary['total_value']}€ ({portfolio_summary['return_pct']:+}%), Cash: {portfolio_summary['cash']}€")
 
 if __name__ == "__main__":
     main()
