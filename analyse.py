@@ -13,10 +13,11 @@ REQUEST_DELAY = 1.05
 DEEP_DIVE_COUNT = 25
 EXPIRY_DAYS = 3
 ATR_PERIOD = 10
+CHART_POINTS = 20
 
 STARTING_BALANCE = 100.0
 MAX_CONCURRENT_POSITIONS = 3
-TRADE_FEE = 1.0  # pro Order, also 2€ Rundtrip
+TRADE_FEE = 1.0
 MIN_TRADE_EUR = 5.0
 
 POSITIVE_WORDS = {"beat","beats","surge","soar","rally","upgrade","outperform","record",
@@ -78,6 +79,20 @@ def fetch_candles(symbol, days=30):
         return None
     return data
 
+def get_chart_series(candles, limit=CHART_POINTS):
+    if not candles:
+        return []
+    closes = candles.get("c", [])
+    timestamps = candles.get("t", [])
+    if not closes or not timestamps:
+        return []
+    trimmed = list(zip(timestamps, closes))[-limit:]
+    series = []
+    for ts, close in trimmed:
+        date_str = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%d.%m.")
+        series.append({"date": date_str, "close": round(close, 2)})
+    return series
+
 def analyze_symbol(symbol, quote):
     c, pc, h, l = quote.get("c"), quote.get("pc"), quote.get("h"), quote.get("l")
     if not c or not pc:
@@ -117,6 +132,7 @@ def analyze_symbol(symbol, quote):
         "trend_label": None,
         "volume_label": None,
         "target_basis": "tagesspanne",
+        "chart": [],
     }
 
 def compute_fundamental_score(metric, price):
@@ -267,6 +283,8 @@ def deep_dive(candidate):
         recompute_levels_with_atr(candidate, atr)
     else:
         print(f"Kein ATR für {symbol} berechenbar — behalte tagesspannen-basierte Ziele.")
+
+    candidate["chart"] = get_chart_series(candles)
 
     final_score = round(
         0.35 * candidate["buy_pct"] +
