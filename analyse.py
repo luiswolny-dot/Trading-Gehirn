@@ -10,6 +10,7 @@ API_KEY = os.environ["FINNHUB_API_KEY"]
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/master/data/constituents.csv"
 REQUEST_DELAY = 1.05
+STOOQ_DELAY = 0.3
 DEEP_DIVE_COUNT = 25
 EXPIRY_DAYS = 3
 ATR_PERIOD = 10
@@ -68,16 +69,40 @@ def fetch_company_news(symbol):
     r.raise_for_status()
     return r.json() or []
 
-def fetch_candles(symbol, days=30):
-    to_ts = int(datetime.now(timezone.utc).timestamp())
-    from_ts = to_ts - days * 86400
-    url = f"https://finnhub.io/api/v1/stock/candle?symbol={symbol}&resolution=D&from={from_ts}&to={to_ts}&token={API_KEY}"
-    r = requests.get(url, timeout=10)
-    r.raise_for_status()
-    data = r.json()
-    if data.get("s") != "ok" or not data.get("c"):
+def fetch_candles(symbol, days=60):
+    """Historische Tagesdaten über Stooq — kostenlos, kein API-Key, kein Rate-Limit."""
+    ticker = symbol.lower() + ".us"
+    url = f"https://stooq.com/q/d/l/?s={ticker}&i=d"
+    try:
+        r = requests.get(url, timeout=10)
+        r.raise_for_status()
+        text = r.text.strip()
+        lines = text.splitlines()
+        if len(lines) < 6 or not lines[0].startswith("Date"):
+            return None
+        reader = csv.DictReader(lines)
+        rows = list(reader)
+        if len(rows) < 5:
+            return None
+        rows = rows[-days:]
+
+        closes, highs, lows, volumes, timestamps = [], [], [], [], []
+        for row in rows:
+            try:
+                closes.append(float(row["Close"]))
+                highs.append(float(row["High"]))
+                lows.append(float(row["Low"]))
+                volumes.append(float(row["Volume"]))
+                dt = datetime.strptime(row["Date"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                timestamps.append(int(dt.timestamp()))
+            except (ValueError, KeyError):
+                continue
+
+        if len(closes) < 5:
+            return None
+        return {"c": closes, "h": highs, "l": lows, "v": volumes, "t": timestamps}
+    except Exception:
         return None
-    return data
 
 def get_chart_series(candles, limit=CHART_POINTS):
     if not candles:
@@ -273,10 +298,10 @@ def deep_dive(candidate):
         candles = fetch_candles(symbol)
         momentum_quality, rsi_value, trend_label, volume_label = compute_momentum_quality(candles, candidate["price"])
         if candles is None:
-            print(f"Keine Candle-Daten für {symbol} verfügbar (evtl. Free-Tier-Limit) — nutze neutrale Werte.")
+            print(f"Keine Stooq-Daten für {symbol} verfügbar — nutze neutrale Werte.")
     except Exception as e:
         print(f"Momentum-Fehler bei {symbol}: {e}")
-    time.sleep(REQUEST_DELAY)
+    time.sleep(STOOQ_DELAY)
 
     atr = compute_atr(candles)
     if atr and atr > 0:
