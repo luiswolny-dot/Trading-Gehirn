@@ -1,15 +1,15 @@
-# MSFT
+# KHC
 
 tags: #Aktie #S-P-500
 
-- Preis: $400.55
-- Tagesbewegung: 1.71%
+- Preis: $26.07
+- Tagesbewegung: 0.73%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $400.55
-- Stop-Loss: $393.78
-- Ziel 1: $410.7
-- Ziel 2: $420.85
+- Einstieg: $26.07
+- Stop-Loss: $25.83
+- Ziel 1: $26.43
+- Ziel 2: $26.8
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

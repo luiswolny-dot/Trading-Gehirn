@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 0% über 2 abgeschlossene Empfehlungen.
+Trefferquote: 0% über 8 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[COP]] — Score 80%
-- [[AMZN]] — Score 78%
-- [[GPN]] — Score 76%
-- [[CVX]] — Score 75%
-- [[SNDK]] — Score 74%
-- [[CBOE]] — Score 74%
-- [[MRVL]] — Score 73%
-- [[MPC]] — Score 71%
-- [[OXY]] — Score 71%
-- [[OMC]] — Score 71%
-- [[TTD]] — Score 71%
-- [[LITE]] — Score 70%
-- [[CME]] — Score 70%
-- [[CPAY]] — Score 70%
-- [[DVN]] — Score 70%
-- [[FIS]] — Score 70%
-- [[FOXA]] — Score 70%
-- [[ICE]] — Score 70%
-- [[MGM]] — Score 70%
-- [[MSFT]] — Score 70%
-- [[PSX]] — Score 70%
-- [[PGR]] — Score 70%
-- [[ROP]] — Score 70%
-- [[TTWO]] — Score 70%
-- [[VLO]] — Score 70%
-- [[VEEV]] — Score 70%
-- [[EBAY]] — Score 69%
-- [[GOOGL]] — Score 69%
-- [[GOOG]] — Score 69%
-- [[T]] — Score 69%
+- [[XOM]] — Score 78%
+- [[COP]] — Score 78%
+- [[ELV]] — Score 77%
+- [[GPN]] — Score 75%
+- [[HRL]] — Score 75%
+- [[TJX]] — Score 73%
+- [[CBOE]] — Score 73%
+- [[ALL]] — Score 70%
+- [[SCHW]] — Score 70%
+- [[BF-B]] — Score 69%
+- [[PGR]] — Score 68%
+- [[TMUS]] — Score 67%
+- [[APA]] — Score 67%
+- [[CVX]] — Score 67%
+- [[CPAY]] — Score 67%
+- [[EBAY]] — Score 67%
+- [[HSY]] — Score 67%
+- [[ICE]] — Score 67%
+- [[IQV]] — Score 67%
+- [[KHC]] — Score 67%
+- [[MSFT]] — Score 67%
+- [[LYB]] — Score 66%
+- [[DOW]] — Score 66%
+- [[AXON]] — Score 66%
+- [[CMCSA]] — Score 66%
+- [[OXY]] — Score 66%
+- [[OMC]] — Score 66%
+- [[T]] — Score 65%
+- [[ACN]] — Score 65%
+- [[ADM]] — Score 65%

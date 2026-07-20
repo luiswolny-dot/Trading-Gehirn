@@ -1,15 +1,15 @@
-# GPN
+# ELV
 
 tags: #Aktie #S-P-500
 
-- Preis: $82.32
-- Tagesbewegung: 5.78%
-- Gesamt-Score: 75%
-- KGV: —
-- Einstieg: $82.32
-- Stop-Loss: $80.24
-- Ziel 1: $85.44
-- Ziel 2: $88.56
+- Preis: $385.1
+- Tagesbewegung: 3.21%
+- Gesamt-Score: 77%
+- KGV: 16.6539
+- Einstieg: $385.1
+- Stop-Loss: $378.03
+- Ziel 1: $395.71
+- Ziel 2: $406.32
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

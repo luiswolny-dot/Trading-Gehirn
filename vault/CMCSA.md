@@ -1,15 +1,15 @@
-# OMC
+# CMCSA
 
 tags: #Aktie #S-P-500
 
-- Preis: $82.56
-- Tagesbewegung: 1.02%
+- Preis: $23.9
+- Tagesbewegung: 0.46%
 - Gesamt-Score: 66%
 - KGV: —
-- Einstieg: $82.56
-- Stop-Loss: $81.6
-- Ziel 1: $84.0
-- Ziel 2: $85.43
+- Einstieg: $23.9
+- Stop-Loss: $23.6
+- Ziel 1: $24.35
+- Ziel 2: $24.81
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

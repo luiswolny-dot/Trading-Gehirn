@@ -1,15 +1,15 @@
-# MSFT
+# HSY
 
 tags: #Aktie #S-P-500
 
-- Preis: $400.55
-- Tagesbewegung: 1.71%
+- Preis: $172.36
+- Tagesbewegung: 0.55%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $400.55
-- Stop-Loss: $393.78
-- Ziel 1: $410.7
-- Ziel 2: $420.85
+- Einstieg: $172.36
+- Stop-Loss: $170.32
+- Ziel 1: $175.42
+- Ziel 2: $178.48
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

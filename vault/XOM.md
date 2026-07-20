@@ -1,15 +1,15 @@
-# GPN
+# XOM
 
 tags: #Aktie #S-P-500
 
-- Preis: $82.32
-- Tagesbewegung: 5.78%
-- Gesamt-Score: 75%
-- KGV: —
-- Einstieg: $82.32
-- Stop-Loss: $80.24
-- Ziel 1: $85.44
-- Ziel 2: $88.56
+- Preis: $148.8
+- Tagesbewegung: 0.98%
+- Gesamt-Score: 78%
+- KGV: 24.1289
+- Einstieg: $148.8
+- Stop-Loss: $147.37
+- Ziel 1: $150.95
+- Ziel 2: $153.09
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]
