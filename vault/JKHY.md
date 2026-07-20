@@ -1,15 +1,15 @@
-# DOW
+# JKHY
 
 tags: #Aktie #S-P-500
 
-- Preis: $30.37
-- Tagesbewegung: 1.5%
+- Preis: $153.16
+- Tagesbewegung: 0.98%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $30.37
-- Stop-Loss: $29.85
-- Ziel 1: $31.15
-- Ziel 2: $31.93
+- Einstieg: $153.16
+- Stop-Loss: $150.41
+- Ziel 1: $157.29
+- Ziel 2: $161.42
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

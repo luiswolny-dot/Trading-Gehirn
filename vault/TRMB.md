@@ -1,15 +1,15 @@
-# TJX
+# TRMB
 
 tags: #Aktie #S-P-500
 
-- Preis: $155.7
-- Tagesbewegung: 0.8%
+- Preis: $53.21
+- Tagesbewegung: 0.93%
 - Gesamt-Score: 66%
 - KGV: —
-- Einstieg: $155.7
-- Stop-Loss: $154.59
-- Ziel 1: $157.36
-- Ziel 2: $159.03
+- Einstieg: $53.21
+- Stop-Loss: $52.02
+- Ziel 1: $55.0
+- Ziel 2: $56.79
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

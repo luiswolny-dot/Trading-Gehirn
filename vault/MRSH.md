@@ -1,15 +1,15 @@
-# DOW
+# MRSH
 
 tags: #Aktie #S-P-500
 
-- Preis: $30.37
-- Tagesbewegung: 1.5%
+- Preis: $182.1
+- Tagesbewegung: -0.04%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $30.37
-- Stop-Loss: $29.85
-- Ziel 1: $31.15
-- Ziel 2: $31.93
+- Einstieg: $182.1
+- Stop-Loss: $180.62
+- Ziel 1: $184.32
+- Ziel 2: $186.53
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

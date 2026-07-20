@@ -1,15 +1,15 @@
-# TJX
+# IT
 
 tags: #Aktie #S-P-500
 
-- Preis: $155.7
-- Tagesbewegung: 0.8%
+- Preis: $141.06
+- Tagesbewegung: 0.62%
 - Gesamt-Score: 66%
 - KGV: —
-- Einstieg: $155.7
-- Stop-Loss: $154.59
-- Ziel 1: $157.36
-- Ziel 2: $159.03
+- Einstieg: $141.06
+- Stop-Loss: $137.84
+- Ziel 1: $145.9
+- Ziel 2: $150.73
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
