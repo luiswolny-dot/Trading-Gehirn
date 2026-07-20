@@ -31,5 +31,5 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[IT]] — Score 66%
 - [[TJX]] — Score 66%
 - [[TRMB]] — Score 66%
-- [[LYB]] — Score 65%
 - [[MO]] — Score 65%
+- [[T]] — Score 65%
