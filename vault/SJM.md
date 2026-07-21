@@ -1,15 +1,15 @@
-# UNH
+# SJM
 
 tags: #Aktie #S-P-500
 
-- Preis: $435.51
-- Tagesbewegung: 3.31%
+- Preis: $115.88
+- Tagesbewegung: 3.0%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $435.51
-- Stop-Loss: $427.63
-- Ziel 1: $447.32
-- Ziel 2: $459.13
+- Einstieg: $115.88
+- Stop-Loss: $114.35
+- Ziel 1: $118.17
+- Ziel 2: $120.46
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
