@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T06:00:41.535390+00:00",
+  "updated": "2026-07-21T06:15:25.298560+00:00",
   "total_closed": 0,
   "wins": 0,
   "losses": 0,
@@ -8,6 +8,6 @@
   "avg_loss": null,
   "expectancy": null,
   "total_pnl": null,
-  "still_open": 4,
+  "still_open": 5,
   "recent": []
 }

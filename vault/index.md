@@ -5,13 +5,13 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[MA]] — Score 77%
 - [[GPN]] — Score 75%
+- [[WRB]] — Score 75%
+- [[MSFT]] — Score 74%
 - [[CBOE]] — Score 74%
-- [[WRB]] — Score 72%
 - [[TMUS]] — Score 71%
 - [[LVS]] — Score 69%
 - [[PAYX]] — Score 69%
 - [[ROST]] — Score 69%
-- [[MSFT]] — Score 68%
 - [[ALL]] — Score 68%
 - [[EBAY]] — Score 68%
 - [[CVX]] — Score 68%
