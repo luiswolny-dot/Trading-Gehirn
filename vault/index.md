@@ -7,15 +7,12 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[GPN]] — Score 75%
 - [[MSFT]] — Score 74%
 - [[CBOE]] — Score 74%
-- [[EBAY]] — Score 71%
-- [[ICE]] — Score 71%
-- [[WRB]] — Score 70%
-- [[ALL]] — Score 70%
-- [[PGR]] — Score 69%
+- [[TMUS]] — Score 71%
 - [[LVS]] — Score 69%
 - [[PAYX]] — Score 69%
 - [[ROST]] — Score 69%
-- [[EL]] — Score 68%
+- [[ALL]] — Score 68%
+- [[EBAY]] — Score 68%
 - [[CVX]] — Score 68%
 - [[RMD]] — Score 68%
 - [[CRM]] — Score 68%
@@ -26,6 +23,8 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[JKHY]] — Score 67%
 - [[MRSH]] — Score 67%
 - [[VST]] — Score 67%
+- [[PGR]] — Score 66%
+- [[WRB]] — Score 66%
 - [[ACN]] — Score 66%
 - [[FICO]] — Score 66%
 - [[IT]] — Score 66%
@@ -33,3 +32,4 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[TRMB]] — Score 66%
 - [[MO]] — Score 65%
 - [[T]] — Score 65%
+- [[BG]] — Score 65%
