@@ -1,10 +1,35 @@
 {
-  "updated": "2026-07-21T14:00:43.829198+00:00",
+  "updated": "2026-07-21T14:21:08.258081+00:00",
   "starting_balance": 100.0,
-  "cash": 0.01,
-  "invested_in_open_positions": 99.99,
-  "total_value": 100.0,
-  "return_pct": 0.0,
+  "cash": 0.0,
+  "invested_in_open_positions": 93.66,
+  "total_value": 93.66,
+  "return_pct": -6.34,
   "open_position_count": 3,
-  "recent_closed_trades": []
+  "recent_closed_trades": [
+    {
+      "symbol": "GPN",
+      "opened_at": "2026-07-20T22:00:40.000000+00:00",
+      "resolved_at": "2026-07-21T16:05:00+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -1.98,
+      "status": "abgelaufen_gewinn"
+    },
+    {
+      "symbol": "CBOE",
+      "opened_at": "2026-07-20T22:00:40.000000+00:00",
+      "resolved_at": "2026-07-21T16:05:00+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.19,
+      "status": "abgelaufen_verlust"
+    },
+    {
+      "symbol": "MSFT",
+      "opened_at": "2026-07-20T22:00:40.000000+00:00",
+      "resolved_at": "2026-07-21T16:05:00+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.17,
+      "status": "abgelaufen_verlust"
+    }
+  ]
 }
