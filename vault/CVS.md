@@ -1,15 +1,15 @@
-# UNH
+# CVS
 
 tags: #Aktie #S-P-500
 
-- Preis: $433.67
-- Tagesbewegung: 2.88%
+- Preis: $109.57
+- Tagesbewegung: 1.82%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $433.67
-- Stop-Loss: $426.22
-- Ziel 1: $444.85
-- Ziel 2: $456.04
+- Einstieg: $109.57
+- Stop-Loss: $108.39
+- Ziel 1: $111.34
+- Ziel 2: $113.11
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

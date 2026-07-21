@@ -1,15 +1,15 @@
-# UNH
+# PLD
 
 tags: #Aktie #S-P-500
 
-- Preis: $433.67
-- Tagesbewegung: 2.88%
+- Preis: $149.81
+- Tagesbewegung: 1.58%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $433.67
-- Stop-Loss: $426.22
-- Ziel 1: $444.85
-- Ziel 2: $456.04
+- Einstieg: $149.81
+- Stop-Loss: $148.25
+- Ziel 1: $152.15
+- Ziel 2: $154.49
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
