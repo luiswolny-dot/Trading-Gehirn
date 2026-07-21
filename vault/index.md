@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: None% über 0 abgeschlossene Empfehlungen.
+Trefferquote: 50% über 2 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[MU]] — Score 86%
-- [[WDC]] — Score 81%
-- [[HAS]] — Score 80%
-- [[SNDK]] — Score 79%
-- [[AMD]] — Score 78%
-- [[AZO]] — Score 78%
-- [[CAT]] — Score 78%
-- [[EME]] — Score 78%
+- [[WDC]] — Score 86%
+- [[HAS]] — Score 83%
+- [[MU]] — Score 83%
+- [[SNDK]] — Score 81%
+- [[MMM]] — Score 78%
+- [[GM]] — Score 78%
+- [[IBKR]] — Score 78%
+- [[DELL]] — Score 77%
+- [[C]] — Score 77%
+- [[TER]] — Score 76%
 - [[HOOD]] — Score 75%
-- [[APH]] — Score 75%
-- [[CF]] — Score 75%
-- [[CIEN]] — Score 75%
-- [[EXPD]] — Score 75%
-- [[IRM]] — Score 74%
-- [[DELL]] — Score 74%
-- [[ADM]] — Score 73%
-- [[CHRW]] — Score 73%
-- [[CSCO]] — Score 73%
-- [[DOW]] — Score 73%
-- [[GS]] — Score 73%
-- [[WRB]] — Score 73%
-- [[BG]] — Score 72%
-- [[DLR]] — Score 72%
-- [[EQIX]] — Score 72%
-- [[MPWR]] — Score 72%
-- [[CEG]] — Score 71%
-- [[MRSH]] — Score 71%
-- [[APO]] — Score 71%
-- [[CDW]] — Score 71%
-- [[EXPE]] — Score 71%
+- [[EOG]] — Score 75%
+- [[ELV]] — Score 74%
+- [[XOM]] — Score 73%
+- [[STX]] — Score 72%
+- [[AMAT]] — Score 72%
+- [[CRL]] — Score 72%
+- [[FANG]] — Score 72%
+- [[IVZ]] — Score 72%
+- [[MS]] — Score 72%
+- [[NTRS]] — Score 72%
+- [[APA]] — Score 71%
+- [[CAH]] — Score 71%
+- [[JPM]] — Score 71%
+- [[MRK]] — Score 71%
+- [[SMCI]] — Score 71%
+- [[CVX]] — Score 70%
+- [[CI]] — Score 70%
+- [[COP]] — Score 70%
+- [[ISRG]] — Score 70%
