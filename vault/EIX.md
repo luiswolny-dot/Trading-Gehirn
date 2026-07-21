@@ -1,15 +1,15 @@
-# SWKS
+# EIX
 
 tags: #Aktie #S-P-500
 
-- Preis: $62.76
-- Tagesbewegung: 4.95%
+- Preis: $78.15
+- Tagesbewegung: 1.17%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $62.76
-- Stop-Loss: $61.61
-- Ziel 1: $64.48
-- Ziel 2: $66.19
+- Einstieg: $78.15
+- Stop-Loss: $77.25
+- Ziel 1: $79.49
+- Ziel 2: $80.84
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
