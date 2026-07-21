@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T14:21:08.258081+00:00",
+  "updated": "2026-07-21T15:00:49.134408+00:00",
   "total_closed": 3,
   "wins": 1,
   "losses": 2,
@@ -8,7 +8,7 @@
   "avg_loss": -0.54,
   "expectancy": -0.34,
   "total_pnl": -1.02,
-  "still_open": 3,
+  "still_open": 5,
   "recent": [
     {
       "id": "GPN_2026-07-20T22:00:40.000000+00:00",
