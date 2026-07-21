@@ -9,10 +9,8 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[MSFT]] — Score 74%
 - [[CBOE]] — Score 74%
 - [[TMUS]] — Score 71%
-- [[LVS]] — Score 69%
 - [[PAYX]] — Score 69%
 - [[ROST]] — Score 69%
-- [[ALL]] — Score 68%
 - [[EBAY]] — Score 68%
 - [[CVX]] — Score 68%
 - [[RMD]] — Score 68%
@@ -30,6 +28,8 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[IT]] — Score 66%
 - [[TJX]] — Score 66%
 - [[TRMB]] — Score 66%
-- [[MO]] — Score 65%
 - [[T]] — Score 65%
 - [[BG]] — Score 65%
+- [[SCHW]] — Score 65%
+- [[DASH]] — Score 65%
+- [[EA]] — Score 65%
