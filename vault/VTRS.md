@@ -1,15 +1,15 @@
-# BKR
+# VTRS
 
 tags: #Aktie #S-P-500
 
-- Preis: $56.61
-- Tagesbewegung: 2.65%
+- Preis: $17.4
+- Tagesbewegung: 2.41%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $56.61
-- Stop-Loss: $55.48
-- Ziel 1: $58.31
-- Ziel 2: $60.01
+- Einstieg: $17.4
+- Stop-Loss: $17.11
+- Ziel 1: $17.84
+- Ziel 2: $18.27
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
