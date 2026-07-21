@@ -1,15 +1,15 @@
-# MRVL
+# WAB
 
 tags: #Aktie #S-P-500
 
-- Preis: $207.96
-- Tagesbewegung: 6.68%
+- Preis: $263.53
+- Tagesbewegung: 2.2%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $207.96
-- Stop-Loss: $204.08
-- Ziel 1: $213.78
-- Ziel 2: $219.6
+- Einstieg: $263.53
+- Stop-Loss: $259.57
+- Ziel 1: $269.46
+- Ziel 2: $275.4
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
