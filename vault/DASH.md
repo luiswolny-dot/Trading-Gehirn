@@ -1,15 +1,15 @@
-# SCHW
+# DASH
 
 tags: #Aktie #S-P-500
 
-- Preis: $102.54
-- Tagesbewegung: 0.96%
+- Preis: $189.02
+- Tagesbewegung: 2.65%
 - Gesamt-Score: 65%
 - KGV: —
-- Einstieg: $102.54
-- Stop-Loss: $101.15
-- Ziel 1: $104.63
-- Ziel 2: $106.73
+- Einstieg: $189.02
+- Stop-Loss: $185.23
+- Ziel 1: $194.7
+- Ziel 2: $200.39
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

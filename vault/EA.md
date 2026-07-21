@@ -1,15 +1,15 @@
-# SCHW
+# EA
 
 tags: #Aktie #S-P-500
 
-- Preis: $102.54
-- Tagesbewegung: 0.96%
+- Preis: $209.29
+- Tagesbewegung: 0.19%
 - Gesamt-Score: 65%
 - KGV: —
-- Einstieg: $102.54
-- Stop-Loss: $101.15
-- Ziel 1: $104.63
-- Ziel 2: $106.73
+- Einstieg: $209.29
+- Stop-Loss: $209.1
+- Ziel 1: $209.57
+- Ziel 2: $209.86
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
