@@ -100,8 +100,9 @@
   .pick-top{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:4px;}
   .pick-ticker{font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:22px;}
   .pick-price{font-family:'IBM Plex Mono',monospace; font-size:18px; font-weight:600;}
-  .pick-change{font-family:'IBM Plex Mono',monospace; font-size:12px; margin-left:6px;}
+  .pick-change{font-family:'IBM Plex Mono',monospace; font-size:11px; margin-left:6px;}
   .pick-change.pos{color:var(--green);} .pick-change.neg{color:var(--red);}
+  .pick-change-label{font-size:9px; color:var(--muted); display:block; text-align:right; margin-top:1px;}
   .pick-conf{font-size:12px; color:var(--muted); margin-bottom:12px;}
   .pick-conf b{color:var(--green);}
 
@@ -110,6 +111,13 @@
     padding:10px 14px; background:var(--panel-2); border-radius:8px;
     border-left:2px solid var(--amber-dim);
   }
+
+  .potential-grid{display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--border); border:1px solid var(--border); border-radius:8px; overflow:hidden; margin-bottom:14px;}
+  .potential-cell{background:var(--panel-2); padding:12px 14px;}
+  .potential-cell .k{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:4px;}
+  .potential-cell .v{font-family:'IBM Plex Mono',monospace; font-size:17px; font-weight:700;}
+  .potential-cell.chance .v{color:var(--green);}
+  .potential-cell.risk .v{color:var(--red);}
 
   .details-toggle{
     width:100%; background:none; border:none; color:var(--muted);
@@ -496,18 +504,32 @@ async function loadData(){
 
     picksEl.innerHTML = data.picks.map((p, i) => {
       const newsClass = p.news_label === 'positiv' ? 'pos-news' : p.news_label === 'negativ' ? 'neg-news' : '';
+      const chancePct = p.entry ? ((p.target_1 - p.entry) / p.entry * 100) : null;
+      const riskPct = p.entry ? ((p.entry - p.stop_loss) / p.entry * 100) : null;
       return `
       <div class="pick-card rank-${i}">
         ${i === 0 ? '<div class="rank-badge">Stärkstes Signal</div>' : ''}
         <div class="pick-top">
           <span class="pick-ticker">${p.symbol}</span>
-          <span>
+          <span style="text-align:right;">
             <span class="pick-price">${fmt(p.price)}</span>
             <span class="pick-change ${p.change_pct >= 0 ? 'pos' : 'neg'}">${p.change_pct >= 0 ? '+' : ''}${p.change_pct}%</span>
+            <span class="pick-change-label">Heute bereits gelaufen</span>
           </span>
         </div>
         <div class="pick-conf">Gesamt-Score: <b>${p.final_score}%</b> · Chance-Risiko: ${p.risk_reward ?? '—'}</div>
         <div class="summary-line">${buildSummary(p)}</div>
+
+        <div class="potential-grid">
+          <div class="potential-cell chance">
+            <div class="k">Erwartete Chance bis Ziel 1</div>
+            <div class="v">${chancePct !== null ? '+' + chancePct.toFixed(2) + '%' : '—'}</div>
+          </div>
+          <div class="potential-cell risk">
+            <div class="k">Erwartetes Risiko bis Stop</div>
+            <div class="v">${riskPct !== null ? '-' + riskPct.toFixed(2) + '%' : '—'}</div>
+          </div>
+        </div>
 
         <button class="details-toggle" onclick="toggleDetails(${i})">▸ Details anzeigen</button>
         <div class="details-panel collapsed" id="details-panel-${i}">
@@ -551,7 +573,7 @@ setInterval(loadData, 60000);
 </script>
 
 <p class="disclaimer">
-  Der Kursverlauf zeigt Tagesschlusskurse der letzten ~20 Handelstage über Stooq. Die Zusammenfassung ist eine automatisch generierte, regelbasierte Beschreibung der wichtigsten Faktoren — keine echte Analyse. Aktuelle Preise für offene Positionen stammen aus dem letzten Analyse-Lauf (alle 15 Minuten). Das virtuelle Portfolio simuliert 100€ Startkapital ohne echtes Geld. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
+  "Heute bereits gelaufen" zeigt die Kursbewegung seit gestern Schlusskurs — das ist Vergangenheit, keine Vorhersage. "Erwartete Chance" und "Erwartetes Risiko" sind rechnerisch aus der Volatilität abgeleitete Zielgrößen (kein garantierter Kursverlauf). Der Kursverlauf zeigt Tagesschlusskurse der letzten ~20 Handelstage über Stooq. Aktuelle Preise für offene Positionen stammen aus dem letzten Analyse-Lauf. Das virtuelle Portfolio simuliert 100€ Startkapital ohne echtes Geld. Keine Finanzberatung, keine Garantie für zukünftige Ergebnisse.
 </p>
 </body>
 </html>
