@@ -8,10 +8,10 @@ Trefferquote: None% über 0 abgeschlossene Empfehlungen.
 - [[CBOE]] — Score 74%
 - [[WRB]] — Score 72%
 - [[TMUS]] — Score 71%
-- [[MSFT]] — Score 70%
 - [[LVS]] — Score 69%
 - [[PAYX]] — Score 69%
 - [[ROST]] — Score 69%
+- [[MSFT]] — Score 68%
 - [[ALL]] — Score 68%
 - [[EBAY]] — Score 68%
 - [[CVX]] — Score 68%
