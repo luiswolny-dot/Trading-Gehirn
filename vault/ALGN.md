@@ -1,15 +1,15 @@
-# DELL
+# ALGN
 
 tags: #Aktie #S-P-500
 
-- Preis: $404.05
-- Tagesbewegung: 5.81%
+- Preis: $179
+- Tagesbewegung: 2.26%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $404.05
-- Stop-Loss: $397.03
-- Ziel 1: $414.58
-- Ziel 2: $425.11
+- Einstieg: $179
+- Stop-Loss: $175.96
+- Ziel 1: $183.56
+- Ziel 2: $188.12
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
