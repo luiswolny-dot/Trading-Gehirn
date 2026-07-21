@@ -1,15 +1,15 @@
-# DLR
+# HON
 
 tags: #Aktie #S-P-500
 
-- Preis: $179.5
-- Tagesbewegung: 1.84%
+- Preis: $230.44
+- Tagesbewegung: 1.88%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $179.5
-- Stop-Loss: $177.76
-- Ziel 1: $182.11
-- Ziel 2: $184.71
+- Einstieg: $230.44
+- Stop-Loss: $227.78
+- Ziel 1: $234.42
+- Ziel 2: $238.41
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

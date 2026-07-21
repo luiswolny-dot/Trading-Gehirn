@@ -1,15 +1,15 @@
-# STX
+# FLEX
 
 tags: #Aktie #S-P-500
 
-- Preis: $884.82
-- Tagesbewegung: 10.26%
+- Preis: $126.33
+- Tagesbewegung: 5.35%
 - Gesamt-Score: 74%
-- KGV: 75.6655
-- Einstieg: $884.82
-- Stop-Loss: $862.97
-- Ziel 1: $917.6
-- Ziel 2: $950.39
+- KGV: 50.2162
+- Einstieg: $126.33
+- Stop-Loss: $124.83
+- Ziel 1: $128.57
+- Ziel 2: $130.81
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

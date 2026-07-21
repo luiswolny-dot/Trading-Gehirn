@@ -1,15 +1,15 @@
-# JPM
+# NDSN
 
 tags: #Aktie #S-P-500
 
-- Preis: $343.52
-- Tagesbewegung: 1.37%
+- Preis: $289.2
+- Tagesbewegung: 1.39%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $343.52
-- Stop-Loss: $340.4
-- Ziel 1: $348.2
-- Ziel 2: $352.88
+- Einstieg: $289.2
+- Stop-Loss: $287.05
+- Ziel 1: $292.42
+- Ziel 2: $295.63
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

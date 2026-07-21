@@ -1,15 +1,15 @@
-# DLR
+# PCAR
 
 tags: #Aktie #S-P-500
 
-- Preis: $179.5
-- Tagesbewegung: 1.84%
+- Preis: $126.01
+- Tagesbewegung: 1.35%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $179.5
-- Stop-Loss: $177.76
-- Ziel 1: $182.11
-- Ziel 2: $184.71
+- Einstieg: $126.01
+- Stop-Loss: $125.18
+- Ziel 1: $127.26
+- Ziel 2: $128.5
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

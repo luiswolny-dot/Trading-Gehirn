@@ -1,15 +1,15 @@
-# IRM
+# HPE
 
 tags: #Aktie #S-P-500
 
-- Preis: $127.87
-- Tagesbewegung: 2.93%
+- Preis: $46.54
+- Tagesbewegung: 4.44%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $127.87
-- Stop-Loss: $126.29
-- Ziel 1: $130.24
-- Ziel 2: $132.61
+- Einstieg: $46.54
+- Stop-Loss: $45.96
+- Ziel 1: $47.41
+- Ziel 2: $48.28
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

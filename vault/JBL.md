@@ -1,15 +1,15 @@
-# IRM
+# JBL
 
 tags: #Aktie #S-P-500
 
-- Preis: $127.87
-- Tagesbewegung: 2.93%
+- Preis: $317.69
+- Tagesbewegung: 3.85%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $127.87
-- Stop-Loss: $126.29
-- Ziel 1: $130.24
-- Ziel 2: $132.61
+- Einstieg: $317.69
+- Stop-Loss: $314.48
+- Ziel 1: $322.5
+- Ziel 2: $327.32
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
