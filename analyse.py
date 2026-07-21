@@ -12,9 +12,10 @@ SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/ma
 REQUEST_DELAY = 1.05
 STOOQ_DELAY = 0.3
 DEEP_DIVE_COUNT = 25
-EXPIRY_DAYS = 3
+EXPIRY_DAYS = 1
 ATR_PERIOD = 10
 CHART_POINTS = 20
+MIN_VOLATILITY_PCT = 1.5
 
 STARTING_BALANCE = 100.0
 MAX_CONCURRENT_POSITIONS = 3
@@ -70,7 +71,6 @@ def fetch_company_news(symbol):
     return r.json() or []
 
 def fetch_candles(symbol, days=60):
-    """Historische Tagesdaten über Stooq — kostenlos, kein API-Key, kein Rate-Limit."""
     ticker = symbol.lower() + ".us"
     url = f"https://stooq.com/q/d/l/?s={ticker}&i=d"
     try:
@@ -126,6 +126,7 @@ def analyze_symbol(symbol, quote):
     change_pct = ((c - pc) / pc) * 100
     day_range = h - l if (h and l and h > l) else c * 0.01
     range_pos = 0.5 if day_range == 0 else (c - l) / day_range
+    volatility_pct = round((day_range / c) * 100, 2) if c else 0
 
     raw_score = 50 + (change_pct * 3) + ((range_pos - 0.5) * 40)
     buy_pct = max(2, min(98, round(raw_score)))
@@ -145,6 +146,7 @@ def analyze_symbol(symbol, quote):
         "change_pct": round(change_pct, 2),
         "buy_pct": buy_pct,
         "sell_pct": 100 - buy_pct,
+        "volatility_pct": volatility_pct,
         "entry": entry,
         "stop_loss": stop_loss,
         "target_1": target_1,
@@ -253,10 +255,11 @@ def compute_momentum_quality(candles, current_price):
     return momentum_quality, rsi_value, trend_label, volume_label
 
 def recompute_levels_with_atr(candidate, atr):
+    """Engere Abstände für schnelleres Day-Trading statt mehrtägiger Swings."""
     entry = candidate["entry"]
-    stop_loss = round(entry - atr * 1.0, 2)
-    target_1 = round(entry + atr * 1.5, 2)
-    target_2 = round(entry + atr * 2.5, 2)
+    stop_loss = round(entry - atr * 0.4, 2)
+    target_1 = round(entry + atr * 0.6, 2)
+    target_2 = round(entry + atr * 1.0, 2)
 
     risk = entry - stop_loss
     reward = target_1 - entry
@@ -266,7 +269,7 @@ def recompute_levels_with_atr(candidate, atr):
     candidate["target_1"] = target_1
     candidate["target_2"] = target_2
     candidate["risk_reward"] = risk_reward
-    candidate["target_basis"] = "10-tage-volatilitaet"
+    candidate["target_basis"] = "day-trading-eng"
 
 def deep_dive(candidate):
     symbol = candidate["symbol"]
@@ -337,11 +340,10 @@ def send_notification(pick):
         requests.post(
             f"https://ntfy.sh/{NTFY_TOPIC}",
             data=(f"{pick['symbol']} bei ${pick['entry']} — Gesamt-Score {pick['final_score']}%. "
-                  f"KGV: {pick.get('pe_ratio') or '—'}, News: {pick.get('news_label') or '—'}, "
-                  f"Trend: {pick.get('trend_label') or '—'}. "
+                  f"Volatilität heute: {pick.get('volatility_pct', '—')}%. "
                   f"Stop: ${pick['stop_loss']}, Ziel 1: ${pick['target_1']}").encode("utf-8"),
             headers={
-                "Title": f"Neues Kaufsignal: {pick['symbol']}",
+                "Title": f"Neues Day-Trading-Signal: {pick['symbol']}",
                 "Priority": "high",
                 "Tags": "chart_with_upwards_trend"
             },
@@ -558,7 +560,17 @@ def main():
 
     results.sort(key=lambda r: r["buy_pct"], reverse=True)
 
-    top_candidates = results[:DEEP_DIVE_COUNT]
+    # Nur Aktien mit echter Bewegung kommen in die Tiefenanalyse
+    volatile_candidates = [r for r in results if r["volatility_pct"] >= MIN_VOLATILITY_PCT]
+    volatile_candidates.sort(key=lambda r: r["buy_pct"], reverse=True)
+
+    if len(volatile_candidates) >= DEEP_DIVE_COUNT:
+        top_candidates = volatile_candidates[:DEEP_DIVE_COUNT]
+        print(f"{len(volatile_candidates)} Aktien mit Volatilität >= {MIN_VOLATILITY_PCT}% gefunden, nutze Top {DEEP_DIVE_COUNT}.")
+    else:
+        top_candidates = volatile_candidates + [r for r in results if r not in volatile_candidates][:DEEP_DIVE_COUNT - len(volatile_candidates)]
+        print(f"Nur {len(volatile_candidates)} volatile Aktien gefunden, fülle mit ruhigeren Kandidaten auf.")
+
     for candidate in top_candidates:
         deep_dive(candidate)
 
@@ -579,7 +591,9 @@ def main():
             writer.writeheader()
         writer.writerows(results)
 
-    top_picks = [r for r in results if r["final_score"] >= 60][:3]
+    top_picks = [r for r in top_candidates if r["final_score"] >= 60]
+    top_picks.sort(key=lambda r: r["final_score"], reverse=True)
+    top_picks = top_picks[:3]
     with open("data/recommendation.json", "w") as f:
         json.dump({"timestamp": timestamp, "picks": top_picks}, f, indent=2)
 
