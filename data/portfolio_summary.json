@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-21T17:30:33.895295+00:00",
+  "updated": "2026-07-21T17:45:24.746405+00:00",
   "starting_balance": 100.0,
-  "cash": 0.0,
-  "invested_in_open_positions": 93.66,
-  "total_value": 93.66,
-  "return_pct": -6.34,
-  "open_position_count": 3,
+  "cash": 24.42,
+  "invested_in_open_positions": 66.66,
+  "total_value": 91.08,
+  "return_pct": -8.92,
+  "open_position_count": 2,
   "recent_closed_trades": [
+    {
+      "symbol": "MMM",
+      "opened_at": "2026-07-21T14:21:08.258081+00:00",
+      "resolved_at": "2026-07-21T17:45:24.746405+00:00",
+      "invested_eur": 27.0,
+      "net_pnl_eur": -2.58,
+      "status": "stop_loss_ausgeloest"
+    },
     {
       "symbol": "GPN",
       "opened_at": "2026-07-20T22:00:40.000000+00:00",
