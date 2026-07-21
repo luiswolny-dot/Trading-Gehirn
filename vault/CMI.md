@@ -1,15 +1,15 @@
-# IBKR
+# CMI
 
 tags: #Aktie #S-P-500
 
-- Preis: $94.81
-- Tagesbewegung: 3.41%
+- Preis: $660.05
+- Tagesbewegung: 3.22%
 - Gesamt-Score: 79%
 - KGV: —
-- Einstieg: $94.81
-- Stop-Loss: $93.92
-- Ziel 1: $96.15
-- Ziel 2: $97.48
+- Einstieg: $660.05
+- Stop-Loss: $653.69
+- Ziel 1: $669.58
+- Ziel 2: $679.11
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
