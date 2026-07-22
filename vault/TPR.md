@@ -1,15 +1,15 @@
-# HBAN
+# TPR
 
 tags: #Aktie #S-P-500
 
-- Preis: $18.33
-- Tagesbewegung: 0.88%
+- Preis: $143.48
+- Tagesbewegung: 0.93%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $18.33
-- Stop-Loss: $18.23
-- Ziel 1: $18.48
-- Ziel 2: $18.63
+- Einstieg: $143.48
+- Stop-Loss: $141.69
+- Ziel 1: $146.17
+- Ziel 2: $148.87
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

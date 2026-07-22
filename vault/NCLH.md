@@ -1,15 +1,15 @@
-# HBAN
+# NCLH
 
 tags: #Aktie #S-P-500
 
-- Preis: $18.33
-- Tagesbewegung: 0.88%
+- Preis: $19.65
+- Tagesbewegung: 1.03%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $18.33
-- Stop-Loss: $18.23
-- Ziel 1: $18.48
-- Ziel 2: $18.63
+- Einstieg: $19.65
+- Stop-Loss: $19.36
+- Ziel 1: $20.08
+- Ziel 2: $20.52
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

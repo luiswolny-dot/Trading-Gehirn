@@ -1,15 +1,15 @@
-# LHX
+# TKO
 
 tags: #Aktie #S-P-500
 
-- Preis: $284.98
-- Tagesbewegung: 2.62%
+- Preis: $183.01
+- Tagesbewegung: 0.72%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $284.98
-- Stop-Loss: $281.8
-- Ziel 1: $289.76
-- Ziel 2: $294.54
+- Einstieg: $183.01
+- Stop-Loss: $182.08
+- Ziel 1: $184.4
+- Ziel 2: $185.78
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
