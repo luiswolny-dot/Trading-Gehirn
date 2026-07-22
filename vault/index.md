@@ -8,10 +8,10 @@ Trefferquote: 40% über 5 abgeschlossene Empfehlungen.
 - [[SNDK]] — Score 80%
 - [[INTC]] — Score 78%
 - [[FCX]] — Score 78%
-- [[GM]] — Score 78%
 - [[ON]] — Score 78%
 - [[HOOD]] — Score 78%
 - [[UPS]] — Score 78%
+- [[GM]] — Score 77%
 - [[AMAT]] — Score 77%
 - [[CNC]] — Score 77%
 - [[CI]] — Score 77%
