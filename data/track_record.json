@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-22T19:00:42.170373+00:00",
-  "total_closed": 12,
+  "updated": "2026-07-22T19:15:20.600605+00:00",
+  "total_closed": 13,
   "wins": 6,
-  "losses": 6,
-  "win_rate": 50,
+  "losses": 7,
+  "win_rate": 46,
   "avg_win": 2.96,
   "avg_loss": -1.86,
-  "expectancy": 0.55,
-  "total_pnl": 6.58,
-  "still_open": 10,
+  "expectancy": 0.36,
+  "total_pnl": 4.73,
+  "still_open": 9,
   "recent": [
+    {
+      "id": "SYY_2026-07-22T15:30:34.403203+00:00",
+      "symbol": "SYY",
+      "opened_at": "2026-07-22T15:30:34.403203+00:00",
+      "entry": "82.84",
+      "stop_loss": "82.11",
+      "target_1": "83.94",
+      "target_2": "85.04",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-07-22T19:15:20.600605+00:00",
+      "resolved_price": 81.31,
+      "pnl_pct": -1.85,
+      "invested_eur": ""
+    },
     {
       "id": "NEM_2026-07-22T14:00:43.544440+00:00",
       "symbol": "NEM",
@@ -135,20 +149,6 @@
       "resolved_price": "974.31",
       "pnl_pct": "2.82",
       "invested_eur": ""
-    },
-    {
-      "id": "GPN_2026-07-20T22:00:40.000000+00:00",
-      "symbol": "GPN",
-      "opened_at": "2026-07-20T22:00:40.000000+00:00",
-      "entry": "82.19",
-      "stop_loss": "80.26",
-      "target_1": "84.03",
-      "target_2": "86.3",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-21T16:05:00+00:00",
-      "resolved_price": "82.24",
-      "pnl_pct": "0.06",
-      "invested_eur": "33.33"
     }
   ]
 }

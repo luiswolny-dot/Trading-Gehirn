@@ -1,15 +1,15 @@
-# NEE
+# TECH
 
 tags: #Aktie #S-P-500
 
-- Preis: $89.53
-- Tagesbewegung: 1.82%
+- Preis: $71.85
+- Tagesbewegung: 0.31%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $89.53
-- Stop-Loss: $88.87
-- Ziel 1: $90.53
-- Ziel 2: $91.53
+- Einstieg: $71.85
+- Stop-Loss: $71.68
+- Ziel 1: $72.1
+- Ziel 2: $72.35
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
