@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-22T14:00:43.544440+00:00",
-  "total_closed": 8,
-  "wins": 3,
+  "updated": "2026-07-22T14:15:33.890777+00:00",
+  "total_closed": 9,
+  "wins": 4,
   "losses": 5,
-  "win_rate": 38,
-  "avg_win": 2.19,
+  "win_rate": 44,
+  "avg_win": 2.41,
   "avg_loss": -1.99,
-  "expectancy": -0.4,
-  "total_pnl": -3.39,
-  "still_open": 6,
+  "expectancy": -0.05,
+  "total_pnl": -0.33,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "DELL_2026-07-22T13:30:37.624570+00:00",
+      "symbol": "DELL",
+      "opened_at": "2026-07-22T13:30:37.624570+00:00",
+      "entry": "430.23",
+      "stop_loss": "421.75",
+      "target_1": "442.96",
+      "target_2": "455.68",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-22T14:15:33.890777+00:00",
+      "resolved_price": 443.38,
+      "pnl_pct": 3.06,
+      "invested_eur": ""
+    },
     {
       "id": "WDC_2026-07-21T14:21:08.258081+00:00",
       "symbol": "WDC",
@@ -20,8 +34,8 @@
       "target_2": "572.52",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-22T14:00:43.544440+00:00",
-      "resolved_price": 557.98,
-      "pnl_pct": 3.69,
+      "resolved_price": "557.98",
+      "pnl_pct": "3.69",
       "invested_eur": "33.33"
     },
     {

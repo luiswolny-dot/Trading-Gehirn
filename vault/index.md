@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 38% über 8 abgeschlossene Empfehlungen.
+Trefferquote: 44% über 9 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SMCI]] — Score 82%
 - [[DELL]] — Score 80%
-- [[NEM]] — Score 80%
-- [[HPE]] — Score 79%
-- [[CBOE]] — Score 79%
-- [[DVN]] — Score 77%
-- [[SRE]] — Score 77%
+- [[CME]] — Score 79%
+- [[HPE]] — Score 78%
+- [[SLB]] — Score 78%
+- [[CBOE]] — Score 77%
 - [[VST]] — Score 77%
 - [[WAB]] — Score 76%
-- [[CME]] — Score 76%
-- [[GM]] — Score 76%
-- [[AES]] — Score 75%
-- [[FANG]] — Score 75%
-- [[LDOS]] — Score 75%
-- [[PNR]] — Score 75%
-- [[YUM]] — Score 75%
-- [[EQT]] — Score 74%
-- [[NOC]] — Score 74%
-- [[CEG]] — Score 74%
-- [[F]] — Score 74%
-- [[AMD]] — Score 74%
-- [[DOV]] — Score 74%
-- [[EIX]] — Score 74%
-- [[ETR]] — Score 74%
-- [[GILD]] — Score 74%
-- [[MAS]] — Score 74%
-- [[MRK]] — Score 74%
-- [[OXY]] — Score 74%
-- [[PKG]] — Score 74%
+- [[EQT]] — Score 76%
+- [[DVN]] — Score 76%
+- [[GD]] — Score 76%
+- [[PEG]] — Score 76%
+- [[CEG]] — Score 75%
+- [[QCOM]] — Score 75%
+- [[ALLE]] — Score 75%
+- [[AEP]] — Score 75%
+- [[BKR]] — Score 75%
+- [[PPG]] — Score 75%
+- [[AWK]] — Score 74%
+- [[CAH]] — Score 74%
+- [[CL]] — Score 74%
+- [[COP]] — Score 74%
+- [[FANG]] — Score 74%
+- [[D]] — Score 74%
+- [[EVRG]] — Score 74%
+- [[HRL]] — Score 74%
 - [[SJM]] — Score 74%
+- [[SYY]] — Score 74%
+- [[WDC]] — Score 74%
+- [[AEE]] — Score 73%
