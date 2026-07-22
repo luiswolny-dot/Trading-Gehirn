@@ -1,15 +1,15 @@
-# ATO
+# MTB
 
 tags: #Aktie #S-P-500
 
-- Preis: $177.68
-- Tagesbewegung: 1.5%
+- Preis: $250.13
+- Tagesbewegung: 0.59%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $177.68
-- Stop-Loss: $176.86
-- Ziel 1: $178.92
-- Ziel 2: $180.16
+- Einstieg: $250.13
+- Stop-Loss: $248.61
+- Ziel 1: $252.41
+- Ziel 2: $254.7
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-22T19:15:20.600605+00:00",
-  "total_closed": 13,
+  "updated": "2026-07-22T19:30:30.712180+00:00",
+  "total_closed": 14,
   "wins": 6,
-  "losses": 7,
-  "win_rate": 46,
+  "losses": 8,
+  "win_rate": 43,
   "avg_win": 2.96,
-  "avg_loss": -1.86,
-  "expectancy": 0.36,
-  "total_pnl": 4.73,
-  "still_open": 9,
+  "avg_loss": -1.97,
+  "expectancy": 0.15,
+  "total_pnl": 1.93,
+  "still_open": 8,
   "recent": [
+    {
+      "id": "CBOE_2026-07-22T13:45:30.194380+00:00",
+      "symbol": "CBOE",
+      "opened_at": "2026-07-22T13:45:30.194380+00:00",
+      "entry": "288.1",
+      "stop_loss": "280.23",
+      "target_1": "299.91",
+      "target_2": "311.71",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-07-22T19:30:30.712180+00:00",
+      "resolved_price": 280.04,
+      "pnl_pct": -2.8,
+      "invested_eur": ""
+    },
     {
       "id": "SYY_2026-07-22T15:30:34.403203+00:00",
       "symbol": "SYY",
@@ -20,8 +34,8 @@
       "target_2": "85.04",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-22T19:15:20.600605+00:00",
-      "resolved_price": 81.31,
-      "pnl_pct": -1.85,
+      "resolved_price": "81.31",
+      "pnl_pct": "-1.85",
       "invested_eur": ""
     },
     {
@@ -135,20 +149,6 @@
       "resolved_price": "171.01",
       "pnl_pct": "-2.13",
       "invested_eur": "27.0"
-    },
-    {
-      "id": "MU_2026-07-21T15:00:49.134408+00:00",
-      "symbol": "MU",
-      "opened_at": "2026-07-21T15:00:49.134408+00:00",
-      "entry": "947.57",
-      "stop_loss": "931.36",
-      "target_1": "971.89",
-      "target_2": "996.21",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-21T16:45:24.510212+00:00",
-      "resolved_price": "974.31",
-      "pnl_pct": "2.82",
-      "invested_eur": ""
     }
   ]
 }
