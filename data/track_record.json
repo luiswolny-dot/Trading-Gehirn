@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T15:15:35.730667+00:00",
+  "updated": "2026-07-22T15:30:34.403203+00:00",
   "total_closed": 11,
   "wins": 6,
   "losses": 5,
@@ -8,7 +8,7 @@
   "avg_loss": -1.99,
   "expectancy": 0.73,
   "total_pnl": 7.77,
-  "still_open": 7,
+  "still_open": 8,
   "recent": [
     {
       "id": "SNDK_2026-07-21T15:00:49.134408+00:00",
@@ -20,8 +20,8 @@
       "target_2": "1648.06",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-22T15:15:35.730667+00:00",
-      "resolved_price": 1601.4,
-      "pnl_pct": 3.21,
+      "resolved_price": "1601.4",
+      "pnl_pct": "3.21",
       "invested_eur": ""
     },
     {
