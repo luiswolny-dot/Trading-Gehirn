@@ -1,15 +1,15 @@
-# APTV
+# HII
 
 tags: #Aktie #S-P-500
 
-- Preis: $58.7
-- Tagesbewegung: 1.36%
+- Preis: $277.01
+- Tagesbewegung: 3.07%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $58.7
-- Stop-Loss: $58.24
-- Ziel 1: $59.39
-- Ziel 2: $60.08
+- Einstieg: $277.01
+- Stop-Loss: $274.03
+- Ziel 1: $281.48
+- Ziel 2: $285.94
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

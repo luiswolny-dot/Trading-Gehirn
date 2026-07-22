@@ -1,15 +1,15 @@
-# D
+# LNT
 
 tags: #Aktie #S-P-500
 
-- Preis: $70.97
-- Tagesbewegung: 1.6%
+- Preis: $74.04
+- Tagesbewegung: 1.27%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $70.97
-- Stop-Loss: $70.55
-- Ziel 1: $71.6
-- Ziel 2: $72.22
+- Einstieg: $74.04
+- Stop-Loss: $73.69
+- Ziel 1: $74.56
+- Ziel 2: $75.08
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
