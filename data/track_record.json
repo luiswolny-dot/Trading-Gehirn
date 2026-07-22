@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T20:15:24.396699+00:00",
+  "updated": "2026-07-22T20:30:33.698609+00:00",
   "total_closed": 14,
   "wins": 6,
   "losses": 8,
@@ -8,7 +8,7 @@
   "avg_loss": -1.97,
   "expectancy": 0.15,
   "total_pnl": 1.93,
-  "still_open": 8,
+  "still_open": 9,
   "recent": [
     {
       "id": "CBOE_2026-07-22T13:45:30.194380+00:00",

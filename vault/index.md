@@ -5,8 +5,8 @@ Trefferquote: 43% über 14 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[SMCI]] — Score 81%
 - [[EQT]] — Score 80%
+- [[PCG]] — Score 78%
 - [[DELL]] — Score 77%
-- [[PCG]] — Score 77%
 - [[BLK]] — Score 77%
 - [[CEG]] — Score 76%
 - [[FCX]] — Score 76%
