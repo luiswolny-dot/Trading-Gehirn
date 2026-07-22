@@ -1,7 +1,7 @@
 {
-  "cash": 24.42,
+  "cash": 21.48,
   "starting_balance": 100.0,
-  "updated": "2026-07-22T13:15:26.900574+00:00",
+  "updated": "2026-07-22T13:30:37.624570+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -33,6 +33,14 @@
       "resolved_at": "2026-07-21T17:45:24.746405+00:00",
       "invested_eur": 27.0,
       "net_pnl_eur": -2.58,
+      "status": "stop_loss_ausgeloest"
+    },
+    {
+      "symbol": "HOOD",
+      "opened_at": "2026-07-21T14:21:08.258081+00:00",
+      "resolved_at": "2026-07-22T13:30:37.624570+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.94,
       "status": "stop_loss_ausgeloest"
     }
   ]
