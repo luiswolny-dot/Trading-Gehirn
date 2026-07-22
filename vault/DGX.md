@@ -1,15 +1,15 @@
-# HBAN
+# DGX
 
 tags: #Aktie #S-P-500
 
-- Preis: $18.38
-- Tagesbewegung: 1.16%
+- Preis: $208.94
+- Tagesbewegung: 1.02%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $18.38
-- Stop-Loss: $18.25
-- Ziel 1: $18.57
-- Ziel 2: $18.77
+- Einstieg: $208.94
+- Stop-Loss: $207.12
+- Ziel 1: $211.68
+- Ziel 2: $214.41
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
