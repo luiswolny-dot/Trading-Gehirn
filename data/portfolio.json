@@ -1,7 +1,7 @@
 {
-  "cash": 21.48,
+  "cash": 54.04,
   "starting_balance": 100.0,
-  "updated": "2026-07-22T13:45:30.194380+00:00",
+  "updated": "2026-07-22T14:00:43.544440+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -42,6 +42,14 @@
       "invested_eur": 33.33,
       "net_pnl_eur": -2.94,
       "status": "stop_loss_ausgeloest"
+    },
+    {
+      "symbol": "WDC",
+      "opened_at": "2026-07-21T14:21:08.258081+00:00",
+      "resolved_at": "2026-07-22T14:00:43.544440+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -0.77,
+      "status": "ziel_1_erreicht"
     }
   ]
 }
