@@ -1,15 +1,15 @@
-# PPL
+# MCHP
 
 tags: #Aktie #S-P-500
 
-- Preis: $36.03
-- Tagesbewegung: 1.75%
+- Preis: $85.27
+- Tagesbewegung: 2.27%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $36.03
-- Stop-Loss: $35.8
-- Ziel 1: $36.37
-- Ziel 2: $36.71
+- Einstieg: $85.27
+- Stop-Loss: $83.36
+- Ziel 1: $88.14
+- Ziel 2: $91.01
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
