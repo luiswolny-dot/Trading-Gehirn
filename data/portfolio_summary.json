@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-22T14:30:33.060659+00:00",
+  "updated": "2026-07-22T14:45:22.934667+00:00",
   "starting_balance": 100.0,
-  "cash": 54.04,
-  "invested_in_open_positions": 33.33,
-  "total_value": 87.37,
-  "return_pct": -12.63,
-  "open_position_count": 1,
+  "cash": 87.0,
+  "invested_in_open_positions": 0,
+  "total_value": 87.0,
+  "return_pct": -13.0,
+  "open_position_count": 0,
   "recent_closed_trades": [
+    {
+      "symbol": "SMCI",
+      "opened_at": "2026-07-22T13:30:37.624570+00:00",
+      "resolved_at": "2026-07-22T14:45:22.934667+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -0.37,
+      "status": "ziel_1_erreicht"
+    },
     {
       "symbol": "WDC",
       "opened_at": "2026-07-21T14:21:08.258081+00:00",
