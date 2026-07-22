@@ -1,15 +1,15 @@
-# AEP
+# WM
 
 tags: #Aktie #S-P-500
 
-- Preis: $133.05
-- Tagesbewegung: 1.97%
+- Preis: $236.18
+- Tagesbewegung: 1.29%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $133.05
-- Stop-Loss: $132.06
-- Ziel 1: $134.54
-- Ziel 2: $136.03
+- Einstieg: $236.18
+- Stop-Loss: $234.79
+- Ziel 1: $238.27
+- Ziel 2: $240.35
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
