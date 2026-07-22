@@ -9,7 +9,6 @@ Trefferquote: 40% über 5 abgeschlossene Empfehlungen.
 - [[INTC]] — Score 78%
 - [[FCX]] — Score 78%
 - [[GM]] — Score 78%
-- [[ON]] — Score 78%
 - [[HOOD]] — Score 78%
 - [[UPS]] — Score 78%
 - [[AMAT]] — Score 77%
@@ -33,3 +32,4 @@ Trefferquote: 40% über 5 abgeschlossene Empfehlungen.
 - [[UNH]] — Score 75%
 - [[ELV]] — Score 75%
 - [[HAS]] — Score 75%
+- [[LLY]] — Score 75%
