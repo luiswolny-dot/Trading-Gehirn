@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-22T15:00:41.368760+00:00",
-  "total_closed": 10,
-  "wins": 5,
+  "updated": "2026-07-22T15:15:35.730667+00:00",
+  "total_closed": 11,
+  "wins": 6,
   "losses": 5,
-  "win_rate": 50,
-  "avg_win": 2.9,
+  "win_rate": 55,
+  "avg_win": 2.96,
   "avg_loss": -1.99,
-  "expectancy": 0.45,
-  "total_pnl": 4.56,
-  "still_open": 8,
+  "expectancy": 0.73,
+  "total_pnl": 7.77,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "SNDK_2026-07-21T15:00:49.134408+00:00",
+      "symbol": "SNDK",
+      "opened_at": "2026-07-21T15:00:49.134408+00:00",
+      "entry": "1551.53",
+      "stop_loss": "1519.35",
+      "target_1": "1599.8",
+      "target_2": "1648.06",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-22T15:15:35.730667+00:00",
+      "resolved_price": 1601.4,
+      "pnl_pct": 3.21,
+      "invested_eur": ""
+    },
     {
       "id": "SMCI_2026-07-22T13:30:37.624570+00:00",
       "symbol": "SMCI",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-21T16:05:00+00:00",
       "resolved_price": "276.61",
       "pnl_pct": "-0.56",
-      "invested_eur": "33.33"
-    },
-    {
-      "id": "MSFT_2026-07-20T22:00:40.000000+00:00",
-      "symbol": "MSFT",
-      "opened_at": "2026-07-20T22:00:40.000000+00:00",
-      "entry": "401.5",
-      "stop_loss": "",
-      "target_1": "",
-      "target_2": "",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-21T16:05:00+00:00",
-      "resolved_price": "399.43",
-      "pnl_pct": "-0.52",
       "invested_eur": "33.33"
     }
   ]
