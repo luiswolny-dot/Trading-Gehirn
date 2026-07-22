@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T22:45:26.596831+00:00",
+  "timestamp": "2026-07-22T23:00:38.013344+00:00",
   "picks": [
     {
       "symbol": "SMCI",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-22T22:45:26.596831+00:00",
+      "timestamp": "2026-07-22T23:00:38.013344+00:00",
       "fundamental_score": 70,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-22T22:45:26.596831+00:00",
+      "timestamp": "2026-07-22T23:00:38.013344+00:00",
       "fundamental_score": 68,
       "news_score": 98,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-22T22:45:26.596831+00:00",
+      "timestamp": "2026-07-22T23:00:38.013344+00:00",
       "fundamental_score": 77,
       "news_score": 100,
       "momentum_quality": 50
