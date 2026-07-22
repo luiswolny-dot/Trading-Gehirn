@@ -1,15 +1,15 @@
-# PNR
+# NXPI
 
 tags: #Aktie #S-P-500
 
-- Preis: $62.75
-- Tagesbewegung: 2.07%
+- Preis: $275.37
+- Tagesbewegung: 0.81%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $62.75
-- Stop-Loss: $62.05
-- Ziel 1: $63.81
-- Ziel 2: $64.87
+- Einstieg: $275.37
+- Stop-Loss: $272.12
+- Ziel 1: $280.24
+- Ziel 2: $285.1
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

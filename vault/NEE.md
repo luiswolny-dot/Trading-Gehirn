@@ -1,15 +1,15 @@
-# JNJ
+# NEE
 
 tags: #Aktie #S-P-500
 
-- Preis: $254.16
+- Preis: $89.18
 - Tagesbewegung: 1.42%
-- Gesamt-Score: 72%
+- Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $254.16
-- Stop-Loss: $252.58
-- Ziel 1: $256.53
-- Ziel 2: $258.9
+- Einstieg: $89.18
+- Stop-Loss: $88.72
+- Ziel 1: $89.87
+- Ziel 2: $90.56
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

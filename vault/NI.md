@@ -1,15 +1,15 @@
-# DVN
+# NI
 
 tags: #Aktie #S-P-500
 
-- Preis: $45.15
-- Tagesbewegung: 2.38%
+- Preis: $46.22
+- Tagesbewegung: 1.87%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $45.15
-- Stop-Loss: $44.87
-- Ziel 1: $45.57
-- Ziel 2: $45.99
+- Einstieg: $46.22
+- Stop-Loss: $45.92
+- Ziel 1: $46.67
+- Ziel 2: $47.12
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

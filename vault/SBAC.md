@@ -1,15 +1,15 @@
-# PNR
+# SBAC
 
 tags: #Aktie #S-P-500
 
-- Preis: $62.75
-- Tagesbewegung: 2.07%
+- Preis: $178.97
+- Tagesbewegung: 1.22%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $62.75
-- Stop-Loss: $62.05
-- Ziel 1: $63.81
-- Ziel 2: $64.87
+- Einstieg: $178.97
+- Stop-Loss: $178.09
+- Ziel 1: $180.28
+- Ziel 2: $181.59
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
