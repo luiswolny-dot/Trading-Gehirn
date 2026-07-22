@@ -1,15 +1,15 @@
-# EVRG
+# FE
 
 tags: #Aktie #S-P-500
 
-- Preis: $86.21
-- Tagesbewegung: 1.52%
+- Preis: $49.08
+- Tagesbewegung: 1.43%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $86.21
-- Stop-Loss: $85.68
-- Ziel 1: $87.0
-- Ziel 2: $87.8
+- Einstieg: $49.08
+- Stop-Loss: $48.81
+- Ziel 1: $49.48
+- Ziel 2: $49.88
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
