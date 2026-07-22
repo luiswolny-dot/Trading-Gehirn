@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:00:44.546542+00:00",
+  "updated": "2026-07-22T17:15:23.354703+00:00",
   "total_closed": 11,
   "wins": 6,
   "losses": 5,
@@ -8,7 +8,7 @@
   "avg_loss": -1.99,
   "expectancy": 0.73,
   "total_pnl": 7.77,
-  "still_open": 9,
+  "still_open": 10,
   "recent": [
     {
       "id": "SNDK_2026-07-21T15:00:49.134408+00:00",
