@@ -12,7 +12,6 @@ Trefferquote: 40% über 5 abgeschlossene Empfehlungen.
 - [[ON]] — Score 78%
 - [[HOOD]] — Score 78%
 - [[UPS]] — Score 78%
-- [[ELV]] — Score 77%
 - [[AMAT]] — Score 77%
 - [[CNC]] — Score 77%
 - [[CI]] — Score 77%
@@ -30,6 +29,7 @@ Trefferquote: 40% über 5 abgeschlossene Empfehlungen.
 - [[WAB]] — Score 76%
 - [[COHR]] — Score 75%
 - [[TER]] — Score 75%
-- [[FLEX]] — Score 75%
 - [[APH]] — Score 75%
 - [[UNH]] — Score 75%
+- [[ELV]] — Score 75%
+- [[HAS]] — Score 75%
