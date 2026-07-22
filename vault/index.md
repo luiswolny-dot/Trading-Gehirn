@@ -5,7 +5,7 @@ Trefferquote: 40% über 5 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[MU]] — Score 86%
 - [[WDC]] — Score 86%
-- [[SNDK]] — Score 82%
+- [[SNDK]] — Score 80%
 - [[INTC]] — Score 78%
 - [[FCX]] — Score 78%
 - [[GM]] — Score 78%
