@@ -1,15 +1,15 @@
-# AMGN
+# IBM
 
 tags: #Aktie #S-P-500
 
-- Preis: $368.48
-- Tagesbewegung: 0.66%
+- Preis: $206.85
+- Tagesbewegung: 0.52%
 - Gesamt-Score: 69%
 - KGV: —
-- Einstieg: $368.48
-- Stop-Loss: $363.43
-- Ziel 1: $376.06
-- Ziel 2: $383.64
+- Einstieg: $206.85
+- Stop-Loss: $202.7
+- Ziel 1: $213.07
+- Ziel 2: $219.28
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

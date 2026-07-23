@@ -1,15 +1,15 @@
-# RTX
+# CINF
 
 tags: #Aktie #S-P-500
 
-- Preis: $209.63
-- Tagesbewegung: 7.57%
+- Preis: $179.85
+- Tagesbewegung: 0.35%
 - Gesamt-Score: 72%
-- KGV: 35.987
-- Einstieg: $209.63
-- Stop-Loss: $204.14
-- Ziel 1: $217.87
-- Ziel 2: $226.1
+- KGV: 10.0364
+- Einstieg: $179.85
+- Stop-Loss: $178.39
+- Ziel 1: $182.04
+- Ziel 2: $184.23
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

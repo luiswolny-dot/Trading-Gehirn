@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 36% über 22 abgeschlossene Empfehlungen.
+Trefferquote: 39% über 23 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[ALLE]] — Score 88%
-- [[LMT]] — Score 84%
+- [[LMT]] — Score 88%
 - [[URI]] — Score 80%
-- [[DHR]] — Score 77%
 - [[TMO]] — Score 77%
-- [[CBOE]] — Score 77%
-- [[LHX]] — Score 76%
-- [[CB]] — Score 74%
-- [[HON]] — Score 73%
-- [[COP]] — Score 73%
+- [[HON]] — Score 75%
+- [[DHR]] — Score 75%
+- [[LHX]] — Score 75%
+- [[CB]] — Score 75%
+- [[FAST]] — Score 75%
 - [[RTX]] — Score 72%
-- [[PGR]] — Score 72%
-- [[CSX]] — Score 71%
-- [[EXC]] — Score 71%
-- [[XOM]] — Score 71%
-- [[FAST]] — Score 71%
-- [[HIG]] — Score 71%
-- [[JNJ]] — Score 71%
-- [[NEE]] — Score 71%
-- [[RSG]] — Score 71%
-- [[WEC]] — Score 71%
-- [[WELL]] — Score 71%
-- [[TRV]] — Score 70%
+- [[CINF]] — Score 72%
+- [[SNDK]] — Score 71%
+- [[GE]] — Score 71%
+- [[GD]] — Score 71%
 - [[ALL]] — Score 70%
-- [[AEP]] — Score 70%
-- [[CME]] — Score 70%
-- [[GD]] — Score 70%
-- [[L]] — Score 70%
-- [[TSCO]] — Score 70%
+- [[TRV]] — Score 70%
+- [[AWK]] — Score 70%
+- [[CSX]] — Score 70%
+- [[EXC]] — Score 70%
+- [[HIG]] — Score 70%
 - [[WRB]] — Score 70%
+- [[BIIB]] — Score 69%
+- [[LNT]] — Score 69%
+- [[AMGN]] — Score 69%
+- [[COR]] — Score 69%
+- [[IBM]] — Score 69%
+- [[PCAR]] — Score 69%
+- [[PYPL]] — Score 69%
+- [[WAB]] — Score 69%
+- [[MRK]] — Score 68%
