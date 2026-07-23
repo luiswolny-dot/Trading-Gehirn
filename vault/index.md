@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 42% über 26 abgeschlossene Empfehlungen.
+Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[ALLE]] — Score 86%
-- [[LMT]] — Score 85%
-- [[GEV]] — Score 79%
+- [[LMT]] — Score 86%
+- [[ALLE]] — Score 85%
+- [[GEV]] — Score 78%
+- [[WRB]] — Score 78%
 - [[DHR]] — Score 77%
 - [[EXC]] — Score 77%
-- [[WRB]] — Score 77%
-- [[URI]] — Score 76%
+- [[URI]] — Score 75%
+- [[TMO]] — Score 75%
 - [[CB]] — Score 74%
 - [[GE]] — Score 73%
+- [[SO]] — Score 73%
+- [[SYK]] — Score 72%
+- [[ETR]] — Score 72%
 - [[RTX]] — Score 71%
-- [[SYK]] — Score 71%
-- [[AFL]] — Score 71%
 - [[AMGN]] — Score 71%
-- [[CEG]] — Score 71%
-- [[LHX]] — Score 71%
-- [[EMR]] — Score 69%
-- [[NTRS]] — Score 69%
-- [[OKE]] — Score 69%
-- [[PYPL]] — Score 69%
-- [[VTRS]] — Score 69%
-- [[WYNN]] — Score 69%
-- [[ACGL]] — Score 68%
-- [[CSX]] — Score 68%
-- [[DGX]] — Score 68%
-- [[ETR]] — Score 68%
-- [[FDXF]] — Score 68%
-- [[HON]] — Score 68%
-- [[MET]] — Score 68%
-- [[TMO]] — Score 68%
-- [[WFC]] — Score 68%
+- [[AFL]] — Score 71%
+- [[WEC]] — Score 71%
+- [[CSX]] — Score 70%
+- [[EMR]] — Score 70%
+- [[BSX]] — Score 70%
+- [[DUK]] — Score 70%
+- [[ERIE]] — Score 70%
+- [[GILD]] — Score 70%
+- [[UHS]] — Score 70%
+- [[ACGL]] — Score 69%
+- [[CEG]] — Score 69%
+- [[FDXF]] — Score 69%
+- [[LHX]] — Score 69%
+- [[L]] — Score 69%
+- [[PKG]] — Score 69%

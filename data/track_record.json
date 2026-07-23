@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-23T18:45:25.298394+00:00",
-  "total_closed": 26,
+  "updated": "2026-07-23T19:00:43.827041+00:00",
+  "total_closed": 27,
   "wins": 11,
-  "losses": 15,
-  "win_rate": 42,
+  "losses": 16,
+  "win_rate": 41,
   "avg_win": 2.18,
-  "avg_loss": -1.73,
-  "expectancy": -0.09,
-  "total_pnl": -1.93,
-  "still_open": 7,
+  "avg_loss": -1.77,
+  "expectancy": -0.15,
+  "total_pnl": -4.42,
+  "still_open": 6,
   "recent": [
+    {
+      "id": "MU_2026-07-23T16:30:31.335122+00:00",
+      "symbol": "MU",
+      "opened_at": "2026-07-23T16:30:31.335122+00:00",
+      "entry": "1010.6",
+      "stop_loss": "987.31",
+      "target_1": "1045.54",
+      "target_2": "1080.49",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-07-23T19:00:43.827041+00:00",
+      "resolved_price": 985.42,
+      "pnl_pct": -2.49,
+      "invested_eur": ""
+    },
     {
       "id": "VST_2026-07-22T18:15:28.519465+00:00",
       "symbol": "VST",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-23T14:00:45.466598+00:00",
       "resolved_price": "209.03",
       "pnl_pct": "-2.12",
-      "invested_eur": ""
-    },
-    {
-      "id": "STLD_2026-07-23T13:30:39.943102+00:00",
-      "symbol": "STLD",
-      "opened_at": "2026-07-23T13:30:39.943102+00:00",
-      "entry": "246.39",
-      "stop_loss": "243.41",
-      "target_1": "250.86",
-      "target_2": "255.33",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-07-23T14:00:45.466598+00:00",
-      "resolved_price": "243.03",
-      "pnl_pct": "-1.36",
       "invested_eur": ""
     }
   ]
