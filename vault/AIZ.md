@@ -1,15 +1,15 @@
-# EMR
+# AIZ
 
 tags: #Aktie #S-P-500
 
-- Preis: $143.47
-- Tagesbewegung: 2.75%
+- Preis: $273.45
+- Tagesbewegung: 0.11%
 - Gesamt-Score: 65%
 - KGV: —
-- Einstieg: $143.47
-- Stop-Loss: $139.85
-- Ziel 1: $148.9
-- Ziel 2: $154.32
+- Einstieg: $273.45
+- Stop-Loss: $271.34
+- Ziel 1: $276.62
+- Ziel 2: $279.79
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
