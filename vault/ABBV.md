@@ -1,15 +1,15 @@
-# WELL
+# ABBV
 
 tags: #Aktie #S-P-500
 
-- Preis: $248.39
-- Tagesbewegung: 1.37%
+- Preis: $256.12
+- Tagesbewegung: 1.11%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $248.39
-- Stop-Loss: $245.76
-- Ziel 1: $252.33
-- Ziel 2: $256.26
+- Einstieg: $256.12
+- Stop-Loss: $254.5
+- Ziel 1: $258.56
+- Ziel 2: $260.99
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

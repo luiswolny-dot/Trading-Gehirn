@@ -1,15 +1,15 @@
-# WELL
+# HIG
 
 tags: #Aktie #S-P-500
 
-- Preis: $248.39
-- Tagesbewegung: 1.37%
+- Preis: $141.48
+- Tagesbewegung: 0.45%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $248.39
-- Stop-Loss: $245.76
-- Ziel 1: $252.33
-- Ziel 2: $256.26
+- Einstieg: $141.48
+- Stop-Loss: $140.64
+- Ziel 1: $142.73
+- Ziel 2: $143.99
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

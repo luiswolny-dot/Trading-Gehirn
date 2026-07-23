@@ -1,15 +1,15 @@
-# WELL
+# CTAS
 
 tags: #Aktie #S-P-500
 
-- Preis: $248.39
-- Tagesbewegung: 1.37%
+- Preis: $202.3
+- Tagesbewegung: 0.47%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $248.39
-- Stop-Loss: $245.76
-- Ziel 1: $252.33
-- Ziel 2: $256.26
+- Einstieg: $202.3
+- Stop-Loss: $201.09
+- Ziel 1: $204.12
+- Ziel 2: $205.94
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

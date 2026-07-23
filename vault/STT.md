@@ -1,15 +1,15 @@
-# WELL
+# STT
 
 tags: #Aktie #S-P-500
 
-- Preis: $248.39
-- Tagesbewegung: 1.37%
+- Preis: $185.94
+- Tagesbewegung: 0.38%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $248.39
-- Stop-Loss: $245.76
-- Ziel 1: $252.33
-- Ziel 2: $256.26
+- Einstieg: $185.94
+- Stop-Loss: $184.46
+- Ziel 1: $188.16
+- Ziel 2: $190.39
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

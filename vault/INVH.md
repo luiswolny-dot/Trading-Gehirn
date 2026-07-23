@@ -1,15 +1,15 @@
-# WELL
+# INVH
 
 tags: #Aktie #S-P-500
 
-- Preis: $248.39
-- Tagesbewegung: 1.37%
+- Preis: $29.8
+- Tagesbewegung: 1.02%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $248.39
-- Stop-Loss: $245.76
-- Ziel 1: $252.33
-- Ziel 2: $256.26
+- Einstieg: $29.8
+- Stop-Loss: $29.61
+- Ziel 1: $30.09
+- Ziel 2: $30.38
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
