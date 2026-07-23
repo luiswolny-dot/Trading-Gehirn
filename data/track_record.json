@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-23T18:15:25.591360+00:00",
-  "total_closed": 25,
-  "wins": 10,
+  "updated": "2026-07-23T18:30:35.227416+00:00",
+  "total_closed": 26,
+  "wins": 11,
   "losses": 15,
-  "win_rate": 40,
-  "avg_win": 2.39,
+  "win_rate": 42,
+  "avg_win": 2.18,
   "avg_loss": -1.73,
-  "expectancy": -0.08,
-  "total_pnl": -2.01,
-  "still_open": 8,
+  "expectancy": -0.09,
+  "total_pnl": -1.93,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "VST_2026-07-22T18:15:28.519465+00:00",
+      "symbol": "VST",
+      "opened_at": "2026-07-22T18:15:28.519465+00:00",
+      "entry": "167.46",
+      "stop_loss": "163.41",
+      "target_1": "173.53",
+      "target_2": "179.61",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-23T18:30:35.227416+00:00",
+      "resolved_price": 167.6,
+      "pnl_pct": 0.08,
+      "invested_eur": ""
+    },
     {
       "id": "WDC_2026-07-22T17:15:23.354703+00:00",
       "symbol": "WDC",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-23T14:00:45.466598+00:00",
       "resolved_price": "243.03",
       "pnl_pct": "-1.36",
-      "invested_eur": ""
-    },
-    {
-      "id": "PCG_2026-07-22T20:30:33.698609+00:00",
-      "symbol": "PCG",
-      "opened_at": "2026-07-22T20:30:33.698609+00:00",
-      "entry": "18.11",
-      "stop_loss": "17.81",
-      "target_1": "18.57",
-      "target_2": "19.02",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-07-23T13:45:29.769577+00:00",
-      "resolved_price": "17.64",
-      "pnl_pct": "-2.6",
       "invested_eur": ""
     }
   ]

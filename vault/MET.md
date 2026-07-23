@@ -1,15 +1,15 @@
-# WRB
+# MET
 
 tags: #Aktie #S-P-500
 
-- Preis: $73.19
-- Tagesbewegung: 1.15%
+- Preis: $92.74
+- Tagesbewegung: -0.57%
 - Gesamt-Score: 67%
 - KGV: —
-- Einstieg: $73.19
-- Stop-Loss: $72.41
-- Ziel 1: $74.37
-- Ziel 2: $75.54
+- Einstieg: $92.74
+- Stop-Loss: $92.14
+- Ziel 1: $93.63
+- Ziel 2: $94.52
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
