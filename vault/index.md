@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 39% über 23 abgeschlossene Empfehlungen.
+Trefferquote: 40% über 25 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[ALLE]] — Score 89%
-- [[LMT]] — Score 82%
+- [[LMT]] — Score 80%
 - [[URI]] — Score 79%
-- [[GEV]] — Score 78%
+- [[GEV]] — Score 79%
 - [[DHR]] — Score 77%
-- [[SMCI]] — Score 75%
+- [[SMCI]] — Score 77%
+- [[MU]] — Score 76%
 - [[GRMN]] — Score 74%
 - [[GE]] — Score 73%
+- [[SNDK]] — Score 72%
+- [[PLD]] — Score 72%
 - [[CB]] — Score 72%
+- [[HON]] — Score 71%
 - [[RTX]] — Score 71%
-- [[LHX]] — Score 71%
-- [[HON]] — Score 70%
-- [[SNDK]] — Score 70%
-- [[CSX]] — Score 69%
+- [[CSX]] — Score 70%
+- [[HUBB]] — Score 69%
 - [[TRV]] — Score 69%
+- [[CPAY]] — Score 69%
+- [[FDXF]] — Score 69%
+- [[MRK]] — Score 69%
 - [[NTRS]] — Score 69%
+- [[WAB]] — Score 68%
+- [[EMR]] — Score 68%
 - [[ACGL]] — Score 68%
-- [[FTV]] — Score 68%
-- [[LLY]] — Score 68%
-- [[FDXF]] — Score 67%
-- [[WAB]] — Score 67%
-- [[CTAS]] — Score 67%
-- [[FIX]] — Score 67%
+- [[CTAS]] — Score 68%
+- [[JKHY]] — Score 68%
+- [[PH]] — Score 68%
+- [[DE]] — Score 67%
 - [[ETN]] — Score 67%
-- [[EMR]] — Score 67%
-- [[NDSN]] — Score 67%
-- [[AMCR]] — Score 66%
-- [[EXC]] — Score 66%
-- [[NFLX]] — Score 66%
-- [[NEM]] — Score 66%
+- [[FTV]] — Score 67%
