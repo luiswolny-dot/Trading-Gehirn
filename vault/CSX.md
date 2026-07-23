@@ -1,15 +1,15 @@
-# FIX
+# CSX
 
 tags: #Aktie #S-P-500
 
-- Preis: $1861.84
-- Tagesbewegung: 3.95%
+- Preis: $52.72
+- Tagesbewegung: 5.59%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $1861.84
-- Stop-Loss: $1818.73
-- Ziel 1: $1926.5
-- Ziel 2: $1991.16
+- Einstieg: $52.72
+- Stop-Loss: $51.87
+- Ziel 1: $54.0
+- Ziel 2: $55.27
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

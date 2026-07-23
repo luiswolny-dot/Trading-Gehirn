@@ -1,15 +1,15 @@
-# XOM
+# TRGP
 
 tags: #Aktie #S-P-500
 
-- Preis: $158
-- Tagesbewegung: 2.3%
+- Preis: $289.03
+- Tagesbewegung: 1.61%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $158
-- Stop-Loss: $156.95
-- Ziel 1: $159.57
-- Ziel 2: $161.15
+- Einstieg: $289.03
+- Stop-Loss: $287.19
+- Ziel 1: $291.79
+- Ziel 2: $294.56
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

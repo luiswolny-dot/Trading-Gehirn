@@ -1,15 +1,15 @@
-# AMAT
+# ACGL
 
 tags: #Aktie #S-P-500
 
-- Preis: $570.92
-- Tagesbewegung: 3.07%
+- Preis: $99.48
+- Tagesbewegung: 0.86%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $570.92
-- Stop-Loss: $556.37
-- Ziel 1: $592.75
-- Ziel 2: $614.57
+- Einstieg: $99.48
+- Stop-Loss: $98.53
+- Ziel 1: $100.91
+- Ziel 2: $102.34
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

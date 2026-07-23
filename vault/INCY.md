@@ -1,15 +1,15 @@
-# FIX
+# INCY
 
 tags: #Aktie #S-P-500
 
-- Preis: $1861.84
-- Tagesbewegung: 3.95%
+- Preis: $117.05
+- Tagesbewegung: 1.09%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $1861.84
-- Stop-Loss: $1818.73
-- Ziel 1: $1926.5
-- Ziel 2: $1991.16
+- Einstieg: $117.05
+- Stop-Loss: $115.76
+- Ziel 1: $118.98
+- Ziel 2: $120.91
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
