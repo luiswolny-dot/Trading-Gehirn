@@ -1,15 +1,15 @@
-# AEP
+# TSCO
 
 tags: #Aktie #S-P-500
 
-- Preis: $134.9
-- Tagesbewegung: 1.38%
+- Preis: $30.02
+- Tagesbewegung: 2.25%
 - Gesamt-Score: 70%
 - KGV: —
-- Einstieg: $134.9
-- Stop-Loss: $133.49
-- Ziel 1: $137.01
-- Ziel 2: $139.13
+- Einstieg: $30.02
+- Stop-Loss: $29.38
+- Ziel 1: $30.97
+- Ziel 2: $31.92
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

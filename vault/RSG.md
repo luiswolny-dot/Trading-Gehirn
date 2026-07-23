@@ -1,15 +1,15 @@
-# EXC
+# RSG
 
 tags: #Aktie #S-P-500
 
-- Preis: $47.25
-- Tagesbewegung: 1.18%
+- Preis: $218.64
+- Tagesbewegung: 0.98%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $47.25
-- Stop-Loss: $46.8
-- Ziel 1: $47.92
-- Ziel 2: $48.59
+- Einstieg: $218.64
+- Stop-Loss: $216.53
+- Ziel 1: $221.8
+- Ziel 2: $224.95
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
