@@ -1,15 +1,15 @@
-# HON
+# KLAC
 
 tags: #Aktie #S-P-500
 
-- Preis: $246.27
-- Tagesbewegung: 5.7%
+- Preis: $218.73
+- Tagesbewegung: 1.88%
 - Gesamt-Score: 71%
-- KGV: 16.3639
-- Einstieg: $246.27
-- Stop-Loss: $239.98
-- Ziel 1: $255.71
-- Ziel 2: $265.14
+- KGV: 60.2101
+- Einstieg: $218.73
+- Stop-Loss: $215.64
+- Ziel 1: $223.36
+- Ziel 2: $227.98
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

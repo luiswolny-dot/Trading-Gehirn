@@ -1,15 +1,15 @@
-# UHS
+# AON
 
 tags: #Aktie #S-P-500
 
-- Preis: $151.27
-- Tagesbewegung: 1.29%
+- Preis: $355.78
+- Tagesbewegung: 0.98%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $151.27
-- Stop-Loss: $149.11
-- Ziel 1: $154.52
-- Ziel 2: $157.77
+- Einstieg: $355.78
+- Stop-Loss: $353.3
+- Ziel 1: $359.5
+- Ziel 2: $363.22
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
