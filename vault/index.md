@@ -14,10 +14,8 @@ Trefferquote: 43% über 14 abgeschlossene Empfehlungen.
 - [[WAB]] — Score 75%
 - [[SO]] — Score 75%
 - [[AWK]] — Score 74%
-- [[ATO]] — Score 74%
 - [[CTVA]] — Score 74%
 - [[DUK]] — Score 74%
-- [[LHX]] — Score 74%
 - [[PPL]] — Score 74%
 - [[SJM]] — Score 74%
 - [[TPL]] — Score 74%
@@ -33,3 +31,5 @@ Trefferquote: 43% über 14 abgeschlossene Empfehlungen.
 - [[VST]] — Score 73%
 - [[PEG]] — Score 72%
 - [[AEE]] — Score 72%
+- [[AEP]] — Score 72%
+- [[CARR]] — Score 72%
