@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-23T13:15:24.290066+00:00",
-  "total_closed": 14,
+  "updated": "2026-07-23T13:30:39.943102+00:00",
+  "total_closed": 15,
   "wins": 6,
-  "losses": 8,
-  "win_rate": 43,
+  "losses": 9,
+  "win_rate": 40,
   "avg_win": 2.96,
-  "avg_loss": -1.97,
-  "expectancy": 0.15,
-  "total_pnl": 1.93,
-  "still_open": 9,
+  "avg_loss": -1.85,
+  "expectancy": 0.07,
+  "total_pnl": 1.11,
+  "still_open": 11,
   "recent": [
+    {
+      "id": "HPE_2026-07-22T13:30:37.624570+00:00",
+      "symbol": "HPE",
+      "opened_at": "2026-07-22T13:30:37.624570+00:00",
+      "entry": "48.54",
+      "stop_loss": "47.74",
+      "target_1": "49.74",
+      "target_2": "50.94",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-07-23T13:30:39.943102+00:00",
+      "resolved_price": 48.14,
+      "pnl_pct": -0.82,
+      "invested_eur": ""
+    },
     {
       "id": "CBOE_2026-07-22T13:45:30.194380+00:00",
       "symbol": "CBOE",
@@ -135,20 +149,6 @@
       "resolved_price": "939.6",
       "pnl_pct": "-3.93",
       "invested_eur": ""
-    },
-    {
-      "id": "MMM_2026-07-21T14:21:08.258081+00:00",
-      "symbol": "MMM",
-      "opened_at": "2026-07-21T14:21:08.258081+00:00",
-      "entry": "174.73",
-      "stop_loss": "171.15",
-      "target_1": "180.1",
-      "target_2": "185.47",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-07-21T17:45:24.746405+00:00",
-      "resolved_price": "171.01",
-      "pnl_pct": "-2.13",
-      "invested_eur": "27.0"
     }
   ]
 }

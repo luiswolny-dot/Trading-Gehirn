@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 43% über 14 abgeschlossene Empfehlungen.
+Trefferquote: 40% über 15 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[SMCI]] — Score 82%
-- [[EQT]] — Score 80%
-- [[PCG]] — Score 78%
-- [[BLK]] — Score 77%
-- [[DELL]] — Score 76%
-- [[CEG]] — Score 76%
-- [[FCX]] — Score 76%
-- [[CMS]] — Score 76%
-- [[WAB]] — Score 75%
-- [[SO]] — Score 75%
-- [[AWK]] — Score 74%
-- [[ATO]] — Score 74%
-- [[CTVA]] — Score 74%
-- [[DUK]] — Score 74%
-- [[LHX]] — Score 74%
-- [[PPL]] — Score 74%
-- [[SJM]] — Score 74%
-- [[TPL]] — Score 74%
-- [[URI]] — Score 74%
-- [[DTE]] — Score 73%
-- [[NI]] — Score 73%
-- [[CNP]] — Score 73%
-- [[CHD]] — Score 73%
-- [[EVRG]] — Score 73%
-- [[FE]] — Score 73%
-- [[IR]] — Score 73%
-- [[NXPI]] — Score 73%
-- [[VST]] — Score 73%
-- [[PEG]] — Score 72%
-- [[AEE]] — Score 72%
+- [[CRL]] — Score 91%
+- [[LMT]] — Score 87%
+- [[URI]] — Score 80%
+- [[STLD]] — Score 79%
+- [[WDC]] — Score 78%
+- [[NUE]] — Score 77%
+- [[SCHW]] — Score 77%
+- [[LHX]] — Score 76%
+- [[RTX]] — Score 75%
+- [[DHR]] — Score 75%
+- [[UNP]] — Score 74%
+- [[GE]] — Score 74%
+- [[XOM]] — Score 74%
+- [[CHRW]] — Score 73%
+- [[CF]] — Score 73%
+- [[HON]] — Score 72%
+- [[GD]] — Score 72%
+- [[CMI]] — Score 72%
+- [[ETN]] — Score 72%
+- [[EXR]] — Score 72%
+- [[FTV]] — Score 72%
+- [[HWM]] — Score 72%
+- [[JCI]] — Score 72%
+- [[Q]] — Score 72%
+- [[WYNN]] — Score 72%
+- [[LH]] — Score 71%
+- [[DGX]] — Score 71%
+- [[NSC]] — Score 71%
+- [[SNDK]] — Score 71%
+- [[AES]] — Score 71%
