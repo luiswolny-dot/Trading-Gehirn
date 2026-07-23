@@ -1,15 +1,15 @@
-# WYNN
+# SBUX
 
 tags: #Aktie #S-P-500
 
-- Preis: $96.46
-- Tagesbewegung: 2.21%
+- Preis: $103.42
+- Tagesbewegung: -0.54%
 - Gesamt-Score: 68%
 - KGV: —
-- Einstieg: $96.46
-- Stop-Loss: $93.93
-- Ziel 1: $100.25
-- Ziel 2: $104.04
+- Einstieg: $103.42
+- Stop-Loss: $102.67
+- Ziel 1: $104.55
+- Ziel 2: $105.68
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
