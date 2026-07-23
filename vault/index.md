@@ -11,6 +11,7 @@ Trefferquote: 43% über 14 abgeschlossene Empfehlungen.
 - [[CEG]] — Score 76%
 - [[FCX]] — Score 76%
 - [[CMS]] — Score 76%
+- [[SO]] — Score 75%
 - [[AWK]] — Score 74%
 - [[ATO]] — Score 74%
 - [[CTVA]] — Score 74%
@@ -32,4 +33,3 @@ Trefferquote: 43% über 14 abgeschlossene Empfehlungen.
 - [[VST]] — Score 73%
 - [[PEG]] — Score 72%
 - [[AEE]] — Score 72%
-- [[AEP]] — Score 72%
