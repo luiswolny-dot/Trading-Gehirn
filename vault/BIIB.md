@@ -1,15 +1,15 @@
-# EXE
+# BIIB
 
 tags: #Aktie #S-P-500
 
-- Preis: $94.16
-- Tagesbewegung: 1.06%
+- Preis: $200.28
+- Tagesbewegung: 1.28%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $94.16
-- Stop-Loss: $93.17
-- Ziel 1: $95.64
-- Ziel 2: $97.12
+- Einstieg: $200.28
+- Stop-Loss: $198.57
+- Ziel 1: $202.84
+- Ziel 2: $205.39
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

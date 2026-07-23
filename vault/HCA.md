@@ -1,15 +1,15 @@
-# EXE
+# HCA
 
 tags: #Aktie #S-P-500
 
-- Preis: $94.16
-- Tagesbewegung: 1.06%
+- Preis: $376.8
+- Tagesbewegung: 1.33%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $94.16
-- Stop-Loss: $93.17
-- Ziel 1: $95.64
-- Ziel 2: $97.12
+- Einstieg: $376.8
+- Stop-Loss: $373.3
+- Ziel 1: $382.05
+- Ziel 2: $387.3
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
