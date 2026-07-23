@@ -1,15 +1,15 @@
-# ALL
+# ERIE
 
 tags: #Aktie #S-P-500
 
-- Preis: $254.6
-- Tagesbewegung: 1.1%
+- Preis: $212.71
+- Tagesbewegung: 0.88%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $254.6
-- Stop-Loss: $252.35
-- Ziel 1: $257.97
-- Ziel 2: $261.34
+- Einstieg: $212.71
+- Stop-Loss: $211.02
+- Ziel 1: $215.24
+- Ziel 2: $217.77
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
