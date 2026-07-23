@@ -25,11 +25,11 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[VST]] — Score 73%
 - [[WRB]] — Score 73%
 - [[HUBB]] — Score 72%
-- [[RTX]] — Score 72%
 - [[CASY]] — Score 72%
 - [[ITW]] — Score 72%
 - [[JKHY]] — Score 72%
 - [[MCK]] — Score 72%
 - [[PGR]] — Score 72%
+- [[RTX]] — Score 71%
 - [[HON]] — Score 71%
 - [[KLAC]] — Score 71%
