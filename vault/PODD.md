@@ -1,15 +1,15 @@
-# GM
+# PODD
 
 tags: #Aktie #S-P-500
 
-- Preis: $83.27
-- Tagesbewegung: 3.22%
+- Preis: $163.19
+- Tagesbewegung: 3.04%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $83.27
-- Stop-Loss: $81.6
-- Ziel 1: $85.77
-- Ziel 2: $88.26
+- Einstieg: $163.19
+- Stop-Loss: $160.41
+- Ziel 1: $167.37
+- Ziel 2: $171.54
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

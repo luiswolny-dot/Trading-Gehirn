@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T16:01:43.656701+00:00",
+  "updated": "2026-07-24T16:36:06.775523+00:00",
   "total_closed": 34,
   "wins": 15,
   "losses": 19,
@@ -8,7 +8,7 @@
   "avg_loss": -1.85,
   "expectancy": -0.02,
   "total_pnl": -0.62,
-  "still_open": 10,
+  "still_open": 11,
   "recent": [
     {
       "id": "RCL_2026-07-24T13:30:32.895142+00:00",

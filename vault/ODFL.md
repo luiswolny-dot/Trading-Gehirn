@@ -1,15 +1,15 @@
-# NFLX
+# ODFL
 
 tags: #Aktie #S-P-500
 
-- Preis: $70.18
-- Tagesbewegung: 1.87%
+- Preis: $236.58
+- Tagesbewegung: 2.54%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $70.18
-- Stop-Loss: $69.05
-- Ziel 1: $71.88
-- Ziel 2: $73.58
+- Einstieg: $236.58
+- Stop-Loss: $232.0
+- Ziel 1: $243.44
+- Ziel 2: $250.31
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# BKR
+# ECL
 
 tags: #Aktie #S-P-500
 
-- Preis: $57.93
-- Tagesbewegung: 3.28%
+- Preis: $268.31
+- Tagesbewegung: 1.96%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $57.93
-- Stop-Loss: $57.08
-- Ziel 1: $59.2
-- Ziel 2: $60.48
+- Einstieg: $268.31
+- Stop-Loss: $265.54
+- Ziel 1: $272.47
+- Ziel 2: $276.62
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
