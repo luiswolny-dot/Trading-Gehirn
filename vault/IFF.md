@@ -1,15 +1,15 @@
-# TRMB
+# IFF
 
 tags: #Aktie #S-P-500
 
-- Preis: $51.8
-- Tagesbewegung: 2.88%
+- Preis: $75.44
+- Tagesbewegung: 2.26%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $51.8
-- Stop-Loss: $51.11
-- Ziel 1: $52.83
-- Ziel 2: $53.86
+- Einstieg: $75.44
+- Stop-Loss: $74.6
+- Ziel 1: $76.69
+- Ziel 2: $77.94
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
