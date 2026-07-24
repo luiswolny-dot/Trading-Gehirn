@@ -1,15 +1,15 @@
-# PGR
+# ADBE
 
 tags: #Aktie #S-P-500
 
-- Preis: $214.25
-- Tagesbewegung: 3.47%
+- Preis: $222.72
+- Tagesbewegung: 4.97%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $214.25
-- Stop-Loss: $211.37
-- Ziel 1: $218.57
-- Ziel 2: $222.89
+- Einstieg: $222.72
+- Stop-Loss: $218.3
+- Ziel 1: $229.36
+- Ziel 2: $235.99
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

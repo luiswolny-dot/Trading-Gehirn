@@ -1,15 +1,15 @@
-# PGR
+# EFX
 
 tags: #Aktie #S-P-500
 
-- Preis: $214.25
-- Tagesbewegung: 3.47%
+- Preis: $174.3
+- Tagesbewegung: 4.55%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $214.25
-- Stop-Loss: $211.37
-- Ziel 1: $218.57
-- Ziel 2: $222.89
+- Einstieg: $174.3
+- Stop-Loss: $169.11
+- Ziel 1: $182.09
+- Ziel 2: $189.88
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
