@@ -1,15 +1,15 @@
-# EMR
+# PM
 
 tags: #Aktie #S-P-500
 
-- Preis: $147.04
-- Tagesbewegung: 1.48%
+- Preis: $194.77
+- Tagesbewegung: 1.91%
 - Gesamt-Score: 74%
-- KGV: 33.0159
-- Einstieg: $147.04
-- Stop-Loss: $145.66
-- Ziel 1: $149.11
-- Ziel 2: $151.18
+- KGV: 27.3278
+- Einstieg: $194.77
+- Stop-Loss: $193.26
+- Ziel 1: $197.04
+- Ziel 2: $199.31
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

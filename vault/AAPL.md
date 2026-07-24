@@ -1,15 +1,15 @@
-# AFL
+# AAPL
 
 tags: #Aktie #S-P-500
 
-- Preis: $125.15
-- Tagesbewegung: 0.65%
+- Preis: $327.21
+- Tagesbewegung: 1.73%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $125.15
-- Stop-Loss: $124.45
-- Ziel 1: $126.21
-- Ziel 2: $127.27
+- Einstieg: $327.21
+- Stop-Loss: $324.12
+- Ziel 1: $331.85
+- Ziel 2: $336.49
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# AFL
+# NVR
 
 tags: #Aktie #S-P-500
 
-- Preis: $125.15
-- Tagesbewegung: 0.65%
+- Preis: $6376.85
+- Tagesbewegung: 3.6%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $125.15
-- Stop-Loss: $124.45
-- Ziel 1: $126.21
-- Ziel 2: $127.27
+- Einstieg: $6376.85
+- Stop-Loss: $6231.67
+- Ziel 1: $6594.62
+- Ziel 2: $6812.39
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# RJF
+# VRTX
 
 tags: #Aktie #S-P-500
 
-- Preis: $167.81
-- Tagesbewegung: 1.01%
+- Preis: $481.53
+- Tagesbewegung: 1.78%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $167.81
-- Stop-Loss: $166.06
-- Ziel 1: $170.44
-- Ziel 2: $173.06
+- Einstieg: $481.53
+- Stop-Loss: $476.76
+- Ziel 1: $488.68
+- Ziel 2: $495.83
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
