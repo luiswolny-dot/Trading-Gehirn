@@ -1,15 +1,15 @@
-# TRMB
+# LUV
 
 tags: #Aktie #S-P-500
 
-- Preis: $52.24
-- Tagesbewegung: 3.75%
+- Preis: $46.22
+- Tagesbewegung: 3.38%
 - Gesamt-Score: 80%
 - KGV: —
-- Einstieg: $52.24
-- Stop-Loss: $51.32
-- Ziel 1: $53.62
-- Ziel 2: $55.0
+- Einstieg: $46.22
+- Stop-Loss: $45.34
+- Ziel 1: $47.54
+- Ziel 2: $48.85
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,15 @@
-# WSM
+# INTU
 
 tags: #Aktie #S-P-500
 
-- Preis: $226.7
-- Tagesbewegung: 3.71%
+- Preis: $295.3
+- Tagesbewegung: 4.89%
 - Gesamt-Score: 81%
 - KGV: —
-- Einstieg: $226.7
-- Stop-Loss: $222.17
-- Ziel 1: $233.49
-- Ziel 2: $240.28
+- Einstieg: $295.3
+- Stop-Loss: $289.91
+- Ziel 1: $303.39
+- Ziel 2: $311.47
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

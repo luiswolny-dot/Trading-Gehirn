@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T15:00:44.979600+00:00",
+  "updated": "2026-07-24T15:15:24.652988+00:00",
   "total_closed": 33,
   "wins": 14,
   "losses": 19,
@@ -8,7 +8,7 @@
   "avg_loss": -1.85,
   "expectancy": -0.11,
   "total_pnl": -2.94,
-  "still_open": 9,
+  "still_open": 10,
   "recent": [
     {
       "id": "DLR_2026-07-24T13:30:32.895142+00:00",
