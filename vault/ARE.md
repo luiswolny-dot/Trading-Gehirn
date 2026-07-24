@@ -1,15 +1,15 @@
-# IFF
+# ARE
 
 tags: #Aktie #S-P-500
 
-- Preis: $76.03
-- Tagesbewegung: 3.06%
+- Preis: $50.93
+- Tagesbewegung: 1.62%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $76.03
-- Stop-Loss: $74.75
-- Ziel 1: $77.94
-- Ziel 2: $79.85
+- Einstieg: $50.93
+- Stop-Loss: $50.34
+- Ziel 1: $51.82
+- Ziel 2: $52.71
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

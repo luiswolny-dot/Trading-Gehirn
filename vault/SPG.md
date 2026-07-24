@@ -1,15 +1,15 @@
-# SWK
+# SPG
 
 tags: #Aktie #S-P-500
 
-- Preis: $91.26
-- Tagesbewegung: 4.4%
+- Preis: $229.16
+- Tagesbewegung: 1.76%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $91.26
-- Stop-Loss: $89.69
-- Ziel 1: $93.62
-- Ziel 2: $95.99
+- Einstieg: $229.16
+- Stop-Loss: $227.49
+- Ziel 1: $231.66
+- Ziel 2: $234.17
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
