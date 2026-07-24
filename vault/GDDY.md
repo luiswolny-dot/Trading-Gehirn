@@ -1,15 +1,15 @@
-# LH
+# GDDY
 
 tags: #Aktie #S-P-500
 
-- Preis: $297.86
-- Tagesbewegung: 2.35%
+- Preis: $91.85
+- Tagesbewegung: 4.83%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $297.86
-- Stop-Loss: $293.89
-- Ziel 1: $303.81
-- Ziel 2: $309.75
+- Einstieg: $91.85
+- Stop-Loss: $90.01
+- Ziel 1: $94.61
+- Ziel 2: $97.37
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

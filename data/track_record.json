@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T14:15:22.171649+00:00",
+  "updated": "2026-07-24T14:30:29.499347+00:00",
   "total_closed": 33,
   "wins": 14,
   "losses": 19,
@@ -8,7 +8,7 @@
   "avg_loss": -1.85,
   "expectancy": -0.11,
   "total_pnl": -2.94,
-  "still_open": 7,
+  "still_open": 8,
   "recent": [
     {
       "id": "DLR_2026-07-24T13:30:32.895142+00:00",
@@ -20,8 +20,8 @@
       "target_2": "207.81",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-24T14:15:22.171649+00:00",
-      "resolved_price": 203.95,
-      "pnl_pct": 4.49,
+      "resolved_price": "203.95",
+      "pnl_pct": "4.49",
       "invested_eur": ""
     },
     {
