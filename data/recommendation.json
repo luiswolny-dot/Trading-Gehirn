@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T06:15:23.828361+00:00",
+  "timestamp": "2026-07-24T06:30:30.045344+00:00",
   "picks": [
     {
       "symbol": "LMT",
@@ -13,7 +13,7 @@
       "target_1": 591.84,
       "target_2": 615.09,
       "risk_reward": 1.5,
-      "final_score": 85,
+      "final_score": 84,
       "pe_ratio": 27.5782,
       "news_label": "positiv",
       "rsi": null,
@@ -21,8 +21,8 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-24T06:15:23.828361+00:00",
-      "fundamental_score": 90,
+      "timestamp": "2026-07-24T06:30:30.045344+00:00",
+      "fundamental_score": 89,
       "news_score": 100,
       "momentum_quality": 50
     },
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-24T06:15:23.828361+00:00",
+      "timestamp": "2026-07-24T06:30:30.045344+00:00",
       "fundamental_score": 92,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-24T06:15:23.828361+00:00",
+      "timestamp": "2026-07-24T06:30:30.045344+00:00",
       "fundamental_score": 68,
       "news_score": 100,
       "momentum_quality": 50

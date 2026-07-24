@@ -3,7 +3,7 @@
 Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[LMT]] — Score 85%
+- [[LMT]] — Score 84%
 - [[ALLE]] — Score 82%
 - [[DHR]] — Score 79%
 - [[GEV]] — Score 77%
