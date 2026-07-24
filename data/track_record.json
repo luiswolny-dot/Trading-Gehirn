@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-24T14:00:46.215520+00:00",
-  "total_closed": 32,
-  "wins": 13,
+  "updated": "2026-07-24T14:15:22.171649+00:00",
+  "total_closed": 33,
+  "wins": 14,
   "losses": 19,
-  "win_rate": 41,
-  "avg_win": 2.13,
+  "win_rate": 42,
+  "avg_win": 2.3,
   "avg_loss": -1.85,
-  "expectancy": -0.22,
-  "total_pnl": -7.43,
-  "still_open": 6,
+  "expectancy": -0.11,
+  "total_pnl": -2.94,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "DLR_2026-07-24T13:30:32.895142+00:00",
+      "symbol": "DLR",
+      "opened_at": "2026-07-24T13:30:32.895142+00:00",
+      "entry": "195.19",
+      "stop_loss": "190.98",
+      "target_1": "201.5",
+      "target_2": "207.81",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-24T14:15:22.171649+00:00",
+      "resolved_price": 203.95,
+      "pnl_pct": 4.49,
+      "invested_eur": ""
+    },
     {
       "id": "TMO_2026-07-23T13:45:29.769577+00:00",
       "symbol": "TMO",
@@ -20,8 +34,8 @@
       "target_2": "624.55",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-07-24T14:00:46.215520+00:00",
-      "resolved_price": 564.7,
-      "pnl_pct": -2.56,
+      "resolved_price": "564.7",
+      "pnl_pct": "-2.56",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "841.5",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-24T14:00:46.215520+00:00",
-      "resolved_price": 833.48,
-      "pnl_pct": 1.33,
+      "resolved_price": "833.48",
+      "pnl_pct": "1.33",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-23T17:15:24.837619+00:00",
       "resolved_price": "93",
       "pnl_pct": "-1.55",
-      "invested_eur": ""
-    },
-    {
-      "id": "ALLE_2026-07-23T13:45:29.769577+00:00",
-      "symbol": "ALLE",
-      "opened_at": "2026-07-23T13:45:29.769577+00:00",
-      "entry": "152.79",
-      "stop_loss": "150.57",
-      "target_1": "156.12",
-      "target_2": "159.46",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-23T15:45:23.415248+00:00",
-      "resolved_price": "156.79",
-      "pnl_pct": "2.62",
       "invested_eur": ""
     }
   ]

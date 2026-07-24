@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 41% über 32 abgeschlossene Empfehlungen.
+Trefferquote: 42% über 33 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[SLB]] — Score 86%
-- [[VRSN]] — Score 80%
+- [[SLB]] — Score 85%
+- [[ZBH]] — Score 78%
 - [[DLR]] — Score 77%
-- [[PKG]] — Score 75%
+- [[FDS]] — Score 76%
+- [[T]] — Score 75%
 - [[PGR]] — Score 75%
-- [[T]] — Score 74%
-- [[PM]] — Score 74%
-- [[EMR]] — Score 74%
-- [[AMT]] — Score 73%
-- [[CCL]] — Score 73%
-- [[EXR]] — Score 73%
-- [[NTRS]] — Score 73%
-- [[RJF]] — Score 73%
-- [[SBAC]] — Score 73%
-- [[UHS]] — Score 73%
-- [[VRTX]] — Score 73%
-- [[DIS]] — Score 73%
-- [[GM]] — Score 72%
-- [[HST]] — Score 72%
-- [[AFL]] — Score 72%
-- [[AAPL]] — Score 72%
-- [[CMCSA]] — Score 72%
-- [[ED]] — Score 72%
-- [[EOG]] — Score 72%
-- [[ITW]] — Score 72%
-- [[L]] — Score 72%
-- [[NVR]] — Score 72%
-- [[OMC]] — Score 72%
-- [[PAYX]] — Score 72%
-- [[PSX]] — Score 72%
+- [[HAL]] — Score 75%
+- [[HST]] — Score 75%
+- [[L]] — Score 75%
+- [[MAR]] — Score 75%
+- [[PAYX]] — Score 75%
+- [[REGN]] — Score 75%
+- [[SYY]] — Score 75%
+- [[TXT]] — Score 75%
+- [[TYL]] — Score 75%
+- [[WRB]] — Score 75%
+- [[WSM]] — Score 75%
+- [[BKR]] — Score 74%
+- [[SYK]] — Score 74%
+- [[AMGN]] — Score 74%
+- [[ABT]] — Score 74%
+- [[BMY]] — Score 74%
+- [[HPQ]] — Score 74%
+- [[ITW]] — Score 74%
+- [[ISRG]] — Score 74%
+- [[PNR]] — Score 74%
+- [[PSX]] — Score 74%
+- [[PSA]] — Score 74%
+- [[SWK]] — Score 74%
+- [[TRV]] — Score 74%

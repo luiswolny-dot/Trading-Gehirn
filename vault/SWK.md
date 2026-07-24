@@ -1,15 +1,15 @@
-# ISRG
+# SWK
 
 tags: #Aktie #S-P-500
 
-- Preis: $338.35
-- Tagesbewegung: 1.91%
+- Preis: $91.09
+- Tagesbewegung: 4.21%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $338.35
-- Stop-Loss: $335.07
-- Ziel 1: $343.27
-- Ziel 2: $348.19
+- Einstieg: $91.09
+- Stop-Loss: $89.61
+- Ziel 1: $93.31
+- Ziel 2: $95.53
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

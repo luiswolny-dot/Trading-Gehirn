@@ -1,15 +1,15 @@
-# L
+# WSM
 
 tags: #Aktie #S-P-500
 
-- Preis: $117.58
-- Tagesbewegung: 1.69%
+- Preis: $222.57
+- Tagesbewegung: 1.82%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $117.58
-- Stop-Loss: $116.01
-- Ziel 1: $119.93
-- Ziel 2: $122.28
+- Einstieg: $222.57
+- Stop-Loss: $220.12
+- Ziel 1: $226.25
+- Ziel 2: $229.94
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

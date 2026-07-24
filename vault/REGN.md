@@ -1,15 +1,15 @@
-# L
+# REGN
 
 tags: #Aktie #S-P-500
 
-- Preis: $117.58
-- Tagesbewegung: 1.69%
+- Preis: $666.75
+- Tagesbewegung: 2.28%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $117.58
-- Stop-Loss: $116.01
-- Ziel 1: $119.93
-- Ziel 2: $122.28
+- Einstieg: $666.75
+- Stop-Loss: $660.02
+- Ziel 1: $676.84
+- Ziel 2: $686.93
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
