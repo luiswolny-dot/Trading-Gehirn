@@ -1,15 +1,15 @@
-# SNA
+# NKE
 
 tags: #Aktie #S-P-500
 
-- Preis: $405.42
-- Tagesbewegung: 2.53%
+- Preis: $42.1
+- Tagesbewegung: 2.71%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $405.42
-- Stop-Loss: $398.9
-- Ziel 1: $415.2
-- Ziel 2: $424.98
+- Einstieg: $42.1
+- Stop-Loss: $41.47
+- Ziel 1: $43.05
+- Ziel 2: $44.0
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
