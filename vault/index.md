@@ -9,10 +9,10 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[GEV]] — Score 77%
 - [[PKG]] — Score 76%
 - [[FAST]] — Score 76%
+- [[URI]] — Score 75%
 - [[CB]] — Score 75%
 - [[DGX]] — Score 75%
 - [[AMGN]] — Score 75%
-- [[URI]] — Score 74%
 - [[CAH]] — Score 74%
 - [[EMR]] — Score 73%
 - [[GE]] — Score 73%
