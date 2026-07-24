@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-24T18:15:25.008831+00:00",
-  "total_closed": 37,
-  "wins": 16,
+  "updated": "2026-07-24T18:30:34.898925+00:00",
+  "total_closed": 38,
+  "wins": 17,
   "losses": 21,
-  "win_rate": 43,
-  "avg_win": 2.17,
+  "win_rate": 45,
+  "avg_win": 2.24,
   "avg_loss": -1.77,
-  "expectancy": -0.08,
-  "total_pnl": -2.45,
+  "expectancy": 0.03,
+  "total_pnl": 1.0,
   "still_open": 9,
   "recent": [
+    {
+      "id": "SLB_2026-07-24T13:30:32.895142+00:00",
+      "symbol": "SLB",
+      "opened_at": "2026-07-24T13:30:32.895142+00:00",
+      "entry": "50.72",
+      "stop_loss": "49.63",
+      "target_1": "52.36",
+      "target_2": "54.0",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-24T18:30:34.898925+00:00",
+      "resolved_price": 52.47,
+      "pnl_pct": 3.45,
+      "invested_eur": ""
+    },
     {
       "id": "ZBH_2026-07-24T14:15:22.171649+00:00",
       "symbol": "ZBH",
@@ -20,8 +34,8 @@
       "target_2": "94.64",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-24T18:15:25.008831+00:00",
-      "resolved_price": 91.22,
-      "pnl_pct": -0.97,
+      "resolved_price": "91.22",
+      "pnl_pct": "-0.97",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-24T13:45:22.845659+00:00",
       "resolved_price": "1137.01",
       "pnl_pct": "-1.31",
-      "invested_eur": ""
-    },
-    {
-      "id": "ALLE_2026-07-23T15:45:23.415248+00:00",
-      "symbol": "ALLE",
-      "opened_at": "2026-07-23T15:45:23.415248+00:00",
-      "entry": "156.79",
-      "stop_loss": "152.73",
-      "target_1": "162.88",
-      "target_2": "168.98",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-07-24T13:30:32.895142+00:00",
-      "resolved_price": "152.25",
-      "pnl_pct": "-2.9",
       "invested_eur": ""
     }
   ]
