@@ -1,15 +1,15 @@
-# BIIB
+# TROW
 
 tags: #Aktie #S-P-500
 
-- Preis: $203.19
-- Tagesbewegung: 1.28%
+- Preis: $116.57
+- Tagesbewegung: 1.41%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $203.19
-- Stop-Loss: $201.56
-- Ziel 1: $205.63
-- Ziel 2: $208.08
+- Einstieg: $116.57
+- Stop-Loss: $115.73
+- Ziel 1: $117.83
+- Ziel 2: $119.09
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

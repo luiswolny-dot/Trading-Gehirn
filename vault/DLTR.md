@@ -1,15 +1,15 @@
-# EG
+# DLTR
 
 tags: #Aktie #S-P-500
 
-- Preis: $384.26
-- Tagesbewegung: 2.32%
+- Preis: $120.54
+- Tagesbewegung: 2.46%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $384.26
-- Stop-Loss: $379.64
-- Ziel 1: $391.19
-- Ziel 2: $398.12
+- Einstieg: $120.54
+- Stop-Loss: $118.93
+- Ziel 1: $122.96
+- Ziel 2: $125.37
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
