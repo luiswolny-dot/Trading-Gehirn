@@ -10,6 +10,7 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[PKG]] — Score 76%
 - [[FAST]] — Score 76%
 - [[CB]] — Score 75%
+- [[DGX]] — Score 75%
 - [[AMGN]] — Score 75%
 - [[URI]] — Score 74%
 - [[CAH]] — Score 74%
@@ -32,4 +33,3 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[RTX]] — Score 71%
 - [[HON]] — Score 71%
 - [[KLAC]] — Score 71%
-- [[AEP]] — Score 71%
