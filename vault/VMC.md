@@ -1,15 +1,15 @@
-# NVR
+# VMC
 
 tags: #Aktie #S-P-500
 
-- Preis: $6436.08
-- Tagesbewegung: 4.57%
+- Preis: $280.18
+- Tagesbewegung: 1.91%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $6436.08
-- Stop-Loss: $6257.9
-- Ziel 1: $6703.34
-- Ziel 2: $6970.61
+- Einstieg: $280.18
+- Stop-Loss: $277.27
+- Ziel 1: $284.54
+- Ziel 2: $288.89
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

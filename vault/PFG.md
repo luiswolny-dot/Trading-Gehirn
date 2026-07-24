@@ -1,15 +1,15 @@
-# NVR
+# PFG
 
 tags: #Aktie #S-P-500
 
-- Preis: $6436.08
-- Tagesbewegung: 4.57%
+- Preis: $109.03
+- Tagesbewegung: 1.59%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $6436.08
-- Stop-Loss: $6257.9
-- Ziel 1: $6703.34
-- Ziel 2: $6970.61
+- Einstieg: $109.03
+- Stop-Loss: $108.02
+- Ziel 1: $110.55
+- Ziel 2: $112.08
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
