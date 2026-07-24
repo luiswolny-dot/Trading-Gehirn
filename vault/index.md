@@ -25,6 +25,7 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[UHS]] — Score 73%
 - [[VST]] — Score 73%
 - [[WRB]] — Score 73%
+- [[CSX]] — Score 72%
 - [[CASY]] — Score 72%
 - [[ITW]] — Score 72%
 - [[JKHY]] — Score 72%
@@ -32,4 +33,3 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[PGR]] — Score 72%
 - [[RTX]] — Score 71%
 - [[HON]] — Score 71%
-- [[KLAC]] — Score 71%
