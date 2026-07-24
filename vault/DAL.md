@@ -1,15 +1,15 @@
-# EXPE
+# DAL
 
 tags: #Aktie #S-P-500
 
-- Preis: $261.45
-- Tagesbewegung: 1.49%
+- Preis: $83.38
+- Tagesbewegung: 1.72%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $261.45
-- Stop-Loss: $260.3
-- Ziel 1: $263.17
-- Ziel 2: $264.89
+- Einstieg: $83.38
+- Stop-Loss: $82.9
+- Ziel 1: $84.1
+- Ziel 2: $84.83
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

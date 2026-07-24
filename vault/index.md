@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
+Trefferquote: 39% über 28 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[LMT]] — Score 84%
-- [[ALLE]] — Score 82%
-- [[DHR]] — Score 79%
-- [[GEV]] — Score 77%
-- [[PKG]] — Score 76%
-- [[FAST]] — Score 76%
-- [[URI]] — Score 75%
-- [[CB]] — Score 75%
-- [[DGX]] — Score 75%
-- [[AMGN]] — Score 75%
-- [[CAH]] — Score 74%
-- [[EMR]] — Score 73%
-- [[GE]] — Score 73%
-- [[AON]] — Score 73%
-- [[ACGL]] — Score 73%
-- [[ERIE]] — Score 73%
-- [[LHX]] — Score 73%
-- [[LLY]] — Score 73%
-- [[PH]] — Score 73%
-- [[UHS]] — Score 73%
-- [[VST]] — Score 73%
-- [[WRB]] — Score 73%
-- [[CSX]] — Score 72%
-- [[CASY]] — Score 72%
-- [[ITW]] — Score 72%
-- [[JKHY]] — Score 72%
-- [[MCK]] — Score 72%
-- [[PGR]] — Score 72%
-- [[RTX]] — Score 71%
-- [[HON]] — Score 71%
+- [[SLB]] — Score 84%
+- [[RCL]] — Score 79%
+- [[AXON]] — Score 76%
+- [[BKNG]] — Score 76%
+- [[SBAC]] — Score 76%
+- [[DLR]] — Score 75%
+- [[CTSH]] — Score 75%
+- [[PGR]] — Score 75%
+- [[ZBH]] — Score 75%
+- [[VZ]] — Score 75%
+- [[CCL]] — Score 74%
+- [[DAL]] — Score 74%
+- [[EXPE]] — Score 74%
+- [[TXT]] — Score 74%
+- [[HPE]] — Score 74%
+- [[CRM]] — Score 73%
+- [[TMUS]] — Score 73%
+- [[AMCR]] — Score 73%
+- [[ADSK]] — Score 73%
+- [[BAX]] — Score 73%
+- [[BIIB]] — Score 73%
+- [[OKE]] — Score 73%
+- [[SBUX]] — Score 73%
+- [[BKR]] — Score 72%
+- [[T]] — Score 72%
+- [[EG]] — Score 72%
+- [[SO]] — Score 72%
+- [[VTR]] — Score 72%
+- [[VTRS]] — Score 72%
+- [[WBD]] — Score 72%

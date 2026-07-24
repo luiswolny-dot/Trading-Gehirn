@@ -1,15 +1,15 @@
-# BIIB
+# BAX
 
 tags: #Aktie #S-P-500
 
-- Preis: $202.77
-- Tagesbewegung: 1.07%
+- Preis: $22.02
+- Tagesbewegung: 1.62%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $202.77
-- Stop-Loss: $201.38
-- Ziel 1: $204.85
-- Ziel 2: $206.93
+- Einstieg: $22.02
+- Stop-Loss: $21.95
+- Ziel 1: $22.12
+- Ziel 2: $22.22
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

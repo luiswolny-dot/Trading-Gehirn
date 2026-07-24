@@ -1,15 +1,15 @@
-# BIIB
+# ADSK
 
 tags: #Aktie #S-P-500
 
-- Preis: $202.77
-- Tagesbewegung: 1.07%
+- Preis: $209.84
+- Tagesbewegung: 2.23%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $202.77
-- Stop-Loss: $201.38
-- Ziel 1: $204.85
-- Ziel 2: $206.93
+- Einstieg: $209.84
+- Stop-Loss: $208.94
+- Ziel 1: $211.2
+- Ziel 2: $212.56
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

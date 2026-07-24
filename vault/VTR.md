@@ -1,15 +1,15 @@
-# T
+# VTR
 
 tags: #Aktie #S-P-500
 
-- Preis: $23.18
-- Tagesbewegung: 0.96%
+- Preis: $99.03
+- Tagesbewegung: 1.13%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $23.18
-- Stop-Loss: $23.08
-- Ziel 1: $23.33
-- Ziel 2: $23.48
+- Einstieg: $99.03
+- Stop-Loss: $98.6
+- Ziel 1: $99.67
+- Ziel 2: $100.31
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

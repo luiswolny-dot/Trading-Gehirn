@@ -1,15 +1,15 @@
-# DLR
+# RCL
 
 tags: #Aktie #S-P-500
 
-- Preis: $195.19
-- Tagesbewegung: 8.84%
-- Gesamt-Score: 75%
-- KGV: 46.9662
-- Einstieg: $195.19
-- Stop-Loss: $190.98
-- Ziel 1: $201.5
-- Ziel 2: $207.81
+- Preis: $291.45
+- Tagesbewegung: 2.84%
+- Gesamt-Score: 79%
+- KGV: 16.8294
+- Einstieg: $291.45
+- Stop-Loss: $287.98
+- Ziel 1: $296.65
+- Ziel 2: $301.86
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]

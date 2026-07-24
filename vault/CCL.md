@@ -1,15 +1,15 @@
-# EXPE
+# CCL
 
 tags: #Aktie #S-P-500
 
-- Preis: $261.45
-- Tagesbewegung: 1.49%
+- Preis: $25.83
+- Tagesbewegung: 2.22%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $261.45
-- Stop-Loss: $260.3
-- Ziel 1: $263.17
-- Ziel 2: $264.89
+- Einstieg: $25.83
+- Stop-Loss: $25.7
+- Ziel 1: $26.03
+- Ziel 2: $26.23
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

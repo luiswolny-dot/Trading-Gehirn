@@ -1,15 +1,15 @@
-# T
+# WBD
 
 tags: #Aktie #S-P-500
 
-- Preis: $23.18
-- Tagesbewegung: 0.96%
+- Preis: $26.26
+- Tagesbewegung: 1.19%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $23.18
-- Stop-Loss: $23.08
-- Ziel 1: $23.33
-- Ziel 2: $23.48
+- Einstieg: $26.26
+- Stop-Loss: $26.18
+- Ziel 1: $26.38
+- Ziel 2: $26.51
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
