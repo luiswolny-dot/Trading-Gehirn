@@ -1,15 +1,15 @@
-# TTD
+# WY
 
 tags: #Aktie #S-P-500
 
-- Preis: $17.29
-- Tagesbewegung: 2.98%
+- Preis: $24.07
+- Tagesbewegung: 1.82%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $17.29
-- Stop-Loss: $17.05
-- Ziel 1: $17.65
-- Ziel 2: $18.0
+- Einstieg: $24.07
+- Stop-Loss: $23.79
+- Ziel 1: $24.49
+- Ziel 2: $24.9
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

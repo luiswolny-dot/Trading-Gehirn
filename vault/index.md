@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 44% über 36 abgeschlossene Empfehlungen.
+Trefferquote: 43% über 37 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SLB]] — Score 86%
 - [[VZ]] — Score 81%
 - [[HPQ]] — Score 79%
-- [[STLD]] — Score 79%
+- [[TMUS]] — Score 77%
+- [[T]] — Score 77%
+- [[CTSH]] — Score 77%
 - [[NUE]] — Score 77%
-- [[TMUS]] — Score 76%
-- [[SWK]] — Score 76%
-- [[VRSN]] — Score 76%
+- [[DPZ]] — Score 76%
+- [[BXP]] — Score 76%
+- [[CCL]] — Score 76%
+- [[FDS]] — Score 76%
+- [[GPN]] — Score 76%
+- [[CRM]] — Score 76%
+- [[VEEV]] — Score 76%
 - [[DLR]] — Score 75%
+- [[ADBE]] — Score 75%
+- [[VRSK]] — Score 75%
 - [[HST]] — Score 75%
-- [[DPZ]] — Score 75%
-- [[AAPL]] — Score 75%
-- [[CCL]] — Score 75%
-- [[CTSH]] — Score 75%
-- [[DE]] — Score 75%
-- [[DAL]] — Score 75%
-- [[GDDY]] — Score 75%
-- [[MLM]] — Score 75%
-- [[VEEV]] — Score 75%
+- [[OMC]] — Score 75%
+- [[PSA]] — Score 75%
+- [[ROST]] — Score 75%
+- [[RCL]] — Score 75%
+- [[STLD]] — Score 75%
+- [[TTD]] — Score 75%
 - [[VTR]] — Score 75%
-- [[ADBE]] — Score 74%
-- [[VRSK]] — Score 74%
+- [[VRSN]] — Score 75%
+- [[WY]] — Score 75%
+- [[PKG]] — Score 74%
+- [[IBM]] — Score 74%
 - [[ACN]] — Score 74%
-- [[T]] — Score 74%
-- [[AVY]] — Score 74%
-- [[BR]] — Score 74%
-- [[FDS]] — Score 74%
-- [[PLD]] — Score 74%
-- [[CRM]] — Score 74%
-- [[SPG]] — Score 74%
