@@ -1,15 +1,15 @@
-# AMCR
+# BR
 
 tags: #Aktie #S-P-500
 
-- Preis: $43.54
-- Tagesbewegung: 2.13%
+- Preis: $148.19
+- Tagesbewegung: 2.62%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $43.54
-- Stop-Loss: $43.23
-- Ziel 1: $44.01
-- Ziel 2: $44.48
+- Einstieg: $148.19
+- Stop-Loss: $146.67
+- Ziel 1: $150.47
+- Ziel 2: $152.76
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
