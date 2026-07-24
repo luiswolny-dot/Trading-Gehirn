@@ -1,15 +1,15 @@
-# ADP
+# AOS
 
 tags: #Aktie #S-P-500
 
-- Preis: $249.79
-- Tagesbewegung: 2.85%
+- Preis: $61.2
+- Tagesbewegung: 2.87%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $249.79
-- Stop-Loss: $246.6
-- Ziel 1: $254.57
-- Ziel 2: $259.36
+- Einstieg: $61.2
+- Stop-Loss: $60.16
+- Ziel 1: $62.76
+- Ziel 2: $64.32
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

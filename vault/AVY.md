@@ -1,15 +1,15 @@
-# EXPE
+# AVY
 
 tags: #Aktie #S-P-500
 
-- Preis: $266.16
-- Tagesbewegung: 3.32%
+- Preis: $159.85
+- Tagesbewegung: 3.0%
 - Gesamt-Score: 79%
 - KGV: —
-- Einstieg: $266.16
-- Stop-Loss: $262.07
-- Ziel 1: $272.3
-- Ziel 2: $278.43
+- Einstieg: $159.85
+- Stop-Loss: $157.52
+- Ziel 1: $163.34
+- Ziel 2: $166.82
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
