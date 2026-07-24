@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 39% über 28 abgeschlossene Empfehlungen.
+Trefferquote: 40% über 30 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SLB]] — Score 84%
-- [[RCL]] — Score 79%
-- [[AXON]] — Score 76%
-- [[BKNG]] — Score 76%
-- [[SBAC]] — Score 76%
-- [[DLR]] — Score 75%
-- [[CTSH]] — Score 75%
-- [[PGR]] — Score 75%
-- [[ZBH]] — Score 75%
-- [[VZ]] — Score 75%
-- [[CCL]] — Score 74%
-- [[DAL]] — Score 74%
-- [[EXPE]] — Score 74%
-- [[TXT]] — Score 74%
-- [[HPE]] — Score 74%
-- [[CRM]] — Score 73%
-- [[TMUS]] — Score 73%
-- [[AMCR]] — Score 73%
-- [[ADSK]] — Score 73%
+- [[VRSN]] — Score 81%
+- [[DLR]] — Score 77%
+- [[DOV]] — Score 77%
+- [[DAL]] — Score 77%
+- [[ERIE]] — Score 75%
+- [[PKG]] — Score 75%
+- [[VICI]] — Score 75%
+- [[DG]] — Score 75%
+- [[T]] — Score 74%
+- [[CB]] — Score 74%
+- [[GEN]] — Score 74%
+- [[PAYX]] — Score 74%
+- [[TDG]] — Score 74%
+- [[WRB]] — Score 74%
+- [[ALL]] — Score 73%
+- [[BKR]] — Score 73%
 - [[BAX]] — Score 73%
-- [[BIIB]] — Score 73%
-- [[OKE]] — Score 73%
-- [[SBUX]] — Score 73%
-- [[BKR]] — Score 72%
-- [[T]] — Score 72%
-- [[EG]] — Score 72%
-- [[SO]] — Score 72%
-- [[VTR]] — Score 72%
-- [[VTRS]] — Score 72%
-- [[WBD]] — Score 72%
+- [[CMS]] — Score 73%
+- [[DHI]] — Score 73%
+- [[DTE]] — Score 73%
+- [[EG]] — Score 73%
+- [[ES]] — Score 73%
+- [[EXR]] — Score 73%
+- [[FICO]] — Score 73%
+- [[FTV]] — Score 73%
+- [[GM]] — Score 73%
+- [[IVZ]] — Score 73%
+- [[PHM]] — Score 73%
+- [[TRMB]] — Score 73%

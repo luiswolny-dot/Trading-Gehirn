@@ -1,15 +1,15 @@
-# ERIE
+# VICI
 
 tags: #Aktie #S-P-500
 
-- Preis: $218.63
-- Tagesbewegung: 1.92%
+- Preis: $26.72
+- Tagesbewegung: 1.52%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $218.63
-- Stop-Loss: $217.56
-- Ziel 1: $220.24
-- Ziel 2: $221.85
+- Einstieg: $26.72
+- Stop-Loss: $26.59
+- Ziel 1: $26.92
+- Ziel 2: $27.12
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
