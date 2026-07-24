@@ -13,7 +13,7 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[AMGN]] — Score 75%
 - [[URI]] — Score 74%
 - [[CAH]] — Score 74%
-- [[SYK]] — Score 73%
+- [[EMR]] — Score 73%
 - [[GE]] — Score 73%
 - [[AON]] — Score 73%
 - [[ACGL]] — Score 73%
@@ -24,7 +24,6 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[UHS]] — Score 73%
 - [[VST]] — Score 73%
 - [[WRB]] — Score 73%
-- [[HUBB]] — Score 72%
 - [[CASY]] — Score 72%
 - [[ITW]] — Score 72%
 - [[JKHY]] — Score 72%
@@ -33,3 +32,4 @@ Trefferquote: 41% über 27 abgeschlossene Empfehlungen.
 - [[RTX]] — Score 71%
 - [[HON]] — Score 71%
 - [[KLAC]] — Score 71%
+- [[AEP]] — Score 71%
