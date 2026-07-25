@@ -22,6 +22,7 @@ Trefferquote: 45% über 38 abgeschlossene Empfehlungen.
 - [[LOW]] — Score 77%
 - [[MET]] — Score 77%
 - [[SYK]] — Score 77%
+- [[IP]] — Score 76%
 - [[APO]] — Score 76%
 - [[AAPL]] — Score 76%
 - [[BR]] — Score 76%
@@ -32,4 +33,3 @@ Trefferquote: 45% über 38 abgeschlossene Empfehlungen.
 - [[KVUE]] — Score 76%
 - [[MRSH]] — Score 76%
 - [[MSI]] — Score 76%
-- [[CRM]] — Score 76%
