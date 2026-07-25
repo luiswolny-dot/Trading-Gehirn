@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T12:16:53.392495+00:00",
+  "updated": "2026-07-25T12:45:25.690842+00:00",
   "total_closed": 38,
   "wins": 17,
   "losses": 21,
@@ -8,7 +8,7 @@
   "avg_loss": -1.77,
   "expectancy": 0.03,
   "total_pnl": 1.0,
-  "still_open": 9,
+  "still_open": 11,
   "recent": [
     {
       "id": "SLB_2026-07-24T13:30:32.895142+00:00",
