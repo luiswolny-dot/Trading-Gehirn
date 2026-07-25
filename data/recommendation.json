@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T18:46:03.031187+00:00",
+  "timestamp": "2026-07-25T19:02:13.887450+00:00",
   "picks": [
     {
       "symbol": "SLB",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-25T18:46:03.031187+00:00",
+      "timestamp": "2026-07-25T19:02:13.887450+00:00",
       "fundamental_score": 84,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-25T18:46:03.031187+00:00",
+      "timestamp": "2026-07-25T19:02:13.887450+00:00",
       "fundamental_score": 92,
       "news_score": 100,
       "momentum_quality": 50
@@ -64,15 +64,15 @@
       "target_2": 315.43,
       "risk_reward": 1.5,
       "final_score": 82,
-      "pe_ratio": 29.3172,
+      "pe_ratio": 30.0678,
       "news_label": "positiv",
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-25T18:46:03.031187+00:00",
-      "fundamental_score": 84,
+      "timestamp": "2026-07-25T19:02:13.887450+00:00",
+      "fundamental_score": 83,
       "news_score": 100,
       "momentum_quality": 50
     }
