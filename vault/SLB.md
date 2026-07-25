@@ -18,4 +18,5 @@ tags: #Aktie #S-P-500
 
 ## Bisherige Empfehlungen für diese Aktie
 - 2026-07-24: ziel_1_erreicht (3.45%)
-- 2026-07-24: open
+- 2026-07-24: abgelaufen_gewinn (0.11%)
+- 2026-07-25: open
