@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 45% über 40 abgeschlossene Empfehlungen.
+Trefferquote: 46% über 41 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SLB]] — Score 85%
