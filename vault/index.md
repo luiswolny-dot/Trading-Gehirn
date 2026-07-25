@@ -6,6 +6,7 @@ Trefferquote: 45% über 38 abgeschlossene Empfehlungen.
 - [[SLB]] — Score 85%
 - [[VZ]] — Score 83%
 - [[VRSN]] — Score 82%
+- [[PKG]] — Score 79%
 - [[ACGL]] — Score 79%
 - [[DHI]] — Score 79%
 - [[GPC]] — Score 79%
@@ -14,7 +15,6 @@ Trefferquote: 45% über 38 abgeschlossene Empfehlungen.
 - [[T]] — Score 78%
 - [[AVY]] — Score 78%
 - [[PHM]] — Score 78%
-- [[PKG]] — Score 77%
 - [[BALL]] — Score 77%
 - [[BRO]] — Score 77%
 - [[HPQ]] — Score 77%
