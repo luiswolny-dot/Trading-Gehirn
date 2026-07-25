@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-25T14:00:43.866834+00:00",
-  "total_closed": 39,
+  "updated": "2026-07-25T14:16:19.990441+00:00",
+  "total_closed": 40,
   "wins": 18,
-  "losses": 21,
-  "win_rate": 46,
+  "losses": 22,
+  "win_rate": 45,
   "avg_win": 2.2,
-  "avg_loss": -1.77,
-  "expectancy": 0.06,
-  "total_pnl": 2.5,
-  "still_open": 11,
+  "avg_loss": -1.78,
+  "expectancy": 0.01,
+  "total_pnl": 0.41,
+  "still_open": 10,
   "recent": [
+    {
+      "id": "DLR_2026-07-24T14:15:22.171649+00:00",
+      "symbol": "DLR",
+      "opened_at": "2026-07-24T14:15:22.171649+00:00",
+      "entry": "203.32",
+      "stop_loss": "195.75",
+      "target_1": "214.68",
+      "target_2": "226.04",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-07-25T14:16:19.990441+00:00",
+      "resolved_price": 199.08,
+      "pnl_pct": -2.09,
+      "invested_eur": ""
+    },
     {
       "id": "VRSN_2026-07-24T13:45:22.845659+00:00",
       "symbol": "VRSN",
@@ -20,8 +34,8 @@
       "target_2": "307.48",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-07-25T14:00:43.866834+00:00",
-      "resolved_price": 280,
-      "pnl_pct": 1.5,
+      "resolved_price": "280",
+      "pnl_pct": "1.5",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-24T14:00:46.215520+00:00",
       "resolved_price": "833.48",
       "pnl_pct": "1.33",
-      "invested_eur": ""
-    },
-    {
-      "id": "LMT_2026-07-23T13:30:39.943102+00:00",
-      "symbol": "LMT",
-      "opened_at": "2026-07-23T13:30:39.943102+00:00",
-      "entry": "566.35",
-      "stop_loss": "547.21",
-      "target_1": "595.07",
-      "target_2": "623.78",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-24T13:45:22.845659+00:00",
-      "resolved_price": "580.13",
-      "pnl_pct": "2.43",
       "invested_eur": ""
     }
   ]
