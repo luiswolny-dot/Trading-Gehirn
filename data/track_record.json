@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-25T13:45:20.689376+00:00",
-  "total_closed": 38,
-  "wins": 17,
+  "updated": "2026-07-25T14:00:43.866834+00:00",
+  "total_closed": 39,
+  "wins": 18,
   "losses": 21,
-  "win_rate": 45,
-  "avg_win": 2.24,
+  "win_rate": 46,
+  "avg_win": 2.2,
   "avg_loss": -1.77,
-  "expectancy": 0.03,
-  "total_pnl": 1.0,
+  "expectancy": 0.06,
+  "total_pnl": 2.5,
   "still_open": 11,
   "recent": [
+    {
+      "id": "VRSN_2026-07-24T13:45:22.845659+00:00",
+      "symbol": "VRSN",
+      "opened_at": "2026-07-24T13:45:22.845659+00:00",
+      "entry": "275.85",
+      "stop_loss": "265.31",
+      "target_1": "291.66",
+      "target_2": "307.48",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-25T14:00:43.866834+00:00",
+      "resolved_price": 280,
+      "pnl_pct": 1.5,
+      "invested_eur": ""
+    },
     {
       "id": "SLB_2026-07-24T13:30:32.895142+00:00",
       "symbol": "SLB",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-24T13:45:22.845659+00:00",
       "resolved_price": "580.13",
       "pnl_pct": "2.43",
-      "invested_eur": ""
-    },
-    {
-      "id": "URI_2026-07-23T13:30:39.943102+00:00",
-      "symbol": "URI",
-      "opened_at": "2026-07-23T13:30:39.943102+00:00",
-      "entry": "1152.14",
-      "stop_loss": "1118.71",
-      "target_1": "1202.28",
-      "target_2": "1252.43",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-24T13:45:22.845659+00:00",
-      "resolved_price": "1137.01",
-      "pnl_pct": "-1.31",
       "invested_eur": ""
     }
   ]
