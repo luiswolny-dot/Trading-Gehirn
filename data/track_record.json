@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-25T16:45:21.912458+00:00",
-  "total_closed": 45,
-  "wins": 21,
+  "updated": "2026-07-25T17:02:04.119738+00:00",
+  "total_closed": 46,
+  "wins": 22,
   "losses": 24,
-  "win_rate": 47,
+  "win_rate": 48,
   "avg_win": 2.0,
   "avg_loss": -1.76,
-  "expectancy": 0.01,
-  "total_pnl": -0.18,
+  "expectancy": 0.04,
+  "total_pnl": 1.8,
   "still_open": 5,
   "recent": [
+    {
+      "id": "VZ_2026-07-24T17:00:50.120883+00:00",
+      "symbol": "VZ",
+      "opened_at": "2026-07-24T17:00:50.120883+00:00",
+      "entry": "45.48",
+      "stop_loss": "44.59",
+      "target_1": "46.81",
+      "target_2": "48.14",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-25T17:02:04.119738+00:00",
+      "resolved_price": 46.38,
+      "pnl_pct": 1.98,
+      "invested_eur": ""
+    },
     {
       "id": "DAL_2026-07-24T16:36:06.775523+00:00",
       "symbol": "DAL",
@@ -20,8 +34,8 @@
       "target_2": "91.18",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-07-25T16:45:21.912458+00:00",
-      "resolved_price": 85.06,
-      "pnl_pct": -0.89,
+      "resolved_price": "85.06",
+      "pnl_pct": "-0.89",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-24T18:15:25.008831+00:00",
       "resolved_price": "91.22",
       "pnl_pct": "-0.97",
-      "invested_eur": ""
-    },
-    {
-      "id": "DHR_2026-07-23T17:45:29.571601+00:00",
-      "symbol": "DHR",
-      "opened_at": "2026-07-23T17:45:29.571601+00:00",
-      "entry": "191.01",
-      "stop_loss": "187.42",
-      "target_1": "196.39",
-      "target_2": "201.77",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-24T18:00:42.878892+00:00",
-      "resolved_price": "191.25",
-      "pnl_pct": "0.13",
       "invested_eur": ""
     }
   ]
