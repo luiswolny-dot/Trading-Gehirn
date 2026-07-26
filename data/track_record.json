@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-26T17:00:40.531056+00:00",
-  "total_closed": 50,
+  "updated": "2026-07-26T17:15:23.743809+00:00",
+  "total_closed": 51,
   "wins": 23,
-  "losses": 27,
-  "win_rate": 46,
+  "losses": 28,
+  "win_rate": 45,
   "avg_win": 1.92,
-  "avg_loss": -1.56,
-  "expectancy": 0.04,
+  "avg_loss": -1.51,
+  "expectancy": 0.03,
   "total_pnl": 1.91,
   "still_open": 3,
   "recent": [
+    {
+      "id": "VZ_2026-07-25T17:02:04.119738+00:00",
+      "symbol": "VZ",
+      "opened_at": "2026-07-25T17:02:04.119738+00:00",
+      "entry": "46.38",
+      "stop_loss": "45.03",
+      "target_1": "48.41",
+      "target_2": "50.45",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-07-26T17:15:23.743809+00:00",
+      "resolved_price": 46.38,
+      "pnl_pct": 0.0,
+      "invested_eur": ""
+    },
     {
       "id": "VRSN_2026-07-25T14:00:43.866834+00:00",
       "symbol": "VRSN",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-25T15:01:20.947476+00:00",
       "resolved_price": "24.13",
       "pnl_pct": "0.92",
-      "invested_eur": ""
-    },
-    {
-      "id": "HPQ_2026-07-24T14:30:29.499347+00:00",
-      "symbol": "HPQ",
-      "opened_at": "2026-07-24T14:30:29.499347+00:00",
-      "entry": "25.45",
-      "stop_loss": "25.08",
-      "target_1": "26.0",
-      "target_2": "26.55",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-25T14:30:32.020846+00:00",
-      "resolved_price": "25.75",
-      "pnl_pct": "1.18",
       "invested_eur": ""
     }
   ]

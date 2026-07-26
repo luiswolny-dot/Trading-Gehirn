@@ -18,4 +18,5 @@ tags: #Aktie #S-P-500
 
 ## Bisherige Empfehlungen für diese Aktie
 - 2026-07-24: abgelaufen_gewinn (1.98%)
-- 2026-07-25: open
+- 2026-07-25: abgelaufen_verlust (0.0%)
+- 2026-07-26: open

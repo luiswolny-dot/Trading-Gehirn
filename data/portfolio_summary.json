@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26T17:00:40.531056+00:00",
+  "updated": "2026-07-26T17:15:23.743809+00:00",
   "starting_balance": 100.0,
-  "cash": 53.67,
-  "invested_in_open_positions": 33.33,
+  "cash": 20.34,
+  "invested_in_open_positions": 66.66,
   "total_value": 87.0,
   "return_pct": -13.0,
-  "open_position_count": 1,
+  "open_position_count": 2,
   "recent_closed_trades": [
     {
       "symbol": "SMCI",
