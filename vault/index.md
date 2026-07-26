@@ -1,11 +1,12 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 47 abgeschlossene Empfehlungen.
+Trefferquote: 47% über 49 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SLB]] — Score 85%
 - [[VZ]] — Score 83%
 - [[VRSN]] — Score 82%
+- [[ACGL]] — Score 79%
 - [[DHI]] — Score 79%
 - [[GPC]] — Score 79%
 - [[GPN]] — Score 79%
@@ -32,4 +33,3 @@ Trefferquote: 49% über 47 abgeschlossene Empfehlungen.
 - [[KVUE]] — Score 76%
 - [[MRSH]] — Score 76%
 - [[MSI]] — Score 76%
-- [[CRM]] — Score 76%
