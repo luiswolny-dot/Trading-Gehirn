@@ -20,7 +20,6 @@ Trefferquote: 49% über 47 abgeschlossene Empfehlungen.
 - [[HPQ]] — Score 77%
 - [[ITW]] — Score 77%
 - [[LOW]] — Score 77%
-- [[MET]] — Score 77%
 - [[SYK]] — Score 77%
 - [[IP]] — Score 76%
 - [[APO]] — Score 76%
@@ -33,3 +32,4 @@ Trefferquote: 49% über 47 abgeschlossene Empfehlungen.
 - [[KVUE]] — Score 76%
 - [[MRSH]] — Score 76%
 - [[MSI]] — Score 76%
+- [[CRM]] — Score 76%
