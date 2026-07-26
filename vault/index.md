@@ -6,7 +6,6 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[SLB]] — Score 85%
 - [[VZ]] — Score 83%
 - [[VRSN]] — Score 82%
-- [[ACGL]] — Score 79%
 - [[DHI]] — Score 79%
 - [[GPC]] — Score 79%
 - [[GPN]] — Score 79%
@@ -17,7 +16,6 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[PHM]] — Score 78%
 - [[BALL]] — Score 77%
 - [[BRO]] — Score 77%
-- [[HPQ]] — Score 77%
 - [[ITW]] — Score 77%
 - [[LOW]] — Score 77%
 - [[MET]] — Score 77%
@@ -29,7 +27,9 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[DE]] — Score 76%
 - [[ECL]] — Score 76%
 - [[FDS]] — Score 76%
-- [[HD]] — Score 76%
 - [[KVUE]] — Score 76%
 - [[MRSH]] — Score 76%
 - [[MSI]] — Score 76%
+- [[CRM]] — Score 76%
+- [[TSCO]] — Score 76%
+- [[WSM]] — Score 76%
