@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 46% über 54 abgeschlossene Empfehlungen.
+Trefferquote: 46% über 56 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[SWKS]] — Score 79%
-- [[WYNN]] — Score 79%
-- [[BSX]] — Score 78%
-- [[GPC]] — Score 78%
-- [[GDDY]] — Score 78%
-- [[OTIS]] — Score 78%
+- [[BKNG]] — Score 81%
+- [[DRI]] — Score 81%
+- [[FIS]] — Score 81%
+- [[FOXA]] — Score 81%
+- [[GDDY]] — Score 81%
+- [[TTWO]] — Score 81%
+- [[TRMB]] — Score 80%
+- [[UHS]] — Score 80%
+- [[WYNN]] — Score 80%
+- [[AXON]] — Score 79%
+- [[BF-B]] — Score 79%
+- [[CDNS]] — Score 79%
+- [[NWSA]] — Score 79%
+- [[ORCL]] — Score 79%
+- [[RMD]] — Score 79%
+- [[SOLV]] — Score 79%
+- [[WDAY]] — Score 78%
+- [[CRM]] — Score 78%
+- [[BAX]] — Score 78%
+- [[BR]] — Score 78%
+- [[GPN]] — Score 78%
+- [[OMC]] — Score 78%
+- [[RTX]] — Score 78%
 - [[TDG]] — Score 78%
-- [[WDAY]] — Score 77%
-- [[BKNG]] — Score 77%
-- [[CHTR]] — Score 77%
-- [[FOXA]] — Score 77%
-- [[NWSA]] — Score 77%
-- [[REGN]] — Score 77%
-- [[SNPS]] — Score 77%
-- [[TRMB]] — Score 77%
-- [[UHS]] — Score 77%
-- [[CRM]] — Score 76%
-- [[ADBE]] — Score 76%
-- [[ALLE]] — Score 76%
-- [[BAX]] — Score 76%
-- [[FISV]] — Score 76%
-- [[NWS]] — Score 76%
-- [[OMC]] — Score 76%
-- [[DRI]] — Score 75%
-- [[ACN]] — Score 75%
-- [[AAPL]] — Score 75%
-- [[AJG]] — Score 75%
-- [[CTSH]] — Score 75%
-- [[EBAY]] — Score 75%
-- [[FICO]] — Score 75%
+- [[ABT]] — Score 77%
+- [[BDX]] — Score 77%
+- [[UBER]] — Score 77%
+- [[VRSK]] — Score 77%
+- [[AZO]] — Score 76%
+- [[BBY]] — Score 76%

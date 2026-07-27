@@ -1,15 +1,15 @@
-# BDX
+# UBER
 
 tags: #Aktie #S-P-500
 
-- Preis: $160.06
-- Tagesbewegung: 2.37%
+- Preis: $67.66
+- Tagesbewegung: 2.61%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $160.06
-- Stop-Loss: $158.55
-- Ziel 1: $162.32
-- Ziel 2: $164.58
+- Einstieg: $67.66
+- Stop-Loss: $66.51
+- Ziel 1: $69.38
+- Ziel 2: $71.09
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
