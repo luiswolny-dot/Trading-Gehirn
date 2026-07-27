@@ -1,15 +1,15 @@
-# SJM
+# PEP
 
 tags: #Aktie #S-P-500
 
-- Preis: $121.3
-- Tagesbewegung: 2.52%
+- Preis: $140.17
+- Tagesbewegung: 2.58%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $121.3
-- Stop-Loss: $119.4
-- Ziel 1: $124.15
-- Ziel 2: $126.99
+- Einstieg: $140.17
+- Stop-Loss: $138.43
+- Ziel 1: $142.78
+- Ziel 2: $145.4
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
