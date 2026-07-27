@@ -6,10 +6,7 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[SLB]] — Score 85%
 - [[VZ]] — Score 83%
 - [[VRSN]] — Score 82%
-- [[ACGL]] — Score 79%
 - [[DHI]] — Score 79%
-- [[GPC]] — Score 79%
-- [[GPN]] — Score 79%
 - [[KKR]] — Score 79%
 - [[PKG]] — Score 78%
 - [[T]] — Score 78%
@@ -28,8 +25,11 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[DE]] — Score 76%
 - [[ECL]] — Score 76%
 - [[FDS]] — Score 76%
-- [[HD]] — Score 76%
 - [[KVUE]] — Score 76%
 - [[MRSH]] — Score 76%
 - [[MSI]] — Score 76%
 - [[CRM]] — Score 76%
+- [[TSCO]] — Score 76%
+- [[WSM]] — Score 76%
+- [[ADP]] — Score 75%
+- [[KMB]] — Score 75%
