@@ -1,15 +1,15 @@
-# VTRS
+# IDXX
 
 tags: #Aktie #S-P-500
 
-- Preis: $17.6
-- Tagesbewegung: 2.09%
+- Preis: $559.83
+- Tagesbewegung: 2.85%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $17.6
-- Stop-Loss: $17.44
-- Ziel 1: $17.84
-- Ziel 2: $18.08
+- Einstieg: $559.83
+- Stop-Loss: $553.52
+- Ziel 1: $569.29
+- Ziel 2: $578.75
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

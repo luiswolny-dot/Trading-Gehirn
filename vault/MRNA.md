@@ -1,15 +1,15 @@
-# VTRS
+# MRNA
 
 tags: #Aktie #S-P-500
 
-- Preis: $17.6
-- Tagesbewegung: 2.09%
+- Preis: $56.28
+- Tagesbewegung: 4.09%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $17.6
-- Stop-Loss: $17.44
-- Ziel 1: $17.84
-- Ziel 2: $18.08
+- Einstieg: $56.28
+- Stop-Loss: $55.17
+- Ziel 1: $57.95
+- Ziel 2: $59.62
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

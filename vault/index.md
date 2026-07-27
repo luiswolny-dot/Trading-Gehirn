@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
+Trefferquote: 45% über 53 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[BKR]] — Score 84%
-- [[NCLH]] — Score 79%
-- [[HRL]] — Score 77%
-- [[DHI]] — Score 77%
-- [[DPZ]] — Score 76%
+- [[BKR]] — Score 86%
+- [[GEHC]] — Score 78%
+- [[CRM]] — Score 76%
+- [[GOOGL]] — Score 76%
+- [[XYZ]] — Score 76%
+- [[ERIE]] — Score 76%
+- [[IDXX]] — Score 76%
+- [[MRNA]] — Score 76%
+- [[PLTR]] — Score 76%
+- [[RMD]] — Score 76%
+- [[SWKS]] — Score 76%
+- [[SYF]] — Score 76%
+- [[TDG]] — Score 76%
 - [[TRMB]] — Score 76%
-- [[ZBRA]] — Score 76%
-- [[BR]] — Score 75%
-- [[RJF]] — Score 75%
-- [[RTX]] — Score 75%
-- [[VMC]] — Score 75%
-- [[DIS]] — Score 75%
-- [[VEEV]] — Score 74%
-- [[GOOG]] — Score 74%
-- [[CDNS]] — Score 74%
-- [[CINF]] — Score 74%
-- [[EXPE]] — Score 74%
-- [[GL]] — Score 74%
-- [[HLT]] — Score 74%
-- [[HWM]] — Score 74%
-- [[LYV]] — Score 74%
-- [[SMCI]] — Score 74%
-- [[TTD]] — Score 74%
-- [[TFC]] — Score 74%
-- [[WY]] — Score 74%
-- [[BALL]] — Score 73%
-- [[BLK]] — Score 73%
-- [[CBRE]] — Score 73%
-- [[GM]] — Score 73%
-- [[HUBB]] — Score 73%
+- [[VTRS]] — Score 76%
+- [[GOOG]] — Score 75%
+- [[BRO]] — Score 75%
+- [[BEN]] — Score 75%
+- [[GM]] — Score 75%
+- [[WYNN]] — Score 75%
+- [[ZBRA]] — Score 75%
+- [[WDAY]] — Score 74%
+- [[ARE]] — Score 74%
+- [[AJG]] — Score 74%
+- [[COF]] — Score 74%
+- [[DPZ]] — Score 74%
+- [[DASH]] — Score 74%
+- [[FIS]] — Score 74%
+- [[HST]] — Score 74%
+- [[MSCI]] — Score 74%

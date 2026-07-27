@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-27T13:30:34.622448+00:00",
-  "total_closed": 52,
-  "wins": 23,
+  "updated": "2026-07-27T13:45:34.955591+00:00",
+  "total_closed": 53,
+  "wins": 24,
   "losses": 29,
-  "win_rate": 44,
-  "avg_win": 1.92,
+  "win_rate": 45,
+  "avg_win": 1.93,
   "avg_loss": -1.45,
-  "expectancy": 0.03,
-  "total_pnl": 1.91,
-  "still_open": 7,
+  "expectancy": 0.07,
+  "total_pnl": 4.09,
+  "still_open": 9,
   "recent": [
+    {
+      "id": "BKR_2026-07-27T13:30:34.622448+00:00",
+      "symbol": "BKR",
+      "opened_at": "2026-07-27T13:30:34.622448+00:00",
+      "entry": "60.93",
+      "stop_loss": "60.29",
+      "target_1": "61.89",
+      "target_2": "62.85",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-27T13:45:34.955591+00:00",
+      "resolved_price": 62.26,
+      "pnl_pct": 2.18,
+      "invested_eur": ""
+    },
     {
       "id": "SLB_2026-07-25T18:31:49.476832+00:00",
       "symbol": "SLB",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-25T15:32:13.786966+00:00",
       "resolved_price": "146.99",
       "pnl_pct": "0.27",
-      "invested_eur": ""
-    },
-    {
-      "id": "RCL_2026-07-24T15:30:31.258230+00:00",
-      "symbol": "RCL",
-      "opened_at": "2026-07-24T15:30:31.258230+00:00",
-      "entry": "299.74",
-      "stop_loss": "291.85",
-      "target_1": "311.57",
-      "target_2": "323.41",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-25T15:32:13.786966+00:00",
-      "resolved_price": "293.54",
-      "pnl_pct": "-2.07",
       "invested_eur": ""
     }
   ]

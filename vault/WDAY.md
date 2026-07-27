@@ -1,15 +1,15 @@
-# BKR
+# WDAY
 
 tags: #Aktie #S-P-500
 
-- Preis: $62.34
-- Tagesbewegung: 8.89%
-- Gesamt-Score: 86%
-- KGV: 18.2272
-- Einstieg: $62.34
-- Stop-Loss: $60.99
-- Ziel 1: $64.36
-- Ziel 2: $66.39
+- Preis: $144.28
+- Tagesbewegung: 6.61%
+- Gesamt-Score: 74%
+- KGV: 38.3098
+- Einstieg: $144.28
+- Stop-Loss: $141.24
+- Ziel 1: $148.84
+- Ziel 2: $153.41
 
 ## Verknüpfungen
 - Trend: [[Trend-unbekannt]]
@@ -17,5 +17,4 @@ tags: #Aktie #S-P-500
 - Gehört zu: [[S&P-500]]
 
 ## Bisherige Empfehlungen für diese Aktie
-- 2026-07-27: ziel_1_erreicht (2.18%)
 - 2026-07-27: open
