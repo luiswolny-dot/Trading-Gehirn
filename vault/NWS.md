@@ -1,15 +1,15 @@
-# BAX
+# NWS
 
 tags: #Aktie #S-P-500
 
-- Preis: $23.26
-- Tagesbewegung: 3.84%
+- Preis: $30.97
+- Tagesbewegung: 2.58%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $23.26
-- Stop-Loss: $22.88
-- Ziel 1: $23.83
-- Ziel 2: $24.39
+- Einstieg: $30.97
+- Stop-Loss: $30.67
+- Ziel 1: $31.41
+- Ziel 2: $31.85
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

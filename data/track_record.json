@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T14:45:31.393024+00:00",
+  "updated": "2026-07-27T15:00:55.366308+00:00",
   "total_closed": 54,
   "wins": 25,
   "losses": 29,
@@ -8,7 +8,7 @@
   "avg_loss": -1.45,
   "expectancy": 0.08,
   "total_pnl": 4.92,
-  "still_open": 10,
+  "still_open": 11,
   "recent": [
     {
       "id": "VRSN_2026-07-26T14:02:19.398024+00:00",
