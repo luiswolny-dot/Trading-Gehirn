@@ -1,15 +1,15 @@
-# DGX
+# KO
 
 tags: #Aktie #S-P-500
 
-- Preis: $231.84
-- Tagesbewegung: 1.75%
+- Preis: $84.07
+- Tagesbewegung: 2.21%
 - Gesamt-Score: 75%
 - KGV: —
-- Einstieg: $231.84
-- Stop-Loss: $228.35
-- Ziel 1: $237.08
-- Ziel 2: $242.32
+- Einstieg: $84.07
+- Stop-Loss: $83.25
+- Ziel 1: $85.3
+- Ziel 2: $86.52
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
