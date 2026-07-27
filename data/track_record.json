@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T15:15:34.075057+00:00",
+  "updated": "2026-07-27T15:30:33.672431+00:00",
   "total_closed": 56,
   "wins": 26,
   "losses": 30,
@@ -8,7 +8,7 @@
   "avg_loss": -1.49,
   "expectancy": 0.06,
   "total_pnl": 3.93,
-  "still_open": 10,
+  "still_open": 11,
   "recent": [
     {
       "id": "VEEV_2026-07-27T13:30:34.622448+00:00",
@@ -20,8 +20,8 @@
       "target_2": "197.65",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-27T15:15:34.075057+00:00",
-      "resolved_price": 195.33,
-      "pnl_pct": 1.46,
+      "resolved_price": "195.33",
+      "pnl_pct": "1.46",
       "invested_eur": ""
     },
     {
@@ -34,8 +34,8 @@
       "target_2": "66.39",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-27T15:15:34.075057+00:00",
-      "resolved_price": 60.81,
-      "pnl_pct": -2.45,
+      "resolved_price": "60.81",
+      "pnl_pct": "-2.45",
       "invested_eur": ""
     },
     {
