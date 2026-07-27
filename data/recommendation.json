@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T05:32:00.353612+00:00",
+  "timestamp": "2026-07-27T05:46:24.608030+00:00",
   "picks": [
     {
       "symbol": "SLB",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-27T05:32:00.353612+00:00",
+      "timestamp": "2026-07-27T05:46:24.608030+00:00",
       "fundamental_score": 84,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-27T05:32:00.353612+00:00",
+      "timestamp": "2026-07-27T05:46:24.608030+00:00",
       "fundamental_score": 92,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-27T05:32:00.353612+00:00",
+      "timestamp": "2026-07-27T05:46:24.608030+00:00",
       "fundamental_score": 84,
       "news_score": 98,
       "momentum_quality": 50
