@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-27T17:15:22.997597+00:00",
+  "updated": "2026-07-27T17:30:34.963225+00:00",
   "starting_balance": 100.0,
-  "cash": 31.61,
-  "invested_in_open_positions": 53.67,
-  "total_value": 85.28,
-  "return_pct": -14.72,
-  "open_position_count": 2,
+  "cash": 63.77,
+  "invested_in_open_positions": 20.34,
+  "total_value": 84.11,
+  "return_pct": -15.89,
+  "open_position_count": 1,
   "recent_closed_trades": [
+    {
+      "symbol": "VZ",
+      "opened_at": "2026-07-26T17:15:23.743809+00:00",
+      "resolved_at": "2026-07-27T17:30:34.963225+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -1.17,
+      "status": "abgelaufen_gewinn"
+    },
     {
       "symbol": "VRSN",
       "opened_at": "2026-07-26T14:02:19.398024+00:00",

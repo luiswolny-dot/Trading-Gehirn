@@ -1,7 +1,7 @@
 {
-  "cash": 31.61,
+  "cash": 63.77,
   "starting_balance": 100.0,
-  "updated": "2026-07-27T17:15:22.997597+00:00",
+  "updated": "2026-07-27T17:30:34.963225+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -65,6 +65,14 @@
       "resolved_at": "2026-07-27T14:15:27.924766+00:00",
       "invested_eur": 33.33,
       "net_pnl_eur": -1.72,
+      "status": "abgelaufen_gewinn"
+    },
+    {
+      "symbol": "VZ",
+      "opened_at": "2026-07-26T17:15:23.743809+00:00",
+      "resolved_at": "2026-07-27T17:30:34.963225+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -1.17,
       "status": "abgelaufen_gewinn"
     }
   ]
