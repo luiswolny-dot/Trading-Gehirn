@@ -1,15 +1,15 @@
-# CTSH
+# MCO
 
 tags: #Aktie #S-P-500
 
-- Preis: $46.92
-- Tagesbewegung: 3.23%
+- Preis: $486.16
+- Tagesbewegung: 3.11%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $46.92
-- Stop-Loss: $46.4
-- Ziel 1: $47.71
-- Ziel 2: $48.49
+- Einstieg: $486.16
+- Stop-Loss: $482.09
+- Ziel 1: $492.27
+- Ziel 2: $498.37
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

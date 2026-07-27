@@ -1,15 +1,15 @@
-# PAYX
+# TGT
 
 tags: #Aktie #S-P-500
 
-- Preis: $116.08
-- Tagesbewegung: 2.23%
+- Preis: $140.03
+- Tagesbewegung: 2.38%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $116.08
-- Stop-Loss: $115.19
-- Ziel 1: $117.41
-- Ziel 2: $118.75
+- Einstieg: $140.03
+- Stop-Loss: $138.72
+- Ziel 1: $141.99
+- Ziel 2: $143.95
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

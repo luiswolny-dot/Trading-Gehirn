@@ -1,15 +1,15 @@
-# CTSH
+# ORLY
 
 tags: #Aktie #S-P-500
 
-- Preis: $46.92
-- Tagesbewegung: 3.23%
+- Preis: $90.08
+- Tagesbewegung: 3.07%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $46.92
-- Stop-Loss: $46.4
-- Ziel 1: $47.71
-- Ziel 2: $48.49
+- Einstieg: $90.08
+- Stop-Loss: $89.01
+- Ziel 1: $91.69
+- Ziel 2: $93.3
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

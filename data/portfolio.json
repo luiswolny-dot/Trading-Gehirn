@@ -1,7 +1,7 @@
 {
-  "cash": 0.0,
+  "cash": 31.61,
   "starting_balance": 100.0,
-  "updated": "2026-07-27T14:00:46.995295+00:00",
+  "updated": "2026-07-27T14:15:27.924766+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -58,6 +58,14 @@
       "invested_eur": 33.33,
       "net_pnl_eur": -0.37,
       "status": "ziel_1_erreicht"
+    },
+    {
+      "symbol": "VRSN",
+      "opened_at": "2026-07-26T14:02:19.398024+00:00",
+      "resolved_at": "2026-07-27T14:15:27.924766+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -1.72,
+      "status": "abgelaufen_gewinn"
     }
   ]
 }

@@ -1,15 +1,15 @@
-# HSY
+# SOLV
 
 tags: #Aktie #S-P-500
 
-- Preis: $178.19
-- Tagesbewegung: 2.23%
+- Preis: $80.16
+- Tagesbewegung: 2.76%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $178.19
-- Stop-Loss: $176.72
-- Ziel 1: $180.39
-- Ziel 2: $182.6
+- Einstieg: $80.16
+- Stop-Loss: $79.42
+- Ziel 1: $81.27
+- Ziel 2: $82.38
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
