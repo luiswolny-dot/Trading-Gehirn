@@ -17,7 +17,6 @@ Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 - [[RCL]] — Score 77%
 - [[NOW]] — Score 77%
 - [[TDG]] — Score 77%
-- [[EXPE]] — Score 76%
 - [[CVNA]] — Score 76%
 - [[FFIV]] — Score 76%
 - [[HONA]] — Score 76%
@@ -27,6 +26,7 @@ Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 - [[TEL]] — Score 76%
 - [[TYL]] — Score 76%
 - [[VLTO]] — Score 76%
+- [[EXPE]] — Score 75%
 - [[CMG]] — Score 75%
 - [[KO]] — Score 75%
 - [[DGX]] — Score 75%
