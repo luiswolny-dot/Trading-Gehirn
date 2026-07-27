@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-27T16:45:23.082567+00:00",
-  "total_closed": 56,
-  "wins": 26,
+  "updated": "2026-07-27T17:00:48.548737+00:00",
+  "total_closed": 57,
+  "wins": 27,
   "losses": 30,
-  "win_rate": 46,
-  "avg_win": 1.87,
+  "win_rate": 47,
+  "avg_win": 1.88,
   "avg_loss": -1.49,
-  "expectancy": 0.06,
-  "total_pnl": 3.93,
-  "still_open": 11,
+  "expectancy": 0.09,
+  "total_pnl": 6.07,
+  "still_open": 10,
   "recent": [
+    {
+      "id": "CRM_2026-07-27T13:45:34.955591+00:00",
+      "symbol": "CRM",
+      "opened_at": "2026-07-27T13:45:34.955591+00:00",
+      "entry": "171.29",
+      "stop_loss": "169.03",
+      "target_1": "174.68",
+      "target_2": "178.07",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-27T17:00:48.548737+00:00",
+      "resolved_price": 174.95,
+      "pnl_pct": 2.14,
+      "invested_eur": ""
+    },
     {
       "id": "VEEV_2026-07-27T13:30:34.622448+00:00",
       "symbol": "VEEV",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-26T12:46:24.342870+00:00",
       "resolved_price": "283.02",
       "pnl_pct": "0.0",
-      "invested_eur": ""
-    },
-    {
-      "id": "SLB_2026-07-24T18:30:34.898925+00:00",
-      "symbol": "SLB",
-      "opened_at": "2026-07-24T18:30:34.898925+00:00",
-      "entry": "52.36",
-      "stop_loss": "50.94",
-      "target_1": "54.49",
-      "target_2": "56.62",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-25T18:31:49.476832+00:00",
-      "resolved_price": "52.42",
-      "pnl_pct": "0.11",
       "invested_eur": ""
     }
   ]

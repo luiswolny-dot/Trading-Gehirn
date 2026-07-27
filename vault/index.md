@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 46% über 56 abgeschlossene Empfehlungen.
+Trefferquote: 47% über 57 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[TRMB]] — Score 82%
-- [[AZO]] — Score 81%
-- [[BBY]] — Score 81%
-- [[CTSH]] — Score 81%
 - [[CMCSA]] — Score 81%
-- [[TSN]] — Score 81%
-- [[OMC]] — Score 80%
-- [[RMD]] — Score 80%
-- [[TTD]] — Score 80%
-- [[VRSK]] — Score 80%
+- [[DRI]] — Score 81%
+- [[FOX]] — Score 81%
+- [[ORLY]] — Score 81%
+- [[RMD]] — Score 81%
+- [[AXON]] — Score 80%
+- [[BBY]] — Score 80%
+- [[ERIE]] — Score 80%
+- [[MCO]] — Score 80%
+- [[TRMB]] — Score 80%
 - [[ABNB]] — Score 79%
-- [[BSX]] — Score 79%
-- [[CDNS]] — Score 79%
-- [[DRI]] — Score 79%
-- [[LVS]] — Score 79%
-- [[ORLY]] — Score 79%
+- [[DPZ]] — Score 79%
+- [[OMC]] — Score 79%
+- [[ROP]] — Score 79%
+- [[VRSK]] — Score 79%
 - [[WDAY]] — Score 78%
-- [[DPZ]] — Score 78%
-- [[FIS]] — Score 78%
-- [[BR]] — Score 77%
-- [[JKHY]] — Score 77%
-- [[MCO]] — Score 77%
-- [[MSCI]] — Score 77%
-- [[RTX]] — Score 77%
+- [[BSX]] — Score 78%
+- [[BR]] — Score 78%
+- [[CTAS]] — Score 78%
+- [[FICO]] — Score 78%
+- [[FOXA]] — Score 78%
+- [[SOLV]] — Score 78%
+- [[TTD]] — Score 78%
+- [[ADP]] — Score 77%
+- [[EFX]] — Score 77%
 - [[VEEV]] — Score 76%
-- [[ADP]] — Score 76%
 - [[EBAY]] — Score 76%
-- [[LDOS]] — Score 76%
-- [[SWKS]] — Score 76%
-- [[TTWO]] — Score 76%
+- [[JKHY]] — Score 76%
+- [[MSCI]] — Score 76%
+- [[AON]] — Score 75%
