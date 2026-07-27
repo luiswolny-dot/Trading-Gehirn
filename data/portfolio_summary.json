@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-27T18:30:40.630289+00:00",
+  "updated": "2026-07-27T18:45:25.497282+00:00",
   "starting_balance": 100.0,
-  "cash": 63.77,
-  "invested_in_open_positions": 20.34,
-  "total_value": 84.11,
-  "return_pct": -15.89,
-  "open_position_count": 1,
+  "cash": 82.0,
+  "invested_in_open_positions": 0,
+  "total_value": 82.0,
+  "return_pct": -18.0,
+  "open_position_count": 0,
   "recent_closed_trades": [
+    {
+      "symbol": "SLB",
+      "opened_at": "2026-07-26T18:45:21.063942+00:00",
+      "resolved_at": "2026-07-27T18:45:25.497282+00:00",
+      "invested_eur": 20.34,
+      "net_pnl_eur": -2.11,
+      "status": "abgelaufen_verlust"
+    },
     {
       "symbol": "VZ",
       "opened_at": "2026-07-26T17:15:23.743809+00:00",

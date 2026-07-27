@@ -1,7 +1,7 @@
 {
-  "cash": 63.77,
+  "cash": 82.0,
   "starting_balance": 100.0,
-  "updated": "2026-07-27T18:30:40.630289+00:00",
+  "updated": "2026-07-27T18:45:25.497282+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -74,6 +74,14 @@
       "invested_eur": 33.33,
       "net_pnl_eur": -1.17,
       "status": "abgelaufen_gewinn"
+    },
+    {
+      "symbol": "SLB",
+      "opened_at": "2026-07-26T18:45:21.063942+00:00",
+      "resolved_at": "2026-07-27T18:45:25.497282+00:00",
+      "invested_eur": 20.34,
+      "net_pnl_eur": -2.11,
+      "status": "abgelaufen_verlust"
     }
   ]
 }

@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 59 abgeschlossene Empfehlungen.
+Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[BBY]] — Score 81%
+- [[TRMB]] — Score 83%
+- [[FDS]] — Score 82%
+- [[GPN]] — Score 82%
+- [[AZO]] — Score 81%
+- [[OMC]] — Score 81%
 - [[SPGI]] — Score 81%
-- [[DASH]] — Score 80%
-- [[FIS]] — Score 80%
-- [[OMC]] — Score 80%
-- [[TTWO]] — Score 80%
+- [[EBAY]] — Score 80%
+- [[RMD]] — Score 80%
 - [[TSCO]] — Score 80%
 - [[WDAY]] — Score 79%
 - [[DG]] — Score 79%
-- [[AZO]] — Score 79%
-- [[EBAY]] — Score 79%
-- [[ERIE]] — Score 79%
-- [[EL]] — Score 79%
-- [[FFIV]] — Score 79%
+- [[AXON]] — Score 79%
+- [[CHTR]] — Score 79%
+- [[CMG]] — Score 79%
+- [[GEN]] — Score 79%
 - [[HSY]] — Score 79%
-- [[HRL]] — Score 79%
-- [[FDS]] — Score 78%
-- [[CMCSA]] — Score 78%
+- [[RTX]] — Score 79%
+- [[TSN]] — Score 79%
+- [[XYZ]] — Score 78%
+- [[BR]] — Score 78%
 - [[GDDY]] — Score 78%
-- [[RTX]] — Score 78%
-- [[RMD]] — Score 78%
-- [[SJM]] — Score 78%
-- [[WTW]] — Score 78%
-- [[ALLE]] — Score 77%
-- [[BR]] — Score 77%
-- [[GPN]] — Score 77%
-- [[PEP]] — Score 77%
-- [[TDG]] — Score 77%
-- [[VLTO]] — Score 77%
-- [[EXPE]] — Score 76%
+- [[HRL]] — Score 78%
+- [[JKHY]] — Score 78%
+- [[SWKS]] — Score 78%
+- [[TDG]] — Score 78%
+- [[VEEV]] — Score 77%
+- [[CTAS]] — Score 77%
+- [[INTU]] — Score 77%
+- [[MSFT]] — Score 77%
+- [[SJM]] — Score 77%
