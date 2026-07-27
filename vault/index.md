@@ -6,6 +6,7 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[SLB]] — Score 85%
 - [[VZ]] — Score 83%
 - [[VRSN]] — Score 82%
+- [[ACGL]] — Score 79%
 - [[DHI]] — Score 79%
 - [[GPC]] — Score 79%
 - [[GPN]] — Score 79%
@@ -32,4 +33,3 @@ Trefferquote: 44% über 52 abgeschlossene Empfehlungen.
 - [[MRSH]] — Score 76%
 - [[MSI]] — Score 76%
 - [[CRM]] — Score 76%
-- [[TSCO]] — Score 76%
