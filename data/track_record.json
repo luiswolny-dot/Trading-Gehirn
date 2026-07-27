@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T18:45:25.497282+00:00",
+  "updated": "2026-07-27T19:00:48.748410+00:00",
   "total_closed": 60,
   "wins": 29,
   "losses": 31,
@@ -8,7 +8,7 @@
   "avg_loss": -1.46,
   "expectancy": 0.18,
   "total_pnl": 11.83,
-  "still_open": 11,
+  "still_open": 12,
   "recent": [
     {
       "id": "SLB_2026-07-26T18:45:21.063942+00:00",
@@ -20,8 +20,8 @@
       "target_2": "56.69",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-07-27T18:45:25.497282+00:00",
-      "resolved_price": 52.14,
-      "pnl_pct": -0.53,
+      "resolved_price": "52.14",
+      "pnl_pct": "-0.53",
       "invested_eur": "20.34"
     },
     {
