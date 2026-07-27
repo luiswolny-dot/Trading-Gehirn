@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 48% über 58 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 59 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[DG]] — Score 82%
-- [[FIS]] — Score 82%
-- [[MCO]] — Score 82%
-- [[AZO]] — Score 81%
-- [[DRI]] — Score 81%
-- [[EFX]] — Score 81%
-- [[GM]] — Score 80%
-- [[MSCI]] — Score 80%
+- [[DG]] — Score 81%
+- [[FIS]] — Score 81%
+- [[MCO]] — Score 81%
+- [[MSCI]] — Score 81%
+- [[ORLY]] — Score 81%
+- [[SOLV]] — Score 81%
+- [[BR]] — Score 80%
+- [[FICO]] — Score 80%
+- [[GPN]] — Score 80%
+- [[INTU]] — Score 80%
 - [[ROP]] — Score 80%
-- [[SOLV]] — Score 80%
+- [[SWKS]] — Score 80%
 - [[TTD]] — Score 80%
 - [[WDAY]] — Score 79%
-- [[BR]] — Score 79%
-- [[ERIE]] — Score 79%
-- [[ORLY]] — Score 79%
-- [[OMC]] — Score 79%
-- [[RMD]] — Score 79%
-- [[ABNB]] — Score 78%
-- [[ADP]] — Score 78%
-- [[AXON]] — Score 78%
-- [[BBY]] — Score 78%
-- [[BF-B]] — Score 78%
+- [[AZO]] — Score 79%
+- [[CPAY]] — Score 79%
+- [[TSN]] — Score 79%
+- [[COIN]] — Score 78%
 - [[EBAY]] — Score 78%
-- [[FICO]] — Score 78%
-- [[FOXA]] — Score 78%
-- [[SPGI]] — Score 78%
-- [[SWKS]] — Score 78%
-- [[VRSK]] — Score 78%
+- [[EFX]] — Score 78%
+- [[ERIE]] — Score 78%
+- [[GDDY]] — Score 78%
+- [[OMC]] — Score 78%
+- [[RTX]] — Score 78%
+- [[TSCO]] — Score 78%
 - [[VEEV]] — Score 77%
-- [[CPAY]] — Score 77%
+- [[ABNB]] — Score 77%
+- [[ADP]] — Score 77%
+- [[CMCSA]] — Score 77%
+- [[FISV]] — Score 77%

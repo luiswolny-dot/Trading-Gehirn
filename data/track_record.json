@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-27T17:30:34.963225+00:00",
-  "total_closed": 58,
-  "wins": 28,
+  "updated": "2026-07-27T17:45:27.562090+00:00",
+  "total_closed": 59,
+  "wins": 29,
   "losses": 30,
-  "win_rate": 48,
-  "avg_win": 1.9,
+  "win_rate": 49,
+  "avg_win": 1.96,
   "avg_loss": -1.49,
-  "expectancy": 0.14,
-  "total_pnl": 8.55,
+  "expectancy": 0.2,
+  "total_pnl": 12.36,
   "still_open": 9,
   "recent": [
+    {
+      "id": "WDAY_2026-07-27T13:45:34.955591+00:00",
+      "symbol": "WDAY",
+      "opened_at": "2026-07-27T13:45:34.955591+00:00",
+      "entry": "144.28",
+      "stop_loss": "141.24",
+      "target_1": "148.84",
+      "target_2": "153.41",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-27T17:45:27.562090+00:00",
+      "resolved_price": 149.77,
+      "pnl_pct": 3.81,
+      "invested_eur": ""
+    },
     {
       "id": "VZ_2026-07-26T17:15:23.743809+00:00",
       "symbol": "VZ",
@@ -20,8 +34,8 @@
       "target_2": "50.45",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-07-27T17:30:34.963225+00:00",
-      "resolved_price": 47.53,
-      "pnl_pct": 2.48,
+      "resolved_price": "47.53",
+      "pnl_pct": "2.48",
       "invested_eur": "33.33"
     },
     {
@@ -133,20 +147,6 @@
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-07-26T14:02:19.398024+00:00",
       "resolved_price": "280",
-      "pnl_pct": "0.0",
-      "invested_eur": ""
-    },
-    {
-      "id": "ADP_2026-07-25T12:45:25.690842+00:00",
-      "symbol": "ADP",
-      "opened_at": "2026-07-25T12:45:25.690842+00:00",
-      "entry": "250.09",
-      "stop_loss": "246.45",
-      "target_1": "255.54",
-      "target_2": "261.0",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-26T12:46:24.342870+00:00",
-      "resolved_price": "250.09",
       "pnl_pct": "0.0",
       "invested_eur": ""
     }

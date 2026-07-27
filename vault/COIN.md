@@ -1,15 +1,15 @@
-# OMC
+# COIN
 
 tags: #Aktie #S-P-500
 
-- Preis: $82.56
-- Tagesbewegung: 3.64%
+- Preis: $166.46
+- Tagesbewegung: 5.16%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $82.56
-- Stop-Loss: $81.66
-- Ziel 1: $83.91
-- Ziel 2: $85.25
+- Einstieg: $166.46
+- Stop-Loss: $162.74
+- Ziel 1: $172.05
+- Ziel 2: $177.64
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
