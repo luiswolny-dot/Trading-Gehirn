@@ -1,15 +1,15 @@
-# SW
+# CSGP
 
 tags: #Aktie #S-P-500
 
-- Preis: $49.88
-- Tagesbewegung: 2.72%
+- Preis: $29.42
+- Tagesbewegung: 6.36%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $49.88
-- Stop-Loss: $49.05
-- Ziel 1: $51.13
-- Ziel 2: $52.39
+- Einstieg: $29.42
+- Stop-Loss: $28.48
+- Ziel 1: $30.84
+- Ziel 2: $32.26
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
