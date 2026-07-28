@@ -1,15 +1,15 @@
-# TTD
+# UAL
 
 tags: #Aktie #S-P-500
 
-- Preis: $18.85
-- Tagesbewegung: 5.43%
+- Preis: $124.04
+- Tagesbewegung: 2.88%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $18.85
-- Stop-Loss: $18.32
-- Ziel 1: $19.64
-- Ziel 2: $20.44
+- Einstieg: $124.04
+- Stop-Loss: $121.71
+- Ziel 1: $127.53
+- Ziel 2: $131.03
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
