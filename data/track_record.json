@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-28T15:00:48.173893+00:00",
-  "total_closed": 72,
-  "wins": 40,
+  "updated": "2026-07-28T15:15:36.389504+00:00",
+  "total_closed": 73,
+  "wins": 41,
   "losses": 32,
   "win_rate": 56,
-  "avg_win": 2.25,
+  "avg_win": 2.26,
   "avg_loss": -1.44,
   "expectancy": 0.63,
-  "total_pnl": 43.91,
-  "still_open": 9,
+  "total_pnl": 46.83,
+  "still_open": 8,
   "recent": [
+    {
+      "id": "GM_2026-07-28T00:00:43.328080+00:00",
+      "symbol": "GM",
+      "opened_at": "2026-07-28T00:00:43.328080+00:00",
+      "entry": "87.04",
+      "stop_loss": "85.55",
+      "target_1": "89.28",
+      "target_2": "91.52",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-28T15:15:36.389504+00:00",
+      "resolved_price": 89.58,
+      "pnl_pct": 2.92,
+      "invested_eur": ""
+    },
     {
       "id": "WDAY_2026-07-27T17:45:27.562090+00:00",
       "symbol": "WDAY",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-28T13:30:47.755030+00:00",
       "resolved_price": "26.06",
       "pnl_pct": "0.31",
-      "invested_eur": ""
-    },
-    {
-      "id": "BKNG_2026-07-27T14:45:31.393024+00:00",
-      "symbol": "BKNG",
-      "opened_at": "2026-07-27T14:45:31.393024+00:00",
-      "entry": "184.65",
-      "stop_loss": "182.22",
-      "target_1": "188.3",
-      "target_2": "191.95",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-28T13:30:47.755030+00:00",
-      "resolved_price": "189.88",
-      "pnl_pct": "2.83",
       "invested_eur": ""
     }
   ]

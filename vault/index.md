@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 56% über 72 abgeschlossene Empfehlungen.
+Trefferquote: 56% über 73 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[FDS]] — Score 81%
-- [[NOW]] — Score 80%
-- [[WTW]] — Score 80%
-- [[BKNG]] — Score 79%
-- [[CBOE]] — Score 79%
-- [[TAP]] — Score 79%
-- [[ROST]] — Score 79%
-- [[MO]] — Score 78%
-- [[PCG]] — Score 78%
-- [[PGR]] — Score 78%
-- [[ACN]] — Score 77%
-- [[CRM]] — Score 77%
-- [[ALL]] — Score 77%
-- [[AMT]] — Score 77%
-- [[AWK]] — Score 77%
-- [[AON]] — Score 77%
-- [[EIX]] — Score 77%
-- [[KDP]] — Score 77%
-- [[KR]] — Score 77%
-- [[MNST]] — Score 77%
-- [[RCL]] — Score 77%
-- [[IQV]] — Score 76%
-- [[CF]] — Score 76%
-- [[CHTR]] — Score 76%
-- [[DECK]] — Score 76%
-- [[DASH]] — Score 76%
-- [[HCA]] — Score 76%
-- [[ICE]] — Score 76%
-- [[SHW]] — Score 76%
-- [[INCY]] — Score 75%
+- [[WTW]] — Score 84%
+- [[FDS]] — Score 83%
+- [[ADP]] — Score 83%
+- [[BR]] — Score 83%
+- [[CMCSA]] — Score 83%
+- [[DECK]] — Score 83%
+- [[EXPE]] — Score 83%
+- [[TRMB]] — Score 83%
+- [[BF-B]] — Score 82%
+- [[CHTR]] — Score 82%
+- [[IBM]] — Score 82%
+- [[AON]] — Score 81%
+- [[AJG]] — Score 81%
+- [[BRO]] — Score 81%
+- [[MNST]] — Score 81%
+- [[VEEV]] — Score 81%
+- [[SHW]] — Score 80%
+- [[DASH]] — Score 80%
+- [[FIS]] — Score 80%
+- [[JKHY]] — Score 80%
+- [[PNR]] — Score 80%
+- [[RCL]] — Score 80%
+- [[ZBRA]] — Score 80%
+- [[ACN]] — Score 79%
+- [[IQV]] — Score 79%
+- [[CRM]] — Score 79%
+- [[ALL]] — Score 79%
+- [[AMT]] — Score 79%
+- [[FISV]] — Score 79%
+- [[GRMN]] — Score 79%
