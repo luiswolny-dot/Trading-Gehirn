@@ -32,4 +32,4 @@ Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 - [[DGX]] — Score 75%
 - [[CRM]] — Score 75%
 - [[WSM]] — Score 75%
-- [[ADSK]] — Score 74%
+- [[APP]] — Score 74%
