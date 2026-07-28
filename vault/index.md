@@ -5,6 +5,7 @@ Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[NCLH]] — Score 83%
 - [[RCL]] — Score 83%
+- [[MRSH]] — Score 83%
 - [[SOLV]] — Score 83%
 - [[TRMB]] — Score 83%
 - [[VLTO]] — Score 83%
@@ -32,4 +33,3 @@ Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 - [[EBAY]] — Score 79%
 - [[ULTA]] — Score 79%
 - [[HAS]] — Score 78%
-- [[MRSH]] — Score 78%
