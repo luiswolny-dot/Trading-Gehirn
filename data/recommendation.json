@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T12:30:37.979053+00:00",
+  "timestamp": "2026-07-28T12:45:26.151378+00:00",
   "picks": [
     {
       "symbol": "EXPE",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-28T12:30:37.979053+00:00",
+      "timestamp": "2026-07-28T12:45:26.151378+00:00",
       "fundamental_score": 82,
       "news_score": 74,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-28T12:30:37.979053+00:00",
+      "timestamp": "2026-07-28T12:45:26.151378+00:00",
       "fundamental_score": 53,
       "news_score": 100,
       "momentum_quality": 50
@@ -64,15 +64,15 @@
       "target_2": 91.52,
       "risk_reward": 1.5,
       "final_score": 73,
-      "pe_ratio": 37.205,
+      "pe_ratio": 39.1859,
       "news_label": "positiv",
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-28T12:30:37.979053+00:00",
-      "fundamental_score": 54,
+      "timestamp": "2026-07-28T12:45:26.151378+00:00",
+      "fundamental_score": 52,
       "news_score": 100,
       "momentum_quality": 50
     }

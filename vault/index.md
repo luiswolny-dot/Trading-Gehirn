@@ -3,8 +3,10 @@
 Trefferquote: 48% über 61 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[SWK]] — Score 78%
 - [[SYF]] — Score 78%
 - [[UBER]] — Score 78%
+- [[ALLE]] — Score 77%
 - [[AZO]] — Score 77%
 - [[DHR]] — Score 77%
 - [[DRI]] — Score 77%
@@ -31,5 +33,3 @@ Trefferquote: 48% über 61 abgeschlossene Empfehlungen.
 - [[CRM]] — Score 75%
 - [[WSM]] — Score 75%
 - [[APP]] — Score 74%
-- [[SCHW]] — Score 74%
-- [[DOV]] — Score 74%
