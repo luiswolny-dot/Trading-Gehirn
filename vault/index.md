@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 67 abgeschlossene Empfehlungen.
+Trefferquote: 54% über 70 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SHW]] — Score 83%
-- [[MDT]] — Score 80%
-- [[WAT]] — Score 80%
-- [[WY]] — Score 80%
-- [[IQV]] — Score 79%
-- [[ABBV]] — Score 79%
-- [[AMGN]] — Score 79%
-- [[T]] — Score 79%
-- [[BRK-B]] — Score 79%
-- [[FDS]] — Score 79%
-- [[PODD]] — Score 79%
-- [[OMC]] — Score 79%
-- [[TGT]] — Score 79%
-- [[WTW]] — Score 79%
-- [[ALLE]] — Score 78%
-- [[AMT]] — Score 78%
-- [[ACGL]] — Score 78%
-- [[BMY]] — Score 78%
-- [[CMCSA]] — Score 78%
-- [[CCI]] — Score 78%
-- [[DXCM]] — Score 78%
-- [[EIX]] — Score 78%
-- [[MTD]] — Score 78%
-- [[NOC]] — Score 78%
-- [[NVR]] — Score 78%
-- [[PEP]] — Score 78%
-- [[REGN]] — Score 78%
-- [[ROST]] — Score 78%
-- [[VICI]] — Score 78%
-- [[ZBH]] — Score 78%
+- [[ADSK]] — Score 82%
+- [[BAX]] — Score 82%
+- [[BDX]] — Score 82%
+- [[KO]] — Score 82%
+- [[KDP]] — Score 82%
+- [[PM]] — Score 82%
+- [[ROP]] — Score 82%
+- [[STE]] — Score 82%
+- [[IQV]] — Score 81%
+- [[FDS]] — Score 81%
+- [[MDT]] — Score 81%
+- [[AMT]] — Score 81%
+- [[AVY]] — Score 81%
+- [[SBAC]] — Score 81%
+- [[SYK]] — Score 81%
+- [[WY]] — Score 81%
+- [[ABT]] — Score 80%
+- [[ARE]] — Score 80%
+- [[BR]] — Score 80%
+- [[HAS]] — Score 80%
+- [[IDXX]] — Score 80%
+- [[MDLZ]] — Score 80%
+- [[PYPL]] — Score 79%
+- [[ADBE]] — Score 79%
+- [[ALLE]] — Score 79%
+- [[ADP]] — Score 79%
+- [[BA]] — Score 79%
+- [[GIS]] — Score 79%
+- [[HCA]] — Score 79%

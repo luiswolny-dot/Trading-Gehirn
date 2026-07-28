@@ -1,15 +1,57 @@
 {
-  "updated": "2026-07-28T13:45:30.549601+00:00",
-  "total_closed": 67,
-  "wins": 35,
+  "updated": "2026-07-28T14:05:46.334725+00:00",
+  "total_closed": 70,
+  "wins": 38,
   "losses": 32,
-  "win_rate": 52,
-  "avg_win": 2.02,
+  "win_rate": 54,
+  "avg_win": 2.18,
   "avg_loss": -1.44,
-  "expectancy": 0.36,
-  "total_pnl": 24.63,
-  "still_open": 10,
+  "expectancy": 0.51,
+  "total_pnl": 36.75,
+  "still_open": 8,
   "recent": [
+    {
+      "id": "VEEV_2026-07-27T15:15:34.075057+00:00",
+      "symbol": "VEEV",
+      "opened_at": "2026-07-27T15:15:34.075057+00:00",
+      "entry": "195.41",
+      "stop_loss": "192.12",
+      "target_1": "200.34",
+      "target_2": "205.28",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-28T14:05:46.334725+00:00",
+      "resolved_price": 201.08,
+      "pnl_pct": 2.9,
+      "invested_eur": ""
+    },
+    {
+      "id": "ADSK_2026-07-27T18:00:47.838037+00:00",
+      "symbol": "ADSK",
+      "opened_at": "2026-07-27T18:00:47.838037+00:00",
+      "entry": "226.36",
+      "stop_loss": "219.11",
+      "target_1": "237.24",
+      "target_2": "248.12",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-28T14:05:46.334725+00:00",
+      "resolved_price": 237.45,
+      "pnl_pct": 4.9,
+      "invested_eur": ""
+    },
+    {
+      "id": "FDS_2026-07-27T18:15:21.731275+00:00",
+      "symbol": "FDS",
+      "opened_at": "2026-07-27T18:15:21.731275+00:00",
+      "entry": "269.93",
+      "stop_loss": "262.91",
+      "target_1": "280.46",
+      "target_2": "290.99",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-28T14:05:46.334725+00:00",
+      "resolved_price": 281.58,
+      "pnl_pct": 4.32,
+      "invested_eur": ""
+    },
     {
       "id": "ABT_2026-07-27T14:45:31.393024+00:00",
       "symbol": "ABT",
@@ -20,8 +62,8 @@
       "target_2": "108.43",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-28T13:45:30.549601+00:00",
-      "resolved_price": 107.8,
-      "pnl_pct": 2.29,
+      "resolved_price": "107.8",
+      "pnl_pct": "2.29",
       "invested_eur": ""
     },
     {
@@ -34,8 +76,8 @@
       "target_2": "253.03",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-28T13:45:30.549601+00:00",
-      "resolved_price": 246.53,
-      "pnl_pct": 3.41,
+      "resolved_price": "246.53",
+      "pnl_pct": "3.41",
       "invested_eur": ""
     },
     {
@@ -48,8 +90,8 @@
       "target_2": "164.52",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-28T13:45:30.549601+00:00",
-      "resolved_price": 162.69,
-      "pnl_pct": 2.98,
+      "resolved_price": "162.69",
+      "pnl_pct": "2.98",
       "invested_eur": ""
     },
     {
@@ -107,48 +149,6 @@
       "resolved_price": "252.37",
       "pnl_pct": "-0.79",
       "invested_eur": ""
-    },
-    {
-      "id": "SLB_2026-07-26T18:45:21.063942+00:00",
-      "symbol": "SLB",
-      "opened_at": "2026-07-26T18:45:21.063942+00:00",
-      "entry": "52.42",
-      "stop_loss": "51.0",
-      "target_1": "54.56",
-      "target_2": "56.69",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-27T18:45:25.497282+00:00",
-      "resolved_price": "52.14",
-      "pnl_pct": "-0.53",
-      "invested_eur": "20.34"
-    },
-    {
-      "id": "WDAY_2026-07-27T13:45:34.955591+00:00",
-      "symbol": "WDAY",
-      "opened_at": "2026-07-27T13:45:34.955591+00:00",
-      "entry": "144.28",
-      "stop_loss": "141.24",
-      "target_1": "148.84",
-      "target_2": "153.41",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-27T17:45:27.562090+00:00",
-      "resolved_price": "149.77",
-      "pnl_pct": "3.81",
-      "invested_eur": ""
-    },
-    {
-      "id": "VZ_2026-07-26T17:15:23.743809+00:00",
-      "symbol": "VZ",
-      "opened_at": "2026-07-26T17:15:23.743809+00:00",
-      "entry": "46.38",
-      "stop_loss": "45.03",
-      "target_1": "48.41",
-      "target_2": "50.45",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-27T17:30:34.963225+00:00",
-      "resolved_price": "47.53",
-      "pnl_pct": "2.48",
-      "invested_eur": "33.33"
     }
   ]
 }
