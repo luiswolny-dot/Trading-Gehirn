@@ -1,5 +1,49 @@
 [
   {
+    "symbol": "SWK",
+    "price": 94.17,
+    "change_pct": 3.19,
+    "buy_pct": 78,
+    "sell_pct": 22,
+    "volatility_pct": 2.1,
+    "entry": 94.17,
+    "stop_loss": 93.18,
+    "target_1": 95.65,
+    "target_2": 97.14,
+    "risk_reward": 1.49,
+    "final_score": 78,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "SYF",
+    "price": 75.31,
+    "change_pct": 3.31,
+    "buy_pct": 78,
+    "sell_pct": 22,
+    "volatility_pct": 2.38,
+    "entry": 75.31,
+    "stop_loss": 74.41,
+    "target_1": 76.65,
+    "target_2": 78.0,
+    "risk_reward": 1.49,
+    "final_score": 78,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
     "symbol": "UBER",
     "price": 68.18,
     "change_pct": 3.4,
@@ -19,7 +63,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ALLE",
@@ -41,7 +85,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AZO",
@@ -63,7 +107,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DHR",
@@ -85,7 +129,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DRI",
@@ -107,7 +151,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DG",
@@ -129,7 +173,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GPN",
@@ -151,7 +195,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HSY",
@@ -173,7 +217,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HPQ",
@@ -195,7 +239,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RCL",
@@ -217,7 +261,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NOW",
@@ -239,7 +283,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TDG",
@@ -261,7 +305,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CVNA",
@@ -283,7 +327,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FFIV",
@@ -305,7 +349,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HONA",
@@ -327,7 +371,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ICE",
@@ -349,7 +393,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IQV",
@@ -371,7 +415,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LVS",
@@ -393,7 +437,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TEL",
@@ -415,7 +459,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TYL",
@@ -437,7 +481,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VLTO",
@@ -459,7 +503,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EXPE",
@@ -481,7 +525,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 82,
     "news_score": 74,
     "momentum_quality": 50
@@ -506,7 +550,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KO",
@@ -528,7 +572,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DGX",
@@ -550,7 +594,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CRM",
@@ -572,7 +616,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WSM",
@@ -594,7 +638,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "APP",
@@ -616,7 +660,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SCHW",
@@ -638,7 +682,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DOV",
@@ -660,7 +704,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DD",
@@ -682,7 +726,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HAS",
@@ -704,7 +748,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HRL",
@@ -726,7 +770,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HUBB",
@@ -748,7 +792,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MSCI",
@@ -770,7 +814,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TROW",
@@ -792,7 +836,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GWW",
@@ -814,7 +858,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WDAY",
@@ -836,7 +880,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 53,
     "news_score": 100,
     "momentum_quality": 50
@@ -861,7 +905,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 54,
     "news_score": 100,
     "momentum_quality": 50
@@ -886,7 +930,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HST",
@@ -908,7 +952,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NCLH",
@@ -930,7 +974,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "OMC",
@@ -952,7 +996,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RJF",
@@ -974,7 +1018,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WTW",
@@ -996,7 +1040,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DLTR",
@@ -1018,7 +1062,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 91,
     "news_score": 58,
     "momentum_quality": 50
@@ -1043,7 +1087,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 61,
     "news_score": 98,
     "momentum_quality": 50
@@ -1068,7 +1112,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AOS",
@@ -1090,7 +1134,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CBRE",
@@ -1112,7 +1156,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CTAS",
@@ -1134,7 +1178,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FIS",
@@ -1156,7 +1200,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MCD",
@@ -1178,7 +1222,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NDAQ",
@@ -1200,7 +1244,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ON",
@@ -1222,7 +1266,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ADSK",
@@ -1244,7 +1288,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 65,
     "news_score": 66,
     "momentum_quality": 50
@@ -1269,7 +1313,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 91,
     "news_score": 50,
     "momentum_quality": 50
@@ -1294,7 +1338,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CDW",
@@ -1316,7 +1360,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FDS",
@@ -1338,7 +1382,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DOC",
@@ -1360,7 +1404,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LH",
@@ -1382,7 +1426,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LDOS",
@@ -1404,7 +1448,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LULU",
@@ -1426,7 +1470,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PEP",
@@ -1448,7 +1492,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PFG",
@@ -1470,7 +1514,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SPG",
@@ -1492,7 +1536,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SJM",
@@ -1514,7 +1558,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TGT",
@@ -1536,7 +1580,32 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BKNG",
+    "price": 186.79,
+    "change_pct": 5.26,
+    "buy_pct": 83,
+    "sell_pct": 17,
+    "volatility_pct": 3.61,
+    "entry": 186.79,
+    "stop_loss": 183.41,
+    "target_1": 191.85,
+    "target_2": 196.91,
+    "risk_reward": 1.5,
+    "final_score": 70,
+    "pe_ratio": 23.4806,
+    "news_label": "neutral",
+    "rsi": null,
+    "trend_label": "unbekannt",
+    "volume_label": "unbekannt",
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
+    "fundamental_score": 85,
+    "news_score": 50,
+    "momentum_quality": 50
   },
   {
     "symbol": "EBAY",
@@ -1558,10 +1627,54 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 76,
     "news_score": 66,
     "momentum_quality": 50
+  },
+  {
+    "symbol": "BBY",
+    "price": 88.45,
+    "change_pct": 3.54,
+    "buy_pct": 70,
+    "sell_pct": 30,
+    "volatility_pct": 3.4,
+    "entry": 88.45,
+    "stop_loss": 86.95,
+    "target_1": 90.7,
+    "target_2": 92.96,
+    "risk_reward": 1.5,
+    "final_score": 70,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BRO",
+    "price": 69.7,
+    "change_pct": 3.02,
+    "buy_pct": 70,
+    "sell_pct": 30,
+    "volatility_pct": 3.43,
+    "entry": 69.7,
+    "stop_loss": 68.5,
+    "target_1": 71.49,
+    "target_2": 73.28,
+    "risk_reward": 1.49,
+    "final_score": 70,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CBOE",
@@ -1583,7 +1696,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CSGP",
@@ -1605,7 +1718,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CRH",
@@ -1627,7 +1740,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FSLR",
@@ -1649,7 +1762,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MAR",
@@ -1671,7 +1784,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MGM",
@@ -1693,7 +1806,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ORLY",
@@ -1715,7 +1828,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "STLD",
@@ -1737,7 +1850,32 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "XYZ",
+    "price": 81.24,
+    "change_pct": 5.3,
+    "buy_pct": 84,
+    "sell_pct": 16,
+    "volatility_pct": 3.18,
+    "entry": 81.24,
+    "stop_loss": 79.95,
+    "target_1": 83.17,
+    "target_2": 85.11,
+    "risk_reward": 1.5,
+    "final_score": 69,
+    "pe_ratio": 57.3604,
+    "news_label": "positiv",
+    "rsi": null,
+    "trend_label": "unbekannt",
+    "volume_label": "unbekannt",
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
+    "fundamental_score": 39,
+    "news_score": 100,
+    "momentum_quality": 50
   },
   {
     "symbol": "TTWO",
@@ -1759,7 +1897,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 66,
     "news_score": 66,
     "momentum_quality": 50
@@ -1784,7 +1922,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FISV",
@@ -1806,7 +1944,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GPC",
@@ -1828,7 +1966,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MA",
@@ -1850,7 +1988,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MNST",
@@ -1872,7 +2010,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SHW",
@@ -1894,7 +2032,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SNA",
@@ -1916,7 +2054,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SOLV",
@@ -1938,7 +2076,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BAX",
@@ -1960,7 +2098,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 72,
     "news_score": 58,
     "momentum_quality": 50
@@ -1985,7 +2123,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CLX",
@@ -2007,7 +2145,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FAST",
@@ -2029,7 +2167,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "QCOM",
@@ -2051,7 +2189,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SPGI",
@@ -2073,7 +2211,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TSN",
@@ -2095,7 +2233,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VLO",
@@ -2117,7 +2255,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VEEV",
@@ -2139,7 +2277,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VZ",
@@ -2161,7 +2299,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COIN",
@@ -2183,7 +2321,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 28,
     "news_score": 100,
     "momentum_quality": 50
@@ -2208,33 +2346,8 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 71,
-    "news_score": 50,
-    "momentum_quality": 50
-  },
-  {
-    "symbol": "SYF",
-    "price": 75.31,
-    "change_pct": 3.31,
-    "buy_pct": 78,
-    "sell_pct": 22,
-    "volatility_pct": 2.38,
-    "entry": 75.31,
-    "stop_loss": 74.41,
-    "target_1": 76.65,
-    "target_2": 78.0,
-    "risk_reward": 1.49,
-    "final_score": 67,
-    "pe_ratio": 6.7423,
-    "news_label": "neutral",
-    "rsi": null,
-    "trend_label": "unbekannt",
-    "volume_label": "unbekannt",
-    "target_basis": "tagesspanne",
-    "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
-    "fundamental_score": 77,
     "news_score": 50,
     "momentum_quality": 50
   },
@@ -2258,7 +2371,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KHC",
@@ -2280,7 +2393,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ORCL",
@@ -2302,7 +2415,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ROK",
@@ -2324,7 +2437,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VTRS",
@@ -2346,7 +2459,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "V",
@@ -2368,7 +2481,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PLTR",
@@ -2390,7 +2503,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 24,
     "news_score": 100,
     "momentum_quality": 50
@@ -2415,7 +2528,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AME",
@@ -2437,7 +2550,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AJG",
@@ -2459,7 +2572,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IT",
@@ -2481,7 +2594,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GEN",
@@ -2503,7 +2616,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MPC",
@@ -2525,7 +2638,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PSX",
@@ -2547,7 +2660,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RTX",
@@ -2569,7 +2682,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ROST",
@@ -2591,7 +2704,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TRMB",
@@ -2613,7 +2726,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 65,
     "news_score": 50,
     "momentum_quality": 50
@@ -2638,7 +2751,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 69,
     "news_score": 50,
     "momentum_quality": 50
@@ -2663,7 +2776,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COST",
@@ -2685,7 +2798,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ELV",
@@ -2707,7 +2820,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EG",
@@ -2729,7 +2842,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NTAP",
@@ -2751,7 +2864,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NWS",
@@ -2773,7 +2886,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PGR",
@@ -2795,7 +2908,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CPRT",
@@ -2817,7 +2930,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 62,
     "news_score": 42,
     "momentum_quality": 50
@@ -2842,34 +2955,9 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 43,
     "news_score": 74,
-    "momentum_quality": 50
-  },
-  {
-    "symbol": "SWK",
-    "price": 94.17,
-    "change_pct": 3.19,
-    "buy_pct": 78,
-    "sell_pct": 22,
-    "volatility_pct": 2.1,
-    "entry": 94.17,
-    "stop_loss": 93.18,
-    "target_1": 95.65,
-    "target_2": 97.14,
-    "risk_reward": 1.49,
-    "final_score": 64,
-    "pe_ratio": 38.8954,
-    "news_label": "positiv",
-    "rsi": null,
-    "trend_label": "unbekannt",
-    "volume_label": "unbekannt",
-    "target_basis": "tagesspanne",
-    "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
-    "fundamental_score": 53,
-    "news_score": 66,
     "momentum_quality": 50
   },
   {
@@ -2892,7 +2980,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DPZ",
@@ -2914,7 +3002,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FICO",
@@ -2936,7 +3024,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FTV",
@@ -2958,7 +3046,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GDDY",
@@ -2980,7 +3068,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KKR",
@@ -3002,7 +3090,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MTD",
@@ -3024,7 +3112,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SYK",
@@ -3046,7 +3134,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SYY",
@@ -3068,7 +3156,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WMT",
@@ -3090,7 +3178,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AFL",
@@ -3112,7 +3200,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BR",
+    "price": 152.78,
+    "change_pct": 2.59,
+    "buy_pct": 63,
+    "sell_pct": 37,
+    "volatility_pct": 2.91,
+    "entry": 152.78,
+    "stop_loss": 150.55,
+    "target_1": 156.12,
+    "target_2": 159.46,
+    "risk_reward": 1.5,
+    "final_score": 63,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CDNS",
@@ -3134,7 +3244,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KR",
@@ -3156,7 +3266,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MCO",
@@ -3178,7 +3288,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PM",
@@ -3200,7 +3310,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TSCO",
@@ -3222,7 +3332,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VRSK",
@@ -3244,7 +3354,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DIS",
@@ -3266,7 +3376,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PTC",
@@ -3288,7 +3398,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 58,
     "news_score": 42,
     "momentum_quality": 50
@@ -3313,7 +3423,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 62,
     "news_score": 42,
     "momentum_quality": 50
@@ -3338,7 +3448,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CPAY",
@@ -3360,7 +3470,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ECL",
@@ -3382,7 +3492,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "F",
@@ -3404,7 +3514,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HCA",
@@ -3426,7 +3536,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "J",
@@ -3448,7 +3558,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KDP",
@@ -3470,7 +3580,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MAS",
@@ -3492,7 +3602,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "OTIS",
@@ -3514,7 +3624,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ZTS",
@@ -3536,7 +3646,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DASH",
@@ -3558,7 +3668,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 27,
     "news_score": 74,
     "momentum_quality": 50
@@ -3583,7 +3693,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 53,
     "news_score": 50,
     "momentum_quality": 50
@@ -3608,7 +3718,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CNC",
@@ -3630,7 +3740,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DE",
@@ -3652,7 +3762,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FRT",
@@ -3674,7 +3784,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GIS",
@@ -3696,7 +3806,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "L",
@@ -3718,7 +3828,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NWSA",
@@ -3740,7 +3850,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PCAR",
@@ -3762,7 +3872,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PRU",
@@ -3784,7 +3894,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SNPS",
@@ -3806,7 +3916,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ALL",
@@ -3828,7 +3938,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BSX",
+    "price": 45.51,
+    "change_pct": 2.85,
+    "buy_pct": 60,
+    "sell_pct": 40,
+    "volatility_pct": 3.8,
+    "entry": 45.51,
+    "stop_loss": 44.64,
+    "target_1": 46.81,
+    "target_2": 48.1,
+    "risk_reward": 1.49,
+    "final_score": 60,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COF",
@@ -3850,7 +3982,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CARR",
@@ -3872,7 +4004,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CME",
@@ -3894,7 +4026,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CTSH",
@@ -3916,7 +4048,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GE",
@@ -3938,7 +4070,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HPE",
@@ -3960,7 +4092,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HLT",
@@ -3982,7 +4114,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "JBL",
@@ -4004,7 +4136,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KVUE",
@@ -4026,7 +4158,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KIM",
@@ -4048,7 +4180,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MCK",
@@ -4070,7 +4202,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PLD",
@@ -4092,7 +4224,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RL",
@@ -4114,7 +4246,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "STE",
@@ -4136,7 +4268,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TRV",
@@ -4158,7 +4290,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WYNN",
@@ -4180,7 +4312,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SW",
@@ -4202,7 +4334,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 33,
     "news_score": 66,
     "momentum_quality": 50
@@ -4227,7 +4359,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ADP",
@@ -4249,7 +4381,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CSCO",
@@ -4271,7 +4403,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DXCM",
@@ -4293,7 +4425,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ERIE",
@@ -4315,7 +4447,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LOW",
@@ -4337,7 +4469,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ROP",
@@ -4359,7 +4491,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WRB",
@@ -4381,7 +4513,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MO",
@@ -4403,7 +4535,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AMP",
@@ -4425,7 +4557,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "APO",
@@ -4447,7 +4579,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BKR",
@@ -4469,7 +4601,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BRK-B",
+    "price": 497.18,
+    "change_pct": 0.45,
+    "buy_pct": 58,
+    "sell_pct": 42,
+    "volatility_pct": 0.97,
+    "entry": 497.18,
+    "stop_loss": 494.78,
+    "target_1": 500.78,
+    "target_2": 504.38,
+    "risk_reward": 1.5,
+    "final_score": 58,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CAH",
@@ -4491,7 +4645,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CI",
@@ -4513,7 +4667,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BEN",
@@ -4535,7 +4689,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IEX",
@@ -4557,7 +4711,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "JNJ",
@@ -4579,7 +4733,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "JCI",
@@ -4601,7 +4755,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MLM",
@@ -4623,7 +4777,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MPWR",
@@ -4645,7 +4799,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MSI",
@@ -4667,7 +4821,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ADI",
@@ -4689,7 +4843,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AVY",
@@ -4711,7 +4865,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CL",
@@ -4733,7 +4887,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EW",
@@ -4755,7 +4909,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EMR",
@@ -4777,7 +4931,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "XOM",
@@ -4799,7 +4953,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FCX",
@@ -4821,7 +4975,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HON",
@@ -4843,7 +4997,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IDXX",
@@ -4865,7 +5019,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MRNA",
@@ -4887,7 +5041,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TT",
@@ -4909,7 +5063,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ULTA",
@@ -4931,7 +5085,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WAB",
@@ -4953,7 +5107,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BDX",
+    "price": 158.92,
+    "change_pct": 1.64,
+    "buy_pct": 56,
+    "sell_pct": 44,
+    "volatility_pct": 2.18,
+    "entry": 158.92,
+    "stop_loss": 157.19,
+    "target_1": 161.51,
+    "target_2": 164.11,
+    "risk_reward": 1.5,
+    "final_score": 56,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CMCSA",
@@ -4975,7 +5151,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CMI",
@@ -4997,7 +5173,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EFX",
@@ -5019,7 +5195,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FOXA",
@@ -5041,7 +5217,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FOX",
@@ -5063,7 +5239,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HII",
@@ -5085,7 +5261,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "JKHY",
@@ -5107,7 +5283,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LLY",
@@ -5129,7 +5305,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MRSH",
@@ -5151,7 +5327,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NTRS",
@@ -5173,7 +5349,51 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BLK",
+    "price": 1062.14,
+    "change_pct": 0.61,
+    "buy_pct": 55,
+    "sell_pct": 45,
+    "volatility_pct": 1.79,
+    "entry": 1062.14,
+    "stop_loss": 1052.65,
+    "target_1": 1076.38,
+    "target_2": 1090.62,
+    "risk_reward": 1.5,
+    "final_score": 55,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "AVGO",
+    "price": 383.22,
+    "change_pct": 0.34,
+    "buy_pct": 55,
+    "sell_pct": 45,
+    "volatility_pct": 4.28,
+    "entry": 383.22,
+    "stop_loss": 375.02,
+    "target_1": 395.52,
+    "target_2": 407.82,
+    "risk_reward": 1.5,
+    "final_score": 55,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CVS",
@@ -5195,7 +5415,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "JPM",
@@ -5217,7 +5437,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MDT",
@@ -5239,7 +5459,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NKE",
@@ -5261,7 +5481,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NOC",
@@ -5283,7 +5503,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PHM",
@@ -5305,7 +5525,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AAPL",
@@ -5327,7 +5547,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BALL",
@@ -5349,7 +5569,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GEV",
@@ -5371,7 +5591,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IBKR",
@@ -5393,7 +5613,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "INTU",
@@ -5415,7 +5635,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NDSN",
@@ -5437,7 +5657,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TJX",
@@ -5459,7 +5679,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "UHS",
@@ -5481,7 +5701,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WST",
@@ -5503,7 +5723,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "A",
@@ -5525,7 +5745,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BX",
+    "price": 132.6,
+    "change_pct": 2.0,
+    "buy_pct": 53,
+    "sell_pct": 47,
+    "volatility_pct": 3.79,
+    "entry": 132.6,
+    "stop_loss": 130.08,
+    "target_1": 136.37,
+    "target_2": 140.14,
+    "risk_reward": 1.5,
+    "final_score": 53,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KMB",
@@ -5547,7 +5789,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PFE",
@@ -5569,7 +5811,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PPG",
@@ -5591,7 +5833,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TTD",
@@ -5613,7 +5855,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ABT",
@@ -5635,7 +5877,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GOOG",
@@ -5657,7 +5899,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COR",
@@ -5679,7 +5921,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CHD",
@@ -5701,7 +5943,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "INCY",
@@ -5723,7 +5965,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LHX",
@@ -5745,7 +5987,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LYV",
@@ -5767,7 +6009,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TAP",
@@ -5789,7 +6031,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MDLZ",
@@ -5811,7 +6053,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NEM",
@@ -5833,7 +6075,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NUE",
@@ -5855,7 +6097,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "REGN",
@@ -5877,7 +6119,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ROL",
@@ -5899,7 +6141,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VRT",
@@ -5921,7 +6163,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ZBRA",
@@ -5943,7 +6185,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ZBH",
@@ -5965,7 +6207,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CHTR",
@@ -5987,7 +6229,7 @@
     "volume_label": "unbekannt",
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00",
+    "timestamp": "2026-07-28T00:45:20.807468+00:00",
     "fundamental_score": 44,
     "news_score": 0,
     "momentum_quality": 50
@@ -6012,7 +6254,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "C",
@@ -6034,7 +6276,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DVA",
@@ -6056,7 +6298,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IR",
@@ -6078,7 +6320,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "INTC",
@@ -6100,7 +6342,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IVZ",
@@ -6122,7 +6364,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PAYX",
@@ -6144,7 +6386,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PYPL",
@@ -6166,7 +6408,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TXN",
@@ -6188,7 +6430,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "UAL",
@@ -6210,7 +6452,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VMC",
@@ -6232,7 +6474,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ALGN",
@@ -6254,7 +6496,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CAT",
@@ -6276,7 +6518,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FIX",
@@ -6298,7 +6540,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "STZ",
@@ -6320,7 +6562,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PH",
@@ -6342,7 +6584,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "URI",
@@ -6364,7 +6606,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DDOG",
@@ -6386,7 +6628,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DAL",
@@ -6408,7 +6650,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GD",
@@ -6430,7 +6672,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MOS",
@@ -6452,7 +6694,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "Q",
@@ -6474,7 +6716,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "STT",
@@ -6496,7 +6738,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SMCI",
@@ -6518,7 +6760,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TDY",
@@ -6540,7 +6782,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TKO",
@@ -6562,7 +6804,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AMT",
@@ -6584,7 +6826,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ETN",
@@ -6606,7 +6848,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EME",
@@ -6628,7 +6870,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FLEX",
@@ -6650,7 +6892,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GL",
@@ -6672,7 +6914,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HOOD",
@@ -6694,7 +6936,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "UNH",
@@ -6716,7 +6958,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WFC",
@@ -6738,7 +6980,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ARE",
@@ -6760,7 +7002,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ARES",
@@ -6782,7 +7024,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MS",
@@ -6804,7 +7046,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PWR",
@@ -6826,7 +7068,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CASY",
@@ -6848,7 +7090,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GLW",
@@ -6870,7 +7112,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EA",
@@ -6892,7 +7134,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EXR",
@@ -6914,7 +7156,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LII",
@@ -6936,7 +7178,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MCHP",
@@ -6958,7 +7200,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MU",
@@ -6980,7 +7222,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PG",
@@ -7002,7 +7244,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TXT",
@@ -7024,7 +7266,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CINF",
@@ -7046,7 +7288,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GILD",
@@ -7068,7 +7310,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HWM",
@@ -7090,7 +7332,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KEYS",
@@ -7112,7 +7354,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TFC",
@@ -7134,7 +7376,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AWK",
@@ -7156,7 +7398,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BXP",
@@ -7178,7 +7420,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CIEN",
@@ -7200,7 +7442,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GRMN",
@@ -7222,7 +7464,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LYB",
@@ -7244,7 +7486,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PNW",
@@ -7266,7 +7508,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "REG",
@@ -7288,7 +7530,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WAT",
@@ -7310,7 +7552,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BMY",
+    "price": 62.56,
+    "change_pct": 0.76,
+    "buy_pct": 43,
+    "sell_pct": 57,
+    "volatility_pct": 1.95,
+    "entry": 62.56,
+    "stop_loss": 61.95,
+    "target_1": 63.47,
+    "target_2": 64.39,
+    "risk_reward": 1.49,
+    "final_score": 43,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CB",
@@ -7332,7 +7596,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ITW",
@@ -7354,7 +7618,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IP",
@@ -7376,7 +7640,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MET",
@@ -7398,7 +7662,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MSFT",
@@ -7420,7 +7684,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NFLX",
@@ -7442,7 +7706,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NXPI",
@@ -7464,7 +7728,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PSA",
@@ -7486,7 +7750,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SBAC",
@@ -7508,7 +7772,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ANET",
@@ -7530,7 +7794,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DLR",
@@ -7552,7 +7816,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IBM",
@@ -7574,7 +7838,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PODD",
@@ -7596,7 +7860,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LUV",
@@ -7618,7 +7882,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TSLA",
@@ -7640,7 +7904,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BAC",
@@ -7662,7 +7926,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COHR",
@@ -7684,7 +7948,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CCI",
@@ -7706,7 +7970,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MKC",
@@ -7728,7 +7992,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PKG",
@@ -7750,7 +8014,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PSKY",
@@ -7772,7 +8036,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PEG",
@@ -7794,7 +8058,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VTR",
@@ -7816,7 +8080,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AMGN",
@@ -7838,7 +8102,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CRL",
@@ -7860,7 +8124,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CMS",
@@ -7882,7 +8146,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DOW",
@@ -7904,7 +8168,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DHI",
@@ -7926,7 +8190,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RF",
@@ -7948,7 +8212,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CNP",
@@ -7970,7 +8234,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DELL",
@@ -7992,7 +8256,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GS",
@@ -8014,7 +8278,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IRM",
@@ -8036,7 +8300,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MRVL",
@@ -8058,7 +8322,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PNC",
@@ -8080,7 +8344,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PPL",
@@ -8102,7 +8366,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VICI",
@@ -8124,7 +8388,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BNY",
+    "price": 157.77,
+    "change_pct": -0.72,
+    "buy_pct": 38,
+    "sell_pct": 62,
+    "volatility_pct": 2.08,
+    "entry": 157.77,
+    "stop_loss": 156.13,
+    "target_1": 160.23,
+    "target_2": 162.68,
+    "risk_reward": 1.5,
+    "final_score": 38,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ECHO",
@@ -8146,7 +8432,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MTB",
@@ -8168,7 +8454,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NEE",
@@ -8190,7 +8476,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "O",
@@ -8212,7 +8498,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RSG",
@@ -8234,7 +8520,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CVX",
@@ -8256,7 +8542,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CTVA",
@@ -8278,7 +8564,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FDX",
@@ -8300,7 +8586,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FITB",
@@ -8322,7 +8608,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GEHC",
@@ -8344,7 +8630,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HIG",
@@ -8366,7 +8652,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HD",
@@ -8388,7 +8674,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "JBHT",
@@ -8410,7 +8696,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KEY",
@@ -8432,7 +8718,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KLAC",
@@ -8454,7 +8740,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LEN",
@@ -8476,7 +8762,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LMT",
@@ -8498,7 +8784,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TMO",
@@ -8520,7 +8806,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AMAT",
@@ -8542,7 +8828,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ATO",
@@ -8564,7 +8850,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BA",
+    "price": 211.5,
+    "change_pct": 0.95,
+    "buy_pct": 36,
+    "sell_pct": 64,
+    "volatility_pct": 1.92,
+    "entry": 211.5,
+    "stop_loss": 209.47,
+    "target_1": 214.55,
+    "target_2": 217.6,
+    "risk_reward": 1.5,
+    "final_score": 36,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BLDR",
@@ -8586,7 +8894,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CFG",
@@ -8608,7 +8916,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DECK",
@@ -8630,7 +8938,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EIX",
@@ -8652,7 +8960,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "GNRC",
@@ -8674,7 +8982,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HUM",
@@ -8696,7 +9004,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "IFF",
@@ -8718,7 +9026,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "UDR",
@@ -8740,7 +9048,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "XYL",
@@ -8762,7 +9070,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AKAM",
@@ -8784,7 +9092,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "APH",
@@ -8806,7 +9114,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "TECH",
+    "price": 71.62,
+    "change_pct": 0.03,
+    "buy_pct": 35,
+    "sell_pct": 65,
+    "volatility_pct": 0.42,
+    "entry": 71.62,
+    "stop_loss": 71.47,
+    "target_1": 71.84,
+    "target_2": 72.07,
+    "risk_reward": 1.47,
+    "final_score": 35,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CPT",
@@ -8828,7 +9158,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CEG",
@@ -8850,7 +9180,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ES",
@@ -8872,7 +9202,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FTNT",
@@ -8894,7 +9224,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MRK",
@@ -8916,7 +9246,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "MAA",
@@ -8938,7 +9268,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "USB",
@@ -8960,7 +9290,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "UPS",
@@ -8982,7 +9312,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VRTX",
@@ -9004,7 +9334,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WDC",
@@ -9026,7 +9356,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AEE",
@@ -9048,7 +9378,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ADM",
@@ -9070,7 +9400,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ETR",
@@ -9092,7 +9422,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FE",
@@ -9114,7 +9444,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LRCX",
@@ -9136,7 +9466,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PNR",
@@ -9158,7 +9488,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PCG",
@@ -9180,7 +9510,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "STX",
@@ -9202,7 +9532,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TER",
@@ -9224,7 +9554,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "XEL",
@@ -9246,7 +9576,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "APD",
@@ -9268,7 +9598,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AIG",
@@ -9290,7 +9620,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HBAN",
@@ -9312,7 +9642,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NSC",
@@ -9334,7 +9664,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SBUX",
@@ -9356,7 +9686,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LNT",
@@ -9378,7 +9708,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AMZN",
@@ -9400,7 +9730,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "D",
@@ -9422,7 +9752,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EXC",
@@ -9444,7 +9774,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EXE",
@@ -9466,7 +9796,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ODFL",
@@ -9488,7 +9818,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SO",
@@ -9510,7 +9840,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "UNP",
@@ -9532,7 +9862,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WM",
@@ -9554,7 +9884,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WY",
@@ -9576,7 +9906,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AEP",
@@ -9598,7 +9928,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AIZ",
@@ -9620,7 +9950,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COO",
@@ -9642,7 +9972,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DTE",
@@ -9664,7 +9994,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ESS",
@@ -9686,7 +10016,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "INVH",
@@ -9708,7 +10038,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "META",
@@ -9730,7 +10060,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VRSN",
@@ -9752,7 +10082,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AES",
@@ -9774,7 +10104,29 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
+  },
+  {
+    "symbol": "BIIB",
+    "price": 200.14,
+    "change_pct": -1.01,
+    "buy_pct": 30,
+    "sell_pct": 70,
+    "volatility_pct": 2.32,
+    "entry": 200.14,
+    "stop_loss": 197.82,
+    "target_1": 203.62,
+    "target_2": 207.1,
+    "risk_reward": 1.5,
+    "final_score": 30,
+    "pe_ratio": null,
+    "news_label": null,
+    "rsi": null,
+    "trend_label": null,
+    "volume_label": null,
+    "target_basis": "tagesspanne",
+    "chart": [],
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CSX",
@@ -9796,7 +10148,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DUK",
@@ -9818,7 +10170,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EQT",
@@ -9840,7 +10192,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EVRG",
@@ -9862,7 +10214,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EXPD",
@@ -9884,7 +10236,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HSIC",
@@ -9906,7 +10258,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NI",
@@ -9928,7 +10280,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "RVTY",
@@ -9950,7 +10302,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AMD",
@@ -9972,7 +10324,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EQR",
@@ -9994,7 +10346,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LIN",
@@ -10016,7 +10368,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "YUM",
@@ -10038,7 +10390,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ABBV",
@@ -10060,7 +10412,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "APA",
@@ -10082,7 +10434,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "AVB",
@@ -10104,7 +10456,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "BG",
@@ -10126,7 +10478,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "ED",
@@ -10148,7 +10500,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CRWD",
@@ -10170,7 +10522,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NRG",
@@ -10192,7 +10544,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NVR",
@@ -10214,7 +10566,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SLB",
@@ -10236,7 +10588,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SRE",
@@ -10258,7 +10610,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WBD",
@@ -10280,7 +10632,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WEC",
@@ -10302,7 +10654,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CF",
@@ -10324,7 +10676,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "PANW",
@@ -10346,7 +10698,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TMUS",
@@ -10368,7 +10720,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WELL",
@@ -10390,7 +10742,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EQIX",
@@ -10412,7 +10764,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "KMI",
@@ -10434,7 +10786,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "VST",
@@ -10456,7 +10808,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "HAL",
@@ -10478,7 +10830,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "DVN",
@@ -10500,7 +10852,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "WMB",
@@ -10522,7 +10874,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "COP",
@@ -10544,7 +10896,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "EOG",
@@ -10566,7 +10918,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FDXF",
@@ -10588,7 +10940,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "FANG",
@@ -10610,7 +10962,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "OKE",
@@ -10632,7 +10984,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "LITE",
@@ -10654,7 +11006,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "NVDA",
@@ -10676,7 +11028,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "OXY",
@@ -10698,7 +11050,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TRGP",
@@ -10720,7 +11072,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "TPL",
@@ -10742,7 +11094,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "CHRW",
@@ -10764,7 +11116,7 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   },
   {
     "symbol": "SNDK",
@@ -10786,6 +11138,6 @@
     "volume_label": null,
     "target_basis": "tagesspanne",
     "chart": [],
-    "timestamp": "2026-07-28T00:30:33.078330+00:00"
+    "timestamp": "2026-07-28T00:45:20.807468+00:00"
   }
 ]
