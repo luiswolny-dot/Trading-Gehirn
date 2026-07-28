@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
+Trefferquote: 48% über 61 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SWK]] — Score 78%
