@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 56% über 73 abgeschlossene Empfehlungen.
+Trefferquote: 57% über 74 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[WTW]] — Score 84%
-- [[FDS]] — Score 83%
-- [[ADP]] — Score 83%
-- [[BR]] — Score 83%
-- [[CMCSA]] — Score 83%
-- [[DECK]] — Score 83%
-- [[EXPE]] — Score 83%
-- [[TRMB]] — Score 83%
-- [[BF-B]] — Score 82%
-- [[CHTR]] — Score 82%
-- [[IBM]] — Score 82%
-- [[AON]] — Score 81%
-- [[AJG]] — Score 81%
-- [[BRO]] — Score 81%
-- [[MNST]] — Score 81%
-- [[VEEV]] — Score 81%
-- [[SHW]] — Score 80%
-- [[DASH]] — Score 80%
-- [[FIS]] — Score 80%
-- [[JKHY]] — Score 80%
-- [[PNR]] — Score 80%
-- [[RCL]] — Score 80%
-- [[ZBRA]] — Score 80%
-- [[ACN]] — Score 79%
-- [[IQV]] — Score 79%
-- [[CRM]] — Score 79%
-- [[ALL]] — Score 79%
-- [[AMT]] — Score 79%
-- [[FISV]] — Score 79%
-- [[GRMN]] — Score 79%
+- [[RCL]] — Score 83%
+- [[SHW]] — Score 82%
+- [[FDS]] — Score 82%
+- [[ADP]] — Score 82%
+- [[BKNG]] — Score 80%
+- [[BR]] — Score 80%
+- [[BRO]] — Score 80%
+- [[CSGP]] — Score 80%
+- [[EXPE]] — Score 80%
+- [[OMC]] — Score 80%
+- [[TTD]] — Score 80%
+- [[NCLH]] — Score 79%
+- [[PFG]] — Score 79%
+- [[WDAY]] — Score 79%
+- [[ACN]] — Score 78%
+- [[IQV]] — Score 78%
+- [[BLK]] — Score 78%
+- [[DASH]] — Score 78%
+- [[IR]] — Score 78%
+- [[MSI]] — Score 78%
+- [[AON]] — Score 77%
+- [[CCI]] — Score 77%
+- [[NWSA]] — Score 77%
+- [[ROST]] — Score 77%
+- [[TPR]] — Score 77%
+- [[DECK]] — Score 76%
+- [[EFX]] — Score 76%
+- [[APTV]] — Score 76%
+- [[AJG]] — Score 76%
+- [[CCL]] — Score 76%

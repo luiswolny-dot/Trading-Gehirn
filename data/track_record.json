@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-28T15:15:36.389504+00:00",
-  "total_closed": 73,
-  "wins": 41,
+  "updated": "2026-07-28T15:45:24.683481+00:00",
+  "total_closed": 74,
+  "wins": 42,
   "losses": 32,
-  "win_rate": 56,
-  "avg_win": 2.26,
+  "win_rate": 57,
+  "avg_win": 2.31,
   "avg_loss": -1.44,
-  "expectancy": 0.63,
-  "total_pnl": 46.83,
-  "still_open": 8,
+  "expectancy": 0.7,
+  "total_pnl": 51.21,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "EXPE_2026-07-27T19:00:48.748410+00:00",
+      "symbol": "EXPE",
+      "opened_at": "2026-07-27T19:00:48.748410+00:00",
+      "entry": "280.01",
+      "stop_loss": "272.14",
+      "target_1": "291.82",
+      "target_2": "303.63",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-07-28T15:45:24.683481+00:00",
+      "resolved_price": 292.27,
+      "pnl_pct": 4.38,
+      "invested_eur": ""
+    },
     {
       "id": "GM_2026-07-28T00:00:43.328080+00:00",
       "symbol": "GM",
@@ -20,8 +34,8 @@
       "target_2": "91.52",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-28T15:15:36.389504+00:00",
-      "resolved_price": 89.58,
-      "pnl_pct": 2.92,
+      "resolved_price": "89.58",
+      "pnl_pct": "2.92",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-28T13:45:30.549601+00:00",
       "resolved_price": "162.69",
       "pnl_pct": "2.98",
-      "invested_eur": ""
-    },
-    {
-      "id": "HRL_2026-07-27T13:30:34.622448+00:00",
-      "symbol": "HRL",
-      "opened_at": "2026-07-27T13:30:34.622448+00:00",
-      "entry": "25.98",
-      "stop_loss": "25.66",
-      "target_1": "26.45",
-      "target_2": "26.92",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-28T13:30:47.755030+00:00",
-      "resolved_price": "26.06",
-      "pnl_pct": "0.31",
       "invested_eur": ""
     }
   ]
