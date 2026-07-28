@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 57% über 74 abgeschlossene Empfehlungen.
+Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[RCL]] — Score 83%
 - [[MCK]] — Score 82%
-- [[IQV]] — Score 81%
+- [[BKNG]] — Score 81%
+- [[BLK]] — Score 81%
 - [[SHW]] — Score 80%
-- [[FDS]] — Score 80%
-- [[PYPL]] — Score 80%
-- [[MSI]] — Score 80%
-- [[ARE]] — Score 80%
-- [[BA]] — Score 80%
-- [[CI]] — Score 80%
-- [[EBAY]] — Score 80%
-- [[FICO]] — Score 80%
-- [[FIS]] — Score 80%
-- [[J]] — Score 80%
 - [[NCLH]] — Score 80%
 - [[TYL]] — Score 80%
-- [[CTSH]] — Score 79%
-- [[ADBE]] — Score 79%
-- [[BKNG]] — Score 79%
+- [[UBER]] — Score 80%
 - [[HCA]] — Score 79%
-- [[GOOGL]] — Score 79%
-- [[DECK]] — Score 79%
-- [[GEHC]] — Score 79%
-- [[HPQ]] — Score 79%
-- [[MRSH]] — Score 79%
-- [[IBM]] — Score 78%
-- [[ABNB]] — Score 78%
-- [[GOOG]] — Score 78%
-- [[ADP]] — Score 78%
-- [[CCL]] — Score 78%
+- [[CBOE]] — Score 79%
+- [[DASH]] — Score 79%
+- [[GDDY]] — Score 79%
+- [[MSI]] — Score 79%
+- [[NWSA]] — Score 79%
+- [[NOW]] — Score 79%
+- [[ULTA]] — Score 79%
+- [[DECK]] — Score 78%
+- [[PYPL]] — Score 78%
+- [[ROST]] — Score 78%
+- [[SOLV]] — Score 78%
+- [[INCY]] — Score 77%
+- [[WDAY]] — Score 77%
+- [[CTSH]] — Score 77%
+- [[HAS]] — Score 77%
+- [[ADBE]] — Score 77%
+- [[IBM]] — Score 77%
+- [[CHTR]] — Score 77%
+- [[FDS]] — Score 77%
+- [[TRMB]] — Score 77%
+- [[UNH]] — Score 77%

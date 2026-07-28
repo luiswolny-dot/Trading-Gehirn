@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-28T18:00:43.176125+00:00",
-  "total_closed": 74,
-  "wins": 42,
+  "updated": "2026-07-28T18:30:33.018265+00:00",
+  "total_closed": 75,
+  "wins": 43,
   "losses": 32,
   "win_rate": 57,
-  "avg_win": 2.31,
+  "avg_win": 2.29,
   "avg_loss": -1.44,
-  "expectancy": 0.7,
-  "total_pnl": 51.21,
+  "expectancy": 0.69,
+  "total_pnl": 52.57,
   "still_open": 10,
   "recent": [
+    {
+      "id": "DG_2026-07-27T18:15:21.731275+00:00",
+      "symbol": "DG",
+      "opened_at": "2026-07-27T18:15:21.731275+00:00",
+      "entry": "124.34",
+      "stop_loss": "121.48",
+      "target_1": "128.63",
+      "target_2": "132.93",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-28T18:30:33.018265+00:00",
+      "resolved_price": 126.03,
+      "pnl_pct": 1.36,
+      "invested_eur": ""
+    },
     {
       "id": "EXPE_2026-07-27T19:00:48.748410+00:00",
       "symbol": "EXPE",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-28T13:45:30.549601+00:00",
       "resolved_price": "246.53",
       "pnl_pct": "3.41",
-      "invested_eur": ""
-    },
-    {
-      "id": "ALLE_2026-07-27T19:30:34.389122+00:00",
-      "symbol": "ALLE",
-      "opened_at": "2026-07-27T19:30:34.389122+00:00",
-      "entry": "157.98",
-      "stop_loss": "155.8",
-      "target_1": "161.25",
-      "target_2": "164.52",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-28T13:45:30.549601+00:00",
-      "resolved_price": "162.69",
-      "pnl_pct": "2.98",
       "invested_eur": ""
     }
   ]
