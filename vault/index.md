@@ -3,6 +3,7 @@
 Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[SWK]] — Score 78%
 - [[SYF]] — Score 78%
 - [[UBER]] — Score 78%
 - [[ALLE]] — Score 77%
@@ -22,7 +23,9 @@ Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 - [[ICE]] — Score 76%
 - [[IQV]] — Score 76%
 - [[LVS]] — Score 76%
+- [[TEL]] — Score 76%
 - [[TYL]] — Score 76%
+- [[VLTO]] — Score 76%
 - [[EXPE]] — Score 75%
 - [[CMG]] — Score 75%
 - [[KO]] — Score 75%
@@ -30,6 +33,3 @@ Trefferquote: 48% über 60 abgeschlossene Empfehlungen.
 - [[CRM]] — Score 75%
 - [[WSM]] — Score 75%
 - [[APP]] — Score 74%
-- [[SCHW]] — Score 74%
-- [[DOV]] — Score 74%
-- [[DD]] — Score 74%
