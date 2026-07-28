@@ -1,15 +1,15 @@
-# WTW
+# BRK-B
 
 tags: #Aktie #S-P-500
 
-- Preis: $312.54
-- Tagesbewegung: 3.27%
+- Preis: $512.34
+- Tagesbewegung: 3.05%
 - Gesamt-Score: 79%
 - KGV: —
-- Einstieg: $312.54
-- Stop-Loss: $307.94
-- Ziel 1: $319.44
-- Ziel 2: $326.35
+- Einstieg: $512.34
+- Stop-Loss: $505.82
+- Ziel 1: $522.13
+- Ziel 2: $531.91
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
