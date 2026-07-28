@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T14:30:42.519108+00:00",
+  "updated": "2026-07-28T14:45:25.194840+00:00",
   "total_closed": 72,
   "wins": 40,
   "losses": 32,
@@ -8,7 +8,7 @@
   "avg_loss": -1.44,
   "expectancy": 0.63,
   "total_pnl": 43.91,
-  "still_open": 7,
+  "still_open": 8,
   "recent": [
     {
       "id": "WDAY_2026-07-27T17:45:27.562090+00:00",
@@ -20,8 +20,8 @@
       "target_2": "166.22",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-28T14:30:42.519108+00:00",
-      "resolved_price": 158.44,
-      "pnl_pct": 5.82,
+      "resolved_price": "158.44",
+      "pnl_pct": "5.82",
       "invested_eur": ""
     },
     {
@@ -34,8 +34,8 @@
       "target_2": "89.87",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-07-28T14:30:42.519108+00:00",
-      "resolved_price": 88.77,
-      "pnl_pct": 1.34,
+      "resolved_price": "88.77",
+      "pnl_pct": "1.34",
       "invested_eur": ""
     },
     {

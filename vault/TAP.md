@@ -1,15 +1,15 @@
-# GIS
+# TAP
 
 tags: #Aktie #S-P-500
 
-- Preis: $38.44
-- Tagesbewegung: 5.0%
+- Preis: $43.09
+- Tagesbewegung: 4.77%
 - Gesamt-Score: 83%
 - KGV: —
-- Einstieg: $38.44
-- Stop-Loss: $37.77
-- Ziel 1: $39.45
-- Ziel 2: $40.45
+- Einstieg: $43.09
+- Stop-Loss: $42.42
+- Ziel 1: $44.1
+- Ziel 2: $45.1
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

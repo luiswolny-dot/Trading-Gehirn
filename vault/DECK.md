@@ -1,15 +1,15 @@
-# AVY
+# DECK
 
 tags: #Aktie #S-P-500
 
-- Preis: $170.82
-- Tagesbewegung: 4.78%
+- Preis: $101.88
+- Tagesbewegung: 4.25%
 - Gesamt-Score: 82%
 - KGV: —
-- Einstieg: $170.82
-- Stop-Loss: $168.19
-- Ziel 1: $174.77
-- Ziel 2: $178.71
+- Einstieg: $101.88
+- Stop-Loss: $100.48
+- Ziel 1: $103.98
+- Ziel 2: $106.08
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

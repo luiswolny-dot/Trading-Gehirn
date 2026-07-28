@@ -1,15 +1,15 @@
-# FISV
+# COST
 
 tags: #Aktie #S-P-500
 
-- Preis: $53.94
-- Tagesbewegung: 3.12%
+- Preis: $986.05
+- Tagesbewegung: 3.62%
 - Gesamt-Score: 79%
 - KGV: —
-- Einstieg: $53.94
-- Stop-Loss: $53.18
-- Ziel 1: $55.08
-- Ziel 2: $56.22
+- Einstieg: $986.05
+- Stop-Loss: $973.26
+- Ziel 1: $1005.24
+- Ziel 2: $1024.42
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
