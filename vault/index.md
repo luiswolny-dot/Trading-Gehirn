@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 57% über 87 abgeschlossene Empfehlungen.
+Trefferquote: 57% über 88 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[GEHC]] — Score 85%
 - [[CTSH]] — Score 83%
+- [[DVN]] — Score 82%
+- [[GEHC]] — Score 81%
 - [[CBOE]] — Score 80%
-- [[BKNG]] — Score 79%
-- [[CRM]] — Score 77%
+- [[CRM]] — Score 78%
+- [[ADBE]] — Score 78%
+- [[IT]] — Score 77%
 - [[INTU]] — Score 76%
-- [[BXP]] — Score 76%
-- [[ADBE]] — Score 76%
 - [[GRMN]] — Score 75%
-- [[IT]] — Score 75%
 - [[ACN]] — Score 75%
-- [[CPAY]] — Score 75%
-- [[DRI]] — Score 75%
-- [[FTNT]] — Score 75%
-- [[ROP]] — Score 75%
+- [[VRSN]] — Score 75%
 - [[WDAY]] — Score 74%
+- [[BXP]] — Score 74%
+- [[ALGN]] — Score 74%
 - [[BF-B]] — Score 74%
-- [[DPZ]] — Score 74%
-- [[FICO]] — Score 74%
-- [[VRSN]] — Score 73%
-- [[AZO]] — Score 73%
-- [[FOXA]] — Score 73%
-- [[APA]] — Score 72%
-- [[FIS]] — Score 72%
-- [[EXPE]] — Score 72%
-- [[ADP]] — Score 72%
-- [[BBY]] — Score 72%
-- [[FANG]] — Score 72%
-- [[DG]] — Score 72%
-- [[FISV]] — Score 72%
+- [[SBAC]] — Score 74%
+- [[APA]] — Score 73%
+- [[FIS]] — Score 73%
+- [[CF]] — Score 73%
+- [[CTVA]] — Score 73%
+- [[FANG]] — Score 73%
+- [[DPZ]] — Score 73%
+- [[FICO]] — Score 73%
+- [[GDDY]] — Score 73%
+- [[SOLV]] — Score 73%
+- [[ZBH]] — Score 73%
+- [[EXE]] — Score 72%
+- [[CDW]] — Score 72%
+- [[EOG]] — Score 72%
+- [[AMT]] — Score 72%
