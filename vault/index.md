@@ -15,13 +15,13 @@ Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 - [[FDS]] — Score 82%
 - [[IBM]] — Score 82%
 - [[TTD]] — Score 82%
+- [[IQV]] — Score 81%
 - [[HCA]] — Score 81%
 - [[BKNG]] — Score 81%
 - [[CDW]] — Score 81%
 - [[GPN]] — Score 81%
 - [[TYL]] — Score 81%
 - [[UHS]] — Score 81%
-- [[IQV]] — Score 80%
 - [[DECK]] — Score 80%
 - [[SHW]] — Score 80%
 - [[CCL]] — Score 80%
