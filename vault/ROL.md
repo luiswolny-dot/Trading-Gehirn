@@ -1,15 +1,15 @@
-# ABNB
+# ROL
 
 tags: #Aktie #S-P-500
 
-- Preis: $155.17
-- Tagesbewegung: 1.35%
+- Preis: $39.59
+- Tagesbewegung: 1.49%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $155.17
-- Stop-Loss: $153.32
-- Ziel 1: $157.94
-- Ziel 2: $160.72
+- Einstieg: $39.59
+- Stop-Loss: $39.3
+- Ziel 1: $40.03
+- Ziel 2: $40.47
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
