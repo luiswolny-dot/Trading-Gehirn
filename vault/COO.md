@@ -1,15 +1,15 @@
-# NFLX
+# COO
 
 tags: #Aktie #S-P-500
 
-- Preis: $73.63
-- Tagesbewegung: 1.71%
+- Preis: $73.06
+- Tagesbewegung: 1.39%
 - Gesamt-Score: 73%
 - KGV: —
-- Einstieg: $73.63
-- Stop-Loss: $72.64
-- Ziel 1: $75.12
-- Ziel 2: $76.61
+- Einstieg: $73.06
+- Stop-Loss: $72.23
+- Ziel 1: $74.31
+- Ziel 2: $75.55
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
