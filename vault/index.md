@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 57% über 77 abgeschlossene Empfehlungen.
+Trefferquote: 56% über 78 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[GEHC]] — Score 84%
-- [[ADP]] — Score 80%
-- [[F]] — Score 78%
-- [[CTSH]] — Score 77%
-- [[APH]] — Score 77%
-- [[MDLZ]] — Score 76%
+- [[GEHC]] — Score 85%
+- [[FANG]] — Score 82%
+- [[ADP]] — Score 81%
+- [[CTSH]] — Score 80%
+- [[FDS]] — Score 79%
+- [[F]] — Score 77%
+- [[ADBE]] — Score 77%
 - [[GRMN]] — Score 75%
-- [[VRSN]] — Score 75%
-- [[CBRE]] — Score 75%
-- [[STE]] — Score 75%
-- [[YUM]] — Score 75%
-- [[ADBE]] — Score 74%
-- [[ABNB]] — Score 74%
-- [[ARE]] — Score 74%
-- [[CDW]] — Score 74%
-- [[FICO]] — Score 74%
-- [[IQV]] — Score 74%
-- [[KHC]] — Score 74%
-- [[MNST]] — Score 74%
-- [[NEE]] — Score 74%
+- [[INTU]] — Score 75%
+- [[ACN]] — Score 75%
+- [[BIIB]] — Score 75%
+- [[CDW]] — Score 75%
+- [[FISV]] — Score 75%
+- [[LYB]] — Score 75%
+- [[MSCI]] — Score 75%
+- [[ROP]] — Score 75%
+- [[VEEV]] — Score 75%
+- [[IT]] — Score 74%
+- [[ADSK]] — Score 74%
+- [[AXON]] — Score 74%
+- [[DVN]] — Score 74%
+- [[GEN]] — Score 74%
+- [[NWSA]] — Score 74%
+- [[NWS]] — Score 74%
+- [[NVR]] — Score 74%
+- [[RMD]] — Score 74%
 - [[ROL]] — Score 74%
-- [[ROP]] — Score 74%
-- [[CRM]] — Score 74%
-- [[SYK]] — Score 74%
-- [[BXP]] — Score 73%
-- [[WDAY]] — Score 73%
-- [[INTU]] — Score 73%
-- [[EQT]] — Score 73%
-- [[BR]] — Score 73%
-- [[CVNA]] — Score 73%
+- [[NOW]] — Score 74%
+- [[ULTA]] — Score 74%
+- [[YUM]] — Score 74%
