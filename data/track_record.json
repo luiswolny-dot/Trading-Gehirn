@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-29T18:15:26.117431+00:00",
-  "total_closed": 86,
-  "wins": 49,
+  "updated": "2026-07-29T18:30:33.735213+00:00",
+  "total_closed": 87,
+  "wins": 50,
   "losses": 37,
   "win_rate": 57,
-  "avg_win": 2.26,
+  "avg_win": 2.27,
   "avg_loss": -1.46,
-  "expectancy": 0.66,
-  "total_pnl": 57.0,
-  "still_open": 6,
+  "expectancy": 0.67,
+  "total_pnl": 59.49,
+  "still_open": 5,
   "recent": [
+    {
+      "id": "BKNG_2026-07-28T18:30:33.018265+00:00",
+      "symbol": "BKNG",
+      "opened_at": "2026-07-28T18:30:33.018265+00:00",
+      "entry": "198.21",
+      "stop_loss": "193.28",
+      "target_1": "205.6",
+      "target_2": "212.99",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-29T18:30:33.735213+00:00",
+      "resolved_price": 203.14,
+      "pnl_pct": 2.49,
+      "invested_eur": ""
+    },
     {
       "id": "NCLH_2026-07-28T16:30:39.855571+00:00",
       "symbol": "NCLH",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-29T14:00:43.738893+00:00",
       "resolved_price": "153.82",
       "pnl_pct": "-1.61",
-      "invested_eur": ""
-    },
-    {
-      "id": "IQV_2026-07-28T13:30:47.755030+00:00",
-      "symbol": "IQV",
-      "opened_at": "2026-07-28T13:30:47.755030+00:00",
-      "entry": "242.03",
-      "stop_loss": "236.49",
-      "target_1": "250.34",
-      "target_2": "258.65",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-29T13:45:33.069842+00:00",
-      "resolved_price": "244.9",
-      "pnl_pct": "1.19",
       "invested_eur": ""
     }
   ]
