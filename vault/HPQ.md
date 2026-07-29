@@ -7,9 +7,9 @@ tags: #Aktie #S-P-500
 - Gesamt-Score: 73%
 - KGV: —
 - Einstieg: $28.66
-- Stop-Loss: $28.11
-- Ziel 1: $29.48
-- Ziel 2: $30.31
+- Stop-Loss: $28.1
+- Ziel 1: $29.49
+- Ziel 2: $30.33
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

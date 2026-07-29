@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 59% über 83 abgeschlossene Empfehlungen.
+Trefferquote: 58% über 85 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[GEHC]] — Score 85%
 - [[CTSH]] — Score 83%
-- [[ADP]] — Score 82%
-- [[DVN]] — Score 82%
-- [[ACN]] — Score 79%
+- [[GEHC]] — Score 81%
+- [[ADP]] — Score 81%
+- [[CBOE]] — Score 81%
 - [[ADBE]] — Score 79%
-- [[INTU]] — Score 78%
-- [[FANG]] — Score 78%
-- [[FISV]] — Score 78%
-- [[KHC]] — Score 78%
-- [[CRM]] — Score 77%
-- [[ABT]] — Score 77%
-- [[EXPE]] — Score 77%
-- [[FIS]] — Score 77%
-- [[IT]] — Score 76%
-- [[APA]] — Score 76%
-- [[EW]] — Score 76%
-- [[MRSH]] — Score 76%
-- [[NWS]] — Score 76%
-- [[VEEV]] — Score 76%
-- [[ZTS]] — Score 76%
+- [[IT]] — Score 77%
+- [[INTU]] — Score 77%
+- [[ACN]] — Score 76%
+- [[SJM]] — Score 76%
+- [[TGT]] — Score 76%
 - [[GRMN]] — Score 75%
-- [[WDAY]] — Score 75%
-- [[FICO]] — Score 75%
-- [[BF-B]] — Score 75%
-- [[DG]] — Score 75%
-- [[MDT]] — Score 75%
-- [[OXY]] — Score 75%
-- [[TGT]] — Score 75%
-- [[CF]] — Score 74%
+- [[EXPE]] — Score 75%
+- [[MRSH]] — Score 75%
+- [[CPAY]] — Score 75%
+- [[V]] — Score 75%
+- [[WDAY]] — Score 74%
+- [[ADSK]] — Score 74%
+- [[BRO]] — Score 74%
+- [[CME]] — Score 74%
+- [[DLTR]] — Score 74%
+- [[LYB]] — Score 74%
+- [[FICO]] — Score 73%
+- [[DG]] — Score 73%
+- [[EXE]] — Score 73%
+- [[HPQ]] — Score 73%
+- [[KHC]] — Score 73%
+- [[RMD]] — Score 73%
+- [[CRM]] — Score 73%
+- [[TJX]] — Score 73%
+- [[BF-B]] — Score 72%
