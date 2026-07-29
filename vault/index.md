@@ -8,14 +8,14 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[DVN]] — Score 81%
 - [[CBOE]] — Score 80%
 - [[ADBE]] — Score 78%
-- [[GRMN]] — Score 75%
 - [[IT]] — Score 75%
 - [[INTU]] — Score 75%
+- [[EOG]] — Score 75%
 - [[FANG]] — Score 75%
 - [[FOXA]] — Score 75%
 - [[FOX]] — Score 75%
+- [[GRMN]] — Score 74%
 - [[SBAC]] — Score 74%
-- [[EOG]] — Score 74%
 - [[AMT]] — Score 74%
 - [[ACN]] — Score 74%
 - [[CF]] — Score 74%
