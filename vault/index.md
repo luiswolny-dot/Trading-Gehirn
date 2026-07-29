@@ -28,8 +28,8 @@ Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 - [[CTSH]] — Score 80%
 - [[REGN]] — Score 80%
 - [[WTW]] — Score 80%
+- [[INCY]] — Score 79%
 - [[ACN]] — Score 79%
 - [[AON]] — Score 79%
 - [[EBAY]] — Score 79%
 - [[ULTA]] — Score 79%
-- [[HAS]] — Score 78%
