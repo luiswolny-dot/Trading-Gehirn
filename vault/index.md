@@ -3,6 +3,7 @@
 Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[BKNG]] — Score 83%
 - [[NCLH]] — Score 83%
 - [[RCL]] — Score 83%
 - [[MRSH]] — Score 83%
@@ -17,7 +18,6 @@ Trefferquote: 57% über 75 abgeschlossene Empfehlungen.
 - [[TTD]] — Score 82%
 - [[IQV]] — Score 81%
 - [[HCA]] — Score 81%
-- [[BKNG]] — Score 81%
 - [[CDW]] — Score 81%
 - [[GPN]] — Score 81%
 - [[TYL]] — Score 81%
