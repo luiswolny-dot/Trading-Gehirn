@@ -1,15 +1,15 @@
-# MRSH
+# DVA
 
 tags: #Aktie #S-P-500
 
-- Preis: $195.57
-- Tagesbewegung: 1.76%
+- Preis: $243.59
+- Tagesbewegung: 1.72%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $195.57
-- Stop-Loss: $192.7
-- Ziel 1: $199.88
-- Ziel 2: $204.18
+- Einstieg: $243.59
+- Stop-Loss: $241.37
+- Ziel 1: $246.93
+- Ziel 2: $250.26
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-29T14:00:43.738893+00:00",
-  "total_closed": 78,
-  "wins": 44,
+  "updated": "2026-07-29T14:15:30.381326+00:00",
+  "total_closed": 79,
+  "wins": 45,
   "losses": 34,
-  "win_rate": 56,
-  "avg_win": 2.27,
+  "win_rate": 57,
+  "avg_win": 2.29,
   "avg_loss": -1.46,
-  "expectancy": 0.63,
-  "total_pnl": 50.18,
-  "still_open": 13,
+  "expectancy": 0.68,
+  "total_pnl": 53.4,
+  "still_open": 12,
   "recent": [
+    {
+      "id": "FDS_2026-07-28T14:05:46.334725+00:00",
+      "symbol": "FDS",
+      "opened_at": "2026-07-28T14:05:46.334725+00:00",
+      "entry": "283.16",
+      "stop_loss": "276.13",
+      "target_1": "293.7",
+      "target_2": "304.24",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-29T14:15:30.381326+00:00",
+      "resolved_price": 292.28,
+      "pnl_pct": 3.22,
+      "invested_eur": ""
+    },
     {
       "id": "APH_2026-07-29T13:30:38.119424+00:00",
       "symbol": "APH",
@@ -20,8 +34,8 @@
       "target_2": "162.94",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-29T14:00:43.738893+00:00",
-      "resolved_price": 153.82,
-      "pnl_pct": -1.61,
+      "resolved_price": "153.82",
+      "pnl_pct": "-1.61",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-28T14:05:46.334725+00:00",
       "resolved_price": "201.08",
       "pnl_pct": "2.9",
-      "invested_eur": ""
-    },
-    {
-      "id": "ADSK_2026-07-27T18:00:47.838037+00:00",
-      "symbol": "ADSK",
-      "opened_at": "2026-07-27T18:00:47.838037+00:00",
-      "entry": "226.36",
-      "stop_loss": "219.11",
-      "target_1": "237.24",
-      "target_2": "248.12",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-28T14:05:46.334725+00:00",
-      "resolved_price": "237.45",
-      "pnl_pct": "4.9",
       "invested_eur": ""
     }
   ]

@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 56% über 78 abgeschlossene Empfehlungen.
+Trefferquote: 57% über 79 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[GEHC]] — Score 85%
-- [[FANG]] — Score 82%
+- [[CTSH]] — Score 81%
 - [[ADP]] — Score 81%
-- [[CTSH]] — Score 80%
-- [[FDS]] — Score 79%
-- [[F]] — Score 77%
-- [[ADBE]] — Score 77%
+- [[LYB]] — Score 79%
+- [[BIIB]] — Score 77%
+- [[F]] — Score 76%
 - [[GRMN]] — Score 75%
-- [[INTU]] — Score 75%
 - [[ACN]] — Score 75%
-- [[BIIB]] — Score 75%
-- [[CDW]] — Score 75%
-- [[FISV]] — Score 75%
-- [[LYB]] — Score 75%
-- [[MSCI]] — Score 75%
-- [[ROP]] — Score 75%
-- [[VEEV]] — Score 75%
-- [[IT]] — Score 74%
-- [[ADSK]] — Score 74%
-- [[AXON]] — Score 74%
-- [[DVN]] — Score 74%
-- [[GEN]] — Score 74%
+- [[ADBE]] — Score 75%
+- [[DVA]] — Score 74%
+- [[HRL]] — Score 74%
+- [[MRSH]] — Score 74%
 - [[NWSA]] — Score 74%
-- [[NWS]] — Score 74%
-- [[NVR]] — Score 74%
-- [[RMD]] — Score 74%
-- [[ROL]] — Score 74%
-- [[NOW]] — Score 74%
-- [[ULTA]] — Score 74%
-- [[YUM]] — Score 74%
+- [[IT]] — Score 73%
+- [[ADSK]] — Score 73%
+- [[BR]] — Score 73%
+- [[DVN]] — Score 73%
+- [[FANG]] — Score 73%
+- [[HPQ]] — Score 73%
+- [[NWS]] — Score 73%
+- [[YUM]] — Score 73%
+- [[PAYX]] — Score 72%
+- [[BXP]] — Score 72%
+- [[FICO]] — Score 72%
+- [[INTU]] — Score 72%
+- [[EXPE]] — Score 72%
+- [[WTW]] — Score 72%
+- [[FIS]] — Score 71%
+- [[IQV]] — Score 71%
+- [[ABT]] — Score 71%
