@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 57% über 80 abgeschlossene Empfehlungen.
+Trefferquote: 59% über 82 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[GEHC]] — Score 85%
-- [[ADP]] — Score 81%
-- [[COP]] — Score 80%
-- [[LYB]] — Score 80%
-- [[CTSH]] — Score 79%
-- [[OXY]] — Score 78%
-- [[DVN]] — Score 77%
-- [[XOM]] — Score 77%
-- [[GRMN]] — Score 75%
-- [[ACN]] — Score 75%
-- [[ADBE]] — Score 75%
-- [[MRSH]] — Score 75%
+- [[ADP]] — Score 82%
+- [[COP]] — Score 82%
+- [[CTSH]] — Score 81%
+- [[ADBE]] — Score 79%
+- [[DVN]] — Score 78%
+- [[ACN]] — Score 77%
+- [[GRMN]] — Score 76%
+- [[XOM]] — Score 76%
+- [[BRO]] — Score 76%
+- [[INTU]] — Score 75%
 - [[BXP]] — Score 74%
-- [[OKE]] — Score 74%
-- [[TGT]] — Score 74%
-- [[ZTS]] — Score 74%
-- [[WDAY]] — Score 73%
-- [[INTU]] — Score 73%
-- [[ALL]] — Score 73%
-- [[CME]] — Score 73%
-- [[DRI]] — Score 73%
-- [[MAA]] — Score 73%
-- [[PM]] — Score 73%
-- [[PGR]] — Score 73%
-- [[WTW]] — Score 73%
-- [[YUM]] — Score 73%
+- [[ABT]] — Score 74%
+- [[ABBV]] — Score 74%
+- [[BF-B]] — Score 74%
+- [[CBOE]] — Score 74%
+- [[CMCSA]] — Score 74%
+- [[NWS]] — Score 74%
+- [[NOW]] — Score 74%
+- [[IT]] — Score 73%
+- [[EQT]] — Score 73%
+- [[CHTR]] — Score 73%
+- [[EW]] — Score 73%
+- [[ERIE]] — Score 73%
+- [[FIS]] — Score 73%
+- [[FISV]] — Score 73%
+- [[EXE]] — Score 72%
 - [[PAYX]] — Score 72%
+- [[WDAY]] — Score 72%
 - [[ADSK]] — Score 72%
-- [[EQT]] — Score 72%
-- [[ABT]] — Score 72%
