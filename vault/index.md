@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 56% über 89 abgeschlossene Empfehlungen.
+Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[GEHC]] — Score 85%

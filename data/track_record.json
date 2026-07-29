@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-29T20:00:44.460874+00:00",
-  "total_closed": 89,
+  "updated": "2026-07-29T20:15:30.001749+00:00",
+  "total_closed": 90,
   "wins": 50,
-  "losses": 39,
+  "losses": 40,
   "win_rate": 56,
   "avg_win": 2.27,
-  "avg_loss": -1.53,
-  "expectancy": 0.6,
-  "total_pnl": 53.74,
-  "still_open": 7,
+  "avg_loss": -1.55,
+  "expectancy": 0.59,
+  "total_pnl": 51.35,
+  "still_open": 6,
   "recent": [
+    {
+      "id": "HCA_2026-07-28T20:15:29.194751+00:00",
+      "symbol": "HCA",
+      "opened_at": "2026-07-28T20:15:29.194751+00:00",
+      "entry": "418.19",
+      "stop_loss": "404.65",
+      "target_1": "438.5",
+      "target_2": "458.81",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-07-29T20:15:30.001749+00:00",
+      "resolved_price": 408.18,
+      "pnl_pct": -2.39,
+      "invested_eur": ""
+    },
     {
       "id": "WDC_2026-07-29T18:45:22.881073+00:00",
       "symbol": "WDC",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-29T14:45:29.959847+00:00",
       "resolved_price": "320.61",
       "pnl_pct": "0.09",
-      "invested_eur": ""
-    },
-    {
-      "id": "MCK_2026-07-28T18:00:43.176125+00:00",
-      "symbol": "MCK",
-      "opened_at": "2026-07-28T18:00:43.176125+00:00",
-      "entry": "884.52",
-      "stop_loss": "874.96",
-      "target_1": "898.86",
-      "target_2": "913.21",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-07-29T14:30:42.258532+00:00",
-      "resolved_price": "902.93",
-      "pnl_pct": "2.08",
       "invested_eur": ""
     }
   ]
