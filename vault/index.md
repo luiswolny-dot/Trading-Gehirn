@@ -5,6 +5,7 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[GEHC]] — Score 85%
 - [[DVN]] — Score 81%
+- [[GRMN]] — Score 80%
 - [[CBOE]] — Score 80%
 - [[CTSH]] — Score 79%
 - [[ADBE]] — Score 78%
@@ -15,7 +16,6 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[FANG]] — Score 75%
 - [[FOXA]] — Score 75%
 - [[FOX]] — Score 75%
-- [[GRMN]] — Score 74%
 - [[SBAC]] — Score 74%
 - [[AMT]] — Score 74%
 - [[ERIE]] — Score 74%
