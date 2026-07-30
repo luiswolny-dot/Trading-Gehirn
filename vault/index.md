@@ -24,12 +24,12 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[GEV]] — Score 81%
 - [[AVGO]] — Score 81%
 - [[ETN]] — Score 81%
-- [[FIX]] — Score 80%
 - [[JBL]] — Score 80%
 - [[INTC]] — Score 80%
 - [[DELL]] — Score 80%
 - [[APH]] — Score 80%
 - [[C]] — Score 80%
 - [[IVZ]] — Score 80%
+- [[FIX]] — Score 79%
 - [[CRWD]] — Score 79%
 - [[PANW]] — Score 79%
