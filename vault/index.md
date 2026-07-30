@@ -20,10 +20,10 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[IBKR]] — Score 83%
 - [[NEM]] — Score 82%
 - [[SMCI]] — Score 82%
-- [[GEV]] — Score 81%
 - [[AVGO]] — Score 81%
 - [[ETN]] — Score 81%
 - [[FLEX]] — Score 80%
+- [[GEV]] — Score 80%
 - [[JBL]] — Score 80%
 - [[INTC]] — Score 80%
 - [[APH]] — Score 80%
