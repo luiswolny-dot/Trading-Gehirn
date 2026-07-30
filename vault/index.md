@@ -17,6 +17,7 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[FOXA]] — Score 75%
 - [[FOX]] — Score 75%
 - [[SBAC]] — Score 74%
+- [[ROP]] — Score 74%
 - [[AMT]] — Score 74%
 - [[ERIE]] — Score 74%
 - [[ACN]] — Score 74%
@@ -29,7 +30,6 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[VEEV]] — Score 74%
 - [[APA]] — Score 73%
 - [[PTC]] — Score 73%
-- [[ROP]] — Score 73%
 - [[COO]] — Score 73%
 - [[DG]] — Score 73%
 - [[HIG]] — Score 73%
