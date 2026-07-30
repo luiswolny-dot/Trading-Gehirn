@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-30T13:45:33.196556+00:00",
-  "total_closed": 94,
+  "updated": "2026-07-30T14:00:53.855241+00:00",
+  "total_closed": 95,
   "wins": 50,
-  "losses": 44,
+  "losses": 45,
   "win_rate": 53,
   "avg_win": 2.27,
-  "avg_loss": -1.67,
-  "expectancy": 0.42,
-  "total_pnl": 39.86,
-  "still_open": 6,
+  "avg_loss": -1.7,
+  "expectancy": 0.4,
+  "total_pnl": 37.04,
+  "still_open": 5,
   "recent": [
+    {
+      "id": "CTSH_2026-07-29T14:00:43.738893+00:00",
+      "symbol": "CTSH",
+      "opened_at": "2026-07-29T14:00:43.738893+00:00",
+      "entry": "54.16",
+      "stop_loss": "52.15",
+      "target_1": "57.17",
+      "target_2": "60.18",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-07-30T14:00:53.855241+00:00",
+      "resolved_price": 52.63,
+      "pnl_pct": -2.82,
+      "invested_eur": ""
+    },
     {
       "id": "GEHC_2026-07-29T13:45:33.069842+00:00",
       "symbol": "GEHC",
@@ -20,8 +34,8 @@
       "target_2": "77.5",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-07-30T13:45:33.196556+00:00",
-      "resolved_price": 69.93,
-      "pnl_pct": -1.53,
+      "resolved_price": "69.93",
+      "pnl_pct": "-1.53",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "293.09",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-30T13:45:33.196556+00:00",
-      "resolved_price": 265.22,
-      "pnl_pct": -3.06,
+      "resolved_price": "265.22",
+      "pnl_pct": "-3.06",
       "invested_eur": ""
     },
     {
@@ -48,8 +62,8 @@
       "target_2": "289.66",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-30T13:45:33.196556+00:00",
-      "resolved_price": 249.31,
-      "pnl_pct": -5.91,
+      "resolved_price": "249.31",
+      "pnl_pct": "-5.91",
       "invested_eur": ""
     },
     {
@@ -62,8 +76,8 @@
       "target_2": "45.62",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-30T13:45:33.196556+00:00",
-      "resolved_price": 43.98,
-      "pnl_pct": -0.99,
+      "resolved_price": "43.98",
+      "pnl_pct": "-0.99",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-29T16:46:52.294472+00:00",
       "resolved_price": "20.75",
       "pnl_pct": "-1.52",
-      "invested_eur": ""
-    },
-    {
-      "id": "MSI_2026-07-28T16:15:30.905178+00:00",
-      "symbol": "MSI",
-      "opened_at": "2026-07-28T16:15:30.905178+00:00",
-      "entry": "440.33",
-      "stop_loss": "433.09",
-      "target_1": "451.19",
-      "target_2": "462.06",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-29T16:30:35.647867+00:00",
-      "resolved_price": "436.35",
-      "pnl_pct": "-0.9",
       "invested_eur": ""
     }
   ]
