@@ -4,9 +4,9 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[GEHC]] — Score 85%
-- [[CTSH]] — Score 82%
 - [[DVN]] — Score 81%
 - [[CBOE]] — Score 80%
+- [[CTSH]] — Score 79%
 - [[ADBE]] — Score 78%
 - [[CHRW]] — Score 77%
 - [[IT]] — Score 75%
