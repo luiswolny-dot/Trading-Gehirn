@@ -10,6 +10,7 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[CBOE]] — Score 80%
 - [[ADBE]] — Score 78%
 - [[CHRW]] — Score 77%
+- [[APA]] — Score 76%
 - [[EOG]] — Score 76%
 - [[IT]] — Score 75%
 - [[INTU]] — Score 75%
@@ -17,7 +18,6 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[FOXA]] — Score 75%
 - [[FOX]] — Score 75%
 - [[SBAC]] — Score 74%
-- [[APA]] — Score 74%
 - [[ROP]] — Score 74%
 - [[AMT]] — Score 74%
 - [[ERIE]] — Score 74%
