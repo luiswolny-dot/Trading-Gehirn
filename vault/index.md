@@ -15,6 +15,7 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[HII]] — Score 84%
 - [[NRG]] — Score 84%
 - [[AMAT]] — Score 83%
+- [[GEV]] — Score 83%
 - [[AKAM]] — Score 83%
 - [[FCX]] — Score 83%
 - [[IBKR]] — Score 83%
@@ -23,7 +24,6 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[AVGO]] — Score 81%
 - [[ETN]] — Score 81%
 - [[FLEX]] — Score 80%
-- [[GEV]] — Score 80%
 - [[JBL]] — Score 80%
 - [[INTC]] — Score 80%
 - [[APH]] — Score 80%
