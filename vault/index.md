@@ -17,6 +17,7 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[GRMN]] — Score 74%
 - [[SBAC]] — Score 74%
 - [[AMT]] — Score 74%
+- [[ERIE]] — Score 74%
 - [[ACN]] — Score 74%
 - [[CF]] — Score 74%
 - [[EW]] — Score 74%
@@ -25,11 +26,10 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[SYK]] — Score 74%
 - [[UDR]] — Score 74%
 - [[VEEV]] — Score 74%
+- [[APA]] — Score 73%
 - [[COO]] — Score 73%
 - [[DG]] — Score 73%
 - [[HIG]] — Score 73%
 - [[NFLX]] — Score 73%
 - [[RMD]] — Score 73%
 - [[CRM]] — Score 73%
-- [[APA]] — Score 72%
-- [[FIS]] — Score 72%
