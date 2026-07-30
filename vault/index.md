@@ -28,8 +28,8 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[UDR]] — Score 74%
 - [[VEEV]] — Score 74%
 - [[APA]] — Score 73%
+- [[PTC]] — Score 73%
 - [[ROP]] — Score 73%
 - [[COO]] — Score 73%
 - [[DG]] — Score 73%
 - [[HIG]] — Score 73%
-- [[NFLX]] — Score 73%
