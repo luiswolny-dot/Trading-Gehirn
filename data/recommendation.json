@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T01:30:32.930625+00:00",
+  "timestamp": "2026-07-30T01:45:29.838475+00:00",
   "picks": [
     {
       "symbol": "GEHC",
@@ -14,15 +14,15 @@
       "target_2": 77.84,
       "risk_reward": 1.5,
       "final_score": 85,
-      "pe_ratio": 15.2686,
+      "pe_ratio": 17.1239,
       "news_label": "positiv",
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-30T01:30:32.930625+00:00",
-      "fundamental_score": 82,
+      "timestamp": "2026-07-30T01:45:29.838475+00:00",
+      "fundamental_score": 84,
       "news_score": 100,
       "momentum_quality": 50
     },
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-30T01:30:32.930625+00:00",
+      "timestamp": "2026-07-30T01:45:29.838475+00:00",
       "fundamental_score": 75,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-07-30T01:30:32.930625+00:00",
+      "timestamp": "2026-07-30T01:45:29.838475+00:00",
       "fundamental_score": 97,
       "news_score": 100,
       "momentum_quality": 50
