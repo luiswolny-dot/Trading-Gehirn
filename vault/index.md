@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
+Trefferquote: 53% über 94 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[GEHC]] — Score 85%
-- [[CTSH]] — Score 82%
-- [[DVN]] — Score 81%
-- [[GRMN]] — Score 80%
-- [[CBOE]] — Score 80%
-- [[ADBE]] — Score 78%
-- [[XEL]] — Score 78%
-- [[CHRW]] — Score 77%
-- [[APA]] — Score 76%
-- [[EOG]] — Score 76%
-- [[IT]] — Score 75%
-- [[INTU]] — Score 75%
-- [[FOXA]] — Score 75%
-- [[FOX]] — Score 75%
-- [[UDR]] — Score 75%
-- [[SBAC]] — Score 74%
-- [[ROP]] — Score 74%
-- [[AMT]] — Score 74%
-- [[ERIE]] — Score 74%
-- [[ACN]] — Score 74%
-- [[CF]] — Score 74%
-- [[EW]] — Score 74%
-- [[LYV]] — Score 74%
-- [[MRSH]] — Score 74%
-- [[SYK]] — Score 74%
-- [[VEEV]] — Score 74%
-- [[PTC]] — Score 73%
-- [[COO]] — Score 73%
-- [[DG]] — Score 73%
-- [[HIG]] — Score 73%
+- [[ANET]] — Score 89%
+- [[ON]] — Score 89%
+- [[ORCL]] — Score 89%
+- [[EME]] — Score 88%
+- [[MU]] — Score 88%
+- [[WDC]] — Score 88%
+- [[CMG]] — Score 86%
+- [[MSFT]] — Score 86%
+- [[Q]] — Score 86%
+- [[FCX]] — Score 85%
+- [[SNDK]] — Score 84%
+- [[AVY]] — Score 84%
+- [[FLEX]] — Score 84%
+- [[MCHP]] — Score 84%
+- [[AMAT]] — Score 83%
+- [[INTC]] — Score 83%
+- [[GEV]] — Score 83%
+- [[ETN]] — Score 83%
+- [[JBL]] — Score 83%
+- [[VST]] — Score 83%
+- [[FIX]] — Score 82%
+- [[LRCX]] — Score 82%
+- [[DELL]] — Score 82%
+- [[IRM]] — Score 82%
+- [[MPWR]] — Score 80%
+- [[STX]] — Score 78%
+- [[TER]] — Score 78%
+- [[GS]] — Score 78%
+- [[IBKR]] — Score 78%
+- [[KLAC]] — Score 78%
