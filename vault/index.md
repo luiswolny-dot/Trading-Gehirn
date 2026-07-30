@@ -22,10 +22,10 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[SMCI]] — Score 82%
 - [[FLEX]] — Score 81%
 - [[GEV]] — Score 81%
-- [[JBL]] — Score 81%
 - [[AVGO]] — Score 81%
 - [[ETN]] — Score 81%
 - [[FIX]] — Score 80%
+- [[JBL]] — Score 80%
 - [[INTC]] — Score 80%
 - [[DELL]] — Score 80%
 - [[APH]] — Score 80%
