@@ -1,15 +1,15 @@
-# AMZN
+# PANW
 
 tags: #Aktie #S-P-500
 
-- Preis: $236.66
-- Tagesbewegung: 4.42%
+- Preis: $320.69
+- Tagesbewegung: 2.08%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $236.66
-- Stop-Loss: $233.0
-- Ziel 1: $242.15
-- Ziel 2: $247.64
+- Einstieg: $320.69
+- Stop-Loss: $316.67
+- Ziel 1: $326.72
+- Ziel 2: $332.74
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
