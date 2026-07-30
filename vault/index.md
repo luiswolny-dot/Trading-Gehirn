@@ -8,6 +8,7 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[DVN]] — Score 81%
 - [[CBOE]] — Score 80%
 - [[ADBE]] — Score 78%
+- [[CHRW]] — Score 77%
 - [[IT]] — Score 75%
 - [[INTU]] — Score 75%
 - [[EOG]] — Score 75%
@@ -32,4 +33,3 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[HIG]] — Score 73%
 - [[NFLX]] — Score 73%
 - [[RMD]] — Score 73%
-- [[CRM]] — Score 73%
