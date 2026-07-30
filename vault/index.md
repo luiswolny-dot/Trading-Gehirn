@@ -13,9 +13,9 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[CMG]] — Score 85%
 - [[SNDK]] — Score 85%
 - [[HII]] — Score 84%
-- [[AKAM]] — Score 84%
 - [[NRG]] — Score 84%
 - [[AMAT]] — Score 83%
+- [[AKAM]] — Score 83%
 - [[FCX]] — Score 83%
 - [[IBKR]] — Score 83%
 - [[NEM]] — Score 82%
