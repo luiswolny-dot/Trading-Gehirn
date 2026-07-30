@@ -9,14 +9,15 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[GRMN]] — Score 80%
 - [[CBOE]] — Score 80%
 - [[ADBE]] — Score 78%
+- [[XEL]] — Score 78%
 - [[CHRW]] — Score 77%
 - [[APA]] — Score 76%
 - [[EOG]] — Score 76%
 - [[IT]] — Score 75%
 - [[INTU]] — Score 75%
-- [[FANG]] — Score 75%
 - [[FOXA]] — Score 75%
 - [[FOX]] — Score 75%
+- [[UDR]] — Score 75%
 - [[SBAC]] — Score 74%
 - [[ROP]] — Score 74%
 - [[AMT]] — Score 74%
@@ -27,7 +28,6 @@ Trefferquote: 56% über 90 abgeschlossene Empfehlungen.
 - [[LYV]] — Score 74%
 - [[MRSH]] — Score 74%
 - [[SYK]] — Score 74%
-- [[UDR]] — Score 74%
 - [[VEEV]] — Score 74%
 - [[PTC]] — Score 73%
 - [[COO]] — Score 73%
