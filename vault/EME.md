@@ -17,4 +17,5 @@ tags: #Aktie #S-P-500
 - Gehört zu: [[S&P-500]]
 
 ## Bisherige Empfehlungen für diese Aktie
-- 2026-07-30: open
+- 2026-07-30: abgelaufen_gewinn (1.57%)
+- 2026-07-31: open

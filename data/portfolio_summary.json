@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-31T13:45:33.050458+00:00",
+  "updated": "2026-07-31T14:00:44.972688+00:00",
   "starting_balance": 100.0,
-  "cash": 82.0,
-  "invested_in_open_positions": 0,
+  "cash": 48.67,
+  "invested_in_open_positions": 33.33,
   "total_value": 82.0,
   "return_pct": -18.0,
-  "open_position_count": 0,
+  "open_position_count": 1,
   "recent_closed_trades": [
     {
       "symbol": "SLB",
