@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-31T06:30:32.472116+00:00",
-  "total_closed": 96,
-  "wins": 50,
+  "updated": "2026-07-31T06:45:33.306146+00:00",
+  "total_closed": 97,
+  "wins": 51,
   "losses": 46,
-  "win_rate": 52,
-  "avg_win": 2.27,
+  "win_rate": 53,
+  "avg_win": 2.24,
   "avg_loss": -1.72,
-  "expectancy": 0.35,
-  "total_pnl": 34.48,
-  "still_open": 6,
+  "expectancy": 0.38,
+  "total_pnl": 35.4,
+  "still_open": 5,
   "recent": [
+    {
+      "id": "GRMN_2026-07-30T06:30:33.789593+00:00",
+      "symbol": "GRMN",
+      "opened_at": "2026-07-30T06:30:33.789593+00:00",
+      "entry": "294.83",
+      "stop_loss": "273.35",
+      "target_1": "327.05",
+      "target_2": "359.27",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-07-31T06:45:33.306146+00:00",
+      "resolved_price": 297.55,
+      "pnl_pct": 0.92,
+      "invested_eur": ""
+    },
     {
       "id": "CBOE_2026-07-29T19:15:29.037223+00:00",
       "symbol": "CBOE",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-29T19:30:45.608828+00:00",
       "resolved_price": "59.84",
       "pnl_pct": "-0.94",
-      "invested_eur": ""
-    },
-    {
-      "id": "BKNG_2026-07-28T18:30:33.018265+00:00",
-      "symbol": "BKNG",
-      "opened_at": "2026-07-28T18:30:33.018265+00:00",
-      "entry": "198.21",
-      "stop_loss": "193.28",
-      "target_1": "205.6",
-      "target_2": "212.99",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-29T18:30:33.735213+00:00",
-      "resolved_price": "203.14",
-      "pnl_pct": "2.49",
       "invested_eur": ""
     }
   ]

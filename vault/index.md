@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
+Trefferquote: 53% über 97 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[MU]] — Score 88%
