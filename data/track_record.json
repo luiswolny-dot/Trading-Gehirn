@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T15:30:33.609749+00:00",
+  "updated": "2026-07-31T15:45:30.288646+00:00",
   "total_closed": 102,
   "wins": 53,
   "losses": 49,
@@ -8,7 +8,7 @@
   "avg_loss": -1.78,
   "expectancy": 0.34,
   "total_pnl": 34.12,
-  "still_open": 9,
+  "still_open": 10,
   "recent": [
     {
       "id": "CMG_2026-07-30T15:15:31.809190+00:00",
@@ -20,8 +20,8 @@
       "target_2": "42.72",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-07-31T15:30:33.609749+00:00",
-      "resolved_price": 37.41,
-      "pnl_pct": -2.73,
+      "resolved_price": "37.41",
+      "pnl_pct": "-2.73",
       "invested_eur": ""
     },
     {
@@ -34,8 +34,8 @@
       "target_2": "1014.95",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-07-31T15:30:33.609749+00:00",
-      "resolved_price": 826.57,
-      "pnl_pct": -5.5,
+      "resolved_price": "826.57",
+      "pnl_pct": "-5.5",
       "invested_eur": "33.33"
     },
     {
