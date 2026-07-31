@@ -1,15 +1,15 @@
-# TDG
+# PNC
 
 tags: #Aktie #S-P-500
 
-- Preis: $1259.73
-- Tagesbewegung: 0.79%
+- Preis: $250.89
+- Tagesbewegung: 0.88%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $1259.73
-- Stop-Loss: $1250.13
-- Ziel 1: $1274.13
-- Ziel 2: $1288.53
+- Einstieg: $250.89
+- Stop-Loss: $249.52
+- Ziel 1: $252.94
+- Ziel 2: $255.0
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
