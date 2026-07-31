@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-31T15:15:28.240439+00:00",
+  "updated": "2026-07-31T15:30:33.609749+00:00",
   "starting_balance": 100.0,
-  "cash": 48.67,
-  "invested_in_open_positions": 33.33,
-  "total_value": 82.0,
-  "return_pct": -18.0,
-  "open_position_count": 1,
+  "cash": 78.17,
+  "invested_in_open_positions": 0,
+  "total_value": 78.17,
+  "return_pct": -21.83,
+  "open_position_count": 0,
   "recent_closed_trades": [
+    {
+      "symbol": "MU",
+      "opened_at": "2026-07-31T14:00:44.972688+00:00",
+      "resolved_at": "2026-07-31T15:30:33.609749+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -3.83,
+      "status": "stop_loss_ausgeloest"
+    },
     {
       "symbol": "SLB",
       "opened_at": "2026-07-26T18:45:21.063942+00:00",
@@ -77,14 +85,6 @@
       "resolved_at": "2026-07-21T16:05:00+00:00",
       "invested_eur": 33.33,
       "net_pnl_eur": -2.19,
-      "status": "abgelaufen_verlust"
-    },
-    {
-      "symbol": "MSFT",
-      "opened_at": "2026-07-20T22:00:40.000000+00:00",
-      "resolved_at": "2026-07-21T16:05:00+00:00",
-      "invested_eur": 33.33,
-      "net_pnl_eur": -2.17,
       "status": "abgelaufen_verlust"
     }
   ]

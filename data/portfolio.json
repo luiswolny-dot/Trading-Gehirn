@@ -1,7 +1,7 @@
 {
-  "cash": 48.67,
+  "cash": 78.17,
   "starting_balance": 100.0,
-  "updated": "2026-07-31T15:15:28.240439+00:00",
+  "updated": "2026-07-31T15:30:33.609749+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -82,6 +82,14 @@
       "invested_eur": 20.34,
       "net_pnl_eur": -2.11,
       "status": "abgelaufen_verlust"
+    },
+    {
+      "symbol": "MU",
+      "opened_at": "2026-07-31T14:00:44.972688+00:00",
+      "resolved_at": "2026-07-31T15:30:33.609749+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -3.83,
+      "status": "stop_loss_ausgeloest"
     }
   ]
 }
