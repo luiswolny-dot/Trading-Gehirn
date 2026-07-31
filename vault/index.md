@@ -23,7 +23,6 @@ Trefferquote: 53% über 97 abgeschlossene Empfehlungen.
 - [[ETN]] — Score 82%
 - [[NEM]] — Score 82%
 - [[JBL]] — Score 81%
-- [[APH]] — Score 81%
 - [[AVGO]] — Score 81%
 - [[FLEX]] — Score 80%
 - [[INTC]] — Score 80%
@@ -31,5 +30,6 @@ Trefferquote: 53% über 97 abgeschlossene Empfehlungen.
 - [[IVZ]] — Score 80%
 - [[FIX]] — Score 79%
 - [[DELL]] — Score 79%
+- [[APH]] — Score 79%
 - [[CRWD]] — Score 79%
 - [[KEYS]] — Score 79%
