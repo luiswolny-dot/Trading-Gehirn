@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 53% über 104 abgeschlossene Empfehlungen.
+Trefferquote: 53% über 105 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[AMZN]] — Score 83%
-- [[DXCM]] — Score 82%
 - [[GOOGL]] — Score 82%
 - [[GOOG]] — Score 82%
-- [[CBOE]] — Score 80%
-- [[DVN]] — Score 80%
+- [[DXCM]] — Score 81%
+- [[CBOE]] — Score 81%
 - [[HII]] — Score 77%
 - [[APA]] — Score 77%
 - [[ETN]] — Score 76%
-- [[CVX]] — Score 75%
 - [[CTSH]] — Score 75%
-- [[FDXF]] — Score 75%
-- [[J]] — Score 75%
-- [[TSCO]] — Score 75%
-- [[VTR]] — Score 75%
+- [[CVX]] — Score 75%
 - [[FFIV]] — Score 74%
+- [[HCA]] — Score 74%
 - [[PSA]] — Score 74%
-- [[WY]] — Score 74%
-- [[CHD]] — Score 74%
-- [[CMCSA]] — Score 74%
-- [[EOG]] — Score 74%
-- [[EXPE]] — Score 74%
-- [[MSI]] — Score 74%
-- [[OXY]] — Score 74%
-- [[GWW]] — Score 74%
-- [[WDAY]] — Score 74%
-- [[ZTS]] — Score 74%
-- [[ORLY]] — Score 73%
-- [[ACN]] — Score 73%
-- [[EXE]] — Score 73%
+- [[VRSN]] — Score 74%
+- [[CAH]] — Score 73%
+- [[FANG]] — Score 73%
+- [[RMD]] — Score 73%
+- [[GWW]] — Score 73%
+- [[UHS]] — Score 72%
+- [[WBD]] — Score 72%
+- [[CINF]] — Score 72%
+- [[ACN]] — Score 72%
+- [[ADBE]] — Score 72%
+- [[AEE]] — Score 72%
+- [[ANET]] — Score 72%
+- [[CRWD]] — Score 72%
+- [[DVA]] — Score 72%
+- [[DVN]] — Score 72%
+- [[EOG]] — Score 72%
+- [[EXE]] — Score 72%
