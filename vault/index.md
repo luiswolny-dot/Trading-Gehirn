@@ -11,14 +11,14 @@ Trefferquote: 52% über 96 abgeschlossene Empfehlungen.
 - [[MSFT]] — Score 86%
 - [[HPE]] — Score 86%
 - [[CMG]] — Score 85%
-- [[SNDK]] — Score 85%
 - [[HII]] — Score 84%
 - [[NRG]] — Score 84%
 - [[AMAT]] — Score 83%
-- [[GEV]] — Score 83%
+- [[SNDK]] — Score 83%
 - [[AKAM]] — Score 83%
 - [[FCX]] — Score 83%
 - [[IBKR]] — Score 83%
+- [[GEV]] — Score 82%
 - [[NEM]] — Score 82%
 - [[SMCI]] — Score 82%
 - [[AVGO]] — Score 81%
