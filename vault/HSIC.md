@@ -1,15 +1,15 @@
-# MO
+# HSIC
 
 tags: #Aktie #S-P-500
 
-- Preis: $69.36
-- Tagesbewegung: 2.09%
+- Preis: $85.75
+- Tagesbewegung: 0.68%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $69.36
-- Stop-Loss: $67.89
-- Ziel 1: $71.56
-- Ziel 2: $73.77
+- Einstieg: $85.75
+- Stop-Loss: $85.04
+- Ziel 1: $86.82
+- Ziel 2: $87.89
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
