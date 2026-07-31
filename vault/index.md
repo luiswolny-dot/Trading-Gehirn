@@ -6,10 +6,12 @@ Trefferquote: 53% über 97 abgeschlossene Empfehlungen.
 - [[MU]] — Score 88%
 - [[WDC]] — Score 88%
 - [[EME]] — Score 87%
+- [[MRNA]] — Score 87%
 - [[REGN]] — Score 87%
 - [[MSFT]] — Score 86%
 - [[HPE]] — Score 86%
 - [[CMG]] — Score 85%
+- [[HII]] — Score 84%
 - [[NRG]] — Score 84%
 - [[AMAT]] — Score 83%
 - [[SNDK]] — Score 83%
@@ -31,5 +33,3 @@ Trefferquote: 53% über 97 abgeschlossene Empfehlungen.
 - [[DELL]] — Score 79%
 - [[CRWD]] — Score 79%
 - [[PANW]] — Score 79%
-- [[STT]] — Score 79%
-- [[LRCX]] — Score 78%
