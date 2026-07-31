@@ -9,7 +9,7 @@ tags: #Aktie #S-P-500
 - Einstieg: $30.74
 - Stop-Loss: $30.35
 - Ziel 1: $31.32
-- Ziel 2: $31.9
+- Ziel 2: $31.91
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
