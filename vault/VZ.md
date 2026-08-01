@@ -20,4 +20,4 @@ tags: #Aktie #S-P-500
 - 2026-07-24: abgelaufen_gewinn (1.98%)
 - 2026-07-25: abgelaufen_verlust (0.0%)
 - 2026-07-26: abgelaufen_gewinn (2.48%)
-- 2026-07-31: open
+- 2026-07-31: abgelaufen_gewinn (0.65%)

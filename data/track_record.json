@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-01T15:00:43.928182+00:00",
-  "total_closed": 108,
-  "wins": 58,
-  "losses": 50,
+  "updated": "2026-08-01T15:15:29.968036+00:00",
+  "total_closed": 110,
+  "wins": 59,
+  "losses": 51,
   "win_rate": 54,
-  "avg_win": 2.23,
-  "avg_loss": -1.76,
-  "expectancy": 0.39,
-  "total_pnl": 41.61,
-  "still_open": 8,
+  "avg_win": 2.21,
+  "avg_loss": -1.73,
+  "expectancy": 0.4,
+  "total_pnl": 41.85,
+  "still_open": 6,
   "recent": [
+    {
+      "id": "VZ_2026-07-31T15:15:28.240439+00:00",
+      "symbol": "VZ",
+      "opened_at": "2026-07-31T15:15:28.240439+00:00",
+      "entry": "46.51",
+      "stop_loss": "45.98",
+      "target_1": "47.3",
+      "target_2": "48.09",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-01T15:15:29.968036+00:00",
+      "resolved_price": 46.81,
+      "pnl_pct": 0.65,
+      "invested_eur": ""
+    },
+    {
+      "id": "SO_2026-07-31T15:15:28.240439+00:00",
+      "symbol": "SO",
+      "opened_at": "2026-07-31T15:15:28.240439+00:00",
+      "entry": "94.93",
+      "stop_loss": "94.06",
+      "target_1": "96.24",
+      "target_2": "97.55",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-01T15:15:29.968036+00:00",
+      "resolved_price": 94.54,
+      "pnl_pct": -0.41,
+      "invested_eur": ""
+    },
     {
       "id": "AMZN_2026-07-31T14:30:37.195370+00:00",
       "symbol": "AMZN",
@@ -121,34 +149,6 @@
       "resolved_price": "826.57",
       "pnl_pct": "-5.5",
       "invested_eur": "33.33"
-    },
-    {
-      "id": "EME_2026-07-30T13:45:33.196556+00:00",
-      "symbol": "EME",
-      "opened_at": "2026-07-30T13:45:33.196556+00:00",
-      "entry": "790.03",
-      "stop_loss": "757.34",
-      "target_1": "839.06",
-      "target_2": "888.1",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-31T14:00:44.972688+00:00",
-      "resolved_price": "802.41",
-      "pnl_pct": "1.57",
-      "invested_eur": ""
-    },
-    {
-      "id": "MU_2026-07-30T13:45:33.196556+00:00",
-      "symbol": "MU",
-      "opened_at": "2026-07-30T13:45:33.196556+00:00",
-      "entry": "828.93",
-      "stop_loss": "792.63",
-      "target_1": "883.37",
-      "target_2": "937.82",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-07-31T14:00:44.972688+00:00",
-      "resolved_price": "874.7",
-      "pnl_pct": "5.52",
-      "invested_eur": ""
     }
   ]
 }
