@@ -7,8 +7,8 @@ Trefferquote: 53% über 107 abgeschlossene Empfehlungen.
 - [[GOOG]] — Score 82%
 - [[CBOE]] — Score 82%
 - [[GOOGL]] — Score 81%
-- [[DXCM]] — Score 80%
 - [[DVN]] — Score 80%
+- [[DXCM]] — Score 79%
 - [[MSFT]] — Score 79%
 - [[REGN]] — Score 78%
 - [[OXY]] — Score 78%
