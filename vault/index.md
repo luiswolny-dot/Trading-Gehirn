@@ -20,12 +20,12 @@ Trefferquote: 54% über 114 abgeschlossene Empfehlungen.
 - [[OKE]] — Score 74%
 - [[WBD]] — Score 74%
 - [[META]] — Score 73%
-- [[MSFT]] — Score 73%
 - [[CINF]] — Score 73%
 - [[HPQ]] — Score 73%
 - [[CRM]] — Score 73%
 - [[LDOS]] — Score 72%
 - [[UHS]] — Score 72%
+- [[MSFT]] — Score 72%
 - [[ADBE]] — Score 72%
 - [[CVX]] — Score 72%
 - [[EXE]] — Score 72%
