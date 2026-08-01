@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-01T15:32:19.519700+00:00",
-  "total_closed": 111,
-  "wins": 59,
+  "updated": "2026-08-01T15:46:41.617678+00:00",
+  "total_closed": 112,
+  "wins": 60,
   "losses": 52,
-  "win_rate": 53,
-  "avg_win": 2.21,
+  "win_rate": 54,
+  "avg_win": 2.19,
   "avg_loss": -1.71,
-  "expectancy": 0.37,
-  "total_pnl": 41.45,
-  "still_open": 5,
+  "expectancy": 0.4,
+  "total_pnl": 42.5,
+  "still_open": 4,
   "recent": [
+    {
+      "id": "DXCM_2026-07-31T15:45:30.288646+00:00",
+      "symbol": "DXCM",
+      "opened_at": "2026-07-31T15:45:30.288646+00:00",
+      "entry": "82.58",
+      "stop_loss": "79.97",
+      "target_1": "86.49",
+      "target_2": "90.4",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-01T15:46:41.617678+00:00",
+      "resolved_price": 83.45,
+      "pnl_pct": 1.05,
+      "invested_eur": ""
+    },
     {
       "id": "AEE_2026-07-31T15:30:33.609749+00:00",
       "symbol": "AEE",
@@ -20,8 +34,8 @@
       "target_2": "114.5",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-01T15:32:19.519700+00:00",
-      "resolved_price": 109.61,
-      "pnl_pct": -0.4,
+      "resolved_price": "109.61",
+      "pnl_pct": "-0.4",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-07-31T16:30:46.029096+00:00",
       "resolved_price": "354.3",
       "pnl_pct": "2.04",
-      "invested_eur": ""
-    },
-    {
-      "id": "CMG_2026-07-30T15:15:31.809190+00:00",
-      "symbol": "CMG",
-      "opened_at": "2026-07-30T15:15:31.809190+00:00",
-      "entry": "38.46",
-      "stop_loss": "37.04",
-      "target_1": "40.59",
-      "target_2": "42.72",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-07-31T15:30:33.609749+00:00",
-      "resolved_price": "37.41",
-      "pnl_pct": "-2.73",
       "invested_eur": ""
     }
   ]
