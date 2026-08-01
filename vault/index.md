@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 53% über 107 abgeschlossene Empfehlungen.
+Trefferquote: 54% über 108 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[AMZN]] — Score 83%
