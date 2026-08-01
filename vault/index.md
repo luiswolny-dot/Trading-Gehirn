@@ -11,7 +11,6 @@ Trefferquote: 54% über 114 abgeschlossene Empfehlungen.
 - [[DXCM]] — Score 79%
 - [[REGN]] — Score 78%
 - [[OXY]] — Score 78%
-- [[MSFT]] — Score 78%
 - [[WY]] — Score 77%
 - [[APA]] — Score 76%
 - [[ETN]] — Score 75%
@@ -21,6 +20,7 @@ Trefferquote: 54% über 114 abgeschlossene Empfehlungen.
 - [[OKE]] — Score 74%
 - [[WBD]] — Score 74%
 - [[META]] — Score 73%
+- [[MSFT]] — Score 73%
 - [[CINF]] — Score 73%
 - [[HPQ]] — Score 73%
 - [[CRM]] — Score 73%
