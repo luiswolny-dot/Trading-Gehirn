@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 54% über 112 abgeschlossene Empfehlungen.
+Trefferquote: 54% über 114 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[AMZN]] — Score 83%
@@ -11,11 +11,11 @@ Trefferquote: 54% über 112 abgeschlossene Empfehlungen.
 - [[DXCM]] — Score 79%
 - [[REGN]] — Score 78%
 - [[OXY]] — Score 78%
-- [[MSFT]] — Score 78%
 - [[WY]] — Score 77%
 - [[APA]] — Score 76%
 - [[ETN]] — Score 75%
 - [[CTSH]] — Score 75%
+- [[MSFT]] — Score 75%
 - [[EOG]] — Score 74%
 - [[ORLY]] — Score 74%
 - [[OKE]] — Score 74%
