@@ -7,14 +7,15 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[CBOE]] — Score 82%
 - [[DVN]] — Score 80%
 - [[DXCM]] — Score 79%
-- [[GOOG]] — Score 79%
 - [[GOOGL]] — Score 79%
 - [[REGN]] — Score 78%
 - [[OXY]] — Score 78%
 - [[WY]] — Score 77%
 - [[APA]] — Score 76%
+- [[GOOG]] — Score 75%
 - [[ETN]] — Score 75%
 - [[CTSH]] — Score 75%
+- [[MSFT]] — Score 75%
 - [[EOG]] — Score 74%
 - [[ORLY]] — Score 74%
 - [[OKE]] — Score 74%
@@ -25,7 +26,6 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[CRM]] — Score 73%
 - [[LDOS]] — Score 72%
 - [[UHS]] — Score 72%
-- [[MSFT]] — Score 72%
 - [[ADBE]] — Score 72%
 - [[CVX]] — Score 72%
 - [[EXE]] — Score 72%
