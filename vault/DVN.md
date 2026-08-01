@@ -18,3 +18,4 @@ tags: #Aktie #S-P-500
 
 ## Bisherige Empfehlungen für diese Aktie
 - 2026-07-29: stop_loss_ausgeloest (-0.99%)
+- 2026-08-01: open

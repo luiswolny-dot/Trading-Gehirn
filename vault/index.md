@@ -5,10 +5,10 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[AMZN]] — Score 83%
 - [[CBOE]] — Score 82%
-- [[GOOG]] — Score 81%
-- [[GOOGL]] — Score 81%
 - [[DVN]] — Score 80%
 - [[DXCM]] — Score 79%
+- [[GOOG]] — Score 79%
+- [[GOOGL]] — Score 79%
 - [[REGN]] — Score 78%
 - [[OXY]] — Score 78%
 - [[WY]] — Score 77%
