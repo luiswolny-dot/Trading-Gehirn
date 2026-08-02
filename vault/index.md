@@ -10,7 +10,6 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[REGN]] — Score 78%
 - [[DVN]] — Score 78%
 - [[OXY]] — Score 78%
-- [[MSFT]] — Score 78%
 - [[WY]] — Score 77%
 - [[ETN]] — Score 75%
 - [[CTSH]] — Score 75%
@@ -18,9 +17,9 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[ORLY]] — Score 74%
 - [[OKE]] — Score 74%
 - [[WBD]] — Score 74%
-- [[GOOG]] — Score 73%
 - [[META]] — Score 73%
 - [[APA]] — Score 73%
+- [[MSFT]] — Score 73%
 - [[CINF]] — Score 73%
 - [[HPQ]] — Score 73%
 - [[CRM]] — Score 73%
@@ -31,5 +30,6 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[PSKY]] — Score 72%
 - [[VZ]] — Score 72%
 - [[WDAY]] — Score 72%
+- [[GOOG]] — Score 71%
 - [[BSX]] — Score 71%
 - [[ADP]] — Score 71%
