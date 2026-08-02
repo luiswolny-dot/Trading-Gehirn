@@ -12,7 +12,7 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[REGN]] — Score 78%
 - [[DVN]] — Score 78%
 - [[OXY]] — Score 78%
-- [[MSFT]] — Score 77%
+- [[MSFT]] — Score 78%
 - [[ETN]] — Score 75%
 - [[CTSH]] — Score 75%
 - [[EOG]] — Score 74%
