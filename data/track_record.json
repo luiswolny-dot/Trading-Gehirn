@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-02T22:00:42.629592+00:00",
-  "total_closed": 118,
+  "updated": "2026-08-02T22:15:23.253957+00:00",
+  "total_closed": 119,
   "wins": 62,
-  "losses": 56,
-  "win_rate": 53,
+  "losses": 57,
+  "win_rate": 52,
   "avg_win": 2.13,
-  "avg_loss": -1.58,
-  "expectancy": 0.39,
+  "avg_loss": -1.56,
+  "expectancy": 0.36,
   "total_pnl": 43.65,
-  "still_open": 6,
+  "still_open": 5,
   "recent": [
+    {
+      "id": "DVN_2026-08-01T22:03:39.999665+00:00",
+      "symbol": "DVN",
+      "opened_at": "2026-08-01T22:03:39.999665+00:00",
+      "entry": "45.13",
+      "stop_loss": "44.55",
+      "target_1": "46.01",
+      "target_2": "46.88",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-02T22:15:23.253957+00:00",
+      "resolved_price": 45.13,
+      "pnl_pct": 0.0,
+      "invested_eur": ""
+    },
     {
       "id": "CBOE_2026-08-01T20:15:24.594662+00:00",
       "symbol": "CBOE",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-01T15:15:29.968036+00:00",
       "resolved_price": "46.81",
       "pnl_pct": "0.65",
-      "invested_eur": ""
-    },
-    {
-      "id": "SO_2026-07-31T15:15:28.240439+00:00",
-      "symbol": "SO",
-      "opened_at": "2026-07-31T15:15:28.240439+00:00",
-      "entry": "94.93",
-      "stop_loss": "94.06",
-      "target_1": "96.24",
-      "target_2": "97.55",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-01T15:15:29.968036+00:00",
-      "resolved_price": "94.54",
-      "pnl_pct": "-0.41",
       "invested_eur": ""
     }
   ]
