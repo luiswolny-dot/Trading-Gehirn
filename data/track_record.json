@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-02T20:15:24.397624+00:00",
-  "total_closed": 117,
+  "updated": "2026-08-02T20:30:34.392832+00:00",
+  "total_closed": 118,
   "wins": 62,
-  "losses": 55,
+  "losses": 56,
   "win_rate": 53,
   "avg_win": 2.13,
-  "avg_loss": -1.61,
-  "expectancy": 0.37,
+  "avg_loss": -1.58,
+  "expectancy": 0.39,
   "total_pnl": 43.65,
   "still_open": 6,
   "recent": [
+    {
+      "id": "CBOE_2026-08-01T20:15:24.594662+00:00",
+      "symbol": "CBOE",
+      "opened_at": "2026-08-01T20:15:24.594662+00:00",
+      "entry": "310.23",
+      "stop_loss": "298.47",
+      "target_1": "327.87",
+      "target_2": "345.51",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-02T20:30:34.392832+00:00",
+      "resolved_price": 310.23,
+      "pnl_pct": 0.0,
+      "invested_eur": "33.33"
+    },
     {
       "id": "GOOG_2026-08-01T16:31:49.467552+00:00",
       "symbol": "GOOG",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-01T15:15:29.968036+00:00",
       "resolved_price": "94.54",
       "pnl_pct": "-0.41",
-      "invested_eur": ""
-    },
-    {
-      "id": "AMZN_2026-07-31T14:30:37.195370+00:00",
-      "symbol": "AMZN",
-      "opened_at": "2026-07-31T14:30:37.195370+00:00",
-      "entry": "269.64",
-      "stop_loss": "265.17",
-      "target_1": "276.34",
-      "target_2": "283.03",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-01T14:30:38.386606+00:00",
-      "resolved_price": "271.58",
-      "pnl_pct": "0.72",
       "invested_eur": ""
     }
   ]

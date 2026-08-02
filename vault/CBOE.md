@@ -21,4 +21,5 @@ tags: #Aktie #S-P-500
 - 2026-07-22: stop_loss_ausgeloest (-2.8%)
 - 2026-07-29: stop_loss_ausgeloest (-2.56%)
 - 2026-07-31: abgelaufen_verlust (0.0%)
-- 2026-08-01: open
+- 2026-08-01: abgelaufen_verlust (0.0%)
+- 2026-08-02: open

@@ -1,7 +1,7 @@
 {
-  "cash": 42.84,
+  "cash": 74.17,
   "starting_balance": 100.0,
-  "updated": "2026-08-02T20:15:24.397624+00:00",
+  "updated": "2026-08-02T20:30:34.392832+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -95,6 +95,14 @@
       "symbol": "GOOG",
       "opened_at": "2026-08-01T16:31:49.467552+00:00",
       "resolved_at": "2026-08-02T16:45:25.741917+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.0,
+      "status": "abgelaufen_verlust"
+    },
+    {
+      "symbol": "CBOE",
+      "opened_at": "2026-08-01T20:15:24.594662+00:00",
+      "resolved_at": "2026-08-02T20:30:34.392832+00:00",
       "invested_eur": 33.33,
       "net_pnl_eur": -2.0,
       "status": "abgelaufen_verlust"

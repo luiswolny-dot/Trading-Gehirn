@@ -1,12 +1,20 @@
 {
-  "updated": "2026-08-02T20:15:24.397624+00:00",
+  "updated": "2026-08-02T20:30:34.392832+00:00",
   "starting_balance": 100.0,
-  "cash": 42.84,
-  "invested_in_open_positions": 33.33,
-  "total_value": 76.17,
-  "return_pct": -23.83,
-  "open_position_count": 1,
+  "cash": 74.17,
+  "invested_in_open_positions": 0,
+  "total_value": 74.17,
+  "return_pct": -25.83,
+  "open_position_count": 0,
   "recent_closed_trades": [
+    {
+      "symbol": "CBOE",
+      "opened_at": "2026-08-01T20:15:24.594662+00:00",
+      "resolved_at": "2026-08-02T20:30:34.392832+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.0,
+      "status": "abgelaufen_verlust"
+    },
     {
       "symbol": "GOOG",
       "opened_at": "2026-08-01T16:31:49.467552+00:00",
@@ -78,14 +86,6 @@
       "invested_eur": 27.0,
       "net_pnl_eur": -2.58,
       "status": "stop_loss_ausgeloest"
-    },
-    {
-      "symbol": "GPN",
-      "opened_at": "2026-07-20T22:00:40.000000+00:00",
-      "resolved_at": "2026-07-21T16:05:00+00:00",
-      "invested_eur": 33.33,
-      "net_pnl_eur": -1.98,
-      "status": "abgelaufen_gewinn"
     }
   ]
 }
