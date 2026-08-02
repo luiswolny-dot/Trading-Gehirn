@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-02T14:30:37.577905+00:00",
-  "total_closed": 115,
+  "updated": "2026-08-02T14:45:22.361750+00:00",
+  "total_closed": 116,
   "wins": 62,
-  "losses": 53,
-  "win_rate": 54,
+  "losses": 54,
+  "win_rate": 53,
   "avg_win": 2.13,
-  "avg_loss": -1.67,
-  "expectancy": 0.38,
+  "avg_loss": -1.64,
+  "expectancy": 0.36,
   "total_pnl": 43.65,
   "still_open": 7,
   "recent": [
+    {
+      "id": "AMZN_2026-08-01T14:30:38.386606+00:00",
+      "symbol": "AMZN",
+      "opened_at": "2026-08-01T14:30:38.386606+00:00",
+      "entry": "271.58",
+      "stop_loss": "265.97",
+      "target_1": "280.0",
+      "target_2": "288.41",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-02T14:45:22.361750+00:00",
+      "resolved_price": 271.58,
+      "pnl_pct": 0.0,
+      "invested_eur": ""
+    },
     {
       "id": "CBOE_2026-07-31T20:02:47.595745+00:00",
       "symbol": "CBOE",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-01T14:02:33.543238+00:00",
       "resolved_price": "544.84",
       "pnl_pct": "2.21",
-      "invested_eur": ""
-    },
-    {
-      "id": "EME_2026-07-31T14:00:44.972688+00:00",
-      "symbol": "EME",
-      "opened_at": "2026-07-31T14:00:44.972688+00:00",
-      "entry": "802.41",
-      "stop_loss": "783.88",
-      "target_1": "830.21",
-      "target_2": "858.0",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-01T14:02:33.543238+00:00",
-      "resolved_price": "797.43",
-      "pnl_pct": "-0.62",
       "invested_eur": ""
     }
   ]
