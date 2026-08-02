@@ -6,7 +6,6 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[AMZN]] — Score 83%
 - [[CBOE]] — Score 82%
 - [[DXCM]] — Score 79%
-- [[GOOGL]] — Score 78%
 - [[REGN]] — Score 78%
 - [[DVN]] — Score 78%
 - [[OXY]] — Score 78%
@@ -18,7 +17,6 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[ORLY]] — Score 74%
 - [[OKE]] — Score 74%
 - [[WBD]] — Score 74%
-- [[GOOG]] — Score 73%
 - [[META]] — Score 73%
 - [[APA]] — Score 73%
 - [[CINF]] — Score 73%
@@ -33,3 +31,5 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[WDAY]] — Score 72%
 - [[BSX]] — Score 71%
 - [[ADP]] — Score 71%
+- [[EQT]] — Score 71%
+- [[HAL]] — Score 71%
