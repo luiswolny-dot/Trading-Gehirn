@@ -8,10 +8,10 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[GOOG]] — Score 81%
 - [[GOOGL]] — Score 81%
 - [[DXCM]] — Score 79%
+- [[WY]] — Score 78%
 - [[REGN]] — Score 78%
 - [[DVN]] — Score 78%
 - [[OXY]] — Score 78%
-- [[WY]] — Score 77%
 - [[MSFT]] — Score 77%
 - [[ETN]] — Score 75%
 - [[CTSH]] — Score 75%
