@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:45:22.361750+00:00",
+  "updated": "2026-08-02T15:01:51.954290+00:00",
   "total_closed": 116,
   "wins": 62,
   "losses": 54,
@@ -20,8 +20,8 @@
       "target_2": "288.41",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-02T14:45:22.361750+00:00",
-      "resolved_price": 271.58,
-      "pnl_pct": 0.0,
+      "resolved_price": "271.58",
+      "pnl_pct": "0.0",
       "invested_eur": ""
     },
     {
