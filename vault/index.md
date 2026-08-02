@@ -5,27 +5,25 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[AMZN]] — Score 83%
 - [[CBOE]] — Score 82%
-- [[DVN]] — Score 80%
 - [[DXCM]] — Score 79%
 - [[GOOGL]] — Score 79%
 - [[REGN]] — Score 78%
+- [[DVN]] — Score 78%
 - [[OXY]] — Score 78%
 - [[WY]] — Score 77%
-- [[APA]] — Score 76%
+- [[MSFT]] — Score 77%
 - [[GOOG]] — Score 75%
 - [[ETN]] — Score 75%
 - [[CTSH]] — Score 75%
-- [[MSFT]] — Score 75%
 - [[EOG]] — Score 74%
 - [[ORLY]] — Score 74%
 - [[OKE]] — Score 74%
 - [[WBD]] — Score 74%
 - [[META]] — Score 73%
+- [[APA]] — Score 73%
 - [[CINF]] — Score 73%
 - [[HPQ]] — Score 73%
 - [[CRM]] — Score 73%
-- [[LDOS]] — Score 72%
-- [[UHS]] — Score 72%
 - [[ADBE]] — Score 72%
 - [[CVX]] — Score 72%
 - [[EXE]] — Score 72%
@@ -33,3 +31,5 @@ Trefferquote: 54% über 115 abgeschlossene Empfehlungen.
 - [[PSKY]] — Score 72%
 - [[VZ]] — Score 72%
 - [[WDAY]] — Score 72%
+- [[BSX]] — Score 71%
+- [[ADP]] — Score 71%
