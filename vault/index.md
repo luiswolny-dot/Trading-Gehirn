@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 125 abgeschlossene Empfehlungen.
+Trefferquote: 52% über 128 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[DVA]] — Score 77%
-- [[BEN]] — Score 77%
-- [[INVH]] — Score 77%
-- [[ULTA]] — Score 77%
-- [[VMC]] — Score 77%
-- [[LYV]] — Score 76%
-- [[DPZ]] — Score 75%
-- [[ETN]] — Score 75%
-- [[EXR]] — Score 75%
-- [[HBAN]] — Score 75%
-- [[SHW]] — Score 75%
-- [[LUV]] — Score 75%
-- [[AXP]] — Score 74%
-- [[AWK]] — Score 74%
+- [[FSLR]] — Score 85%
+- [[NVDA]] — Score 79%
+- [[UAL]] — Score 78%
+- [[DAL]] — Score 77%
+- [[Q]] — Score 77%
+- [[SNDK]] — Score 76%
+- [[DE]] — Score 76%
+- [[BLK]] — Score 76%
+- [[ECHO]] — Score 76%
+- [[GDDY]] — Score 76%
+- [[BEN]] — Score 75%
+- [[TSLA]] — Score 75%
+- [[TSN]] — Score 75%
+- [[URI]] — Score 75%
 - [[ARES]] — Score 74%
-- [[BLK]] — Score 74%
-- [[CAH]] — Score 74%
-- [[COHR]] — Score 74%
-- [[EQR]] — Score 74%
-- [[FITB]] — Score 74%
-- [[GNRC]] — Score 74%
-- [[MRNA]] — Score 74%
-- [[NVDA]] — Score 74%
-- [[PFG]] — Score 74%
-- [[RF]] — Score 74%
-- [[RVTY]] — Score 74%
-- [[SYF]] — Score 74%
-- [[UDR]] — Score 74%
-- [[APO]] — Score 73%
-- [[DAL]] — Score 73%
+- [[BAX]] — Score 74%
+- [[LUV]] — Score 74%
+- [[HOOD]] — Score 74%
+- [[AMZN]] — Score 74%
+- [[AXON]] — Score 74%
+- [[CMI]] — Score 74%
+- [[DD]] — Score 74%
+- [[EME]] — Score 74%
+- [[EMR]] — Score 74%
+- [[ISRG]] — Score 74%
+- [[IVZ]] — Score 74%
+- [[PWR]] — Score 74%
+- [[ROK]] — Score 74%
+- [[VRSN]] — Score 74%
+- [[COHR]] — Score 73%
