@@ -1,15 +1,15 @@
-# INTU
+# MKC
 
 tags: #Aktie #S-P-500
 
-- Preis: $329.75
-- Tagesbewegung: 4.33%
+- Preis: $52.48
+- Tagesbewegung: 3.1%
 - Gesamt-Score: 77%
 - KGV: —
-- Einstieg: $329.75
-- Stop-Loss: $324.8
-- Ziel 1: $337.18
-- Ziel 2: $344.6
+- Einstieg: $52.48
+- Stop-Loss: $51.94
+- Ziel 1: $53.29
+- Ziel 2: $54.1
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
