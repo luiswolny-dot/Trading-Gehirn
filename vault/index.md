@@ -4,13 +4,10 @@ Trefferquote: 51% über 121 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[AMZN]] — Score 83%
-- [[CBOE]] — Score 82%
 - [[DXCM]] — Score 79%
 - [[GOOG]] — Score 79%
 - [[GOOGL]] — Score 79%
 - [[MSFT]] — Score 79%
-- [[REGN]] — Score 78%
-- [[ETN]] — Score 75%
 - [[OXY]] — Score 75%
 - [[ORLY]] — Score 74%
 - [[OKE]] — Score 74%
@@ -21,6 +18,7 @@ Trefferquote: 51% über 121 abgeschlossene Empfehlungen.
 - [[HPQ]] — Score 73%
 - [[CRM]] — Score 73%
 - [[WY]] — Score 72%
+- [[CBOE]] — Score 72%
 - [[ADBE]] — Score 72%
 - [[CVX]] — Score 72%
 - [[EXE]] — Score 72%
@@ -33,3 +31,5 @@ Trefferquote: 51% über 121 abgeschlossene Empfehlungen.
 - [[HAL]] — Score 71%
 - [[LMT]] — Score 71%
 - [[ZTS]] — Score 71%
+- [[ACN]] — Score 70%
+- [[ANET]] — Score 70%
