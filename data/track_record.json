@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T14:45:34.559794+00:00",
+  "updated": "2026-08-03T15:00:47.032199+00:00",
   "total_closed": 129,
   "wins": 66,
   "losses": 63,
@@ -8,7 +8,7 @@
   "avg_loss": -1.52,
   "expectancy": 0.45,
   "total_pnl": 59.17,
-  "still_open": 7,
+  "still_open": 8,
   "recent": [
     {
       "id": "ADP_2026-08-03T13:30:43.499223+00:00",
@@ -20,8 +20,8 @@
       "target_2": "280.35",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-03T14:45:34.559794+00:00",
-      "resolved_price": 270.45,
-      "pnl_pct": -1.01,
+      "resolved_price": "270.45",
+      "pnl_pct": "-1.01",
       "invested_eur": ""
     },
     {
