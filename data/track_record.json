@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T18:30:42.522214+00:00",
+  "updated": "2026-08-03T18:45:27.639088+00:00",
   "total_closed": 129,
   "wins": 66,
   "losses": 63,
@@ -8,7 +8,7 @@
   "avg_loss": -1.52,
   "expectancy": 0.45,
   "total_pnl": 59.17,
-  "still_open": 16,
+  "still_open": 17,
   "recent": [
     {
       "id": "ADP_2026-08-03T13:30:43.499223+00:00",
