@@ -1,15 +1,15 @@
-# BSX
+# CLX
 
 tags: #Aktie #S-P-500
 
-- Preis: $48.23
-- Tagesbewegung: 3.21%
+- Preis: $98.41
+- Tagesbewegung: 3.01%
 - Gesamt-Score: 78%
 - KGV: —
-- Einstieg: $48.23
-- Stop-Loss: $47.96
-- Ziel 1: $48.63
-- Ziel 2: $49.02
+- Einstieg: $98.41
+- Stop-Loss: $97.79
+- Ziel 1: $99.35
+- Ziel 2: $100.28
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
