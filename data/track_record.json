@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-03T00:00:45.033054+00:00",
-  "total_closed": 119,
+  "updated": "2026-08-03T00:15:28.833743+00:00",
+  "total_closed": 120,
   "wins": 62,
-  "losses": 57,
+  "losses": 58,
   "win_rate": 52,
   "avg_win": 2.13,
-  "avg_loss": -1.56,
-  "expectancy": 0.36,
+  "avg_loss": -1.53,
+  "expectancy": 0.37,
   "total_pnl": 43.65,
-  "still_open": 5,
+  "still_open": 4,
   "recent": [
+    {
+      "id": "DXCM_2026-08-02T00:02:42.945964+00:00",
+      "symbol": "DXCM",
+      "opened_at": "2026-08-02T00:02:42.945964+00:00",
+      "entry": "83.45",
+      "stop_loss": "80.85",
+      "target_1": "87.35",
+      "target_2": "91.25",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-03T00:15:28.833743+00:00",
+      "resolved_price": 83.45,
+      "pnl_pct": 0.0,
+      "invested_eur": ""
+    },
     {
       "id": "DVN_2026-08-01T22:03:39.999665+00:00",
       "symbol": "DVN",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-01T15:32:19.519700+00:00",
       "resolved_price": "109.61",
       "pnl_pct": "-0.4",
-      "invested_eur": ""
-    },
-    {
-      "id": "VZ_2026-07-31T15:15:28.240439+00:00",
-      "symbol": "VZ",
-      "opened_at": "2026-07-31T15:15:28.240439+00:00",
-      "entry": "46.51",
-      "stop_loss": "45.98",
-      "target_1": "47.3",
-      "target_2": "48.09",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-01T15:15:29.968036+00:00",
-      "resolved_price": "46.81",
-      "pnl_pct": "0.65",
       "invested_eur": ""
     }
   ]

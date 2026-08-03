@@ -1,10 +1,10 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 119 abgeschlossene Empfehlungen.
+Trefferquote: 52% über 120 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[AMZN]] — Score 83%
 - [[CBOE]] — Score 82%
+- [[AMZN]] — Score 81%
 - [[GOOGL]] — Score 81%
 - [[DXCM]] — Score 79%
 - [[MSFT]] — Score 79%
