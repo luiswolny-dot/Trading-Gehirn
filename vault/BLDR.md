@@ -1,15 +1,15 @@
-# IVZ
+# BLDR
 
 tags: #Aktie #S-P-500
 
-- Preis: $30.3
-- Tagesbewegung: 2.36%
+- Preis: $70.75
+- Tagesbewegung: 6.49%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $30.3
-- Stop-Loss: $29.96
-- Ziel 1: $30.8
-- Ziel 2: $31.31
+- Einstieg: $70.75
+- Stop-Loss: $69.03
+- Ziel 1: $73.32
+- Ziel 2: $75.9
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
