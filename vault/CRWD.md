@@ -2,16 +2,16 @@
 
 tags: #Aktie #S-P-500
 
-- Preis: $190.49
-- Tagesbewegung: 2.85%
-- Gesamt-Score: 72%
+- Preis: $197.64
+- Tagesbewegung: 3.55%
+- Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $190.49
-- Stop-Loss: $186.75
-- Ziel 1: $196.1
-- Ziel 2: $201.72
+- Einstieg: $197.64
+- Stop-Loss: $194.96
+- Ziel 1: $201.66
+- Ziel 2: $205.68
 
 ## Verknüpfungen
-- Trend: [[Trend-None]]
-- News-Stimmung: [[News-None]]
+- Trend: [[Trend-unbekannt]]
+- News-Stimmung: [[News-positiv]]
 - Gehört zu: [[S&P-500]]
