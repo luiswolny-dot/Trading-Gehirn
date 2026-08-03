@@ -1,15 +1,15 @@
-# BLK
+# GNRC
 
 tags: #Aktie #S-P-500
 
-- Preis: $1111.83
-- Tagesbewegung: 1.97%
+- Preis: $200.76
+- Tagesbewegung: 1.85%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $1111.83
-- Stop-Loss: $1103.62
-- Ziel 1: $1124.14
-- Ziel 2: $1136.44
+- Einstieg: $200.76
+- Stop-Loss: $197.05
+- Ziel 1: $206.32
+- Ziel 2: $211.88
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

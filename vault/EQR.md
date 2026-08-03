@@ -1,15 +1,15 @@
-# BLK
+# EQR
 
 tags: #Aktie #S-P-500
 
-- Preis: $1111.83
-- Tagesbewegung: 1.97%
+- Preis: $67.27
+- Tagesbewegung: 1.23%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $1111.83
-- Stop-Loss: $1103.62
-- Ziel 1: $1124.14
-- Ziel 2: $1136.44
+- Einstieg: $67.27
+- Stop-Loss: $66.72
+- Ziel 1: $68.1
+- Ziel 2: $68.92
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

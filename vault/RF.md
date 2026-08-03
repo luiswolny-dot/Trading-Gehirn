@@ -1,15 +1,15 @@
-# BLK
+# RF
 
 tags: #Aktie #S-P-500
 
-- Preis: $1111.83
-- Tagesbewegung: 1.97%
+- Preis: $31.4
+- Tagesbewegung: 1.45%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $1111.83
-- Stop-Loss: $1103.62
-- Ziel 1: $1124.14
-- Ziel 2: $1136.44
+- Einstieg: $31.4
+- Stop-Loss: $31.16
+- Ziel 1: $31.77
+- Ziel 2: $32.13
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]

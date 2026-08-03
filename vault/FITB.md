@@ -1,15 +1,15 @@
-# BLK
+# FITB
 
 tags: #Aktie #S-P-500
 
-- Preis: $1111.83
-- Tagesbewegung: 1.97%
+- Preis: $57.22
+- Tagesbewegung: 1.27%
 - Gesamt-Score: 74%
 - KGV: —
-- Einstieg: $1111.83
-- Stop-Loss: $1103.62
-- Ziel 1: $1124.14
-- Ziel 2: $1136.44
+- Einstieg: $57.22
+- Stop-Loss: $56.81
+- Ziel 1: $57.83
+- Ziel 2: $58.44
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
