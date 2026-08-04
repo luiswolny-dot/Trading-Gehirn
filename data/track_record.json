@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T12:30:36.361714+00:00",
-  "total_closed": 130,
-  "wins": 67,
+  "updated": "2026-08-04T12:45:27.811565+00:00",
+  "total_closed": 131,
+  "wins": 68,
   "losses": 63,
   "win_rate": 52,
-  "avg_win": 2.39,
+  "avg_win": 2.37,
   "avg_loss": -1.52,
-  "expectancy": 0.51,
-  "total_pnl": 63.8,
-  "still_open": 21,
+  "expectancy": 0.5,
+  "total_pnl": 64.97,
+  "still_open": 20,
   "recent": [
+    {
+      "id": "VZ_2026-08-03T12:30:36.465904+00:00",
+      "symbol": "VZ",
+      "opened_at": "2026-08-03T12:30:36.465904+00:00",
+      "entry": "46.81",
+      "stop_loss": "46.09",
+      "target_1": "47.89",
+      "target_2": "48.97",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-04T12:45:27.811565+00:00",
+      "resolved_price": 47.36,
+      "pnl_pct": 1.17,
+      "invested_eur": ""
+    },
     {
       "id": "DXCM_2026-08-03T10:15:25.682593+00:00",
       "symbol": "DXCM",
@@ -133,20 +147,6 @@
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-03T12:45:23.803779+00:00",
       "resolved_price": "762.63",
-      "pnl_pct": "0.0",
-      "invested_eur": ""
-    },
-    {
-      "id": "GOOGL_2026-08-02T10:00:41.279735+00:00",
-      "symbol": "GOOGL",
-      "opened_at": "2026-08-02T10:00:41.279735+00:00",
-      "entry": "356.13",
-      "stop_loss": "346.84",
-      "target_1": "370.06",
-      "target_2": "384.0",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-03T10:00:44.912661+00:00",
-      "resolved_price": "356.13",
       "pnl_pct": "0.0",
       "invested_eur": ""
     }
