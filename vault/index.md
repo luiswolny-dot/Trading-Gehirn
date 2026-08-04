@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 53% über 149 abgeschlossene Empfehlungen.
+Trefferquote: 53% über 150 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[JBL]] — Score 86%
+- [[KEYS]] — Score 86%
 - [[KLAC]] — Score 86%
 - [[TEL]] — Score 86%
-- [[DDOG]] — Score 85%
-- [[FCX]] — Score 85%
-- [[NTAP]] — Score 85%
+- [[AMAT]] — Score 85%
 - [[QCOM]] — Score 85%
-- [[SNDK]] — Score 84%
 - [[MU]] — Score 84%
-- [[HUBB]] — Score 84%
-- [[SMCI]] — Score 83%
-- [[ADI]] — Score 83%
-- [[CHTR]] — Score 83%
+- [[ADI]] — Score 84%
+- [[ECHO]] — Score 84%
+- [[SNDK]] — Score 83%
+- [[CLX]] — Score 83%
 - [[IT]] — Score 82%
 - [[INTC]] — Score 82%
-- [[ECHO]] — Score 82%
-- [[JBL]] — Score 81%
-- [[CLX]] — Score 81%
+- [[SMCI]] — Score 82%
+- [[CARR]] — Score 82%
+- [[CHTR]] — Score 82%
+- [[APH]] — Score 81%
 - [[CHRW]] — Score 81%
-- [[TXN]] — Score 81%
-- [[WDC]] — Score 81%
+- [[HPE]] — Score 81%
+- [[SWK]] — Score 81%
+- [[GNRC]] — Score 80%
 - [[LDOS]] — Score 80%
-- [[APH]] — Score 80%
-- [[CARR]] — Score 80%
-- [[EXPD]] — Score 80%
+- [[AXON]] — Score 80%
+- [[CSCO]] — Score 80%
+- [[FCX]] — Score 80%
+- [[NXPI]] — Score 80%
 - [[SBAC]] — Score 80%
-- [[SWK]] — Score 80%
-- [[AOS]] — Score 79%
-- [[AMAT]] — Score 79%
-- [[COIN]] — Score 79%
-- [[FTNT]] — Score 79%
+- [[TXN]] — Score 80%
+- [[HUBB]] — Score 79%
+- [[ANET]] — Score 79%
