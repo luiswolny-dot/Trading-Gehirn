@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 139 abgeschlossene Empfehlungen.
+Trefferquote: 52% über 141 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[IT]] — Score 81%
 - [[INTC]] — Score 80%
-- [[MU]] — Score 80%
+- [[JBL]] — Score 80%
+- [[KEYS]] — Score 80%
+- [[TER]] — Score 79%
 - [[ZBRA]] — Score 79%
-- [[TER]] — Score 77%
-- [[SNDK]] — Score 77%
+- [[SNDK]] — Score 78%
+- [[ADI]] — Score 78%
+- [[XYZ]] — Score 78%
+- [[C]] — Score 78%
+- [[JBHT]] — Score 78%
+- [[JCI]] — Score 78%
+- [[JPM]] — Score 78%
+- [[NXPI]] — Score 78%
+- [[TEL]] — Score 78%
+- [[LDOS]] — Score 77%
+- [[CHTR]] — Score 77%
+- [[EXPD]] — Score 77%
+- [[MU]] — Score 77%
+- [[PPG]] — Score 77%
+- [[TXN]] — Score 77%
 - [[QCOM]] — Score 76%
 - [[BR]] — Score 76%
-- [[LDOS]] — Score 76%
-- [[EXPD]] — Score 76%
-- [[JBL]] — Score 76%
-- [[URI]] — Score 76%
+- [[ARES]] — Score 76%
+- [[CRWD]] — Score 76%
+- [[DDOG]] — Score 76%
+- [[SLB]] — Score 76%
 - [[PLTR]] — Score 75%
-- [[MSFT]] — Score 75%
-- [[NXPI]] — Score 75%
-- [[TDY]] — Score 75%
-- [[ADI]] — Score 74%
-- [[CPAY]] — Score 74%
-- [[J]] — Score 74%
-- [[MS]] — Score 74%
-- [[SW]] — Score 74%
-- [[CLX]] — Score 73%
-- [[FITB]] — Score 73%
-- [[JBHT]] — Score 73%
-- [[JPM]] — Score 73%
-- [[ODFL]] — Score 73%
-- [[PPG]] — Score 73%
-- [[TFC]] — Score 73%
-- [[ULTA]] — Score 73%
-- [[WFC]] — Score 73%
+- [[GNRC]] — Score 75%
+- [[HONA]] — Score 75%
