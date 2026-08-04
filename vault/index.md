@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 131 abgeschlossene Empfehlungen.
+Trefferquote: 51% über 134 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[LII]] — Score 82%
-- [[SNDK]] — Score 82%
-- [[VST]] — Score 82%
-- [[FSLR]] — Score 81%
-- [[IR]] — Score 81%
-- [[DXCM]] — Score 81%
-- [[GDDY]] — Score 81%
-- [[LYV]] — Score 81%
-- [[SHW]] — Score 81%
-- [[SWK]] — Score 81%
-- [[SYK]] — Score 81%
-- [[ULTA]] — Score 81%
-- [[CIEN]] — Score 80%
-- [[CRH]] — Score 80%
-- [[GRMN]] — Score 80%
-- [[META]] — Score 80%
-- [[TSCO]] — Score 80%
-- [[VRT]] — Score 79%
-- [[CEG]] — Score 79%
-- [[DAL]] — Score 79%
-- [[EMR]] — Score 79%
-- [[FLEX]] — Score 79%
-- [[HUM]] — Score 79%
-- [[KKR]] — Score 79%
-- [[PSKY]] — Score 79%
-- [[PPG]] — Score 79%
-- [[WSM]] — Score 79%
-- [[ZBH]] — Score 79%
-- [[ORCL]] — Score 78%
-- [[EW]] — Score 78%
+- [[GNRC]] — Score 83%
+- [[MU]] — Score 80%
+- [[BR]] — Score 79%
+- [[ZBRA]] — Score 78%
+- [[CAT]] — Score 78%
+- [[CCL]] — Score 78%
+- [[ECHO]] — Score 76%
+- [[COHR]] — Score 75%
+- [[IDXX]] — Score 75%
+- [[AMAT]] — Score 75%
+- [[BA]] — Score 75%
+- [[JPM]] — Score 75%
+- [[PLTR]] — Score 74%
+- [[LDOS]] — Score 74%
+- [[EXPE]] — Score 74%
+- [[IBKR]] — Score 74%
+- [[SNDK]] — Score 74%
+- [[STT]] — Score 74%
+- [[ADI]] — Score 73%
+- [[HOOD]] — Score 73%
+- [[CDNS]] — Score 73%
+- [[CHTR]] — Score 73%
+- [[IVZ]] — Score 73%
+- [[NTRS]] — Score 73%
+- [[TER]] — Score 72%
+- [[AKAM]] — Score 72%
+- [[BNY]] — Score 72%
+- [[BKNG]] — Score 72%
+- [[BLDR]] — Score 72%
+- [[CBRE]] — Score 72%
