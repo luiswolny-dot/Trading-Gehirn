@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-04T14:45:26.946717+00:00",
-  "total_closed": 141,
-  "wins": 73,
-  "losses": 68,
+  "updated": "2026-08-04T15:00:53.580393+00:00",
+  "total_closed": 143,
+  "wins": 74,
+  "losses": 69,
   "win_rate": 52,
-  "avg_win": 2.52,
+  "avg_win": 2.5,
   "avg_loss": -1.56,
-  "expectancy": 0.56,
-  "total_pnl": 77.82,
-  "still_open": 17,
+  "expectancy": 0.55,
+  "total_pnl": 77.18,
+  "still_open": 15,
   "recent": [
+    {
+      "id": "DAL_2026-08-03T14:45:34.559794+00:00",
+      "symbol": "DAL",
+      "opened_at": "2026-08-03T14:45:34.559794+00:00",
+      "entry": "91.75",
+      "stop_loss": "90.41",
+      "target_1": "93.77",
+      "target_2": "95.78",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-04T15:00:53.580393+00:00",
+      "resolved_price": 92.55,
+      "pnl_pct": 0.87,
+      "invested_eur": ""
+    },
+    {
+      "id": "META_2026-08-03T15:00:47.032199+00:00",
+      "symbol": "META",
+      "opened_at": "2026-08-03T15:00:47.032199+00:00",
+      "entry": "590.53",
+      "stop_loss": "572.91",
+      "target_1": "616.96",
+      "target_2": "643.39",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-04T15:00:53.580393+00:00",
+      "resolved_price": 581.62,
+      "pnl_pct": -1.51,
+      "invested_eur": ""
+    },
     {
       "id": "FSLR_2026-08-03T14:30:37.449467+00:00",
       "symbol": "FSLR",
@@ -20,8 +48,8 @@
       "target_2": "282.75",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-04T14:45:26.946717+00:00",
-      "resolved_price": 235.42,
-      "pnl_pct": -2.23,
+      "resolved_price": "235.42",
+      "pnl_pct": "-2.23",
       "invested_eur": ""
     },
     {
@@ -34,8 +62,8 @@
       "target_2": "219.21",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-04T14:45:26.946717+00:00",
-      "resolved_price": 210.15,
-      "pnl_pct": 2.13,
+      "resolved_price": "210.15",
+      "pnl_pct": "2.13",
       "invested_eur": ""
     },
     {
@@ -120,34 +148,6 @@
       "resolved_at": "2026-08-04T13:30:44.989795+00:00",
       "resolved_price": "368.28",
       "pnl_pct": "-1.89",
-      "invested_eur": ""
-    },
-    {
-      "id": "GOOG_2026-08-03T17:00:45.527263+00:00",
-      "symbol": "GOOG",
-      "opened_at": "2026-08-03T17:00:45.527263+00:00",
-      "entry": "375.29",
-      "stop_loss": "368.59",
-      "target_1": "385.35",
-      "target_2": "395.41",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-04T13:30:44.989795+00:00",
-      "resolved_price": "367.1",
-      "pnl_pct": "-2.18",
-      "invested_eur": ""
-    },
-    {
-      "id": "COHR_2026-08-03T17:47:01.764086+00:00",
-      "symbol": "COHR",
-      "opened_at": "2026-08-03T17:47:01.764086+00:00",
-      "entry": "290.75",
-      "stop_loss": "269.46",
-      "target_1": "322.69",
-      "target_2": "354.62",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-04T13:30:44.989795+00:00",
-      "resolved_price": "325.9",
-      "pnl_pct": "12.09",
       "invested_eur": ""
     }
   ]
