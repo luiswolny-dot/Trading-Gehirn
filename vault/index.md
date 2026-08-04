@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 54% über 152 abgeschlossene Empfehlungen.
+Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[MU]] — Score 87%
+- [[FLEX]] — Score 87%
+- [[PANW]] — Score 87%
 - [[DDOG]] — Score 86%
-- [[KEYS]] — Score 86%
+- [[TEL]] — Score 86%
+- [[ADI]] — Score 85%
+- [[NUE]] — Score 85%
 - [[NXPI]] — Score 85%
-- [[PANW]] — Score 85%
-- [[APH]] — Score 84%
+- [[TTD]] — Score 85%
 - [[AXON]] — Score 84%
-- [[ECHO]] — Score 84%
-- [[EXPE]] — Score 84%
-- [[FLEX]] — Score 84%
-- [[TXN]] — Score 84%
-- [[TTD]] — Score 84%
+- [[CHRW]] — Score 84%
+- [[CSCO]] — Score 84%
+- [[KEYS]] — Score 84%
 - [[IT]] — Score 83%
-- [[CHRW]] — Score 83%
-- [[KLAC]] — Score 83%
-- [[NUE]] — Score 83%
-- [[SWK]] — Score 83%
-- [[QCOM]] — Score 82%
+- [[SMCI]] — Score 83%
+- [[AMAT]] — Score 83%
+- [[INTC]] — Score 82%
+- [[LDOS]] — Score 82%
+- [[SNDK]] — Score 82%
 - [[CLX]] — Score 82%
-- [[ADI]] — Score 82%
-- [[HUBB]] — Score 82%
-- [[WDAY]] — Score 82%
-- [[INTC]] — Score 81%
-- [[SMCI]] — Score 81%
-- [[LDOS]] — Score 81%
-- [[SNDK]] — Score 81%
-- [[TEL]] — Score 81%
-- [[BLDR]] — Score 81%
-- [[KMB]] — Score 81%
-- [[ODFL]] — Score 81%
+- [[AOS]] — Score 82%
+- [[BLDR]] — Score 82%
+- [[COIN]] — Score 82%
+- [[EXPE]] — Score 82%
+- [[MU]] — Score 82%
+- [[MOS]] — Score 82%
+- [[SBAC]] — Score 82%
+- [[SWK]] — Score 82%
+- [[TXN]] — Score 82%
+- [[CDW]] — Score 81%
+- [[HUBB]] — Score 81%
