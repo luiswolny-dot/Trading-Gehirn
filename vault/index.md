@@ -7,6 +7,7 @@ Trefferquote: 51% über 129 abgeschlossene Empfehlungen.
 - [[SNDK]] — Score 82%
 - [[VST]] — Score 82%
 - [[FSLR]] — Score 81%
+- [[IR]] — Score 81%
 - [[DXCM]] — Score 81%
 - [[GDDY]] — Score 81%
 - [[LYV]] — Score 81%
@@ -32,4 +33,3 @@ Trefferquote: 51% über 129 abgeschlossene Empfehlungen.
 - [[ZBH]] — Score 79%
 - [[ORCL]] — Score 78%
 - [[EW]] — Score 78%
-- [[MRVL]] — Score 78%
