@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T17:15:25.261190+00:00",
-  "total_closed": 147,
-  "wins": 77,
+  "updated": "2026-08-04T17:30:35.926553+00:00",
+  "total_closed": 148,
+  "wins": 78,
   "losses": 70,
-  "win_rate": 52,
-  "avg_win": 2.56,
+  "win_rate": 53,
+  "avg_win": 2.6,
   "avg_loss": -1.58,
-  "expectancy": 0.57,
-  "total_pnl": 86.34,
+  "expectancy": 0.64,
+  "total_pnl": 92.05,
   "still_open": 12,
   "recent": [
+    {
+      "id": "ORCL_2026-08-03T18:00:51.486605+00:00",
+      "symbol": "ORCL",
+      "opened_at": "2026-08-03T18:00:51.486605+00:00",
+      "entry": "140.64",
+      "stop_loss": "135.43",
+      "target_1": "148.46",
+      "target_2": "156.28",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-04T17:30:35.926553+00:00",
+      "resolved_price": 148.67,
+      "pnl_pct": 5.71,
+      "invested_eur": ""
+    },
     {
       "id": "BR_2026-08-04T13:45:27.792583+00:00",
       "symbol": "BR",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T14:00:49.032750+00:00",
       "resolved_price": "131.48",
       "pnl_pct": "1.74",
-      "invested_eur": ""
-    },
-    {
-      "id": "MSFT_2026-08-03T13:45:25.448595+00:00",
-      "symbol": "MSFT",
-      "opened_at": "2026-08-03T13:45:25.448595+00:00",
-      "entry": "488.18",
-      "stop_loss": "478.81",
-      "target_1": "502.23",
-      "target_2": "516.29",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": "486.14",
-      "pnl_pct": "-0.42",
       "invested_eur": ""
     }
   ]
