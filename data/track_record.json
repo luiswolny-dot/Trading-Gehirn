@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T15:30:42.356536+00:00",
-  "total_closed": 145,
-  "wins": 76,
+  "updated": "2026-08-04T15:45:35.233851+00:00",
+  "total_closed": 146,
+  "wins": 77,
   "losses": 69,
-  "win_rate": 52,
-  "avg_win": 2.57,
+  "win_rate": 53,
+  "avg_win": 2.56,
   "avg_loss": -1.56,
-  "expectancy": 0.59,
-  "total_pnl": 87.47,
-  "still_open": 14,
+  "expectancy": 0.62,
+  "total_pnl": 89.47,
+  "still_open": 13,
   "recent": [
+    {
+      "id": "JBL_2026-08-04T14:15:36.776457+00:00",
+      "symbol": "JBL",
+      "opened_at": "2026-08-04T14:15:36.776457+00:00",
+      "entry": "334.64",
+      "stop_loss": "330.64",
+      "target_1": "340.64",
+      "target_2": "346.64",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-04T15:45:35.233851+00:00",
+      "resolved_price": 341.34,
+      "pnl_pct": 2.0,
+      "invested_eur": ""
+    },
     {
       "id": "DELL_2026-08-04T06:30:35.328779+00:00",
       "symbol": "DELL",
@@ -20,8 +34,8 @@
       "target_2": "492.39",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-04T15:30:42.356536+00:00",
-      "resolved_price": 462.95,
-      "pnl_pct": 7.91,
+      "resolved_price": "462.95",
+      "pnl_pct": "7.91",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
       "resolved_price": "149.4",
       "pnl_pct": "-3.29",
-      "invested_eur": ""
-    },
-    {
-      "id": "ARES_2026-08-03T16:15:34.670006+00:00",
-      "symbol": "ARES",
-      "opened_at": "2026-08-03T16:15:34.670006+00:00",
-      "entry": "134.38",
-      "stop_loss": "131.01",
-      "target_1": "139.44",
-      "target_2": "144.49",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": "140.16",
-      "pnl_pct": "4.3",
       "invested_eur": ""
     }
   ]
