@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T15:00:53.580393+00:00",
-  "total_closed": 143,
-  "wins": 74,
+  "updated": "2026-08-04T15:15:31.693211+00:00",
+  "total_closed": 144,
+  "wins": 75,
   "losses": 69,
   "win_rate": 52,
-  "avg_win": 2.5,
+  "avg_win": 2.49,
   "avg_loss": -1.56,
   "expectancy": 0.55,
-  "total_pnl": 77.18,
+  "total_pnl": 79.56,
   "still_open": 15,
   "recent": [
+    {
+      "id": "MU_2026-08-04T13:30:44.989795+00:00",
+      "symbol": "MU",
+      "opened_at": "2026-08-04T13:30:44.989795+00:00",
+      "entry": "871.61",
+      "stop_loss": "861.88",
+      "target_1": "886.2",
+      "target_2": "900.79",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-04T15:15:31.693211+00:00",
+      "resolved_price": 892.36,
+      "pnl_pct": 2.38,
+      "invested_eur": ""
+    },
     {
       "id": "DAL_2026-08-03T14:45:34.559794+00:00",
       "symbol": "DAL",
@@ -20,8 +34,8 @@
       "target_2": "95.78",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-04T15:00:53.580393+00:00",
-      "resolved_price": 92.55,
-      "pnl_pct": 0.87,
+      "resolved_price": "92.55",
+      "pnl_pct": "0.87",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "643.39",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-04T15:00:53.580393+00:00",
-      "resolved_price": 581.62,
-      "pnl_pct": -1.51,
+      "resolved_price": "581.62",
+      "pnl_pct": "-1.51",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
       "resolved_price": "174.29",
       "pnl_pct": "2.6",
-      "invested_eur": ""
-    },
-    {
-      "id": "GOOGL_2026-08-03T15:45:31.339279+00:00",
-      "symbol": "GOOGL",
-      "opened_at": "2026-08-03T15:45:31.339279+00:00",
-      "entry": "375.36",
-      "stop_loss": "369.21",
-      "target_1": "384.59",
-      "target_2": "393.82",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-04T13:30:44.989795+00:00",
-      "resolved_price": "368.28",
-      "pnl_pct": "-1.89",
       "invested_eur": ""
     }
   ]
