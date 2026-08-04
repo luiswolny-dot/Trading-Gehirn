@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T14:15:36.776457+00:00",
+  "updated": "2026-08-04T14:30:37.288345+00:00",
   "total_closed": 139,
   "wins": 72,
   "losses": 67,
@@ -8,7 +8,7 @@
   "avg_loss": -1.55,
   "expectancy": 0.57,
   "total_pnl": 77.92,
-  "still_open": 17,
+  "still_open": 19,
   "recent": [
     {
       "id": "UAL_2026-08-03T14:00:46.999814+00:00",
