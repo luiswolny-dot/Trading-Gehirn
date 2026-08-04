@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T19:15:30.513950+00:00",
-  "total_closed": 151,
-  "wins": 81,
+  "updated": "2026-08-04T19:30:41.655685+00:00",
+  "total_closed": 152,
+  "wins": 82,
   "losses": 70,
   "win_rate": 54,
-  "avg_win": 2.7,
+  "avg_win": 2.77,
   "avg_loss": -1.58,
-  "expectancy": 0.73,
-  "total_pnl": 107.68,
-  "still_open": 12,
+  "expectancy": 0.77,
+  "total_pnl": 116.76,
+  "still_open": 14,
   "recent": [
+    {
+      "id": "IT_2026-08-04T14:30:37.288345+00:00",
+      "symbol": "IT",
+      "opened_at": "2026-08-04T14:30:37.288345+00:00",
+      "entry": "175.25",
+      "stop_loss": "164.95",
+      "target_1": "190.7",
+      "target_2": "206.15",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-04T19:30:41.655685+00:00",
+      "resolved_price": 191.16,
+      "pnl_pct": 9.08,
+      "invested_eur": ""
+    },
     {
       "id": "KKR_2026-08-03T18:45:27.639088+00:00",
       "symbol": "KKR",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T15:00:53.580393+00:00",
       "resolved_price": "92.55",
       "pnl_pct": "0.87",
-      "invested_eur": ""
-    },
-    {
-      "id": "META_2026-08-03T15:00:47.032199+00:00",
-      "symbol": "META",
-      "opened_at": "2026-08-03T15:00:47.032199+00:00",
-      "entry": "590.53",
-      "stop_loss": "572.91",
-      "target_1": "616.96",
-      "target_2": "643.39",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-04T15:00:53.580393+00:00",
-      "resolved_price": "581.62",
-      "pnl_pct": "-1.51",
       "invested_eur": ""
     }
   ]
