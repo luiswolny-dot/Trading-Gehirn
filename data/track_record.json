@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T18:30:43.257745+00:00",
-  "total_closed": 150,
-  "wins": 80,
+  "updated": "2026-08-04T18:45:34.534508+00:00",
+  "total_closed": 151,
+  "wins": 81,
   "losses": 70,
-  "win_rate": 53,
-  "avg_win": 2.72,
+  "win_rate": 54,
+  "avg_win": 2.7,
   "avg_loss": -1.58,
-  "expectancy": 0.7,
-  "total_pnl": 106.68,
-  "still_open": 12,
+  "expectancy": 0.73,
+  "total_pnl": 107.68,
+  "still_open": 11,
   "recent": [
+    {
+      "id": "KKR_2026-08-03T18:45:27.639088+00:00",
+      "symbol": "KKR",
+      "opened_at": "2026-08-03T18:45:27.639088+00:00",
+      "entry": "106.69",
+      "stop_loss": "104.63",
+      "target_1": "109.78",
+      "target_2": "112.87",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-04T18:45:34.534508+00:00",
+      "resolved_price": 107.76,
+      "pnl_pct": 1.0,
+      "invested_eur": ""
+    },
     {
       "id": "SNDK_2026-08-03T18:15:34.022065+00:00",
       "symbol": "SNDK",
@@ -20,8 +34,8 @@
       "target_2": "1593.61",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-04T18:30:43.257745+00:00",
-      "resolved_price": 1434.02,
-      "pnl_pct": 10.24,
+      "resolved_price": "1434.02",
+      "pnl_pct": "10.24",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T15:00:53.580393+00:00",
       "resolved_price": "581.62",
       "pnl_pct": "-1.51",
-      "invested_eur": ""
-    },
-    {
-      "id": "FSLR_2026-08-03T14:30:37.449467+00:00",
-      "symbol": "FSLR",
-      "opened_at": "2026-08-03T14:30:37.449467+00:00",
-      "entry": "240.8",
-      "stop_loss": "226.81",
-      "target_1": "261.78",
-      "target_2": "282.75",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-04T14:45:26.946717+00:00",
-      "resolved_price": "235.42",
-      "pnl_pct": "-2.23",
       "invested_eur": ""
     }
   ]
