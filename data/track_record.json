@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T18:45:34.534508+00:00",
+  "updated": "2026-08-04T19:00:54.479222+00:00",
   "total_closed": 151,
   "wins": 81,
   "losses": 70,
@@ -8,7 +8,7 @@
   "avg_loss": -1.58,
   "expectancy": 0.73,
   "total_pnl": 107.68,
-  "still_open": 11,
+  "still_open": 12,
   "recent": [
     {
       "id": "KKR_2026-08-03T18:45:27.639088+00:00",
@@ -20,8 +20,8 @@
       "target_2": "112.87",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-04T18:45:34.534508+00:00",
-      "resolved_price": 107.76,
-      "pnl_pct": 1.0,
+      "resolved_price": "107.76",
+      "pnl_pct": "1.0",
       "invested_eur": ""
     },
     {
