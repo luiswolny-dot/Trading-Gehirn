@@ -17,6 +17,7 @@ Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 - [[IT]] — Score 82%
 - [[INTC]] — Score 82%
 - [[CLX]] — Score 82%
+- [[TEL]] — Score 82%
 - [[AOS]] — Score 82%
 - [[AKAM]] — Score 82%
 - [[COHR]] — Score 82%
@@ -31,5 +32,4 @@ Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 - [[RMD]] — Score 81%
 - [[LDOS]] — Score 80%
 - [[QCOM]] — Score 80%
-- [[TEL]] — Score 80%
 - [[BLDR]] — Score 80%
