@@ -19,6 +19,7 @@ Trefferquote: 51% über 129 abgeschlossene Empfehlungen.
 - [[GRMN]] — Score 80%
 - [[META]] — Score 80%
 - [[TSCO]] — Score 80%
+- [[VRT]] — Score 79%
 - [[CEG]] — Score 79%
 - [[DAL]] — Score 79%
 - [[EMR]] — Score 79%
@@ -32,4 +33,3 @@ Trefferquote: 51% über 129 abgeschlossene Empfehlungen.
 - [[ORCL]] — Score 78%
 - [[EW]] — Score 78%
 - [[MRVL]] — Score 78%
-- [[QCOM]] — Score 78%
