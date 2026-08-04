@@ -3,10 +3,17 @@
 Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[CHRW]] — Score 84%
+- [[MU]] — Score 84%
+- [[PANW]] — Score 84%
 - [[SMCI]] — Score 83%
-- [[MU]] — Score 83%
+- [[SNDK]] — Score 83%
+- [[AVGO]] — Score 83%
+- [[CSCO]] — Score 83%
+- [[LITE]] — Score 83%
 - [[NUE]] — Score 83%
 - [[NXPI]] — Score 83%
+- [[SBAC]] — Score 83%
 - [[IT]] — Score 82%
 - [[INTC]] — Score 82%
 - [[CLX]] — Score 82%
@@ -21,15 +28,8 @@ Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 - [[IBM]] — Score 81%
 - [[JCI]] — Score 81%
 - [[MOS]] — Score 81%
+- [[RMD]] — Score 81%
 - [[LDOS]] — Score 80%
 - [[QCOM]] — Score 80%
+- [[TEL]] — Score 80%
 - [[BLDR]] — Score 80%
-- [[CDW]] — Score 80%
-- [[ADI]] — Score 79%
-- [[CTVA]] — Score 79%
-- [[ERIE]] — Score 79%
-- [[FAST]] — Score 79%
-- [[HONA]] — Score 79%
-- [[KEYS]] — Score 79%
-- [[GNRC]] — Score 78%
-- [[AMAT]] — Score 78%
