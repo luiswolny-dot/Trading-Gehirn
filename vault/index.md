@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 51% über 129 abgeschlossene Empfehlungen.
+Trefferquote: 52% über 130 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[LII]] — Score 82%
