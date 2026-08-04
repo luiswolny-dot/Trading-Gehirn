@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T15:15:31.693211+00:00",
-  "total_closed": 144,
-  "wins": 75,
+  "updated": "2026-08-04T15:30:42.356536+00:00",
+  "total_closed": 145,
+  "wins": 76,
   "losses": 69,
   "win_rate": 52,
-  "avg_win": 2.49,
+  "avg_win": 2.57,
   "avg_loss": -1.56,
-  "expectancy": 0.55,
-  "total_pnl": 79.56,
-  "still_open": 15,
+  "expectancy": 0.59,
+  "total_pnl": 87.47,
+  "still_open": 14,
   "recent": [
+    {
+      "id": "DELL_2026-08-04T06:30:35.328779+00:00",
+      "symbol": "DELL",
+      "opened_at": "2026-08-04T06:30:35.328779+00:00",
+      "entry": "429.02",
+      "stop_loss": "407.89",
+      "target_1": "460.71",
+      "target_2": "492.39",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-04T15:30:42.356536+00:00",
+      "resolved_price": 462.95,
+      "pnl_pct": 7.91,
+      "invested_eur": ""
+    },
     {
       "id": "MU_2026-08-04T13:30:44.989795+00:00",
       "symbol": "MU",
@@ -20,8 +34,8 @@
       "target_2": "900.79",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-04T15:15:31.693211+00:00",
-      "resolved_price": 892.36,
-      "pnl_pct": 2.38,
+      "resolved_price": "892.36",
+      "pnl_pct": "2.38",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
       "resolved_price": "140.16",
       "pnl_pct": "4.3",
-      "invested_eur": ""
-    },
-    {
-      "id": "BR_2026-08-04T13:30:44.989795+00:00",
-      "symbol": "BR",
-      "opened_at": "2026-08-04T13:30:44.989795+00:00",
-      "entry": "169.88",
-      "stop_loss": "167.36",
-      "target_1": "173.66",
-      "target_2": "177.45",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": "174.29",
-      "pnl_pct": "2.6",
       "invested_eur": ""
     }
   ]
