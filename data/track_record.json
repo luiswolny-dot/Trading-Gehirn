@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T13:45:27.792583+00:00",
-  "total_closed": 138,
-  "wins": 71,
+  "updated": "2026-08-04T14:00:49.032750+00:00",
+  "total_closed": 139,
+  "wins": 72,
   "losses": 67,
-  "win_rate": 51,
-  "avg_win": 2.54,
+  "win_rate": 52,
+  "avg_win": 2.52,
   "avg_loss": -1.55,
-  "expectancy": 0.54,
-  "total_pnl": 76.18,
-  "still_open": 17,
+  "expectancy": 0.57,
+  "total_pnl": 77.92,
+  "still_open": 16,
   "recent": [
+    {
+      "id": "UAL_2026-08-03T14:00:46.999814+00:00",
+      "symbol": "UAL",
+      "opened_at": "2026-08-03T14:00:46.999814+00:00",
+      "entry": "129.23",
+      "stop_loss": "126.97",
+      "target_1": "132.63",
+      "target_2": "136.02",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-04T14:00:49.032750+00:00",
+      "resolved_price": 131.48,
+      "pnl_pct": 1.74,
+      "invested_eur": ""
+    },
     {
       "id": "MSFT_2026-08-03T13:45:25.448595+00:00",
       "symbol": "MSFT",
@@ -20,8 +34,8 @@
       "target_2": "516.29",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": 486.14,
-      "pnl_pct": -0.42,
+      "resolved_price": "486.14",
+      "pnl_pct": "-0.42",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "168.12",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": 149.4,
-      "pnl_pct": -3.29,
+      "resolved_price": "149.4",
+      "pnl_pct": "-3.29",
       "invested_eur": ""
     },
     {
@@ -48,8 +62,8 @@
       "target_2": "144.49",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": 140.16,
-      "pnl_pct": 4.3,
+      "resolved_price": "140.16",
+      "pnl_pct": "4.3",
       "invested_eur": ""
     },
     {
@@ -62,8 +76,8 @@
       "target_2": "177.45",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": 174.29,
-      "pnl_pct": 2.6,
+      "resolved_price": "174.29",
+      "pnl_pct": "2.6",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T10:15:26.190087+00:00",
       "resolved_price": "87.31",
       "pnl_pct": "4.63",
-      "invested_eur": ""
-    },
-    {
-      "id": "ADP_2026-08-03T13:30:43.499223+00:00",
-      "symbol": "ADP",
-      "opened_at": "2026-08-03T13:30:43.499223+00:00",
-      "entry": "273.22",
-      "stop_loss": "270.85",
-      "target_1": "276.78",
-      "target_2": "280.35",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-03T14:45:34.559794+00:00",
-      "resolved_price": "270.45",
-      "pnl_pct": "-1.01",
       "invested_eur": ""
     }
   ]

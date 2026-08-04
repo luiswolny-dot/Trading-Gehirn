@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 51% über 138 abgeschlossene Empfehlungen.
+Trefferquote: 52% über 139 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[SNDK]] — Score 82%
-- [[MU]] — Score 82%
-- [[BR]] — Score 80%
-- [[WSM]] — Score 80%
-- [[ZBRA]] — Score 78%
-- [[VRTX]] — Score 78%
-- [[CLX]] — Score 77%
-- [[CAT]] — Score 76%
-- [[NXPI]] — Score 76%
+- [[BR]] — Score 81%
+- [[MU]] — Score 80%
+- [[ZBRA]] — Score 79%
+- [[SNDK]] — Score 78%
+- [[JBL]] — Score 76%
 - [[TER]] — Score 75%
-- [[LRCX]] — Score 75%
-- [[AMD]] — Score 75%
-- [[TXN]] — Score 75%
+- [[LDOS]] — Score 75%
+- [[SNPS]] — Score 75%
+- [[VEEV]] — Score 75%
 - [[PLTR]] — Score 74%
 - [[QCOM]] — Score 74%
-- [[CSCO]] — Score 74%
-- [[SNPS]] — Score 74%
-- [[ADI]] — Score 73%
-- [[FFIV]] — Score 73%
-- [[MGM]] — Score 73%
-- [[TPL]] — Score 73%
-- [[TSCO]] — Score 73%
-- [[CRWD]] — Score 72%
-- [[DELL]] — Score 72%
-- [[TPR]] — Score 72%
-- [[AVGO]] — Score 71%
-- [[HSIC]] — Score 71%
-- [[LYV]] — Score 71%
-- [[KLAC]] — Score 70%
-- [[FTNT]] — Score 70%
+- [[AMGN]] — Score 74%
+- [[ADI]] — Score 74%
+- [[CHRW]] — Score 74%
+- [[C]] — Score 74%
+- [[FCX]] — Score 74%
+- [[MGM]] — Score 74%
+- [[NTAP]] — Score 74%
+- [[NXPI]] — Score 74%
+- [[TXN]] — Score 74%
+- [[TRMB]] — Score 74%
+- [[LRCX]] — Score 73%
+- [[CPAY]] — Score 73%
+- [[EBAY]] — Score 73%
+- [[MSFT]] — Score 73%
+- [[COHR]] — Score 72%
+- [[AMD]] — Score 72%
+- [[BSX]] — Score 72%
+- [[DHI]] — Score 72%
+- [[GEN]] — Score 72%
