@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T11:15:27.008033+00:00",
+  "timestamp": "2026-08-04T11:30:35.689724+00:00",
   "picks": [
     {
       "symbol": "FSLR",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-04T11:15:27.008033+00:00",
+      "timestamp": "2026-08-04T11:30:35.689724+00:00",
       "fundamental_score": 79,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-04T11:15:27.008033+00:00",
+      "timestamp": "2026-08-04T11:30:35.689724+00:00",
       "fundamental_score": 84,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-04T11:15:27.008033+00:00",
+      "timestamp": "2026-08-04T11:30:35.689724+00:00",
       "fundamental_score": 63,
       "news_score": 100,
       "momentum_quality": 50
