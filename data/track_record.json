@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-04T16:45:34.806496+00:00",
-  "total_closed": 146,
+  "updated": "2026-08-04T17:00:48.889087+00:00",
+  "total_closed": 147,
   "wins": 77,
-  "losses": 69,
-  "win_rate": 53,
+  "losses": 70,
+  "win_rate": 52,
   "avg_win": 2.56,
-  "avg_loss": -1.56,
-  "expectancy": 0.62,
-  "total_pnl": 89.47,
-  "still_open": 13,
+  "avg_loss": -1.58,
+  "expectancy": 0.57,
+  "total_pnl": 86.34,
+  "still_open": 12,
   "recent": [
+    {
+      "id": "BR_2026-08-04T13:45:27.792583+00:00",
+      "symbol": "BR",
+      "opened_at": "2026-08-04T13:45:27.792583+00:00",
+      "entry": "173.74",
+      "stop_loss": "168.77",
+      "target_1": "181.19",
+      "target_2": "188.65",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-04T17:00:48.889087+00:00",
+      "resolved_price": 168.31,
+      "pnl_pct": -3.13,
+      "invested_eur": ""
+    },
     {
       "id": "JBL_2026-08-04T14:15:36.776457+00:00",
       "symbol": "JBL",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T13:45:27.792583+00:00",
       "resolved_price": "486.14",
       "pnl_pct": "-0.42",
-      "invested_eur": ""
-    },
-    {
-      "id": "VST_2026-08-03T16:15:34.670006+00:00",
-      "symbol": "VST",
-      "opened_at": "2026-08-03T16:15:34.670006+00:00",
-      "entry": "154.48",
-      "stop_loss": "149.93",
-      "target_1": "161.3",
-      "target_2": "168.12",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-04T13:45:27.792583+00:00",
-      "resolved_price": "149.4",
-      "pnl_pct": "-3.29",
       "invested_eur": ""
     }
   ]
