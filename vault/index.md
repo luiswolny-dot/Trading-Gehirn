@@ -30,6 +30,6 @@ Trefferquote: 51% über 129 abgeschlossene Empfehlungen.
 - [[WSM]] — Score 79%
 - [[ZBH]] — Score 79%
 - [[ORCL]] — Score 78%
-- [[ARES]] — Score 78%
 - [[EW]] — Score 78%
 - [[MRVL]] — Score 78%
+- [[QCOM]] — Score 78%
