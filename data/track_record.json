@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-05T17:45:27.813626+00:00",
-  "total_closed": 164,
+  "updated": "2026-08-05T18:00:52.663908+00:00",
+  "total_closed": 165,
   "wins": 88,
-  "losses": 76,
-  "win_rate": 54,
+  "losses": 77,
+  "win_rate": 53,
   "avg_win": 2.76,
   "avg_loss": -1.59,
-  "expectancy": 0.76,
-  "total_pnl": 121.82,
-  "still_open": 17,
+  "expectancy": 0.72,
+  "total_pnl": 120.53,
+  "still_open": 16,
   "recent": [
+    {
+      "id": "SMCI_2026-08-04T18:00:50.363373+00:00",
+      "symbol": "SMCI",
+      "opened_at": "2026-08-04T18:00:50.363373+00:00",
+      "entry": "31.78",
+      "stop_loss": "30.43",
+      "target_1": "33.81",
+      "target_2": "35.84",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-05T18:00:52.663908+00:00",
+      "resolved_price": 31.37,
+      "pnl_pct": -1.29,
+      "invested_eur": ""
+    },
     {
       "id": "JBL_2026-08-04T17:30:35.926553+00:00",
       "symbol": "JBL",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-05T08:45:26.167157+00:00",
       "resolved_price": "89.46",
       "pnl_pct": "1.91",
-      "invested_eur": ""
-    },
-    {
-      "id": "BAX_2026-08-04T06:30:35.328779+00:00",
-      "symbol": "BAX",
-      "opened_at": "2026-08-04T06:30:35.328779+00:00",
-      "entry": "28.1",
-      "stop_loss": "27.4",
-      "target_1": "29.15",
-      "target_2": "30.2",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-05T06:45:31.170976+00:00",
-      "resolved_price": "28.35",
-      "pnl_pct": "0.89",
       "invested_eur": ""
     }
   ]
