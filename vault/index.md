@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 55% über 155 abgeschlossene Empfehlungen.
+Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[CHRW]] — Score 84%
