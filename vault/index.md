@@ -3,7 +3,6 @@
 Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[CHRW]] — Score 84%
 - [[MU]] — Score 84%
 - [[PANW]] — Score 84%
 - [[SMCI]] — Score 83%
@@ -19,6 +18,7 @@ Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 - [[CLX]] — Score 82%
 - [[TEL]] — Score 82%
 - [[AOS]] — Score 82%
+- [[AKAM]] — Score 82%
 - [[COHR]] — Score 82%
 - [[DDOG]] — Score 82%
 - [[EXPE]] — Score 82%
