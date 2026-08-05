@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:30:46.465581+00:00",
+  "updated": "2026-08-05T17:45:27.813626+00:00",
   "total_closed": 164,
   "wins": 88,
   "losses": 76,
@@ -8,7 +8,7 @@
   "avg_loss": -1.59,
   "expectancy": 0.76,
   "total_pnl": 121.82,
-  "still_open": 16,
+  "still_open": 17,
   "recent": [
     {
       "id": "JBL_2026-08-04T17:30:35.926553+00:00",
@@ -20,8 +20,8 @@
       "target_2": "370.24",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-05T17:30:46.465581+00:00",
-      "resolved_price": 344.5,
-      "pnl_pct": -0.04,
+      "resolved_price": "344.5",
+      "pnl_pct": "-0.04",
       "invested_eur": ""
     },
     {
