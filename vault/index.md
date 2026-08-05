@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 53% über 169 abgeschlossene Empfehlungen.
+Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[MCK]] — Score 83%
-- [[NEM]] — Score 79%
-- [[MAR]] — Score 78%
-- [[BKNG]] — Score 78%
-- [[HD]] — Score 78%
+- [[MCK]] — Score 84%
+- [[MAR]] — Score 79%
 - [[HLT]] — Score 76%
-- [[ELV]] — Score 76%
+- [[ELV]] — Score 75%
 - [[TMO]] — Score 75%
-- [[TJX]] — Score 74%
-- [[TT]] — Score 74%
-- [[AIZ]] — Score 73%
+- [[AIZ]] — Score 74%
 - [[SHW]] — Score 73%
-- [[INTC]] — Score 73%
-- [[EMR]] — Score 73%
-- [[HUBB]] — Score 73%
-- [[MKC]] — Score 73%
-- [[MDLZ]] — Score 73%
-- [[ADSK]] — Score 72%
-- [[BLDR]] — Score 72%
-- [[DLR]] — Score 72%
-- [[DHI]] — Score 72%
-- [[DD]] — Score 72%
-- [[ITW]] — Score 72%
-- [[ISRG]] — Score 72%
-- [[NVR]] — Score 72%
-- [[PHM]] — Score 72%
+- [[NOC]] — Score 73%
+- [[AVY]] — Score 72%
+- [[CB]] — Score 72%
+- [[KVUE]] — Score 72%
+- [[NEM]] — Score 72%
+- [[VLTO]] — Score 72%
 - [[NKE]] — Score 71%
 - [[PFE]] — Score 71%
-- [[AES]] — Score 71%
-- [[A]] — Score 71%
+- [[BKNG]] — Score 71%
+- [[FICO]] — Score 71%
+- [[KMB]] — Score 71%
+- [[MOS]] — Score 71%
+- [[NWSA]] — Score 71%
+- [[RTX]] — Score 71%
+- [[CAH]] — Score 70%
+- [[DD]] — Score 70%
+- [[AMGN]] — Score 70%
+- [[CPT]] — Score 70%
+- [[CLX]] — Score 70%
+- [[DHR]] — Score 70%
+- [[DRI]] — Score 70%
+- [[DASH]] — Score 70%
+- [[HCA]] — Score 70%

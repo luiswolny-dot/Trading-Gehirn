@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-05T19:45:37.394084+00:00",
-  "total_closed": 169,
-  "wins": 89,
-  "losses": 80,
+  "updated": "2026-08-05T20:00:49.393558+00:00",
+  "total_closed": 171,
+  "wins": 90,
+  "losses": 81,
   "win_rate": 53,
   "avg_win": 2.74,
-  "avg_loss": -1.61,
-  "expectancy": 0.7,
-  "total_pnl": 114.91,
-  "still_open": 13,
+  "avg_loss": -1.63,
+  "expectancy": 0.69,
+  "total_pnl": 114.64,
+  "still_open": 12,
   "recent": [
+    {
+      "id": "MCK_2026-08-05T13:30:41.825354+00:00",
+      "symbol": "MCK",
+      "opened_at": "2026-08-05T13:30:41.825354+00:00",
+      "entry": "855.07",
+      "stop_loss": "843.99",
+      "target_1": "871.7",
+      "target_2": "888.33",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-05T20:00:49.393558+00:00",
+      "resolved_price": 877.76,
+      "pnl_pct": 2.65,
+      "invested_eur": ""
+    },
+    {
+      "id": "MU_2026-08-05T15:30:35.412454+00:00",
+      "symbol": "MU",
+      "opened_at": "2026-08-05T15:30:35.412454+00:00",
+      "entry": "919.04",
+      "stop_loss": "896.59",
+      "target_1": "952.71",
+      "target_2": "986.38",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-05T20:00:49.393558+00:00",
+      "resolved_price": 892.2,
+      "pnl_pct": -2.92,
+      "invested_eur": ""
+    },
     {
       "id": "IT_2026-08-04T19:30:41.655685+00:00",
       "symbol": "IT",
@@ -20,8 +48,8 @@
       "target_2": "245.18",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-05T19:45:37.394084+00:00",
-      "resolved_price": 186.65,
-      "pnl_pct": -2.18,
+      "resolved_price": "186.65",
+      "pnl_pct": "-2.18",
       "invested_eur": ""
     },
     {
@@ -34,8 +62,8 @@
       "target_2": "114.81",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-05T19:45:37.394084+00:00",
-      "resolved_price": 105.51,
-      "pnl_pct": 0.89,
+      "resolved_price": "105.51",
+      "pnl_pct": "0.89",
       "invested_eur": ""
     },
     {
@@ -120,34 +148,6 @@
       "resolved_at": "2026-08-05T15:30:35.412454+00:00",
       "resolved_price": "918.25",
       "pnl_pct": "2.8",
-      "invested_eur": ""
-    },
-    {
-      "id": "QCOM_2026-08-04T19:30:41.655685+00:00",
-      "symbol": "QCOM",
-      "opened_at": "2026-08-04T19:30:41.655685+00:00",
-      "entry": "163.34",
-      "stop_loss": "159.21",
-      "target_1": "169.53",
-      "target_2": "175.72",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-05T14:45:29.864940+00:00",
-      "resolved_price": "158.56",
-      "pnl_pct": "-2.93",
-      "invested_eur": ""
-    },
-    {
-      "id": "INTC_2026-08-04T14:30:37.288345+00:00",
-      "symbol": "INTC",
-      "opened_at": "2026-08-04T14:30:37.288345+00:00",
-      "entry": "99.31",
-      "stop_loss": "96.45",
-      "target_1": "103.59",
-      "target_2": "107.88",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-05T14:30:38.343282+00:00",
-      "resolved_price": "99.17",
-      "pnl_pct": "-0.14",
       "invested_eur": ""
     }
   ]
