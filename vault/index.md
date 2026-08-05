@@ -5,9 +5,10 @@ Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[MCK]] — Score 84%
 - [[MAR]] — Score 79%
+- [[TMO]] — Score 77%
 - [[HLT]] — Score 76%
 - [[ELV]] — Score 75%
-- [[TMO]] — Score 75%
+- [[PFE]] — Score 75%
 - [[AIZ]] — Score 74%
 - [[SHW]] — Score 73%
 - [[NOC]] — Score 73%
@@ -17,7 +18,6 @@ Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 - [[NEM]] — Score 72%
 - [[VLTO]] — Score 72%
 - [[NKE]] — Score 71%
-- [[PFE]] — Score 71%
 - [[BKNG]] — Score 71%
 - [[FICO]] — Score 71%
 - [[KMB]] — Score 71%
