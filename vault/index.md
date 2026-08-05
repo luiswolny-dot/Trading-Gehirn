@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 54% über 161 abgeschlossene Empfehlungen.
+Trefferquote: 54% über 162 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[NEM]] — Score 82%
-- [[MU]] — Score 78%
+- [[NEM]] — Score 81%
+- [[MU]] — Score 79%
 - [[MAR]] — Score 76%
-- [[WYNN]] — Score 75%
+- [[UNH]] — Score 76%
+- [[GNRC]] — Score 75%
+- [[HLT]] — Score 75%
+- [[DHR]] — Score 75%
+- [[PHM]] — Score 75%
+- [[VRT]] — Score 74%
 - [[ELV]] — Score 74%
-- [[DHR]] — Score 74%
-- [[PHM]] — Score 74%
-- [[HLT]] — Score 73%
-- [[VRT]] — Score 72%
-- [[GDDY]] — Score 72%
-- [[CRL]] — Score 70%
-- [[CNC]] — Score 70%
+- [[CMI]] — Score 74%
+- [[CNC]] — Score 72%
+- [[TMO]] — Score 72%
+- [[TT]] — Score 72%
+- [[EMR]] — Score 71%
+- [[PLD]] — Score 71%
+- [[LEN]] — Score 71%
+- [[PNR]] — Score 71%
 - [[STX]] — Score 70%
-- [[AIZ]] — Score 70%
-- [[EMR]] — Score 70%
-- [[AMGN]] — Score 70%
-- [[PLD]] — Score 70%
-- [[TECH]] — Score 69%
-- [[RVTY]] — Score 69%
-- [[UNH]] — Score 69%
-- [[DD]] — Score 68%
-- [[IFF]] — Score 68%
-- [[SCHW]] — Score 67%
-- [[GNRC]] — Score 67%
-- [[TT]] — Score 67%
-- [[A]] — Score 66%
-- [[DRI]] — Score 66%
-- [[RL]] — Score 66%
-- [[YUM]] — Score 65%
-- [[LVS]] — Score 65%
+- [[DHI]] — Score 70%
+- [[DD]] — Score 70%
+- [[IFF]] — Score 70%
+- [[WYNN]] — Score 70%
+- [[CRL]] — Score 69%
+- [[AIZ]] — Score 69%
+- [[RVTY]] — Score 68%
+- [[HD]] — Score 68%
+- [[IP]] — Score 68%
+- [[MAS]] — Score 68%
+- [[AMGN]] — Score 67%
