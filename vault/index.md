@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
+Trefferquote: 55% über 158 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[BKNG]] — Score 84%
-- [[WYNN]] — Score 82%
-- [[MCK]] — Score 81%
-- [[COR]] — Score 79%
-- [[GILD]] — Score 79%
-- [[MAR]] — Score 77%
-- [[LLY]] — Score 76%
-- [[J]] — Score 76%
-- [[IT]] — Score 75%
-- [[EME]] — Score 75%
-- [[NVDA]] — Score 74%
-- [[XYZ]] — Score 73%
-- [[BNY]] — Score 73%
-- [[CTVA]] — Score 73%
-- [[F]] — Score 73%
-- [[LULU]] — Score 73%
-- [[ROK]] — Score 73%
-- [[STT]] — Score 73%
-- [[HPE]] — Score 72%
-- [[BIIB]] — Score 72%
-- [[AVGO]] — Score 72%
-- [[BG]] — Score 72%
-- [[CBRE]] — Score 72%
-- [[CRL]] — Score 72%
-- [[FIX]] — Score 72%
-- [[DD]] — Score 72%
-- [[EW]] — Score 72%
-- [[HLT]] — Score 72%
-- [[MGM]] — Score 72%
-- [[WST]] — Score 72%
+- [[WYNN]] — Score 83%
+- [[BG]] — Score 81%
+- [[MU]] — Score 80%
+- [[CMI]] — Score 76%
+- [[MRNA]] — Score 75%
+- [[CTVA]] — Score 75%
+- [[VRT]] — Score 74%
+- [[DAL]] — Score 74%
+- [[JBL]] — Score 74%
+- [[PWR]] — Score 74%
+- [[WELL]] — Score 74%
+- [[YUM]] — Score 74%
+- [[FCX]] — Score 73%
+- [[KLAC]] — Score 73%
+- [[GNRC]] — Score 73%
+- [[TT]] — Score 73%
+- [[ADBE]] — Score 73%
+- [[ADM]] — Score 73%
+- [[HPE]] — Score 73%
+- [[HWM]] — Score 73%
+- [[INTC]] — Score 73%
+- [[MOS]] — Score 73%
+- [[PH]] — Score 73%
+- [[LUV]] — Score 73%
+- [[URI]] — Score 73%
+- [[VMC]] — Score 73%
+- [[AMGN]] — Score 72%
+- [[EMR]] — Score 72%
+- [[ROK]] — Score 72%
+- [[LRCX]] — Score 72%
