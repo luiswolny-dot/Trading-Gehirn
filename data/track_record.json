@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-05T14:30:38.343282+00:00",
-  "total_closed": 160,
+  "updated": "2026-08-05T14:45:29.864940+00:00",
+  "total_closed": 161,
   "wins": 87,
-  "losses": 73,
+  "losses": 74,
   "win_rate": 54,
   "avg_win": 2.76,
-  "avg_loss": -1.57,
-  "expectancy": 0.77,
-  "total_pnl": 125.58,
+  "avg_loss": -1.59,
+  "expectancy": 0.76,
+  "total_pnl": 122.65,
   "still_open": 13,
   "recent": [
+    {
+      "id": "QCOM_2026-08-04T19:30:41.655685+00:00",
+      "symbol": "QCOM",
+      "opened_at": "2026-08-04T19:30:41.655685+00:00",
+      "entry": "163.34",
+      "stop_loss": "159.21",
+      "target_1": "169.53",
+      "target_2": "175.72",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-05T14:45:29.864940+00:00",
+      "resolved_price": 158.56,
+      "pnl_pct": -2.93,
+      "invested_eur": ""
+    },
     {
       "id": "INTC_2026-08-04T14:30:37.288345+00:00",
       "symbol": "INTC",
@@ -20,8 +34,8 @@
       "target_2": "107.88",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-05T14:30:38.343282+00:00",
-      "resolved_price": 99.17,
-      "pnl_pct": -0.14,
+      "resolved_price": "99.17",
+      "pnl_pct": "-0.14",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "114.76",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-05T14:30:38.343282+00:00",
-      "resolved_price": 110.04,
-      "pnl_pct": -1.19,
+      "resolved_price": "110.04",
+      "pnl_pct": "-1.19",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-04T19:30:41.655685+00:00",
       "resolved_price": "191.16",
       "pnl_pct": "9.08",
-      "invested_eur": ""
-    },
-    {
-      "id": "KKR_2026-08-03T18:45:27.639088+00:00",
-      "symbol": "KKR",
-      "opened_at": "2026-08-03T18:45:27.639088+00:00",
-      "entry": "106.69",
-      "stop_loss": "104.63",
-      "target_1": "109.78",
-      "target_2": "112.87",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-04T18:45:34.534508+00:00",
-      "resolved_price": "107.76",
-      "pnl_pct": "1.0",
       "invested_eur": ""
     }
   ]

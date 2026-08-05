@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 54% über 160 abgeschlossene Empfehlungen.
+Trefferquote: 54% über 161 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[WYNN]] — Score 83%
 - [[NEM]] — Score 80%
+- [[SYY]] — Score 79%
 - [[MAR]] — Score 78%
-- [[BKNG]] — Score 78%
-- [[ORLY]] — Score 76%
-- [[RL]] — Score 76%
+- [[RL]] — Score 78%
+- [[BKNG]] — Score 77%
 - [[HLT]] — Score 75%
-- [[DHR]] — Score 75%
-- [[TMO]] — Score 75%
-- [[SCHW]] — Score 74%
-- [[DECK]] — Score 74%
-- [[UAL]] — Score 74%
-- [[WELL]] — Score 74%
-- [[AMGN]] — Score 73%
-- [[AJG]] — Score 73%
-- [[BNY]] — Score 73%
-- [[CPT]] — Score 73%
-- [[CCL]] — Score 73%
-- [[DASH]] — Score 73%
-- [[DD]] — Score 73%
-- [[FCX]] — Score 73%
-- [[TPR]] — Score 73%
-- [[WMT]] — Score 73%
-- [[MRK]] — Score 72%
-- [[MCD]] — Score 72%
-- [[ALLE]] — Score 72%
-- [[AON]] — Score 72%
-- [[CNC]] — Score 72%
-- [[CB]] — Score 72%
+- [[AMGN]] — Score 74%
+- [[ELV]] — Score 74%
 - [[DAL]] — Score 72%
+- [[CBOE]] — Score 72%
+- [[SCHW]] — Score 72%
+- [[DHR]] — Score 72%
+- [[EMR]] — Score 72%
+- [[RVTY]] — Score 72%
+- [[LUV]] — Score 72%
+- [[MRK]] — Score 71%
+- [[IQV]] — Score 71%
+- [[TMO]] — Score 71%
+- [[VLTO]] — Score 71%
+- [[AJG]] — Score 70%
+- [[ABBV]] — Score 70%
+- [[A]] — Score 70%
+- [[FCX]] — Score 70%
+- [[HST]] — Score 70%
+- [[JPM]] — Score 70%
+- [[NDAQ]] — Score 70%
+- [[CRL]] — Score 69%
+- [[CNC]] — Score 69%
+- [[MCD]] — Score 69%
