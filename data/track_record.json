@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:00:52.663908+00:00",
+  "updated": "2026-08-05T18:15:28.500331+00:00",
   "total_closed": 165,
   "wins": 88,
   "losses": 77,
@@ -8,7 +8,7 @@
   "avg_loss": -1.59,
   "expectancy": 0.72,
   "total_pnl": 120.53,
-  "still_open": 16,
+  "still_open": 17,
   "recent": [
     {
       "id": "SMCI_2026-08-04T18:00:50.363373+00:00",
@@ -20,8 +20,8 @@
       "target_2": "35.84",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-05T18:00:52.663908+00:00",
-      "resolved_price": 31.37,
-      "pnl_pct": -1.29,
+      "resolved_price": "31.37",
+      "pnl_pct": "-1.29",
       "invested_eur": ""
     },
     {
