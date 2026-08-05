@@ -7,7 +7,6 @@ Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 - [[MU]] — Score 84%
 - [[PANW]] — Score 84%
 - [[SMCI]] — Score 83%
-- [[SNDK]] — Score 83%
 - [[AVGO]] — Score 83%
 - [[CSCO]] — Score 83%
 - [[LITE]] — Score 83%
@@ -16,6 +15,7 @@ Trefferquote: 55% über 154 abgeschlossene Empfehlungen.
 - [[SBAC]] — Score 83%
 - [[IT]] — Score 82%
 - [[INTC]] — Score 82%
+- [[SNDK]] — Score 82%
 - [[CLX]] — Score 82%
 - [[TEL]] — Score 82%
 - [[AOS]] — Score 82%
