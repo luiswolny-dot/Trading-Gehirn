@@ -19,7 +19,6 @@ Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 - [[CLX]] — Score 82%
 - [[TEL]] — Score 82%
 - [[AOS]] — Score 82%
-- [[AKAM]] — Score 82%
 - [[COHR]] — Score 82%
 - [[DDOG]] — Score 82%
 - [[EXPE]] — Score 82%
@@ -33,3 +32,4 @@ Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 - [[LDOS]] — Score 80%
 - [[QCOM]] — Score 80%
 - [[BLDR]] — Score 80%
+- [[CDW]] — Score 80%
