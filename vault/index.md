@@ -3,6 +3,7 @@
 Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[CHRW]] — Score 84%
 - [[MU]] — Score 84%
 - [[PANW]] — Score 84%
 - [[SMCI]] — Score 83%
@@ -32,4 +33,3 @@ Trefferquote: 55% über 156 abgeschlossene Empfehlungen.
 - [[LDOS]] — Score 80%
 - [[QCOM]] — Score 80%
 - [[BLDR]] — Score 80%
-- [[CDW]] — Score 80%
