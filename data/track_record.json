@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T15:30:35.412454+00:00",
+  "updated": "2026-08-05T15:45:29.800582+00:00",
   "total_closed": 162,
   "wins": 88,
   "losses": 74,
@@ -8,7 +8,7 @@
   "avg_loss": -1.59,
   "expectancy": 0.76,
   "total_pnl": 125.45,
-  "still_open": 13,
+  "still_open": 14,
   "recent": [
     {
       "id": "MU_2026-08-04T15:15:31.693211+00:00",
@@ -20,8 +20,8 @@
       "target_2": "950.32",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-05T15:30:35.412454+00:00",
-      "resolved_price": 918.25,
-      "pnl_pct": 2.8,
+      "resolved_price": "918.25",
+      "pnl_pct": "2.8",
       "invested_eur": ""
     },
     {
