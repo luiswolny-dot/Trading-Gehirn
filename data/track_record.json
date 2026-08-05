@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T14:00:47.528918+00:00",
+  "updated": "2026-08-05T14:15:39.157503+00:00",
   "total_closed": 158,
   "wins": 87,
   "losses": 71,
@@ -8,7 +8,7 @@
   "avg_loss": -1.59,
   "expectancy": 0.8,
   "total_pnl": 126.91,
-  "still_open": 14,
+  "still_open": 15,
   "recent": [
     {
       "id": "ZBRA_2026-08-04T13:30:44.989795+00:00",
