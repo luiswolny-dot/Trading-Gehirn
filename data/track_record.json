@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-05T19:00:50.767392+00:00",
-  "total_closed": 166,
+  "updated": "2026-08-05T19:15:27.170740+00:00",
+  "total_closed": 167,
   "wins": 88,
-  "losses": 78,
+  "losses": 79,
   "win_rate": 53,
   "avg_win": 2.76,
-  "avg_loss": -1.59,
-  "expectancy": 0.72,
-  "total_pnl": 118.82,
-  "still_open": 16,
+  "avg_loss": -1.6,
+  "expectancy": 0.71,
+  "total_pnl": 116.2,
+  "still_open": 15,
   "recent": [
+    {
+      "id": "LDOS_2026-08-04T19:00:54.479222+00:00",
+      "symbol": "LDOS",
+      "opened_at": "2026-08-04T19:00:54.479222+00:00",
+      "entry": "131.18",
+      "stop_loss": "126.76",
+      "target_1": "137.81",
+      "target_2": "144.44",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-05T19:15:27.170740+00:00",
+      "resolved_price": 127.74,
+      "pnl_pct": -2.62,
+      "invested_eur": ""
+    },
     {
       "id": "SNDK_2026-08-04T18:30:43.257745+00:00",
       "symbol": "SNDK",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-05T13:45:35.313947+00:00",
       "resolved_price": "372.41",
       "pnl_pct": "6.38",
-      "invested_eur": ""
-    },
-    {
-      "id": "BKNG_2026-08-05T13:30:41.825354+00:00",
-      "symbol": "BKNG",
-      "opened_at": "2026-08-05T13:30:41.825354+00:00",
-      "entry": "210.79",
-      "stop_loss": "208.53",
-      "target_1": "214.19",
-      "target_2": "217.58",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-05T13:45:35.313947+00:00",
-      "resolved_price": "205.65",
-      "pnl_pct": "-2.44",
       "invested_eur": ""
     }
   ]
