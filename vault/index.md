@@ -3,10 +3,10 @@
 Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[MCK]] — Score 84%
+- [[MCK]] — Score 83%
 - [[MAR]] — Score 79%
 - [[TMO]] — Score 77%
-- [[HLT]] — Score 76%
+- [[HLT]] — Score 75%
 - [[ELV]] — Score 75%
 - [[PFE]] — Score 75%
 - [[AIZ]] — Score 74%
