@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-06T14:45:27.838945+00:00",
-  "total_closed": 179,
-  "wins": 91,
-  "losses": 88,
+  "updated": "2026-08-06T15:00:51.556676+00:00",
+  "total_closed": 181,
+  "wins": 92,
+  "losses": 89,
   "win_rate": 51,
-  "avg_win": 2.71,
-  "avg_loss": -1.64,
+  "avg_win": 2.7,
+  "avg_loss": -1.62,
   "expectancy": 0.58,
-  "total_pnl": 102.34,
-  "still_open": 15,
+  "total_pnl": 103.74,
+  "still_open": 13,
   "recent": [
+    {
+      "id": "SYY_2026-08-05T14:45:29.864940+00:00",
+      "symbol": "SYY",
+      "opened_at": "2026-08-05T14:45:29.864940+00:00",
+      "entry": "84.67",
+      "stop_loss": "83.96",
+      "target_1": "85.74",
+      "target_2": "86.81",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-06T15:00:51.556676+00:00",
+      "resolved_price": 84.64,
+      "pnl_pct": -0.04,
+      "invested_eur": ""
+    },
+    {
+      "id": "SLB_2026-08-06T14:00:53.796343+00:00",
+      "symbol": "SLB",
+      "opened_at": "2026-08-06T14:00:53.796343+00:00",
+      "entry": "51.25",
+      "stop_loss": "50.86",
+      "target_1": "51.83",
+      "target_2": "52.41",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-06T15:00:51.556676+00:00",
+      "resolved_price": 51.99,
+      "pnl_pct": 1.44,
+      "invested_eur": ""
+    },
     {
       "id": "UNH_2026-08-05T17:15:32.009744+00:00",
       "symbol": "UNH",
@@ -20,8 +48,8 @@
       "target_2": "443.18",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-06T14:45:27.838945+00:00",
-      "resolved_price": 405.98,
-      "pnl_pct": -2.3,
+      "resolved_price": "405.98",
+      "pnl_pct": "-2.3",
       "invested_eur": ""
     },
     {
@@ -120,34 +148,6 @@
       "resolved_at": "2026-08-06T13:45:37.394791+00:00",
       "resolved_price": "233.41",
       "pnl_pct": "-1.34",
-      "invested_eur": ""
-    },
-    {
-      "id": "MCK_2026-08-05T13:30:41.825354+00:00",
-      "symbol": "MCK",
-      "opened_at": "2026-08-05T13:30:41.825354+00:00",
-      "entry": "855.07",
-      "stop_loss": "843.99",
-      "target_1": "871.7",
-      "target_2": "888.33",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-05T20:00:49.393558+00:00",
-      "resolved_price": "877.76",
-      "pnl_pct": "2.65",
-      "invested_eur": ""
-    },
-    {
-      "id": "MU_2026-08-05T15:30:35.412454+00:00",
-      "symbol": "MU",
-      "opened_at": "2026-08-05T15:30:35.412454+00:00",
-      "entry": "919.04",
-      "stop_loss": "896.59",
-      "target_1": "952.71",
-      "target_2": "986.38",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-05T20:00:49.393558+00:00",
-      "resolved_price": "892.2",
-      "pnl_pct": "-2.92",
       "invested_eur": ""
     }
   ]
