@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-06T15:30:40.668105+00:00",
-  "total_closed": 182,
+  "updated": "2026-08-06T15:46:37.822973+00:00",
+  "total_closed": 183,
   "wins": 92,
-  "losses": 90,
-  "win_rate": 51,
+  "losses": 91,
+  "win_rate": 50,
   "avg_win": 2.7,
   "avg_loss": -1.63,
-  "expectancy": 0.58,
-  "total_pnl": 101.21,
-  "still_open": 12,
+  "expectancy": 0.54,
+  "total_pnl": 99.73,
+  "still_open": 11,
   "recent": [
+    {
+      "id": "DHR_2026-08-05T15:45:29.800582+00:00",
+      "symbol": "DHR",
+      "opened_at": "2026-08-05T15:45:29.800582+00:00",
+      "entry": "200.29",
+      "stop_loss": "196.77",
+      "target_1": "205.57",
+      "target_2": "210.85",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-06T15:46:37.822973+00:00",
+      "resolved_price": 197.33,
+      "pnl_pct": -1.48,
+      "invested_eur": ""
+    },
     {
       "id": "AIZ_2026-08-06T03:15:32.302373+00:00",
       "symbol": "AIZ",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-06T14:00:53.796343+00:00",
       "resolved_price": "476.73",
       "pnl_pct": "-2.73",
-      "invested_eur": ""
-    },
-    {
-      "id": "CMI_2026-08-05T16:15:37.052034+00:00",
-      "symbol": "CMI",
-      "opened_at": "2026-08-05T16:15:37.052034+00:00",
-      "entry": "659.78",
-      "stop_loss": "649.26",
-      "target_1": "675.56",
-      "target_2": "691.33",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-06T13:45:37.394791+00:00",
-      "resolved_price": "644.84",
-      "pnl_pct": "-2.26",
       "invested_eur": ""
     }
   ]

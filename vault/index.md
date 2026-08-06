@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 51% über 182 abgeschlossene Empfehlungen.
+Trefferquote: 50% über 183 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[FOXA]] — Score 79%
-- [[FSLR]] — Score 78%
-- [[HAL]] — Score 78%
-- [[ALB]] — Score 76%
-- [[SLB]] — Score 76%
-- [[LDOS]] — Score 76%
+- [[FSLR]] — Score 79%
+- [[HAL]] — Score 79%
+- [[SLB]] — Score 77%
+- [[LDOS]] — Score 77%
 - [[TRGP]] — Score 76%
-- [[RL]] — Score 76%
-- [[NXPI]] — Score 76%
-- [[SBAC]] — Score 75%
+- [[SBAC]] — Score 76%
+- [[PYPL]] — Score 76%
+- [[ALB]] — Score 75%
+- [[RL]] — Score 75%
+- [[BDX]] — Score 74%
+- [[LYB]] — Score 74%
 - [[FOX]] — Score 74%
-- [[WBD]] — Score 73%
-- [[LYB]] — Score 71%
-- [[MU]] — Score 71%
-- [[ON]] — Score 71%
-- [[PYPL]] — Score 71%
+- [[DVN]] — Score 74%
+- [[UBER]] — Score 72%
+- [[AMT]] — Score 72%
+- [[T]] — Score 72%
+- [[KLAC]] — Score 72%
+- [[NXPI]] — Score 72%
+- [[SNPS]] — Score 72%
+- [[TMUS]] — Score 72%
+- [[VEEV]] — Score 72%
 - [[STX]] — Score 70%
-- [[BDX]] — Score 70%
-- [[KLAC]] — Score 70%
-- [[AMT]] — Score 70%
-- [[PTC]] — Score 70%
-- [[PODD]] — Score 69%
-- [[APD]] — Score 69%
-- [[CDNS]] — Score 69%
+- [[CTSH]] — Score 70%
+- [[FLEX]] — Score 70%
+- [[MU]] — Score 70%
+- [[JBL]] — Score 69%
 - [[JKHY]] — Score 69%
-- [[LITE]] — Score 68%
-- [[TKO]] — Score 68%
-- [[AMAT]] — Score 68%
-- [[CTSH]] — Score 68%
-- [[GLW]] — Score 68%
+- [[NTAP]] — Score 69%
+- [[ON]] — Score 69%
