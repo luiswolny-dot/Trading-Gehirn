@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T01:30:37.092202+00:00",
+  "timestamp": "2026-08-06T01:45:27.385416+00:00",
   "picks": [
     {
       "symbol": "MCK",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-06T01:30:37.092202+00:00",
+      "timestamp": "2026-08-06T01:45:27.385416+00:00",
       "fundamental_score": 94,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-06T01:30:37.092202+00:00",
+      "timestamp": "2026-08-06T01:45:27.385416+00:00",
       "fundamental_score": 78,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-06T01:30:37.092202+00:00",
+      "timestamp": "2026-08-06T01:45:27.385416+00:00",
       "fundamental_score": 83,
       "news_score": 98,
       "momentum_quality": 50
