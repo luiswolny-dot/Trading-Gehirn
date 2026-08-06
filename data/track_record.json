@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-06T14:15:29.480406+00:00",
-  "total_closed": 177,
+  "updated": "2026-08-06T14:30:39.326718+00:00",
+  "total_closed": 178,
   "wins": 91,
-  "losses": 86,
+  "losses": 87,
   "win_rate": 51,
   "avg_win": 2.71,
-  "avg_loss": -1.65,
-  "expectancy": 0.57,
-  "total_pnl": 104.95,
-  "still_open": 15,
+  "avg_loss": -1.63,
+  "expectancy": 0.58,
+  "total_pnl": 104.64,
+  "still_open": 16,
   "recent": [
+    {
+      "id": "MAR_2026-08-05T14:15:39.157503+00:00",
+      "symbol": "MAR",
+      "opened_at": "2026-08-05T14:15:39.157503+00:00",
+      "entry": "359.89",
+      "stop_loss": "353.4",
+      "target_1": "369.62",
+      "target_2": "379.36",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-06T14:30:39.326718+00:00",
+      "resolved_price": 358.77,
+      "pnl_pct": -0.31,
+      "invested_eur": ""
+    },
     {
       "id": "MCK_2026-08-05T20:00:49.393558+00:00",
       "symbol": "MCK",
@@ -20,8 +34,8 @@
       "target_2": "935.85",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-06T14:15:29.480406+00:00",
-      "resolved_price": 857.04,
-      "pnl_pct": -2.3,
+      "resolved_price": "857.04",
+      "pnl_pct": "-2.3",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-05T19:45:37.394084+00:00",
       "resolved_price": "186.65",
       "pnl_pct": "-2.18",
-      "invested_eur": ""
-    },
-    {
-      "id": "CLX_2026-08-04T19:30:41.655685+00:00",
-      "symbol": "CLX",
-      "opened_at": "2026-08-04T19:30:41.655685+00:00",
-      "entry": "104.58",
-      "stop_loss": "101.17",
-      "target_1": "109.7",
-      "target_2": "114.81",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-05T19:45:37.394084+00:00",
-      "resolved_price": "105.51",
-      "pnl_pct": "0.89",
       "invested_eur": ""
     }
   ]
