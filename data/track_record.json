@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T23:03:26.818334+00:00",
+  "updated": "2026-08-06T23:21:49.963426+00:00",
   "total_closed": 188,
   "wins": 94,
   "losses": 94,
@@ -8,7 +8,7 @@
   "avg_loss": -1.6,
   "expectancy": 0.52,
   "total_pnl": 97.92,
-  "still_open": 9,
+  "still_open": 10,
   "recent": [
     {
       "id": "HLT_2026-08-05T17:30:46.465581+00:00",
@@ -20,8 +20,8 @@
       "target_2": "339.9",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
-      "resolved_price": 321.98,
-      "pnl_pct": -0.34,
+      "resolved_price": "321.98",
+      "pnl_pct": "-0.34",
       "invested_eur": ""
     },
     {
@@ -34,8 +34,8 @@
       "target_2": "221.87",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
-      "resolved_price": 207.39,
-      "pnl_pct": -0.23,
+      "resolved_price": "207.39",
+      "pnl_pct": "-0.23",
       "invested_eur": ""
     },
     {
@@ -48,8 +48,8 @@
       "target_2": "423.88",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
-      "resolved_price": 391.4,
-      "pnl_pct": 0.12,
+      "resolved_price": "391.4",
+      "pnl_pct": "0.12",
       "invested_eur": ""
     },
     {
@@ -62,8 +62,8 @@
       "target_2": "598.23",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
-      "resolved_price": 580.02,
-      "pnl_pct": 0.38,
+      "resolved_price": "580.02",
+      "pnl_pct": "0.38",
       "invested_eur": ""
     },
     {
@@ -76,8 +76,8 @@
       "target_2": "59.43",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
-      "resolved_price": 56.04,
-      "pnl_pct": -1.74,
+      "resolved_price": "56.04",
+      "pnl_pct": "-1.74",
       "invested_eur": ""
     },
     {
