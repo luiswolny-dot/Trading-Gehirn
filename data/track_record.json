@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-06T14:00:53.796343+00:00",
-  "total_closed": 176,
+  "updated": "2026-08-06T14:15:29.480406+00:00",
+  "total_closed": 177,
   "wins": 91,
-  "losses": 85,
-  "win_rate": 52,
+  "losses": 86,
+  "win_rate": 51,
   "avg_win": 2.71,
-  "avg_loss": -1.64,
-  "expectancy": 0.62,
-  "total_pnl": 107.25,
+  "avg_loss": -1.65,
+  "expectancy": 0.57,
+  "total_pnl": 104.95,
   "still_open": 15,
   "recent": [
+    {
+      "id": "MCK_2026-08-05T20:00:49.393558+00:00",
+      "symbol": "MCK",
+      "opened_at": "2026-08-05T20:00:49.393558+00:00",
+      "entry": "877.23",
+      "stop_loss": "857.69",
+      "target_1": "906.54",
+      "target_2": "935.85",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-06T14:15:29.480406+00:00",
+      "resolved_price": 857.04,
+      "pnl_pct": -2.3,
+      "invested_eur": ""
+    },
     {
       "id": "COR_2026-08-05T14:00:47.528918+00:00",
       "symbol": "COR",
@@ -20,8 +34,8 @@
       "target_2": "346.44",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-06T14:00:53.796343+00:00",
-      "resolved_price": 317.67,
-      "pnl_pct": -1.48,
+      "resolved_price": "317.67",
+      "pnl_pct": "-1.48",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "107.65",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-06T14:00:53.796343+00:00",
-      "resolved_price": 104.76,
-      "pnl_pct": 0.42,
+      "resolved_price": "104.76",
+      "pnl_pct": "0.42",
       "invested_eur": ""
     },
     {
@@ -48,8 +62,8 @@
       "target_2": "516.66",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-06T14:00:53.796343+00:00",
-      "resolved_price": 476.73,
-      "pnl_pct": -2.73,
+      "resolved_price": "476.73",
+      "pnl_pct": "-2.73",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-05T19:45:37.394084+00:00",
       "resolved_price": "105.51",
       "pnl_pct": "0.89",
-      "invested_eur": ""
-    },
-    {
-      "id": "LDOS_2026-08-04T19:00:54.479222+00:00",
-      "symbol": "LDOS",
-      "opened_at": "2026-08-04T19:00:54.479222+00:00",
-      "entry": "131.18",
-      "stop_loss": "126.76",
-      "target_1": "137.81",
-      "target_2": "144.44",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-05T19:15:27.170740+00:00",
-      "resolved_price": "127.74",
-      "pnl_pct": "-2.62",
       "invested_eur": ""
     }
   ]

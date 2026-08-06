@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 52% über 176 abgeschlossene Empfehlungen.
+Trefferquote: 51% über 177 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[FOXA]] — Score 82%
+- [[FSLR]] — Score 81%
 - [[RL]] — Score 79%
-- [[OXY]] — Score 78%
+- [[MSFT]] — Score 77%
+- [[FOX]] — Score 76%
+- [[LDOS]] — Score 76%
+- [[JBL]] — Score 76%
+- [[GEV]] — Score 76%
 - [[SLB]] — Score 75%
+- [[MCHP]] — Score 75%
+- [[STX]] — Score 75%
 - [[PH]] — Score 74%
-- [[TDY]] — Score 74%
-- [[JBL]] — Score 74%
-- [[QCOM]] — Score 74%
-- [[BDX]] — Score 73%
-- [[TXN]] — Score 73%
+- [[ADI]] — Score 74%
+- [[FIX]] — Score 74%
+- [[FLEX]] — Score 74%
+- [[KLAC]] — Score 74%
+- [[NXPI]] — Score 74%
+- [[PNR]] — Score 74%
+- [[Q]] — Score 74%
+- [[SMCI]] — Score 74%
+- [[LYB]] — Score 73%
+- [[HAL]] — Score 73%
+- [[HUBB]] — Score 73%
+- [[LULU]] — Score 73%
+- [[PWR]] — Score 73%
 - [[ON]] — Score 72%
-- [[VRT]] — Score 72%
-- [[HPQ]] — Score 72%
-- [[FDX]] — Score 72%
-- [[JCI]] — Score 72%
-- [[LDOS]] — Score 72%
-- [[LYB]] — Score 72%
-- [[ROK]] — Score 72%
-- [[UBER]] — Score 72%
-- [[WBD]] — Score 72%
-- [[GRMN]] — Score 71%
-- [[FOXA]] — Score 71%
-- [[SMCI]] — Score 71%
-- [[ZBRA]] — Score 71%
-- [[DECK]] — Score 70%
-- [[KEYS]] — Score 70%
-- [[KLAC]] — Score 70%
-- [[NXPI]] — Score 70%
-- [[TPR]] — Score 70%
-- [[TEL]] — Score 70%
-- [[STX]] — Score 69%
+- [[GNRC]] — Score 72%
+- [[AMD]] — Score 72%
+- [[EME]] — Score 72%
+- [[FFIV]] — Score 72%
