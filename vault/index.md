@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 51% über 181 abgeschlossene Empfehlungen.
+Trefferquote: 51% über 182 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[FOXA]] — Score 81%
-- [[FSLR]] — Score 81%
+- [[FOXA]] — Score 79%
+- [[FSLR]] — Score 79%
 - [[HAL]] — Score 79%
-- [[RL]] — Score 78%
 - [[LDOS]] — Score 77%
-- [[MSFT]] — Score 77%
-- [[NXPI]] — Score 77%
-- [[PYPL]] — Score 77%
-- [[FOX]] — Score 76%
+- [[ALB]] — Score 76%
 - [[SLB]] — Score 76%
+- [[RL]] — Score 76%
 - [[SBAC]] — Score 76%
-- [[T]] — Score 75%
-- [[KLAC]] — Score 74%
-- [[LYB]] — Score 74%
-- [[ON]] — Score 74%
-- [[PH]] — Score 74%
-- [[QCOM]] — Score 74%
-- [[ALB]] — Score 73%
-- [[BKR]] — Score 73%
-- [[DOW]] — Score 73%
-- [[EL]] — Score 73%
-- [[MU]] — Score 73%
-- [[SNPS]] — Score 73%
-- [[TXN]] — Score 73%
-- [[LRCX]] — Score 72%
-- [[APTV]] — Score 72%
-- [[CDNS]] — Score 72%
-- [[GPC]] — Score 72%
-- [[MRVL]] — Score 72%
+- [[FOX]] — Score 74%
+- [[LYB]] — Score 73%
+- [[T]] — Score 73%
+- [[MRVL]] — Score 73%
+- [[NXPI]] — Score 73%
+- [[WBD]] — Score 73%
+- [[KLAC]] — Score 72%
+- [[MPWR]] — Score 72%
+- [[ON]] — Score 72%
 - [[AMT]] — Score 71%
+- [[BDX]] — Score 71%
+- [[FDX]] — Score 71%
+- [[NTAP]] — Score 71%
+- [[TXN]] — Score 71%
+- [[STX]] — Score 70%
+- [[AMAT]] — Score 70%
+- [[DOW]] — Score 70%
+- [[LRCX]] — Score 70%
+- [[VRT]] — Score 70%
+- [[LITE]] — Score 69%
+- [[PODD]] — Score 69%
+- [[CDNS]] — Score 69%
