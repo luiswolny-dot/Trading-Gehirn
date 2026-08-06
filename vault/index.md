@@ -31,5 +31,5 @@ Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 - [[AMGN]] — Score 70%
 - [[CPT]] — Score 70%
 - [[CLX]] — Score 70%
-- [[DHR]] — Score 70%
 - [[DRI]] — Score 70%
+- [[DASH]] — Score 70%
