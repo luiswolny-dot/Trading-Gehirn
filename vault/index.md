@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 51% über 178 abgeschlossene Empfehlungen.
+Trefferquote: 51% über 179 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[FSLR]] — Score 82%
-- [[HAL]] — Score 79%
-- [[NEM]] — Score 79%
-- [[FOXA]] — Score 78%
-- [[RL]] — Score 77%
-- [[JBL]] — Score 76%
-- [[LDOS]] — Score 76%
-- [[NXPI]] — Score 76%
-- [[ALB]] — Score 75%
-- [[SLB]] — Score 75%
-- [[LYB]] — Score 74%
-- [[FLEX]] — Score 74%
-- [[TKO]] — Score 74%
-- [[PH]] — Score 73%
-- [[GNRC]] — Score 73%
-- [[FOX]] — Score 73%
-- [[MU]] — Score 73%
-- [[MOS]] — Score 73%
-- [[PNR]] — Score 73%
-- [[BKR]] — Score 72%
-- [[GRMN]] — Score 72%
-- [[KEYS]] — Score 72%
-- [[LRCX]] — Score 72%
-- [[MPWR]] — Score 71%
-- [[MRVL]] — Score 71%
-- [[ON]] — Score 71%
-- [[KLAC]] — Score 71%
-- [[APH]] — Score 71%
-- [[COF]] — Score 71%
-- [[CSCO]] — Score 71%
+- [[FOXA]] — Score 80%
+- [[FSLR]] — Score 78%
+- [[NEM]] — Score 78%
+- [[ALB]] — Score 76%
+- [[SLB]] — Score 76%
+- [[RL]] — Score 76%
+- [[MSFT]] — Score 76%
+- [[T]] — Score 75%
+- [[LDOS]] — Score 75%
+- [[FOX]] — Score 74%
+- [[APD]] — Score 74%
+- [[CMCSA]] — Score 74%
+- [[LYB]] — Score 72%
+- [[AWK]] — Score 72%
+- [[BDX]] — Score 71%
+- [[BAX]] — Score 69%
+- [[CTSH]] — Score 69%
+- [[HAL]] — Score 69%
+- [[MGM]] — Score 69%
+- [[OXY]] — Score 69%
+- [[SNPS]] — Score 69%
+- [[VST]] — Score 69%
+- [[PH]] — Score 68%
+- [[ECHO]] — Score 68%
+- [[ON]] — Score 68%
+- [[BKR]] — Score 68%
+- [[BG]] — Score 68%
+- [[FCX]] — Score 68%
+- [[MU]] — Score 68%
+- [[NXPI]] — Score 68%
