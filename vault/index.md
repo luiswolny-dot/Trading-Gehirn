@@ -5,11 +5,11 @@ Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[MCK]] — Score 83%
 - [[MAR]] — Score 79%
+- [[AIZ]] — Score 77%
 - [[TMO]] — Score 77%
 - [[HLT]] — Score 75%
 - [[ELV]] — Score 75%
 - [[EBAY]] — Score 75%
-- [[AIZ]] — Score 74%
 - [[SHW]] — Score 73%
 - [[NOC]] — Score 73%
 - [[AVY]] — Score 72%
