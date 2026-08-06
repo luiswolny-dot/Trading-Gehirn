@@ -12,6 +12,7 @@ Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 - [[EBAY]] — Score 75%
 - [[SHW]] — Score 73%
 - [[NOC]] — Score 73%
+- [[CRL]] — Score 72%
 - [[AVY]] — Score 72%
 - [[CB]] — Score 72%
 - [[KVUE]] — Score 72%
@@ -32,4 +33,3 @@ Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
 - [[CLX]] — Score 70%
 - [[DHR]] — Score 70%
 - [[DRI]] — Score 70%
-- [[DASH]] — Score 70%
