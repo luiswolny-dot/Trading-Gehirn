@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 53% über 171 abgeschlossene Empfehlungen.
+Trefferquote: 52% über 173 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[OXY]] — Score 82%
-- [[COR]] — Score 81%
-- [[MSI]] — Score 78%
-- [[NEM]] — Score 77%
-- [[NWSA]] — Score 76%
-- [[BF-B]] — Score 76%
-- [[BKNG]] — Score 76%
-- [[FDS]] — Score 76%
-- [[FOXA]] — Score 75%
-- [[ADM]] — Score 75%
-- [[CBOE]] — Score 75%
-- [[CASY]] — Score 74%
-- [[GE]] — Score 74%
-- [[HII]] — Score 74%
-- [[NVDA]] — Score 74%
-- [[PYPL]] — Score 74%
-- [[SLB]] — Score 74%
-- [[AMGN]] — Score 73%
-- [[FTV]] — Score 73%
-- [[L]] — Score 72%
-- [[MSFT]] — Score 72%
-- [[STT]] — Score 72%
-- [[QCOM]] — Score 72%
-- [[FOX]] — Score 71%
-- [[AES]] — Score 71%
-- [[A]] — Score 71%
-- [[CAH]] — Score 71%
-- [[ESS]] — Score 71%
-- [[EXPE]] — Score 71%
-- [[GEHC]] — Score 71%
+- [[OXY]] — Score 81%
+- [[FSLR]] — Score 80%
+- [[RL]] — Score 78%
+- [[EBAY]] — Score 76%
+- [[FOXA]] — Score 74%
+- [[WBD]] — Score 74%
+- [[PH]] — Score 73%
+- [[MSI]] — Score 73%
+- [[NVDA]] — Score 73%
+- [[QCOM]] — Score 73%
+- [[BKR]] — Score 72%
+- [[FDX]] — Score 72%
+- [[FLEX]] — Score 72%
+- [[HPQ]] — Score 71%
+- [[FIX]] — Score 71%
+- [[SLB]] — Score 71%
+- [[FOX]] — Score 70%
+- [[ON]] — Score 70%
+- [[ORCL]] — Score 70%
+- [[AES]] — Score 70%
+- [[SNPS]] — Score 70%
+- [[GNRC]] — Score 69%
+- [[GS]] — Score 69%
+- [[JBL]] — Score 69%
+- [[J]] — Score 69%
+- [[MOS]] — Score 69%
+- [[PYPL]] — Score 69%
+- [[TEL]] — Score 69%
+- [[ECHO]] — Score 68%
+- [[HUBB]] — Score 68%
