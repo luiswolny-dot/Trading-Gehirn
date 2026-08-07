@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 50% über 189 abgeschlossene Empfehlungen.
+Trefferquote: 50% über 191 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[LDOS]] — Score 80%
-- [[XOM]] — Score 80%
-- [[APA]] — Score 79%
-- [[PYPL]] — Score 79%
-- [[DIS]] — Score 79%
-- [[FOXA]] — Score 78%
-- [[FOX]] — Score 77%
-- [[PTC]] — Score 76%
-- [[T]] — Score 75%
-- [[CTSH]] — Score 75%
-- [[PFE]] — Score 75%
-- [[APD]] — Score 74%
-- [[PAYX]] — Score 74%
-- [[TJX]] — Score 74%
-- [[PGR]] — Score 73%
-- [[ALL]] — Score 72%
+- [[FSLR]] — Score 87%
+- [[AKAM]] — Score 84%
+- [[NEM]] — Score 81%
+- [[ADI]] — Score 79%
+- [[FIX]] — Score 79%
+- [[MCHP]] — Score 77%
+- [[CIEN]] — Score 77%
+- [[RSG]] — Score 77%
+- [[UBER]] — Score 75%
+- [[AMD]] — Score 75%
+- [[APD]] — Score 75%
+- [[ADSK]] — Score 75%
+- [[BX]] — Score 75%
+- [[FLEX]] — Score 74%
+- [[ALL]] — Score 73%
+- [[KLAC]] — Score 73%
+- [[INTC]] — Score 73%
+- [[COR]] — Score 73%
+- [[EBAY]] — Score 73%
+- [[PSKY]] — Score 73%
+- [[CRM]] — Score 73%
+- [[SHW]] — Score 73%
+- [[SWK]] — Score 73%
 - [[ABT]] — Score 72%
-- [[BR]] — Score 72%
-- [[BG]] — Score 72%
-- [[COR]] — Score 72%
-- [[CMCSA]] — Score 72%
-- [[DRI]] — Score 72%
-- [[MRSH]] — Score 72%
-- [[MSFT]] — Score 72%
-- [[NOC]] — Score 72%
-- [[OTIS]] — Score 72%
-- [[RSG]] — Score 72%
-- [[VLTO]] — Score 72%
-- [[NTAP]] — Score 71%
-- [[ADP]] — Score 71%
+- [[AVY]] — Score 72%
+- [[CBRE]] — Score 72%
+- [[VMC]] — Score 72%
+- [[LITE]] — Score 71%
+- [[ABNB]] — Score 71%
+- [[AME]] — Score 71%
