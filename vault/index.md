@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 196 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 197 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[NEM]] — Score 84%
-- [[CRM]] — Score 80%
+- [[NEM]] — Score 82%
+- [[IT]] — Score 81%
+- [[LEN]] — Score 80%
+- [[UBER]] — Score 79%
 - [[BKNG]] — Score 79%
-- [[UBER]] — Score 78%
+- [[CNC]] — Score 79%
+- [[FERG]] — Score 79%
+- [[GDDY]] — Score 79%
+- [[HUM]] — Score 79%
+- [[LULU]] — Score 79%
+- [[MAS]] — Score 79%
+- [[SW]] — Score 79%
+- [[ADBE]] — Score 78%
+- [[APTV]] — Score 78%
+- [[CI]] — Score 78%
+- [[MLM]] — Score 78%
+- [[NVR]] — Score 78%
 - [[MCHP]] — Score 77%
-- [[NVR]] — Score 77%
-- [[RSG]] — Score 77%
-- [[SW]] — Score 77%
-- [[TYL]] — Score 77%
-- [[PLTR]] — Score 76%
-- [[HUM]] — Score 76%
-- [[EBAY]] — Score 76%
+- [[CRM]] — Score 77%
+- [[AXON]] — Score 77%
+- [[CBRE]] — Score 77%
+- [[DHI]] — Score 77%
+- [[IP]] — Score 77%
+- [[PHM]] — Score 77%
+- [[SWKS]] — Score 77%
+- [[EFX]] — Score 76%
 - [[ADSK]] — Score 76%
-- [[BBY]] — Score 76%
-- [[DHI]] — Score 76%
-- [[FERG]] — Score 76%
-- [[MLM]] — Score 76%
-- [[OMC]] — Score 76%
-- [[SHW]] — Score 76%
-- [[VRSK]] — Score 76%
-- [[BX]] — Score 75%
-- [[CI]] — Score 75%
-- [[CSGP]] — Score 75%
-- [[EL]] — Score 75%
-- [[FDS]] — Score 75%
-- [[HD]] — Score 75%
-- [[LOW]] — Score 75%
-- [[LULU]] — Score 75%
-- [[PHM]] — Score 75%
-- [[TRMB]] — Score 75%
+- [[ACN]] — Score 76%
+- [[CRH]] — Score 76%
+- [[EL]] — Score 76%

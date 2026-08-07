@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-07T14:15:27.915899+00:00",
-  "total_closed": 196,
-  "wins": 96,
+  "updated": "2026-08-07T14:30:45.690551+00:00",
+  "total_closed": 197,
+  "wins": 97,
   "losses": 100,
   "win_rate": 49,
-  "avg_win": 2.72,
+  "avg_win": 2.7,
   "avg_loss": -1.62,
-  "expectancy": 0.51,
-  "total_pnl": 99.1,
+  "expectancy": 0.5,
+  "total_pnl": 100.58,
   "still_open": 9,
   "recent": [
+    {
+      "id": "FOXA_2026-08-06T14:15:29.480406+00:00",
+      "symbol": "FOXA",
+      "opened_at": "2026-08-06T14:15:29.480406+00:00",
+      "entry": "62.06",
+      "stop_loss": "60.59",
+      "target_1": "64.27",
+      "target_2": "66.49",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-07T14:30:45.690551+00:00",
+      "resolved_price": 62.98,
+      "pnl_pct": 1.48,
+      "invested_eur": ""
+    },
     {
       "id": "FSLR_2026-08-07T13:45:31.444696+00:00",
       "symbol": "FSLR",
@@ -20,8 +34,8 @@
       "target_2": "286.4",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-07T14:15:27.915899+00:00",
-      "resolved_price": 254.45,
-      "pnl_pct": -3.32,
+      "resolved_price": "254.45",
+      "pnl_pct": "-3.32",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
       "resolved_price": "321.98",
       "pnl_pct": "-0.34",
-      "invested_eur": ""
-    },
-    {
-      "id": "BKNG_2026-08-05T17:45:27.813626+00:00",
-      "symbol": "BKNG",
-      "opened_at": "2026-08-05T17:45:27.813626+00:00",
-      "entry": "207.86",
-      "stop_loss": "203.19",
-      "target_1": "214.87",
-      "target_2": "221.87",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-06T23:03:26.818334+00:00",
-      "resolved_price": "207.39",
-      "pnl_pct": "-0.23",
       "invested_eur": ""
     }
   ]
