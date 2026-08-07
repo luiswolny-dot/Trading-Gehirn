@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T16:30:35.681665+00:00",
+  "updated": "2026-08-07T16:45:32.442902+00:00",
   "total_closed": 198,
   "wins": 97,
   "losses": 101,
@@ -8,7 +8,7 @@
   "avg_loss": -1.62,
   "expectancy": 0.5,
   "total_pnl": 98.41,
-  "still_open": 13,
+  "still_open": 14,
   "recent": [
     {
       "id": "IT_2026-08-07T14:30:45.690551+00:00",
