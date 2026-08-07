@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 198 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 199 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SWKS]] — Score 78%
 - [[QCOM]] — Score 78%
+- [[APA]] — Score 78%
 - [[GEN]] — Score 78%
 - [[A]] — Score 78%
 - [[UBER]] — Score 77%
 - [[PCG]] — Score 77%
-- [[APA]] — Score 77%
 - [[MCHP]] — Score 76%
-- [[BAX]] — Score 76%
-- [[STZ]] — Score 76%
-- [[EL]] — Score 76%
-- [[HONA]] — Score 76%
-- [[HON]] — Score 76%
+- [[PLTR]] — Score 76%
 - [[SMCI]] — Score 76%
-- [[PLTR]] — Score 75%
+- [[APTV]] — Score 76%
+- [[AVY]] — Score 76%
+- [[BAX]] — Score 76%
+- [[BBY]] — Score 76%
+- [[STZ]] — Score 76%
+- [[DELL]] — Score 76%
+- [[FAST]] — Score 76%
+- [[FTV]] — Score 76%
+- [[HON]] — Score 76%
+- [[NXPI]] — Score 76%
+- [[Q]] — Score 76%
+- [[STE]] — Score 76%
+- [[TXN]] — Score 76%
+- [[HPQ]] — Score 75%
 - [[HUM]] — Score 75%
-- [[AVY]] — Score 75%
-- [[DE]] — Score 75%
-- [[DELL]] — Score 75%
-- [[FAST]] — Score 75%
-- [[FTV]] — Score 75%
-- [[NEM]] — Score 75%
-- [[ODFL]] — Score 75%
-- [[STE]] — Score 75%
-- [[TXT]] — Score 75%
-- [[UPS]] — Score 75%
-- [[HPQ]] — Score 74%
-- [[TXN]] — Score 74%
-- [[APTV]] — Score 74%
-- [[BBY]] — Score 74%
+- [[CEG]] — Score 75%
+- [[CRH]] — Score 75%
+- [[DHR]] — Score 75%
+- [[GPC]] — Score 75%
+- [[IP]] — Score 75%
