@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 200 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 202 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[FOXA]] — Score 81%
 - [[NEM]] — Score 80%
-- [[FOXA]] — Score 80%
-- [[A]] — Score 78%
 - [[SMCI]] — Score 77%
-- [[CEG]] — Score 77%
-- [[LEN]] — Score 77%
-- [[TAP]] — Score 77%
+- [[GEN]] — Score 77%
 - [[MCHP]] — Score 76%
-- [[APA]] — Score 76%
-- [[GRMN]] — Score 76%
+- [[PHM]] — Score 76%
+- [[SWK]] — Score 76%
+- [[UHS]] — Score 76%
 - [[VRTX]] — Score 76%
-- [[PLTR]] — Score 75%
 - [[MRNA]] — Score 75%
-- [[HUM]] — Score 75%
+- [[HPQ]] — Score 75%
 - [[UBER]] — Score 75%
 - [[FOX]] — Score 75%
+- [[A]] — Score 75%
 - [[ARE]] — Score 75%
-- [[COIN]] — Score 75%
-- [[DXCM]] — Score 75%
-- [[FAST]] — Score 75%
-- [[GEN]] — Score 75%
-- [[IQV]] — Score 75%
-- [[PHM]] — Score 75%
-- [[NOW]] — Score 75%
+- [[APA]] — Score 75%
+- [[GRMN]] — Score 75%
+- [[LEN]] — Score 75%
+- [[TAP]] — Score 75%
 - [[STE]] — Score 75%
-- [[UHS]] — Score 75%
-- [[WST]] — Score 75%
-- [[CRH]] — Score 74%
-- [[SWK]] — Score 74%
-- [[ACN]] — Score 74%
+- [[PLTR]] — Score 74%
+- [[HUM]] — Score 74%
+- [[DHR]] — Score 74%
+- [[DXCM]] — Score 74%
+- [[IBKR]] — Score 74%
+- [[LDOS]] — Score 74%
+- [[SW]] — Score 74%
+- [[ABNB]] — Score 73%
+- [[DELL]] — Score 73%
+- [[INCY]] — Score 73%
