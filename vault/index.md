@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 197 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 198 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[NEM]] — Score 84%
+- [[NEM]] — Score 82%
+- [[BKNG]] — Score 78%
 - [[UBER]] — Score 77%
-- [[ADBE]] — Score 77%
-- [[NVDA]] — Score 77%
-- [[PCG]] — Score 77%
 - [[MCHP]] — Score 76%
-- [[HUM]] — Score 76%
-- [[CVNA]] — Score 75%
-- [[EBAY]] — Score 75%
-- [[ODFL]] — Score 75%
-- [[AXON]] — Score 74%
-- [[BKNG]] — Score 74%
-- [[RSG]] — Score 74%
-- [[TXT]] — Score 74%
+- [[EBAY]] — Score 76%
+- [[PPL]] — Score 76%
+- [[DASH]] — Score 76%
+- [[TAP]] — Score 76%
+- [[PCG]] — Score 76%
+- [[TSLA]] — Score 76%
+- [[HUM]] — Score 75%
+- [[SWKS]] — Score 75%
+- [[AMZN]] — Score 75%
+- [[ADI]] — Score 75%
+- [[CNC]] — Score 75%
+- [[GILD]] — Score 75%
+- [[NRG]] — Score 75%
+- [[PLTR]] — Score 74%
+- [[CVNA]] — Score 74%
+- [[CEG]] — Score 74%
+- [[A]] — Score 74%
+- [[APP]] — Score 74%
+- [[DOC]] — Score 74%
+- [[NVDA]] — Score 74%
+- [[ODFL]] — Score 74%
+- [[QCOM]] — Score 74%
+- [[NOW]] — Score 74%
+- [[WST]] — Score 74%
 - [[ABNB]] — Score 73%
-- [[PLTR]] — Score 73%
-- [[EFX]] — Score 73%
 - [[HPQ]] — Score 73%
-- [[MMM]] — Score 73%
-- [[APA]] — Score 73%
-- [[HON]] — Score 73%
-- [[MLM]] — Score 73%
-- [[PPL]] — Score 73%
-- [[MRNA]] — Score 72%
-- [[CHRW]] — Score 72%
-- [[C]] — Score 72%
-- [[COP]] — Score 72%
-- [[DASH]] — Score 72%
-- [[F]] — Score 72%
-- [[GM]] — Score 72%
