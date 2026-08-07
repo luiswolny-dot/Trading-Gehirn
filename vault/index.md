@@ -10,13 +10,13 @@ Trefferquote: 50% über 189 abgeschlossene Empfehlungen.
 - [[DIS]] — Score 79%
 - [[FOXA]] — Score 78%
 - [[FOX]] — Score 77%
+- [[PTC]] — Score 76%
 - [[T]] — Score 75%
 - [[CTSH]] — Score 75%
 - [[PFE]] — Score 75%
 - [[APD]] — Score 74%
 - [[PAYX]] — Score 74%
 - [[TJX]] — Score 74%
-- [[PTC]] — Score 73%
 - [[PGR]] — Score 73%
 - [[ALL]] — Score 72%
 - [[ABT]] — Score 72%
