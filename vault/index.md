@@ -11,6 +11,7 @@ Trefferquote: 50% über 189 abgeschlossene Empfehlungen.
 - [[FOXA]] — Score 78%
 - [[FOX]] — Score 77%
 - [[T]] — Score 75%
+- [[CTSH]] — Score 75%
 - [[PFE]] — Score 75%
 - [[APD]] — Score 74%
 - [[PAYX]] — Score 74%
@@ -19,7 +20,6 @@ Trefferquote: 50% über 189 abgeschlossene Empfehlungen.
 - [[PGR]] — Score 73%
 - [[ALL]] — Score 72%
 - [[ABT]] — Score 72%
-- [[CTSH]] — Score 72%
 - [[BR]] — Score 72%
 - [[BG]] — Score 72%
 - [[COR]] — Score 72%
