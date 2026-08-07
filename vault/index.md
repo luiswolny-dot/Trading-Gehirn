@@ -6,8 +6,8 @@ Trefferquote: 49% über 202 abgeschlossene Empfehlungen.
 - [[NEM]] — Score 81%
 - [[MRNA]] — Score 79%
 - [[SWKS]] — Score 79%
+- [[QCOM]] — Score 79%
 - [[UBER]] — Score 78%
-- [[QCOM]] — Score 78%
 - [[A]] — Score 78%
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
@@ -21,6 +21,7 @@ Trefferquote: 49% über 202 abgeschlossene Empfehlungen.
 - [[MCHP]] — Score 76%
 - [[PLTR]] — Score 76%
 - [[HPQ]] — Score 76%
+- [[TTWO]] — Score 76%
 - [[HUM]] — Score 76%
 - [[CEG]] — Score 76%
 - [[CRH]] — Score 76%
@@ -32,4 +33,3 @@ Trefferquote: 49% über 202 abgeschlossene Empfehlungen.
 - [[PFE]] — Score 76%
 - [[SNPS]] — Score 76%
 - [[UHS]] — Score 76%
-- [[AZO]] — Score 75%
