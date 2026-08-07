@@ -1,15 +1,15 @@
-# BBY
+# FERG
 
 tags: #Aktie #S-P-500
 
-- Preis: $81.73
-- Tagesbewegung: 2.14%
+- Preis: $259.1
+- Tagesbewegung: 2.26%
 - Gesamt-Score: 76%
 - KGV: —
-- Einstieg: $81.73
-- Stop-Loss: $80.34
-- Ziel 1: $83.81
-- Ziel 2: $85.88
+- Einstieg: $259.1
+- Stop-Loss: $256.62
+- Ziel 1: $262.82
+- Ziel 2: $266.54
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
