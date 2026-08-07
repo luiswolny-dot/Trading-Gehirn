@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T04:45:26.586798+00:00",
+  "timestamp": "2026-08-07T05:00:47.682466+00:00",
   "picks": [
     {
       "symbol": "LDOS",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-07T04:45:26.586798+00:00",
+      "timestamp": "2026-08-07T05:00:47.682466+00:00",
       "fundamental_score": 76,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-07T04:45:26.586798+00:00",
+      "timestamp": "2026-08-07T05:00:47.682466+00:00",
       "fundamental_score": 92,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-07T04:45:26.586798+00:00",
+      "timestamp": "2026-08-07T05:00:47.682466+00:00",
       "fundamental_score": 83,
       "news_score": 100,
       "momentum_quality": 50
