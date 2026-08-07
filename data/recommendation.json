@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T01:30:35.714093+00:00",
+  "timestamp": "2026-08-07T01:45:27.472548+00:00",
   "picks": [
     {
       "symbol": "LDOS",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-07T01:30:35.714093+00:00",
+      "timestamp": "2026-08-07T01:45:27.472548+00:00",
       "fundamental_score": 76,
       "news_score": 100,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-07T01:30:35.714093+00:00",
+      "timestamp": "2026-08-07T01:45:27.472548+00:00",
       "fundamental_score": 92,
       "news_score": 100,
       "momentum_quality": 50
@@ -64,14 +64,14 @@
       "target_2": 38.41,
       "risk_reward": 1.52,
       "final_score": 79,
-      "pe_ratio": 7.9917,
+      "pe_ratio": 8.4229,
       "news_label": "positiv",
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-07T01:30:35.714093+00:00",
+      "timestamp": "2026-08-07T01:45:27.472548+00:00",
       "fundamental_score": 83,
       "news_score": 100,
       "momentum_quality": 50
