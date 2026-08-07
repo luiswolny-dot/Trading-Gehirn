@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 50% über 188 abgeschlossene Empfehlungen.
+Trefferquote: 50% über 189 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[LDOS]] — Score 80%

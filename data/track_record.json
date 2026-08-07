@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-07T06:15:28.271422+00:00",
-  "total_closed": 188,
+  "updated": "2026-08-07T06:30:37.445848+00:00",
+  "total_closed": 189,
   "wins": 94,
-  "losses": 94,
+  "losses": 95,
   "win_rate": 50,
   "avg_win": 2.65,
   "avg_loss": -1.6,
   "expectancy": 0.52,
-  "total_pnl": 97.92,
-  "still_open": 10,
+  "total_pnl": 97.01,
+  "still_open": 9,
   "recent": [
+    {
+      "id": "EBAY_2026-08-06T06:15:30.134443+00:00",
+      "symbol": "EBAY",
+      "opened_at": "2026-08-06T06:15:30.134443+00:00",
+      "entry": "111.15",
+      "stop_loss": "108.61",
+      "target_1": "114.96",
+      "target_2": "118.76",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-07T06:30:37.445848+00:00",
+      "resolved_price": 110.14,
+      "pnl_pct": -0.91,
+      "invested_eur": ""
+    },
     {
       "id": "HLT_2026-08-05T17:30:46.465581+00:00",
       "symbol": "HLT",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-06T15:00:51.556676+00:00",
       "resolved_price": "51.99",
       "pnl_pct": "1.44",
-      "invested_eur": ""
-    },
-    {
-      "id": "UNH_2026-08-05T17:15:32.009744+00:00",
-      "symbol": "UNH",
-      "opened_at": "2026-08-05T17:15:32.009744+00:00",
-      "entry": "415.55",
-      "stop_loss": "406.34",
-      "target_1": "429.37",
-      "target_2": "443.18",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-06T14:45:27.838945+00:00",
-      "resolved_price": "405.98",
-      "pnl_pct": "-2.3",
       "invested_eur": ""
     }
   ]
