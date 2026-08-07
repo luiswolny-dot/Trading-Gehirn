@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-07T13:30:41.428429+00:00",
-  "total_closed": 191,
-  "wins": 95,
-  "losses": 96,
+  "updated": "2026-08-07T13:45:31.444696+00:00",
+  "total_closed": 193,
+  "wins": 96,
+  "losses": 97,
   "win_rate": 50,
-  "avg_win": 2.66,
+  "avg_win": 2.72,
   "avg_loss": -1.6,
-  "expectancy": 0.53,
-  "total_pnl": 99.84,
+  "expectancy": 0.56,
+  "total_pnl": 105.28,
   "still_open": 9,
   "recent": [
+    {
+      "id": "FSLR_2026-08-06T13:45:37.394791+00:00",
+      "symbol": "FSLR",
+      "opened_at": "2026-08-06T13:45:37.394791+00:00",
+      "entry": "246.36",
+      "stop_loss": "239.59",
+      "target_1": "256.51",
+      "target_2": "266.67",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-07T13:45:31.444696+00:00",
+      "resolved_price": 264.97,
+      "pnl_pct": 7.55,
+      "invested_eur": ""
+    },
+    {
+      "id": "APA_2026-08-06T23:03:26.818334+00:00",
+      "symbol": "APA",
+      "opened_at": "2026-08-06T23:03:26.818334+00:00",
+      "entry": "36.53",
+      "stop_loss": "35.91",
+      "target_1": "37.47",
+      "target_2": "38.41",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-07T13:45:31.444696+00:00",
+      "resolved_price": 35.76,
+      "pnl_pct": -2.11,
+      "invested_eur": ""
+    },
     {
       "id": "NEM_2026-08-06T14:30:39.326718+00:00",
       "symbol": "NEM",
@@ -20,8 +48,8 @@
       "target_2": "110.13",
       "status": "ziel_2_erreicht",
       "resolved_at": "2026-08-07T13:30:41.428429+00:00",
-      "resolved_price": 110.58,
-      "pnl_pct": 4.44,
+      "resolved_price": "110.58",
+      "pnl_pct": "4.44",
       "invested_eur": ""
     },
     {
@@ -34,8 +62,8 @@
       "target_2": "159.38",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-07T13:30:41.428429+00:00",
-      "resolved_price": 152.34,
-      "pnl_pct": -1.61,
+      "resolved_price": "152.34",
+      "pnl_pct": "-1.61",
       "invested_eur": ""
     },
     {
@@ -120,34 +148,6 @@
       "resolved_at": "2026-08-06T23:03:26.818334+00:00",
       "resolved_price": "56.04",
       "pnl_pct": "-1.74",
-      "invested_eur": ""
-    },
-    {
-      "id": "DHR_2026-08-05T15:45:29.800582+00:00",
-      "symbol": "DHR",
-      "opened_at": "2026-08-05T15:45:29.800582+00:00",
-      "entry": "200.29",
-      "stop_loss": "196.77",
-      "target_1": "205.57",
-      "target_2": "210.85",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-06T15:46:37.822973+00:00",
-      "resolved_price": "197.33",
-      "pnl_pct": "-1.48",
-      "invested_eur": ""
-    },
-    {
-      "id": "AIZ_2026-08-06T03:15:32.302373+00:00",
-      "symbol": "AIZ",
-      "opened_at": "2026-08-06T03:15:32.302373+00:00",
-      "entry": "301.57",
-      "stop_loss": "295.42",
-      "target_1": "310.79",
-      "target_2": "320.0",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-06T15:18:00.679652+00:00",
-      "resolved_price": "293.93",
-      "pnl_pct": "-2.53",
       "invested_eur": ""
     }
   ]

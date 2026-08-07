@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 50% über 191 abgeschlossene Empfehlungen.
+Trefferquote: 50% über 193 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[FSLR]] — Score 87%
-- [[AKAM]] — Score 84%
-- [[NEM]] — Score 81%
-- [[ADI]] — Score 79%
-- [[FIX]] — Score 79%
-- [[MCHP]] — Score 77%
-- [[CIEN]] — Score 77%
-- [[RSG]] — Score 77%
-- [[UBER]] — Score 75%
-- [[AMD]] — Score 75%
-- [[APD]] — Score 75%
-- [[ADSK]] — Score 75%
-- [[BX]] — Score 75%
-- [[FLEX]] — Score 74%
-- [[ALL]] — Score 73%
-- [[KLAC]] — Score 73%
-- [[INTC]] — Score 73%
-- [[COR]] — Score 73%
-- [[EBAY]] — Score 73%
-- [[PSKY]] — Score 73%
-- [[CRM]] — Score 73%
-- [[SHW]] — Score 73%
+- [[NEM]] — Score 82%
+- [[FSLR]] — Score 81%
+- [[RSG]] — Score 78%
+- [[GEN]] — Score 77%
+- [[UBER]] — Score 76%
+- [[MCHP]] — Score 75%
+- [[TSLA]] — Score 75%
+- [[VMC]] — Score 75%
+- [[ADI]] — Score 74%
+- [[CRH]] — Score 74%
+- [[CRWD]] — Score 74%
+- [[EBAY]] — Score 74%
+- [[HUM]] — Score 74%
+- [[NVR]] — Score 74%
+- [[HOOD]] — Score 74%
+- [[SHW]] — Score 74%
+- [[WY]] — Score 74%
+- [[ABNB]] — Score 73%
+- [[COHR]] — Score 73%
+- [[PLTR]] — Score 73%
 - [[SWK]] — Score 73%
-- [[ABT]] — Score 72%
-- [[AVY]] — Score 72%
-- [[CBRE]] — Score 72%
-- [[VMC]] — Score 72%
-- [[LITE]] — Score 71%
-- [[ABNB]] — Score 71%
-- [[AME]] — Score 71%
+- [[AMAT]] — Score 73%
+- [[BLDR]] — Score 73%
+- [[QCOM]] — Score 73%
+- [[Q]] — Score 73%
+- [[URI]] — Score 73%
+- [[WST]] — Score 73%
+- [[EFX]] — Score 72%
+- [[APTV]] — Score 72%
+- [[CSGP]] — Score 72%
