@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-07T18:00:47.009626+00:00",
-  "total_closed": 199,
+  "updated": "2026-08-07T18:15:35.168180+00:00",
+  "total_closed": 200,
   "wins": 98,
-  "losses": 101,
+  "losses": 102,
   "win_rate": 49,
   "avg_win": 2.7,
   "avg_loss": -1.62,
   "expectancy": 0.5,
-  "total_pnl": 101.01,
-  "still_open": 15,
+  "total_pnl": 99.51,
+  "still_open": 16,
   "recent": [
+    {
+      "id": "RSG_2026-08-07T13:45:31.444696+00:00",
+      "symbol": "RSG",
+      "opened_at": "2026-08-07T13:45:31.444696+00:00",
+      "entry": "217.47",
+      "stop_loss": "214.31",
+      "target_1": "222.22",
+      "target_2": "226.97",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-07T18:15:35.168180+00:00",
+      "resolved_price": 214.21,
+      "pnl_pct": -1.5,
+      "invested_eur": ""
+    },
     {
       "id": "MCHP_2026-08-07T13:30:41.428429+00:00",
       "symbol": "MCHP",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-07T13:30:41.428429+00:00",
       "resolved_price": "110.58",
       "pnl_pct": "4.44",
-      "invested_eur": ""
-    },
-    {
-      "id": "XOM_2026-08-06T23:03:26.818334+00:00",
-      "symbol": "XOM",
-      "opened_at": "2026-08-06T23:03:26.818334+00:00",
-      "entry": "154.84",
-      "stop_loss": "153.32",
-      "target_1": "157.11",
-      "target_2": "159.38",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-07T13:30:41.428429+00:00",
-      "resolved_price": "152.34",
-      "pnl_pct": "-1.61",
       "invested_eur": ""
     }
   ]
