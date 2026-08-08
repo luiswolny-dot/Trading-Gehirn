@@ -18,6 +18,7 @@ Trefferquote: 49% über 203 abgeschlossene Empfehlungen.
 - [[LULU]] — Score 77%
 - [[OMC]] — Score 77%
 - [[TMO]] — Score 77%
+- [[ABNB]] — Score 76%
 - [[MCHP]] — Score 76%
 - [[PLTR]] — Score 76%
 - [[HPQ]] — Score 76%
@@ -32,4 +33,3 @@ Trefferquote: 49% über 203 abgeschlossene Empfehlungen.
 - [[ORCL]] — Score 76%
 - [[PFE]] — Score 76%
 - [[SNPS]] — Score 76%
-- [[UHS]] — Score 76%
