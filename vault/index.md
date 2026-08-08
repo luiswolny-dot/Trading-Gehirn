@@ -4,9 +4,9 @@ Trefferquote: 49% über 203 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[NEM]] — Score 81%
-- [[MRNA]] — Score 79%
 - [[SWKS]] — Score 79%
 - [[QCOM]] — Score 79%
+- [[MRNA]] — Score 78%
 - [[UBER]] — Score 78%
 - [[A]] — Score 78%
 - [[IQV]] — Score 78%
