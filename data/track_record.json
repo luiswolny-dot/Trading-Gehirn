@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-08T14:00:43.468573+00:00",
-  "total_closed": 204,
+  "updated": "2026-08-08T14:15:26.575544+00:00",
+  "total_closed": 205,
   "wins": 100,
-  "losses": 104,
+  "losses": 105,
   "win_rate": 49,
   "avg_win": 2.68,
-  "avg_loss": -1.62,
+  "avg_loss": -1.61,
   "expectancy": 0.49,
-  "total_pnl": 99.53,
-  "still_open": 13,
+  "total_pnl": 99.02,
+  "still_open": 12,
   "recent": [
+    {
+      "id": "GEN_2026-08-07T14:00:47.662956+00:00",
+      "symbol": "GEN",
+      "opened_at": "2026-08-07T14:00:47.662956+00:00",
+      "entry": "29.32",
+      "stop_loss": "28.45",
+      "target_1": "30.63",
+      "target_2": "31.95",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-08T14:15:26.575544+00:00",
+      "resolved_price": 29.17,
+      "pnl_pct": -0.51,
+      "invested_eur": ""
+    },
     {
       "id": "NEM_2026-08-07T13:30:41.428429+00:00",
       "symbol": "NEM",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-07T14:15:27.915899+00:00",
       "resolved_price": "254.45",
       "pnl_pct": "-3.32",
-      "invested_eur": ""
-    },
-    {
-      "id": "RL_2026-08-06T13:45:37.394791+00:00",
-      "symbol": "RL",
-      "opened_at": "2026-08-06T13:45:37.394791+00:00",
-      "entry": "397.82",
-      "stop_loss": "384.06",
-      "target_1": "418.46",
-      "target_2": "439.11",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-07T14:00:47.662956+00:00",
-      "resolved_price": "390.09",
-      "pnl_pct": "-1.94",
       "invested_eur": ""
     }
   ]
