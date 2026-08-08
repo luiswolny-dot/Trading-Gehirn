@@ -20,4 +20,4 @@ tags: #Aktie #S-P-500
 - 2026-07-22: ziel_1_erreicht (4.89%)
 - 2026-07-22: abgelaufen_verlust (-1.29%)
 - 2026-08-04: abgelaufen_verlust (-1.29%)
-- 2026-08-07: open
+- 2026-08-07: abgelaufen_gewinn (1.17%)

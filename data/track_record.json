@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-08T16:00:50.950670+00:00",
-  "total_closed": 208,
-  "wins": 101,
-  "losses": 107,
+  "updated": "2026-08-08T16:15:27.213876+00:00",
+  "total_closed": 210,
+  "wins": 102,
+  "losses": 108,
   "win_rate": 49,
-  "avg_win": 2.65,
-  "avg_loss": -1.58,
+  "avg_win": 2.64,
+  "avg_loss": -1.57,
   "expectancy": 0.49,
-  "total_pnl": 98.5,
-  "still_open": 9,
+  "total_pnl": 99.38,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "SMCI_2026-08-07T16:00:54.226268+00:00",
+      "symbol": "SMCI",
+      "opened_at": "2026-08-07T16:00:54.226268+00:00",
+      "entry": "30.77",
+      "stop_loss": "30.19",
+      "target_1": "31.64",
+      "target_2": "32.51",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-08T16:15:27.213876+00:00",
+      "resolved_price": 31.13,
+      "pnl_pct": 1.17,
+      "invested_eur": ""
+    },
+    {
+      "id": "PCG_2026-08-07T16:00:54.226268+00:00",
+      "symbol": "PCG",
+      "opened_at": "2026-08-07T16:00:54.226268+00:00",
+      "entry": "17.51",
+      "stop_loss": "17.19",
+      "target_1": "17.99",
+      "target_2": "18.47",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-08T16:15:27.213876+00:00",
+      "resolved_price": 17.46,
+      "pnl_pct": -0.29,
+      "invested_eur": ""
+    },
     {
       "id": "EIX_2026-08-07T15:45:32.057138+00:00",
       "symbol": "EIX",
@@ -20,8 +48,8 @@
       "target_2": "71.45",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-08T16:00:50.950670+00:00",
-      "resolved_price": 68.62,
-      "pnl_pct": -0.26,
+      "resolved_price": "68.62",
+      "pnl_pct": "-0.26",
       "invested_eur": ""
     },
     {
@@ -120,34 +148,6 @@
       "resolved_at": "2026-08-07T18:45:29.189295+00:00",
       "resolved_price": "264.87",
       "pnl_pct": "-1.71",
-      "invested_eur": ""
-    },
-    {
-      "id": "RSG_2026-08-07T13:45:31.444696+00:00",
-      "symbol": "RSG",
-      "opened_at": "2026-08-07T13:45:31.444696+00:00",
-      "entry": "217.47",
-      "stop_loss": "214.31",
-      "target_1": "222.22",
-      "target_2": "226.97",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-07T18:15:35.168180+00:00",
-      "resolved_price": "214.21",
-      "pnl_pct": "-1.5",
-      "invested_eur": ""
-    },
-    {
-      "id": "MCHP_2026-08-07T13:30:41.428429+00:00",
-      "symbol": "MCHP",
-      "opened_at": "2026-08-07T13:30:41.428429+00:00",
-      "entry": "83.12",
-      "stop_loss": "81.75",
-      "target_1": "85.17",
-      "target_2": "87.23",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-07T17:30:47.212434+00:00",
-      "resolved_price": "85.28",
-      "pnl_pct": "2.6",
       "invested_eur": ""
     }
   ]
