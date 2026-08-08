@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-08T17:00:42.936733+00:00",
-  "total_closed": 212,
-  "wins": 103,
+  "updated": "2026-08-08T17:15:37.532305+00:00",
+  "total_closed": 213,
+  "wins": 104,
   "losses": 109,
   "win_rate": 49,
-  "avg_win": 2.63,
+  "avg_win": 2.61,
   "avg_loss": -1.56,
-  "expectancy": 0.49,
-  "total_pnl": 100.35,
+  "expectancy": 0.48,
+  "total_pnl": 100.82,
   "still_open": 5,
   "recent": [
+    {
+      "id": "QCOM_2026-08-07T17:00:50.166576+00:00",
+      "symbol": "QCOM",
+      "opened_at": "2026-08-07T17:00:50.166576+00:00",
+      "entry": "167.08",
+      "stop_loss": "164.67",
+      "target_1": "170.69",
+      "target_2": "174.31",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-08T17:15:37.532305+00:00",
+      "resolved_price": 167.86,
+      "pnl_pct": 0.47,
+      "invested_eur": ""
+    },
     {
       "id": "APA_2026-08-07T16:45:32.442902+00:00",
       "symbol": "APA",
@@ -20,8 +34,8 @@
       "target_2": "40.88",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-08T17:00:42.936733+00:00",
-      "resolved_price": 37.63,
-      "pnl_pct": -0.29,
+      "resolved_price": "37.63",
+      "pnl_pct": "-0.29",
       "invested_eur": ""
     },
     {
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-08T13:45:35.037804+00:00",
       "resolved_price": "112.98",
       "pnl_pct": "1.43",
-      "invested_eur": ""
-    },
-    {
-      "id": "LDOS_2026-08-06T23:21:49.963426+00:00",
-      "symbol": "LDOS",
-      "opened_at": "2026-08-06T23:21:49.963426+00:00",
-      "entry": "135.26",
-      "stop_loss": "131.53",
-      "target_1": "140.85",
-      "target_2": "146.44",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-07T23:30:38.325691+00:00",
-      "resolved_price": "137.57",
-      "pnl_pct": "1.71",
       "invested_eur": ""
     }
   ]
