@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T19:15:25.326016+00:00",
+  "timestamp": "2026-08-08T19:30:37.540808+00:00",
   "picks": [
     {
       "symbol": "NEM",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-08T19:15:25.326016+00:00",
+      "timestamp": "2026-08-08T19:30:37.540808+00:00",
       "fundamental_score": 88,
       "news_score": 100,
       "momentum_quality": 50
@@ -39,15 +39,15 @@
       "target_2": 75.92,
       "risk_reward": 1.51,
       "final_score": 79,
-      "pe_ratio": 35.5253,
+      "pe_ratio": 36.6301,
       "news_label": "positiv",
       "rsi": null,
       "trend_label": "unbekannt",
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-08T19:15:25.326016+00:00",
-      "fundamental_score": 75,
+      "timestamp": "2026-08-08T19:30:37.540808+00:00",
+      "fundamental_score": 74,
       "news_score": 100,
       "momentum_quality": 50
     },
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-08T19:15:25.326016+00:00",
+      "timestamp": "2026-08-08T19:30:37.540808+00:00",
       "fundamental_score": 79,
       "news_score": 100,
       "momentum_quality": 50
