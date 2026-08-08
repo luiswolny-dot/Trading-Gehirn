@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-08T13:30:32.609582+00:00",
-  "total_closed": 203,
-  "wins": 99,
+  "updated": "2026-08-08T13:45:35.037804+00:00",
+  "total_closed": 204,
+  "wins": 100,
   "losses": 104,
   "win_rate": 49,
-  "avg_win": 2.69,
+  "avg_win": 2.68,
   "avg_loss": -1.62,
   "expectancy": 0.49,
-  "total_pnl": 98.1,
+  "total_pnl": 99.53,
   "still_open": 13,
   "recent": [
+    {
+      "id": "NEM_2026-08-07T13:30:41.428429+00:00",
+      "symbol": "NEM",
+      "opened_at": "2026-08-07T13:30:41.428429+00:00",
+      "entry": "111.39",
+      "stop_loss": "109.92",
+      "target_1": "113.59",
+      "target_2": "115.79",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-08T13:45:35.037804+00:00",
+      "resolved_price": 112.98,
+      "pnl_pct": 1.43,
+      "invested_eur": ""
+    },
     {
       "id": "LDOS_2026-08-06T23:21:49.963426+00:00",
       "symbol": "LDOS",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-07T14:00:47.662956+00:00",
       "resolved_price": "390.09",
       "pnl_pct": "-1.94",
-      "invested_eur": ""
-    },
-    {
-      "id": "HAL_2026-08-06T14:30:39.326718+00:00",
-      "symbol": "HAL",
-      "opened_at": "2026-08-06T14:30:39.326718+00:00",
-      "entry": "32.48",
-      "stop_loss": "32.22",
-      "target_1": "32.88",
-      "target_2": "33.27",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-07T14:00:47.662956+00:00",
-      "resolved_price": "32.18",
-      "pnl_pct": "-0.92",
       "invested_eur": ""
     }
   ]
