@@ -1,15 +1,43 @@
 {
-  "updated": "2026-08-08T14:15:26.575544+00:00",
-  "total_closed": 205,
-  "wins": 100,
-  "losses": 105,
+  "updated": "2026-08-08T14:30:34.038066+00:00",
+  "total_closed": 207,
+  "wins": 101,
+  "losses": 106,
   "win_rate": 49,
-  "avg_win": 2.68,
-  "avg_loss": -1.61,
-  "expectancy": 0.49,
-  "total_pnl": 99.02,
-  "still_open": 12,
+  "avg_win": 2.65,
+  "avg_loss": -1.6,
+  "expectancy": 0.48,
+  "total_pnl": 98.76,
+  "still_open": 10,
   "recent": [
+    {
+      "id": "BKNG_2026-08-07T14:15:27.915899+00:00",
+      "symbol": "BKNG",
+      "opened_at": "2026-08-07T14:15:27.915899+00:00",
+      "entry": "215.15",
+      "stop_loss": "211.01",
+      "target_1": "221.36",
+      "target_2": "227.56",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-08T14:30:34.038066+00:00",
+      "resolved_price": 214.42,
+      "pnl_pct": -0.34,
+      "invested_eur": ""
+    },
+    {
+      "id": "UBER_2026-08-07T14:15:27.915899+00:00",
+      "symbol": "UBER",
+      "opened_at": "2026-08-07T14:15:27.915899+00:00",
+      "entry": "74.96",
+      "stop_loss": "72.94",
+      "target_1": "77.98",
+      "target_2": "81.0",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-08T14:30:34.038066+00:00",
+      "resolved_price": 75.02,
+      "pnl_pct": 0.08,
+      "invested_eur": ""
+    },
     {
       "id": "GEN_2026-08-07T14:00:47.662956+00:00",
       "symbol": "GEN",
@@ -20,8 +48,8 @@
       "target_2": "31.95",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-08T14:15:26.575544+00:00",
-      "resolved_price": 29.17,
-      "pnl_pct": -0.51,
+      "resolved_price": "29.17",
+      "pnl_pct": "-0.51",
       "invested_eur": ""
     },
     {
@@ -120,34 +148,6 @@
       "resolved_at": "2026-08-07T15:30:43.868901+00:00",
       "resolved_price": "189.99",
       "pnl_pct": "-2.17",
-      "invested_eur": ""
-    },
-    {
-      "id": "FOXA_2026-08-06T14:15:29.480406+00:00",
-      "symbol": "FOXA",
-      "opened_at": "2026-08-06T14:15:29.480406+00:00",
-      "entry": "62.06",
-      "stop_loss": "60.59",
-      "target_1": "64.27",
-      "target_2": "66.49",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-07T14:30:45.690551+00:00",
-      "resolved_price": "62.98",
-      "pnl_pct": "1.48",
-      "invested_eur": ""
-    },
-    {
-      "id": "FSLR_2026-08-07T13:45:31.444696+00:00",
-      "symbol": "FSLR",
-      "opened_at": "2026-08-07T13:45:31.444696+00:00",
-      "entry": "263.2",
-      "stop_loss": "255.46",
-      "target_1": "274.8",
-      "target_2": "286.4",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-07T14:15:27.915899+00:00",
-      "resolved_price": "254.45",
-      "pnl_pct": "-3.32",
       "invested_eur": ""
     }
   ]

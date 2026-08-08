@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 205 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 207 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[NEM]] — Score 81%
