@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-08T15:45:25.601836+00:00",
-  "total_closed": 207,
+  "updated": "2026-08-08T16:00:50.950670+00:00",
+  "total_closed": 208,
   "wins": 101,
-  "losses": 106,
+  "losses": 107,
   "win_rate": 49,
   "avg_win": 2.65,
-  "avg_loss": -1.6,
-  "expectancy": 0.48,
-  "total_pnl": 98.76,
-  "still_open": 10,
+  "avg_loss": -1.58,
+  "expectancy": 0.49,
+  "total_pnl": 98.5,
+  "still_open": 9,
   "recent": [
+    {
+      "id": "EIX_2026-08-07T15:45:32.057138+00:00",
+      "symbol": "EIX",
+      "opened_at": "2026-08-07T15:45:32.057138+00:00",
+      "entry": "68.8",
+      "stop_loss": "67.91",
+      "target_1": "70.13",
+      "target_2": "71.45",
+      "status": "abgelaufen_verlust",
+      "resolved_at": "2026-08-08T16:00:50.950670+00:00",
+      "resolved_price": 68.62,
+      "pnl_pct": -0.26,
+      "invested_eur": ""
+    },
     {
       "id": "BKNG_2026-08-07T14:15:27.915899+00:00",
       "symbol": "BKNG",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-07T17:30:47.212434+00:00",
       "resolved_price": "85.28",
       "pnl_pct": "2.6",
-      "invested_eur": ""
-    },
-    {
-      "id": "IT_2026-08-07T14:30:45.690551+00:00",
-      "symbol": "IT",
-      "opened_at": "2026-08-07T14:30:45.690551+00:00",
-      "entry": "194.21",
-      "stop_loss": "190.94",
-      "target_1": "199.12",
-      "target_2": "204.03",
-      "status": "stop_loss_ausgeloest",
-      "resolved_at": "2026-08-07T15:30:43.868901+00:00",
-      "resolved_price": "189.99",
-      "pnl_pct": "-2.17",
       "invested_eur": ""
     }
   ]
