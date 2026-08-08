@@ -12,6 +12,7 @@ Trefferquote: 49% über 203 abgeschlossene Empfehlungen.
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
+- [[HPQ]] — Score 77%
 - [[SMCI]] — Score 77%
 - [[ALGN]] — Score 77%
 - [[GIS]] — Score 77%
@@ -21,7 +22,6 @@ Trefferquote: 49% über 203 abgeschlossene Empfehlungen.
 - [[ABNB]] — Score 76%
 - [[MCHP]] — Score 76%
 - [[PLTR]] — Score 76%
-- [[HPQ]] — Score 76%
 - [[TTWO]] — Score 76%
 - [[HUM]] — Score 76%
 - [[CEG]] — Score 76%
