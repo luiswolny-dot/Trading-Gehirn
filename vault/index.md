@@ -6,11 +6,11 @@ Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 - [[FDS]] — Score 79%
 - [[MRNA]] — Score 78%
 - [[UBER]] — Score 78%
+- [[QCOM]] — Score 78%
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
 - [[NEM]] — Score 77%
-- [[QCOM]] — Score 77%
 - [[SMCI]] — Score 77%
 - [[ALGN]] — Score 77%
 - [[GIS]] — Score 77%
