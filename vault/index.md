@@ -3,16 +3,12 @@
 Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[NEM]] — Score 81%
-- [[SWKS]] — Score 79%
-- [[QCOM]] — Score 79%
 - [[MRNA]] — Score 78%
 - [[UBER]] — Score 78%
-- [[A]] — Score 78%
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
-- [[HPQ]] — Score 77%
+- [[NEM]] — Score 77%
 - [[SMCI]] — Score 77%
 - [[ALGN]] — Score 77%
 - [[GIS]] — Score 77%
@@ -23,7 +19,6 @@ Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 - [[MCHP]] — Score 76%
 - [[PLTR]] — Score 76%
 - [[TTWO]] — Score 76%
-- [[HUM]] — Score 76%
 - [[CEG]] — Score 76%
 - [[CRH]] — Score 76%
 - [[FOXA]] — Score 76%
@@ -33,3 +28,8 @@ Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 - [[ORCL]] — Score 76%
 - [[PFE]] — Score 76%
 - [[SNPS]] — Score 76%
+- [[UHS]] — Score 76%
+- [[QCOM]] — Score 75%
+- [[AZO]] — Score 75%
+- [[BBY]] — Score 75%
+- [[CI]] — Score 75%
