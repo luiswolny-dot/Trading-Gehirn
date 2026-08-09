@@ -10,13 +10,13 @@ Trefferquote: 49% über 219 abgeschlossene Empfehlungen.
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
+- [[ABNB]] — Score 77%
 - [[SMCI]] — Score 77%
 - [[ALGN]] — Score 77%
 - [[GIS]] — Score 77%
 - [[LULU]] — Score 77%
 - [[OMC]] — Score 77%
 - [[TMO]] — Score 77%
-- [[ABNB]] — Score 76%
 - [[MCHP]] — Score 76%
 - [[PLTR]] — Score 76%
 - [[TTWO]] — Score 76%
