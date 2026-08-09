@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T03:00:46.915520+00:00",
+  "timestamp": "2026-08-09T03:15:34.315419+00:00",
   "picks": [
     {
       "symbol": "MRNA",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-09T03:00:46.915520+00:00",
+      "timestamp": "2026-08-09T03:15:34.315419+00:00",
       "fundamental_score": 74,
       "news_score": 74,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-09T03:00:46.915520+00:00",
+      "timestamp": "2026-08-09T03:15:34.315419+00:00",
       "fundamental_score": 71,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-09T03:00:46.915520+00:00",
+      "timestamp": "2026-08-09T03:15:34.315419+00:00",
       "fundamental_score": 88,
       "news_score": 82,
       "momentum_quality": 50
