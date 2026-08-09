@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 217 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[FDS]] — Score 79%
