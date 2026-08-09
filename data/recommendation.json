@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T14:00:42.203876+00:00",
+  "timestamp": "2026-08-09T14:15:28.503363+00:00",
   "picks": [
     {
       "symbol": "FDS",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-09T14:00:42.203876+00:00",
+      "timestamp": "2026-08-09T14:15:28.503363+00:00",
       "fundamental_score": 89,
       "news_score": 98,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-09T14:00:42.203876+00:00",
+      "timestamp": "2026-08-09T14:15:28.503363+00:00",
       "fundamental_score": 74,
       "news_score": 74,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-09T14:00:42.203876+00:00",
+      "timestamp": "2026-08-09T14:15:28.503363+00:00",
       "fundamental_score": 71,
       "news_score": 100,
       "momentum_quality": 50

@@ -10,7 +10,6 @@ Trefferquote: 49% über 217 abgeschlossene Empfehlungen.
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
-- [[NEM]] — Score 77%
 - [[SMCI]] — Score 77%
 - [[ALGN]] — Score 77%
 - [[GIS]] — Score 77%
@@ -33,3 +32,4 @@ Trefferquote: 49% über 217 abgeschlossene Empfehlungen.
 - [[UHS]] — Score 76%
 - [[AZO]] — Score 75%
 - [[BBY]] — Score 75%
+- [[CI]] — Score 75%
