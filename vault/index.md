@@ -3,6 +3,7 @@
 Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[FDS]] — Score 79%
 - [[MRNA]] — Score 78%
 - [[UBER]] — Score 78%
 - [[IQV]] — Score 78%
@@ -32,4 +33,3 @@ Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 - [[QCOM]] — Score 75%
 - [[AZO]] — Score 75%
 - [[BBY]] — Score 75%
-- [[CI]] — Score 75%
