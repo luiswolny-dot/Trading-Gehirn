@@ -10,6 +10,7 @@ Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
 - [[NEM]] — Score 77%
+- [[QCOM]] — Score 77%
 - [[SMCI]] — Score 77%
 - [[ALGN]] — Score 77%
 - [[GIS]] — Score 77%
@@ -30,6 +31,5 @@ Trefferquote: 50% über 216 abgeschlossene Empfehlungen.
 - [[PFE]] — Score 76%
 - [[SNPS]] — Score 76%
 - [[UHS]] — Score 76%
-- [[QCOM]] — Score 75%
 - [[AZO]] — Score 75%
 - [[BBY]] — Score 75%
