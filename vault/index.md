@@ -10,13 +10,14 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 - [[COP]] — Score 80%
 - [[APO]] — Score 80%
 - [[AXON]] — Score 80%
-- [[BX]] — Score 80%
 - [[CRL]] — Score 80%
 - [[IT]] — Score 80%
 - [[RMD]] — Score 80%
 - [[TRGP]] — Score 80%
 - [[CF]] — Score 79%
+- [[OXY]] — Score 79%
 - [[BKR]] — Score 79%
+- [[BX]] — Score 79%
 - [[CRWD]] — Score 79%
 - [[XOM]] — Score 79%
 - [[MPC]] — Score 78%
@@ -27,9 +28,8 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 - [[NFLX]] — Score 78%
 - [[REGN]] — Score 78%
 - [[APA]] — Score 77%
-- [[OXY]] — Score 77%
 - [[CASY]] — Score 77%
+- [[DHR]] — Score 77%
 - [[MDT]] — Score 77%
 - [[NEM]] — Score 77%
 - [[ZTS]] — Score 77%
-- [[BG]] — Score 76%
