@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10T00:00:47.661822+00:00",
+  "updated": "2026-08-10T00:15:27.540952+00:00",
   "starting_balance": 100.0,
-  "cash": 74.17,
-  "invested_in_open_positions": 0,
+  "cash": 40.84,
+  "invested_in_open_positions": 33.33,
   "total_value": 74.17,
   "return_pct": -25.83,
-  "open_position_count": 0,
+  "open_position_count": 1,
   "recent_closed_trades": [
     {
       "symbol": "CBOE",
