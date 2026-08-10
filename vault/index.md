@@ -4,8 +4,8 @@ Trefferquote: 48% über 221 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[FDS]] — Score 80%
+- [[QCOM]] — Score 79%
 - [[UBER]] — Score 78%
-- [[QCOM]] — Score 78%
 - [[IQV]] — Score 78%
 - [[SW]] — Score 78%
 - [[TXN]] — Score 78%
