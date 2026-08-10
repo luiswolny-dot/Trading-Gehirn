@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T13:45:34.353799+00:00",
+  "updated": "2026-08-10T14:00:46.823167+00:00",
   "total_closed": 223,
   "wins": 108,
   "losses": 115,
@@ -8,7 +8,7 @@
   "avg_loss": -1.48,
   "expectancy": 0.44,
   "total_pnl": 103.41,
-  "still_open": 7,
+  "still_open": 9,
   "recent": [
     {
       "id": "ADM_2026-08-10T13:30:40.849684+00:00",
@@ -20,8 +20,8 @@
       "target_2": "79.48",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-10T13:45:34.353799+00:00",
-      "resolved_price": 78.57,
-      "pnl_pct": 1.37,
+      "resolved_price": "78.57",
+      "pnl_pct": "1.37",
       "invested_eur": ""
     },
     {
