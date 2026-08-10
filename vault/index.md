@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 48% über 222 abgeschlossene Empfehlungen.
+Trefferquote: 48% über 223 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[AES]] — Score 90%
-- [[ADM]] — Score 79%
-- [[DVN]] — Score 78%
+- [[ADM]] — Score 80%
+- [[SNDK]] — Score 79%
+- [[COP]] — Score 79%
 - [[OXY]] — Score 76%
-- [[UBER]] — Score 76%
-- [[FANG]] — Score 76%
-- [[HAL]] — Score 76%
-- [[BSX]] — Score 75%
+- [[AKAM]] — Score 75%
 - [[CF]] — Score 75%
-- [[XOM]] — Score 75%
-- [[RMD]] — Score 75%
-- [[ALGN]] — Score 74%
-- [[APA]] — Score 74%
-- [[CNC]] — Score 74%
-- [[FFIV]] — Score 74%
-- [[LYB]] — Score 74%
-- [[TRGP]] — Score 74%
-- [[ELV]] — Score 73%
-- [[MCK]] — Score 73%
-- [[OKE]] — Score 73%
-- [[SRE]] — Score 73%
-- [[TTWO]] — Score 72%
-- [[DXCM]] — Score 72%
-- [[EOG]] — Score 72%
-- [[HUM]] — Score 72%
-- [[MSCI]] — Score 72%
-- [[UNH]] — Score 72%
-- [[SLB]] — Score 71%
+- [[IBKR]] — Score 74%
+- [[MCK]] — Score 74%
+- [[A]] — Score 73%
+- [[BSX]] — Score 73%
+- [[NTRS]] — Score 73%
+- [[PLTR]] — Score 73%
+- [[PTC]] — Score 73%
+- [[MNST]] — Score 72%
+- [[ACN]] — Score 72%
+- [[ADSK]] — Score 72%
+- [[BNY]] — Score 72%
+- [[CVX]] — Score 72%
+- [[EW]] — Score 72%
+- [[PANW]] — Score 72%
+- [[STT]] — Score 72%
+- [[TYL]] — Score 72%
+- [[DVN]] — Score 71%
+- [[ABT]] — Score 71%
 - [[BG]] — Score 71%
-- [[CI]] — Score 71%
+- [[XOM]] — Score 71%
+- [[FFIV]] — Score 71%
+- [[BEN]] — Score 71%
+- [[INCY]] — Score 71%
+- [[ICE]] — Score 71%
