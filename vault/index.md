@@ -20,6 +20,7 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 - [[BX]] — Score 79%
 - [[CRWD]] — Score 79%
 - [[XOM]] — Score 79%
+- [[APA]] — Score 78%
 - [[MPC]] — Score 78%
 - [[ADBE]] — Score 78%
 - [[BR]] — Score 78%
@@ -27,7 +28,6 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 - [[INTU]] — Score 78%
 - [[NFLX]] — Score 78%
 - [[REGN]] — Score 78%
-- [[APA]] — Score 77%
 - [[CASY]] — Score 77%
 - [[DHR]] — Score 77%
 - [[MDT]] — Score 77%
