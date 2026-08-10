@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-10T18:45:27.349391+00:00",
-  "total_closed": 224,
-  "wins": 108,
+  "updated": "2026-08-10T19:00:49.613347+00:00",
+  "total_closed": 225,
+  "wins": 109,
   "losses": 116,
   "win_rate": 48,
   "avg_win": 2.53,
   "avg_loss": -1.48,
   "expectancy": 0.44,
-  "total_pnl": 101.56,
+  "total_pnl": 103.92,
   "still_open": 13,
   "recent": [
+    {
+      "id": "ADM_2026-08-10T13:45:34.353799+00:00",
+      "symbol": "ADM",
+      "opened_at": "2026-08-10T13:45:34.353799+00:00",
+      "entry": "78.66",
+      "stop_loss": "77.44",
+      "target_1": "80.5",
+      "target_2": "82.34",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-10T19:00:49.613347+00:00",
+      "resolved_price": 80.52,
+      "pnl_pct": 2.36,
+      "invested_eur": ""
+    },
     {
       "id": "QCOM_2026-08-10T00:00:47.661822+00:00",
       "symbol": "QCOM",
@@ -133,20 +147,6 @@
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-08T18:30:34.768700+00:00",
       "resolved_price": "64.03",
-      "pnl_pct": "0.19",
-      "invested_eur": ""
-    },
-    {
-      "id": "MRNA_2026-08-07T18:15:35.168180+00:00",
-      "symbol": "MRNA",
-      "opened_at": "2026-08-07T18:15:35.168180+00:00",
-      "entry": "59.06",
-      "stop_loss": "56.8",
-      "target_1": "62.46",
-      "target_2": "65.86",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-08T18:30:34.768700+00:00",
-      "resolved_price": "59.17",
       "pnl_pct": "0.19",
       "invested_eur": ""
     }
