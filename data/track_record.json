@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-10T19:30:38.861448+00:00",
-  "total_closed": 225,
-  "wins": 109,
+  "updated": "2026-08-10T19:45:31.607711+00:00",
+  "total_closed": 226,
+  "wins": 110,
   "losses": 116,
-  "win_rate": 48,
-  "avg_win": 2.53,
+  "win_rate": 49,
+  "avg_win": 2.52,
   "avg_loss": -1.48,
-  "expectancy": 0.44,
-  "total_pnl": 103.92,
-  "still_open": 13,
+  "expectancy": 0.48,
+  "total_pnl": 105.62,
+  "still_open": 12,
   "recent": [
+    {
+      "id": "COP_2026-08-10T13:45:34.353799+00:00",
+      "symbol": "COP",
+      "opened_at": "2026-08-10T13:45:34.353799+00:00",
+      "entry": "121.17",
+      "stop_loss": "119.88",
+      "target_1": "123.11",
+      "target_2": "125.04",
+      "status": "ziel_1_erreicht",
+      "resolved_at": "2026-08-10T19:45:31.607711+00:00",
+      "resolved_price": 123.23,
+      "pnl_pct": 1.7,
+      "invested_eur": ""
+    },
     {
       "id": "ADM_2026-08-10T13:45:34.353799+00:00",
       "symbol": "ADM",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-09T14:00:42.203876+00:00",
       "resolved_price": "112.98",
       "pnl_pct": "0.0",
-      "invested_eur": ""
-    },
-    {
-      "id": "FOXA_2026-08-07T18:15:35.168180+00:00",
-      "symbol": "FOXA",
-      "opened_at": "2026-08-07T18:15:35.168180+00:00",
-      "entry": "63.91",
-      "stop_loss": "63.02",
-      "target_1": "65.25",
-      "target_2": "66.58",
-      "status": "abgelaufen_gewinn",
-      "resolved_at": "2026-08-08T18:30:34.768700+00:00",
-      "resolved_price": "64.03",
-      "pnl_pct": "0.19",
       "invested_eur": ""
     }
   ]
