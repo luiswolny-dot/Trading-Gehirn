@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 227 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 228 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[HAL]] — Score 83%
