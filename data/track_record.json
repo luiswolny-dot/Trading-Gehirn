@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-11T00:15:25.615610+00:00",
-  "total_closed": 226,
-  "wins": 110,
+  "updated": "2026-08-11T00:30:35.903274+00:00",
+  "total_closed": 227,
+  "wins": 111,
   "losses": 116,
   "win_rate": 49,
-  "avg_win": 2.52,
+  "avg_win": 2.54,
   "avg_loss": -1.48,
-  "expectancy": 0.48,
-  "total_pnl": 105.62,
-  "still_open": 13,
+  "expectancy": 0.49,
+  "total_pnl": 109.63,
+  "still_open": 12,
   "recent": [
+    {
+      "id": "UBER_2026-08-10T00:15:27.540952+00:00",
+      "symbol": "UBER",
+      "opened_at": "2026-08-10T00:15:27.540952+00:00",
+      "entry": "75.02",
+      "stop_loss": "72.92",
+      "target_1": "78.16",
+      "target_2": "81.3",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-11T00:30:35.903274+00:00",
+      "resolved_price": 78.03,
+      "pnl_pct": 4.01,
+      "invested_eur": "33.33"
+    },
     {
       "id": "COP_2026-08-10T13:45:34.353799+00:00",
       "symbol": "COP",
@@ -133,20 +147,6 @@
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-09T17:30:37.449817+00:00",
       "resolved_price": "70.62",
-      "pnl_pct": "0.0",
-      "invested_eur": ""
-    },
-    {
-      "id": "NEM_2026-08-08T13:45:35.037804+00:00",
-      "symbol": "NEM",
-      "opened_at": "2026-08-08T13:45:35.037804+00:00",
-      "entry": "112.98",
-      "stop_loss": "111.1",
-      "target_1": "115.8",
-      "target_2": "118.63",
-      "status": "abgelaufen_verlust",
-      "resolved_at": "2026-08-09T14:00:42.203876+00:00",
-      "resolved_price": "112.98",
       "pnl_pct": "0.0",
       "invested_eur": ""
     }

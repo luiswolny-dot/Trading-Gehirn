@@ -1,12 +1,20 @@
 {
-  "updated": "2026-08-11T00:15:25.615610+00:00",
+  "updated": "2026-08-11T00:30:35.903274+00:00",
   "starting_balance": 100.0,
-  "cash": 7.51,
-  "invested_in_open_positions": 66.66,
-  "total_value": 74.17,
-  "return_pct": -25.83,
-  "open_position_count": 2,
+  "cash": 40.18,
+  "invested_in_open_positions": 33.33,
+  "total_value": 73.51,
+  "return_pct": -26.49,
+  "open_position_count": 1,
   "recent_closed_trades": [
+    {
+      "symbol": "UBER",
+      "opened_at": "2026-08-10T00:15:27.540952+00:00",
+      "resolved_at": "2026-08-11T00:30:35.903274+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -0.66,
+      "status": "abgelaufen_gewinn"
+    },
     {
       "symbol": "CBOE",
       "opened_at": "2026-08-01T20:15:24.594662+00:00",
@@ -77,14 +85,6 @@
       "resolved_at": "2026-07-22T13:30:37.624570+00:00",
       "invested_eur": 33.33,
       "net_pnl_eur": -2.94,
-      "status": "stop_loss_ausgeloest"
-    },
-    {
-      "symbol": "MMM",
-      "opened_at": "2026-07-21T14:21:08.258081+00:00",
-      "resolved_at": "2026-07-21T17:45:24.746405+00:00",
-      "invested_eur": 27.0,
-      "net_pnl_eur": -2.58,
       "status": "stop_loss_ausgeloest"
     }
   ]
