@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 242 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 243 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[KKR]] — Score 80%
+- [[KKR]] — Score 81%
+- [[COP]] — Score 76%
+- [[TPL]] — Score 74%
 - [[BX]] — Score 74%
-- [[MGM]] — Score 74%
-- [[TPL]] — Score 73%
-- [[MPC]] — Score 73%
-- [[ARES]] — Score 73%
-- [[DPZ]] — Score 73%
-- [[EMR]] — Score 73%
-- [[ROK]] — Score 73%
-- [[CBRE]] — Score 72%
-- [[COP]] — Score 72%
-- [[EXPE]] — Score 72%
-- [[GILD]] — Score 72%
-- [[IEX]] — Score 72%
-- [[NI]] — Score 72%
-- [[PLD]] — Score 72%
-- [[STX]] — Score 72%
-- [[SO]] — Score 72%
-- [[WEC]] — Score 72%
-- [[AXON]] — Score 71%
-- [[HAS]] — Score 71%
-- [[VLO]] — Score 71%
-- [[ABNB]] — Score 71%
-- [[AEE]] — Score 71%
-- [[ATO]] — Score 71%
-- [[EOG]] — Score 71%
-- [[OKE]] — Score 71%
-- [[XEL]] — Score 71%
-- [[JBL]] — Score 70%
-- [[CMCSA]] — Score 70%
+- [[ROK]] — Score 74%
+- [[ABNB]] — Score 73%
+- [[BLDR]] — Score 73%
+- [[CBRE]] — Score 73%
+- [[CRL]] — Score 73%
+- [[CHTR]] — Score 73%
+- [[DAL]] — Score 73%
+- [[DUK]] — Score 73%
+- [[GILD]] — Score 73%
+- [[HUBB]] — Score 73%
+- [[ISRG]] — Score 73%
+- [[LUV]] — Score 73%
+- [[MPC]] — Score 72%
+- [[ARES]] — Score 72%
+- [[AEE]] — Score 72%
+- [[AMP]] — Score 72%
+- [[ACGL]] — Score 72%
+- [[ATO]] — Score 72%
+- [[CMCSA]] — Score 72%
+- [[DPZ]] — Score 72%
+- [[HBAN]] — Score 72%
+- [[MRSH]] — Score 72%
+- [[PEG]] — Score 72%
+- [[TMO]] — Score 72%
+- [[TFC]] — Score 72%
+- [[VLO]] — Score 72%
