@@ -26,10 +26,10 @@ Trefferquote: 49% über 227 abgeschlossene Empfehlungen.
 - [[INTU]] — Score 78%
 - [[NFLX]] — Score 78%
 - [[REGN]] — Score 78%
+- [[FANG]] — Score 77%
 - [[CASY]] — Score 77%
 - [[DHR]] — Score 77%
 - [[MDT]] — Score 77%
 - [[NEM]] — Score 77%
 - [[ZTS]] — Score 77%
 - [[OXY]] — Score 76%
-- [[BG]] — Score 76%
