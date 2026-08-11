@@ -20,6 +20,7 @@ Trefferquote: 49% über 228 abgeschlossene Empfehlungen.
 - [[XOM]] — Score 79%
 - [[MPC]] — Score 78%
 - [[CF]] — Score 78%
+- [[EOG]] — Score 78%
 - [[ADBE]] — Score 78%
 - [[BR]] — Score 78%
 - [[CVNA]] — Score 78%
@@ -32,4 +33,3 @@ Trefferquote: 49% über 228 abgeschlossene Empfehlungen.
 - [[MDT]] — Score 77%
 - [[NEM]] — Score 77%
 - [[ZTS]] — Score 77%
-- [[OXY]] — Score 76%
