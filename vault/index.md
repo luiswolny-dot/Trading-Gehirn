@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 228 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 229 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[HAL]] — Score 83%
-- [[CVX]] — Score 82%
-- [[UBER]] — Score 81%
-- [[COP]] — Score 80%
-- [[APO]] — Score 80%
-- [[AXON]] — Score 80%
-- [[CRL]] — Score 80%
-- [[IT]] — Score 80%
-- [[RMD]] — Score 80%
-- [[TRGP]] — Score 80%
-- [[APA]] — Score 79%
-- [[BKR]] — Score 79%
-- [[BX]] — Score 79%
-- [[CRWD]] — Score 79%
-- [[XOM]] — Score 79%
-- [[MPC]] — Score 78%
-- [[CF]] — Score 78%
-- [[EOG]] — Score 78%
-- [[ADBE]] — Score 78%
-- [[BR]] — Score 78%
-- [[CVNA]] — Score 78%
-- [[INTU]] — Score 78%
-- [[NFLX]] — Score 78%
-- [[REGN]] — Score 78%
-- [[FANG]] — Score 77%
-- [[CASY]] — Score 77%
-- [[DHR]] — Score 77%
-- [[MDT]] — Score 77%
-- [[NEM]] — Score 77%
-- [[ZTS]] — Score 77%
+- [[SNDK]] — Score 79%
+- [[BBY]] — Score 78%
+- [[APH]] — Score 74%
+- [[BLDR]] — Score 74%
+- [[ELV]] — Score 74%
+- [[EME]] — Score 74%
+- [[MAS]] — Score 74%
+- [[ROK]] — Score 74%
+- [[TEL]] — Score 74%
+- [[WAB]] — Score 74%
+- [[MCK]] — Score 73%
+- [[APO]] — Score 73%
+- [[BX]] — Score 73%
+- [[CMI]] — Score 73%
+- [[DOV]] — Score 73%
+- [[GILD]] — Score 73%
+- [[HLT]] — Score 73%
+- [[HST]] — Score 73%
+- [[NVR]] — Score 73%
+- [[TDG]] — Score 73%
+- [[CARR]] — Score 72%
+- [[DOW]] — Score 72%
+- [[ETN]] — Score 72%
+- [[HD]] — Score 72%
+- [[KMB]] — Score 72%
+- [[LEN]] — Score 72%
+- [[LOW]] — Score 72%
+- [[MAR]] — Score 72%
+- [[MLM]] — Score 72%
+- [[MGM]] — Score 72%
