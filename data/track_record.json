@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T16:30:39.364444+00:00",
+  "updated": "2026-08-11T16:45:31.511084+00:00",
   "total_closed": 240,
   "wins": 118,
   "losses": 122,
@@ -20,8 +20,8 @@
       "target_2": "35.48",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-11T16:30:39.364444+00:00",
-      "resolved_price": 33.76,
-      "pnl_pct": 0.75,
+      "resolved_price": "33.76",
+      "pnl_pct": "0.75",
       "invested_eur": ""
     },
     {
@@ -34,8 +34,8 @@
       "target_2": "208.86",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-11T16:30:39.364444+00:00",
-      "resolved_price": 187.56,
-      "pnl_pct": -2.78,
+      "resolved_price": "187.56",
+      "pnl_pct": "-2.78",
       "invested_eur": ""
     },
     {
@@ -48,8 +48,8 @@
       "target_2": "930.73",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-11T16:30:39.364444+00:00",
-      "resolved_price": 887.81,
-      "pnl_pct": -1.21,
+      "resolved_price": "887.81",
+      "pnl_pct": "-1.21",
       "invested_eur": ""
     },
     {
@@ -62,8 +62,8 @@
       "target_2": "251.02",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-11T16:30:39.364444+00:00",
-      "resolved_price": 236.68,
-      "pnl_pct": -1.67,
+      "resolved_price": "236.68",
+      "pnl_pct": "-1.67",
       "invested_eur": ""
     },
     {
