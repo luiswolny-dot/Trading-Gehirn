@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 233 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 235 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[IBM]] — Score 76%
-- [[EXPE]] — Score 75%
-- [[FIS]] — Score 73%
-- [[GNRC]] — Score 73%
-- [[META]] — Score 73%
-- [[NXPI]] — Score 73%
-- [[PLTR]] — Score 73%
-- [[UAL]] — Score 73%
-- [[WYNN]] — Score 73%
-- [[MPC]] — Score 72%
+- [[MDT]] — Score 78%
+- [[EXPE]] — Score 76%
+- [[COP]] — Score 76%
+- [[IBM]] — Score 75%
+- [[UBER]] — Score 75%
+- [[BKNG]] — Score 75%
+- [[KKR]] — Score 74%
+- [[FANG]] — Score 73%
+- [[WBD]] — Score 73%
 - [[HAS]] — Score 72%
 - [[VLO]] — Score 72%
-- [[KKR]] — Score 72%
-- [[FANG]] — Score 72%
-- [[ACN]] — Score 72%
-- [[ALLE]] — Score 72%
-- [[AMT]] — Score 72%
-- [[AVY]] — Score 72%
-- [[BR]] — Score 72%
-- [[CMCSA]] — Score 72%
-- [[COP]] — Score 72%
-- [[FAST]] — Score 72%
-- [[GILD]] — Score 72%
-- [[ISRG]] — Score 72%
-- [[OMC]] — Score 72%
-- [[TEL]] — Score 72%
-- [[VRTX]] — Score 72%
+- [[AMP]] — Score 72%
+- [[XOM]] — Score 72%
 - [[AXON]] — Score 71%
-- [[ABT]] — Score 71%
-- [[BALL]] — Score 71%
+- [[MPC]] — Score 71%
+- [[OXY]] — Score 71%
+- [[CVX]] — Score 71%
+- [[CMCSA]] — Score 71%
+- [[CPAY]] — Score 71%
+- [[DPZ]] — Score 71%
+- [[LYB]] — Score 71%
+- [[RMD]] — Score 71%
+- [[V]] — Score 71%
+- [[CHTR]] — Score 70%
+- [[FIS]] — Score 70%
+- [[GILD]] — Score 70%
+- [[HPE]] — Score 70%
+- [[META]] — Score 70%
+- [[VRTX]] — Score 70%
+- [[ABT]] — Score 69%
