@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 240 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 241 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[KKR]] — Score 78%
-- [[BX]] — Score 76%
-- [[ARES]] — Score 75%
-- [[EXPE]] — Score 75%
+- [[KKR]] — Score 79%
+- [[COP]] — Score 76%
 - [[GILD]] — Score 75%
-- [[AXON]] — Score 74%
+- [[BX]] — Score 74%
 - [[MPC]] — Score 73%
-- [[DAL]] — Score 72%
-- [[FIS]] — Score 72%
-- [[RJF]] — Score 72%
-- [[VRSK]] — Score 72%
+- [[ARES]] — Score 73%
+- [[WBD]] — Score 73%
+- [[AXON]] — Score 72%
+- [[JPM]] — Score 72%
 - [[HAS]] — Score 71%
-- [[VLO]] — Score 71%
-- [[BRO]] — Score 71%
-- [[CMCSA]] — Score 71%
-- [[DHI]] — Score 71%
-- [[FITB]] — Score 71%
-- [[ISRG]] — Score 71%
-- [[JPM]] — Score 71%
-- [[PAYX]] — Score 71%
+- [[FANG]] — Score 71%
+- [[ALLE]] — Score 71%
+- [[APA]] — Score 71%
+- [[AJG]] — Score 71%
+- [[T]] — Score 71%
+- [[DAL]] — Score 71%
+- [[EOG]] — Score 71%
+- [[EXPE]] — Score 71%
+- [[FISV]] — Score 71%
+- [[PNR]] — Score 71%
 - [[PLD]] — Score 71%
-- [[CBRE]] — Score 70%
-- [[AES]] — Score 70%
-- [[ALLE]] — Score 70%
-- [[CHTR]] — Score 70%
-- [[COP]] — Score 70%
-- [[FANG]] — Score 70%
-- [[HUBB]] — Score 70%
-- [[TMUS]] — Score 70%
-- [[TKO]] — Score 70%
+- [[PHM]] — Score 71%
+- [[O]] — Score 71%
+- [[VLO]] — Score 71%
+- [[JBL]] — Score 70%
+- [[TPL]] — Score 70%
+- [[AMP]] — Score 70%
+- [[CTAS]] — Score 70%
+- [[DUK]] — Score 70%
+- [[GIS]] — Score 70%
