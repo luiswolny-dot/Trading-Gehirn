@@ -13,6 +13,7 @@ Trefferquote: 49% über 228 abgeschlossene Empfehlungen.
 - [[IT]] — Score 80%
 - [[RMD]] — Score 80%
 - [[TRGP]] — Score 80%
+- [[ABNB]] — Score 79%
 - [[APA]] — Score 79%
 - [[BKR]] — Score 79%
 - [[BX]] — Score 79%
@@ -21,15 +22,14 @@ Trefferquote: 49% über 228 abgeschlossene Empfehlungen.
 - [[MPC]] — Score 78%
 - [[CF]] — Score 78%
 - [[ADBE]] — Score 78%
+- [[A]] — Score 78%
 - [[BR]] — Score 78%
 - [[CVNA]] — Score 78%
 - [[INTU]] — Score 78%
 - [[NFLX]] — Score 78%
 - [[REGN]] — Score 78%
 - [[FANG]] — Score 77%
+- [[ALGN]] — Score 77%
 - [[CASY]] — Score 77%
 - [[DHR]] — Score 77%
 - [[MDT]] — Score 77%
-- [[NEM]] — Score 77%
-- [[ZTS]] — Score 77%
-- [[OXY]] — Score 76%
