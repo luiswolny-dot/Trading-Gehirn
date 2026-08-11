@@ -5,7 +5,6 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 ## Analysierte Aktien
 - [[HAL]] — Score 83%
 - [[CVX]] — Score 82%
-- [[ADM]] — Score 81%
 - [[UBER]] — Score 81%
 - [[COP]] — Score 80%
 - [[APO]] — Score 80%
@@ -14,14 +13,13 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 - [[IT]] — Score 80%
 - [[RMD]] — Score 80%
 - [[TRGP]] — Score 80%
-- [[CF]] — Score 79%
-- [[OXY]] — Score 79%
+- [[APA]] — Score 79%
 - [[BKR]] — Score 79%
 - [[BX]] — Score 79%
 - [[CRWD]] — Score 79%
 - [[XOM]] — Score 79%
-- [[APA]] — Score 78%
 - [[MPC]] — Score 78%
+- [[CF]] — Score 78%
 - [[ADBE]] — Score 78%
 - [[BR]] — Score 78%
 - [[CVNA]] — Score 78%
@@ -33,3 +31,5 @@ Trefferquote: 49% über 226 abgeschlossene Empfehlungen.
 - [[MDT]] — Score 77%
 - [[NEM]] — Score 77%
 - [[ZTS]] — Score 77%
+- [[OXY]] — Score 76%
+- [[BG]] — Score 76%
