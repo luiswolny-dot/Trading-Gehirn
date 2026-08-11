@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T05:15:39.280680+00:00",
+  "timestamp": "2026-08-11T05:30:37.540693+00:00",
   "picks": [
     {
       "symbol": "HAL",
@@ -21,7 +21,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-11T05:15:39.280680+00:00",
+      "timestamp": "2026-08-11T05:30:37.540693+00:00",
       "fundamental_score": 95,
       "news_score": 98,
       "momentum_quality": 50
@@ -46,7 +46,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-11T05:15:39.280680+00:00",
+      "timestamp": "2026-08-11T05:30:37.540693+00:00",
       "fundamental_score": 90,
       "news_score": 100,
       "momentum_quality": 50
@@ -71,7 +71,7 @@
       "volume_label": "unbekannt",
       "target_basis": "tagesspanne",
       "chart": [],
-      "timestamp": "2026-08-11T05:15:39.280680+00:00",
+      "timestamp": "2026-08-11T05:30:37.540693+00:00",
       "fundamental_score": 85,
       "news_score": 100,
       "momentum_quality": 50
