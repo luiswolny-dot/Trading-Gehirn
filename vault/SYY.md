@@ -9,7 +9,7 @@ tags: #Aktie #S-P-500
 - Einstieg: $85.26
 - Stop-Loss: $84.31
 - Ziel 1: $86.68
-- Ziel 2: $88.09
+- Ziel 2: $88.1
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
