@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 48% über 260 abgeschlossene Empfehlungen.
+Trefferquote: 48% über 261 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[SMCI]] — Score 85%
 - [[SNDK]] — Score 85%
-- [[SMCI]] — Score 84%
-- [[MU]] — Score 81%
+- [[MU]] — Score 80%
 - [[CIEN]] — Score 76%
-- [[MAR]] — Score 76%
-- [[STX]] — Score 74%
-- [[DELL]] — Score 73%
-- [[DRI]] — Score 73%
-- [[EVRG]] — Score 73%
-- [[PEG]] — Score 73%
-- [[O]] — Score 73%
+- [[BNY]] — Score 74%
+- [[STX]] — Score 73%
+- [[AJG]] — Score 73%
+- [[BAC]] — Score 73%
+- [[BIIB]] — Score 73%
+- [[CME]] — Score 73%
+- [[CCI]] — Score 73%
+- [[ELV]] — Score 73%
+- [[DOC]] — Score 73%
+- [[LLY]] — Score 73%
+- [[RSG]] — Score 73%
 - [[LITE]] — Score 72%
-- [[HLT]] — Score 72%
-- [[AMT]] — Score 72%
-- [[BAC]] — Score 72%
+- [[DELL]] — Score 72%
+- [[SCHW]] — Score 72%
+- [[CFG]] — Score 72%
+- [[KO]] — Score 72%
+- [[CL]] — Score 72%
+- [[DASH]] — Score 72%
+- [[EVRG]] — Score 72%
+- [[EXPD]] — Score 72%
 - [[GILD]] — Score 72%
-- [[HST]] — Score 72%
-- [[LLY]] — Score 72%
-- [[ODFL]] — Score 72%
-- [[RSG]] — Score 72%
-- [[VTR]] — Score 72%
-- [[TER]] — Score 71%
-- [[HPE]] — Score 71%
-- [[LRCX]] — Score 71%
-- [[ABT]] — Score 71%
-- [[AES]] — Score 71%
-- [[AMGN]] — Score 71%
-- [[AJG]] — Score 71%
-- [[BIIB]] — Score 71%
-- [[BMY]] — Score 71%
+- [[HSIC]] — Score 72%
+- [[HON]] — Score 72%
+- [[MAR]] — Score 72%
+- [[MKC]] — Score 72%
+- [[NCLH]] — Score 72%

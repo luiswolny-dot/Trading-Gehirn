@@ -1,15 +1,15 @@
-# DASH
+# CFG
 
 tags: #Aktie #S-P-500
 
-- Preis: $214.81
-- Tagesbewegung: 1.33%
+- Preis: $73.66
+- Tagesbewegung: 0.92%
 - Gesamt-Score: 72%
 - KGV: —
-- Einstieg: $214.81
-- Stop-Loss: $212.34
-- Ziel 1: $218.51
-- Ziel 2: $222.21
+- Einstieg: $73.66
+- Stop-Loss: $73.3
+- Ziel 1: $74.2
+- Ziel 2: $74.75
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
