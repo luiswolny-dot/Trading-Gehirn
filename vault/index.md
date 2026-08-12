@@ -1,13 +1,12 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 245 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[KKR]] — Score 80%
 - [[JBL]] — Score 77%
-- [[COP]] — Score 77%
 - [[T]] — Score 76%
-- [[MCK]] — Score 75%
+- [[COP]] — Score 76%
 - [[MPC]] — Score 74%
 - [[CRL]] — Score 74%
 - [[CHTR]] — Score 74%
@@ -33,3 +32,4 @@ Trefferquote: 49% über 245 abgeschlossene Empfehlungen.
 - [[NEE]] — Score 72%
 - [[PNC]] — Score 72%
 - [[ROK]] — Score 72%
+- [[SBUX]] — Score 72%
