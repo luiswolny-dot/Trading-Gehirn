@@ -3,11 +3,11 @@
 Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[KKR]] — Score 80%
 - [[JBL]] — Score 77%
 - [[T]] — Score 76%
 - [[COP]] — Score 76%
 - [[MPC]] — Score 75%
-- [[KKR]] — Score 74%
 - [[CRL]] — Score 74%
 - [[CHTR]] — Score 74%
 - [[D]] — Score 74%
