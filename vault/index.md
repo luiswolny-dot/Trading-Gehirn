@@ -21,6 +21,7 @@ Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
 - [[MRVL]] — Score 73%
 - [[MDT]] — Score 73%
 - [[RMD]] — Score 73%
+- [[PSX]] — Score 72%
 - [[COR]] — Score 72%
 - [[VLO]] — Score 72%
 - [[BX]] — Score 72%
@@ -32,4 +33,3 @@ Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
 - [[NEE]] — Score 72%
 - [[PNC]] — Score 72%
 - [[ROK]] — Score 72%
-- [[SBUX]] — Score 72%
