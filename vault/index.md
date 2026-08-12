@@ -14,13 +14,13 @@ Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
 - [[GNRC]] — Score 74%
 - [[LEN]] — Score 74%
 - [[MAS]] — Score 74%
+- [[AXON]] — Score 73%
 - [[CMCSA]] — Score 73%
 - [[DUK]] — Score 73%
 - [[EIX]] — Score 73%
 - [[MRVL]] — Score 73%
 - [[MDT]] — Score 73%
 - [[RMD]] — Score 73%
-- [[AXON]] — Score 72%
 - [[COR]] — Score 72%
 - [[VLO]] — Score 72%
 - [[BX]] — Score 72%
