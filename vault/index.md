@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 248 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[KKR]] — Score 80%
-- [[JBL]] — Score 77%
-- [[T]] — Score 76%
-- [[COP]] — Score 76%
-- [[MPC]] — Score 75%
-- [[CRL]] — Score 74%
-- [[CHTR]] — Score 74%
-- [[D]] — Score 74%
-- [[GNRC]] — Score 74%
-- [[LEN]] — Score 74%
-- [[MAS]] — Score 74%
-- [[AXON]] — Score 73%
-- [[CMCSA]] — Score 73%
-- [[DUK]] — Score 73%
-- [[EIX]] — Score 73%
-- [[MRVL]] — Score 73%
-- [[MDT]] — Score 73%
-- [[RMD]] — Score 73%
-- [[PSX]] — Score 72%
-- [[COR]] — Score 72%
-- [[VLO]] — Score 72%
-- [[BX]] — Score 72%
-- [[ARES]] — Score 72%
-- [[BKR]] — Score 72%
-- [[EOG]] — Score 72%
-- [[IEX]] — Score 72%
-- [[ISRG]] — Score 72%
-- [[NEE]] — Score 72%
-- [[PNC]] — Score 72%
-- [[ROK]] — Score 72%
+- [[FLEX]] — Score 83%
+- [[SMCI]] — Score 78%
+- [[CDNS]] — Score 74%
+- [[CIEN]] — Score 73%
+- [[ANET]] — Score 73%
+- [[EQIX]] — Score 73%
+- [[BLK]] — Score 72%
+- [[BNY]] — Score 72%
+- [[EIX]] — Score 72%
+- [[FFIV]] — Score 72%
+- [[HUBB]] — Score 72%
+- [[KIM]] — Score 72%
+- [[NDSN]] — Score 72%
+- [[VTR]] — Score 72%
+- [[GWW]] — Score 72%
+- [[WMB]] — Score 72%
+- [[TGT]] — Score 72%
+- [[DELL]] — Score 71%
+- [[CHRW]] — Score 71%
+- [[D]] — Score 71%
+- [[EVRG]] — Score 71%
+- [[TRGP]] — Score 71%
+- [[INTU]] — Score 71%
+- [[JBL]] — Score 71%
+- [[AEE]] — Score 70%
+- [[DOV]] — Score 70%
+- [[EME]] — Score 70%
+- [[EXPD]] — Score 70%
+- [[FDXF]] — Score 70%
+- [[INVH]] — Score 70%
