@@ -7,7 +7,7 @@ Trefferquote: 49% über 246 abgeschlossene Empfehlungen.
 - [[JBL]] — Score 77%
 - [[T]] — Score 76%
 - [[COP]] — Score 76%
-- [[MPC]] — Score 74%
+- [[MPC]] — Score 75%
 - [[CRL]] — Score 74%
 - [[CHTR]] — Score 74%
 - [[D]] — Score 74%
