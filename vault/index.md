@@ -14,13 +14,16 @@ Trefferquote: 48% über 267 abgeschlossene Empfehlungen.
 - [[RVTY]] — Score 75%
 - [[VEEV]] — Score 75%
 - [[VTR]] — Score 75%
+- [[EXPD]] — Score 74%
 - [[EVRG]] — Score 74%
 - [[FDX]] — Score 74%
 - [[NTRS]] — Score 74%
 - [[SBUX]] — Score 74%
 - [[TSCO]] — Score 74%
 - [[CIEN]] — Score 73%
+- [[HUM]] — Score 73%
 - [[MPC]] — Score 73%
+- [[ORCL]] — Score 73%
 - [[BDX]] — Score 73%
 - [[COP]] — Score 73%
 - [[FOXA]] — Score 73%
@@ -30,6 +33,3 @@ Trefferquote: 48% über 267 abgeschlossene Empfehlungen.
 - [[VLO]] — Score 73%
 - [[WELL]] — Score 73%
 - [[LITE]] — Score 72%
-- [[LNT]] — Score 72%
-- [[FOX]] — Score 72%
-- [[HSIC]] — Score 72%
