@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 275 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 277 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[SNDK]] — Score 88%
 - [[SMCI]] — Score 88%
-- [[SNDK]] — Score 87%
-- [[WDC]] — Score 86%
-- [[MU]] — Score 81%
+- [[WDC]] — Score 88%
+- [[MU]] — Score 83%
 - [[FOXA]] — Score 80%
 - [[KDP]] — Score 79%
+- [[INTC]] — Score 78%
+- [[PFE]] — Score 77%
+- [[CME]] — Score 77%
 - [[FOX]] — Score 75%
-- [[MAA]] — Score 75%
-- [[INTC]] — Score 74%
-- [[APO]] — Score 74%
-- [[AVGO]] — Score 74%
-- [[FDX]] — Score 74%
-- [[HPE]] — Score 74%
-- [[MNST]] — Score 74%
-- [[PFE]] — Score 74%
-- [[JBL]] — Score 73%
 - [[KLAC]] — Score 73%
-- [[AMD]] — Score 73%
-- [[FDXF]] — Score 73%
-- [[ICE]] — Score 73%
-- [[MRNA]] — Score 73%
-- [[VZ]] — Score 73%
-- [[CVNA]] — Score 72%
+- [[FRT]] — Score 73%
+- [[STX]] — Score 72%
+- [[TER]] — Score 72%
+- [[LRCX]] — Score 72%
 - [[PCG]] — Score 72%
-- [[AVB]] — Score 72%
-- [[BG]] — Score 72%
-- [[CHRW]] — Score 72%
-- [[EW]] — Score 72%
-- [[EQR]] — Score 72%
-- [[GRMN]] — Score 72%
+- [[JBL]] — Score 72%
+- [[VLO]] — Score 72%
+- [[XYZ]] — Score 71%
+- [[BG]] — Score 71%
+- [[FDX]] — Score 71%
+- [[ICE]] — Score 71%
+- [[MRK]] — Score 71%
+- [[QCOM]] — Score 71%
+- [[REG]] — Score 71%
+- [[TPL]] — Score 71%
+- [[VZ]] — Score 71%
+- [[CIEN]] — Score 70%
+- [[MRVL]] — Score 70%
+- [[EIX]] — Score 70%

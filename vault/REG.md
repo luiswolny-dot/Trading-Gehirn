@@ -1,15 +1,15 @@
-# FDX
+# REG
 
 tags: #Aktie #S-P-500
 
-- Preis: $332.61
-- Tagesbewegung: 1.79%
+- Preis: $76.58
+- Tagesbewegung: 1.11%
 - Gesamt-Score: 71%
 - KGV: —
-- Einstieg: $332.61
-- Stop-Loss: $329.45
-- Ziel 1: $337.35
-- Ziel 2: $342.09
+- Einstieg: $76.58
+- Stop-Loss: $76.22
+- Ziel 1: $77.12
+- Ziel 2: $77.66
 
 ## Verknüpfungen
 - Trend: [[Trend-None]]
