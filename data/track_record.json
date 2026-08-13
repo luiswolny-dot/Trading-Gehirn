@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T19:00:47.648829+00:00",
+  "updated": "2026-08-13T19:15:30.713775+00:00",
   "total_closed": 281,
   "wins": 139,
   "losses": 142,
@@ -8,7 +8,7 @@
   "avg_loss": -1.55,
   "expectancy": 0.47,
   "total_pnl": 138.02,
-  "still_open": 5,
+  "still_open": 7,
   "recent": [
     {
       "id": "WDAY_2026-08-13T18:30:39.715317+00:00",
