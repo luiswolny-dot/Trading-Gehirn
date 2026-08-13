@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 277 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 278 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SNDK]] — Score 87%
-- [[WDC]] — Score 85%
-- [[MU]] — Score 83%
-- [[FOXA]] — Score 80%
-- [[DG]] — Score 79%
+- [[WDC]] — Score 84%
+- [[MU]] — Score 82%
 - [[KDP]] — Score 79%
-- [[KMI]] — Score 79%
-- [[BBY]] — Score 76%
-- [[FOX]] — Score 75%
-- [[GEV]] — Score 75%
-- [[LRCX]] — Score 74%
-- [[JBL]] — Score 74%
-- [[TSLA]] — Score 74%
-- [[BMY]] — Score 73%
-- [[HAS]] — Score 73%
-- [[HONA]] — Score 73%
-- [[KLAC]] — Score 73%
-- [[TPL]] — Score 73%
-- [[TER]] — Score 72%
+- [[DG]] — Score 78%
+- [[BBY]] — Score 75%
+- [[UNP]] — Score 74%
+- [[LRCX]] — Score 73%
+- [[INTC]] — Score 73%
+- [[CARR]] — Score 73%
+- [[FOXA]] — Score 73%
+- [[FOX]] — Score 73%
+- [[GPN]] — Score 73%
+- [[KMI]] — Score 73%
+- [[MPC]] — Score 73%
+- [[ODFL]] — Score 73%
+- [[SBAC]] — Score 73%
 - [[CVNA]] — Score 72%
 - [[VLO]] — Score 72%
-- [[AWK]] — Score 72%
-- [[CDNS]] — Score 72%
-- [[GPN]] — Score 72%
-- [[INTC]] — Score 72%
-- [[MPC]] — Score 72%
+- [[BXP]] — Score 72%
+- [[CPAY]] — Score 72%
+- [[DDOG]] — Score 72%
+- [[GEV]] — Score 72%
+- [[HAS]] — Score 72%
 - [[MNST]] — Score 72%
-- [[PSX]] — Score 72%
-- [[TMUS]] — Score 72%
-- [[TTD]] — Score 72%
+- [[REG]] — Score 72%
+- [[PSX]] — Score 71%
+- [[AWK]] — Score 71%
+- [[BMY]] — Score 71%
+- [[CVX]] — Score 71%

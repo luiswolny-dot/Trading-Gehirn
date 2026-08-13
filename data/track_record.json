@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-13T17:30:51.636798+00:00",
-  "total_closed": 277,
+  "updated": "2026-08-13T17:45:31.544478+00:00",
+  "total_closed": 278,
   "wins": 137,
-  "losses": 140,
+  "losses": 141,
   "win_rate": 49,
   "avg_win": 2.52,
   "avg_loss": -1.53,
   "expectancy": 0.45,
-  "total_pnl": 131.4,
-  "still_open": 8,
+  "total_pnl": 130.41,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "MO_2026-08-13T14:00:53.011729+00:00",
+      "symbol": "MO",
+      "opened_at": "2026-08-13T14:00:53.011729+00:00",
+      "entry": "65.92",
+      "stop_loss": "65.3",
+      "target_1": "66.86",
+      "target_2": "67.8",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-13T17:45:31.544478+00:00",
+      "resolved_price": 65.27,
+      "pnl_pct": -0.99,
+      "invested_eur": ""
+    },
     {
       "id": "SNDK_2026-08-13T13:45:33.737047+00:00",
       "symbol": "SNDK",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-13T13:30:42.254679+00:00",
       "resolved_price": "500.67",
       "pnl_pct": "5.29",
-      "invested_eur": ""
-    },
-    {
-      "id": "HPE_2026-08-12T19:30:36.084621+00:00",
-      "symbol": "HPE",
-      "opened_at": "2026-08-12T19:30:36.084621+00:00",
-      "entry": "58.16",
-      "stop_loss": "56.6",
-      "target_1": "60.5",
-      "target_2": "62.84",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-13T13:30:42.254679+00:00",
-      "resolved_price": "61.26",
-      "pnl_pct": "5.33",
       "invested_eur": ""
     }
   ]
