@@ -21,6 +21,7 @@ Trefferquote: 49% über 281 abgeschlossene Empfehlungen.
 - [[INTU]] — Score 78%
 - [[VEEV]] — Score 78%
 - [[ADBE]] — Score 78%
+- [[CBRE]] — Score 78%
 - [[GEN]] — Score 78%
 - [[HPQ]] — Score 78%
 - [[PSX]] — Score 78%
@@ -28,7 +29,6 @@ Trefferquote: 49% über 281 abgeschlossene Empfehlungen.
 - [[ABNB]] — Score 77%
 - [[APO]] — Score 77%
 - [[ADSK]] — Score 77%
-- [[CBRE]] — Score 77%
 - [[COIN]] — Score 77%
 - [[CRM]] — Score 77%
 - [[STX]] — Score 77%
