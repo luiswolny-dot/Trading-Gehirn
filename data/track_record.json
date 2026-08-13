@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T13:45:33.737047+00:00",
+  "updated": "2026-08-13T14:00:53.011729+00:00",
   "total_closed": 273,
   "wins": 133,
   "losses": 140,
@@ -8,7 +8,7 @@
   "avg_loss": -1.53,
   "expectancy": 0.43,
   "total_pnl": 113.18,
-  "still_open": 6,
+  "still_open": 7,
   "recent": [
     {
       "id": "SNDK_2026-08-12T13:45:27.866855+00:00",
@@ -20,8 +20,8 @@
       "target_2": "1454.61",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-13T13:45:33.737047+00:00",
-      "resolved_price": 1376.68,
-      "pnl_pct": 0.83,
+      "resolved_price": "1376.68",
+      "pnl_pct": "0.83",
       "invested_eur": ""
     },
     {
@@ -34,8 +34,8 @@
       "target_2": "975.41",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-13T13:45:33.737047+00:00",
-      "resolved_price": 927.51,
-      "pnl_pct": 0.13,
+      "resolved_price": "927.51",
+      "pnl_pct": "0.13",
       "invested_eur": ""
     },
     {
