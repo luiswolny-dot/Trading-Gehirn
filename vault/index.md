@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 48% über 271 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 273 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
+- [[SMCI]] — Score 82%
+- [[SNDK]] — Score 81%
+- [[MU]] — Score 80%
 - [[WDC]] — Score 79%
-- [[SNDK]] — Score 78%
-- [[SMCI]] — Score 77%
-- [[FISV]] — Score 76%
-- [[BLDR]] — Score 75%
-- [[HPQ]] — Score 74%
+- [[INTC]] — Score 76%
+- [[PM]] — Score 75%
 - [[NFLX]] — Score 74%
-- [[DG]] — Score 74%
-- [[ATO]] — Score 74%
-- [[CINF]] — Score 74%
-- [[DECK]] — Score 74%
-- [[INVH]] — Score 74%
-- [[META]] — Score 74%
-- [[UDR]] — Score 74%
-- [[VRSN]] — Score 74%
-- [[WELL]] — Score 74%
-- [[QCOM]] — Score 74%
-- [[ABT]] — Score 74%
-- [[AKAM]] — Score 73%
-- [[CASY]] — Score 73%
-- [[CB]] — Score 73%
-- [[DPZ]] — Score 73%
+- [[INTU]] — Score 74%
+- [[MO]] — Score 74%
+- [[CASY]] — Score 74%
+- [[MAA]] — Score 74%
 - [[EQR]] — Score 73%
-- [[ESS]] — Score 73%
-- [[EXR]] — Score 73%
-- [[GIS]] — Score 73%
-- [[HSY]] — Score 73%
-- [[IBM]] — Score 73%
-- [[IVZ]] — Score 73%
+- [[AWK]] — Score 73%
+- [[EIX]] — Score 73%
+- [[EXPD]] — Score 73%
+- [[FISV]] — Score 73%
+- [[KKR]] — Score 73%
 - [[LDOS]] — Score 73%
+- [[MSFT]] — Score 73%
+- [[NWS]] — Score 73%
+- [[TMUS]] — Score 73%
+- [[ORCL]] — Score 72%
+- [[AEP]] — Score 72%
+- [[APP]] — Score 72%
+- [[CIEN]] — Score 72%
+- [[ECHO]] — Score 72%
+- [[TAP]] — Score 72%
+- [[VEEV]] — Score 72%
+- [[VICI]] — Score 72%
+- [[WBD]] — Score 72%
