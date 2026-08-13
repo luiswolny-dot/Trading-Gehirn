@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 278 abgeschlossene Empfehlungen.
+Trefferquote: 49% über 280 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SNDK]] — Score 87%
-- [[WDC]] — Score 83%
+- [[WDC]] — Score 82%
+- [[WDAY]] — Score 80%
 - [[MU]] — Score 80%
-- [[KDP]] — Score 80%
-- [[FOXA]] — Score 79%
-- [[DG]] — Score 78%
-- [[T]] — Score 74%
-- [[FRT]] — Score 74%
-- [[STX]] — Score 74%
+- [[KDP]] — Score 79%
+- [[BBY]] — Score 75%
+- [[FOXA]] — Score 74%
+- [[GEV]] — Score 74%
+- [[HAS]] — Score 74%
+- [[NFLX]] — Score 74%
+- [[OMC]] — Score 74%
 - [[TMUS]] — Score 74%
-- [[CPAY]] — Score 73%
+- [[VLO]] — Score 73%
+- [[ARES]] — Score 73%
+- [[DG]] — Score 73%
 - [[FOX]] — Score 73%
-- [[GEV]] — Score 73%
 - [[GL]] — Score 73%
 - [[INTC]] — Score 73%
-- [[IVZ]] — Score 73%
-- [[MKC]] — Score 73%
-- [[MDLZ]] — Score 73%
-- [[REG]] — Score 73%
-- [[LRCX]] — Score 72%
-- [[VLO]] — Score 72%
+- [[SPGI]] — Score 73%
+- [[NOW]] — Score 73%
 - [[PSX]] — Score 72%
-- [[SBAC]] — Score 72%
-- [[ABNB]] — Score 72%
+- [[ALL]] — Score 72%
+- [[T]] — Score 72%
 - [[BXP]] — Score 72%
-- [[CARR]] — Score 72%
-- [[CBRE]] — Score 72%
-- [[D]] — Score 72%
-- [[HAS]] — Score 72%
-- [[INVH]] — Score 72%
+- [[CPAY]] — Score 72%
+- [[HONA]] — Score 72%
+- [[IVZ]] — Score 72%
+- [[META]] — Score 72%
+- [[ODFL]] — Score 72%
+- [[CRM]] — Score 72%
