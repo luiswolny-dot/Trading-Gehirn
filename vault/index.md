@@ -1,6 +1,6 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 47% über 266 abgeschlossene Empfehlungen.
+Trefferquote: 48% über 267 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
 - [[SMCI]] — Score 86%

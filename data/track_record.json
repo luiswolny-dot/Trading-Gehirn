@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-13T06:45:28.090740+00:00",
-  "total_closed": 266,
-  "wins": 126,
+  "updated": "2026-08-13T07:00:49.286631+00:00",
+  "total_closed": 267,
+  "wins": 127,
   "losses": 140,
-  "win_rate": 47,
-  "avg_win": 2.46,
+  "win_rate": 48,
+  "avg_win": 2.45,
   "avg_loss": -1.53,
-  "expectancy": 0.35,
-  "total_pnl": 95.35,
-  "still_open": 8,
+  "expectancy": 0.38,
+  "total_pnl": 96.45,
+  "still_open": 7,
   "recent": [
+    {
+      "id": "COP_2026-08-12T06:45:36.287099+00:00",
+      "symbol": "COP",
+      "opened_at": "2026-08-12T06:45:36.287099+00:00",
+      "entry": "125.92",
+      "stop_loss": "124.18",
+      "target_1": "128.53",
+      "target_2": "131.15",
+      "status": "abgelaufen_gewinn",
+      "resolved_at": "2026-08-13T07:00:49.286631+00:00",
+      "resolved_price": 127.3,
+      "pnl_pct": 1.1,
+      "invested_eur": ""
+    },
     {
       "id": "EME_2026-08-12T18:30:41.188240+00:00",
       "symbol": "EME",
@@ -134,20 +148,6 @@
       "resolved_at": "2026-08-12T14:45:34.319298+00:00",
       "resolved_price": "317.94",
       "pnl_pct": "-1.25",
-      "invested_eur": ""
-    },
-    {
-      "id": "CIEN_2026-08-12T13:30:38.740604+00:00",
-      "symbol": "CIEN",
-      "opened_at": "2026-08-12T13:30:38.740604+00:00",
-      "entry": "422.65",
-      "stop_loss": "416.25",
-      "target_1": "432.24",
-      "target_2": "441.83",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-12T14:45:34.319298+00:00",
-      "resolved_price": "434.36",
-      "pnl_pct": "2.77",
       "invested_eur": ""
     }
   ]
