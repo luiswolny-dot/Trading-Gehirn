@@ -20,6 +20,7 @@ Trefferquote: 47% über 266 abgeschlossene Empfehlungen.
 - [[SBUX]] — Score 74%
 - [[TSCO]] — Score 74%
 - [[CIEN]] — Score 73%
+- [[MPC]] — Score 73%
 - [[BDX]] — Score 73%
 - [[COP]] — Score 73%
 - [[FOXA]] — Score 73%
@@ -29,7 +30,6 @@ Trefferquote: 47% über 266 abgeschlossene Empfehlungen.
 - [[VLO]] — Score 73%
 - [[WELL]] — Score 73%
 - [[LITE]] — Score 72%
-- [[MPC]] — Score 72%
 - [[LNT]] — Score 72%
 - [[FOX]] — Score 72%
 - [[HSIC]] — Score 72%
