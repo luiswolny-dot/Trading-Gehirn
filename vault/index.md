@@ -19,12 +19,12 @@ Trefferquote: 49% über 281 abgeschlossene Empfehlungen.
 - [[TMUS]] — Score 79%
 - [[ZTS]] — Score 79%
 - [[INTU]] — Score 78%
-- [[VEEV]] — Score 78%
 - [[ADBE]] — Score 78%
 - [[CBRE]] — Score 78%
 - [[GEN]] — Score 78%
 - [[HPQ]] — Score 78%
 - [[PSX]] — Score 78%
+- [[VEEV]] — Score 77%
 - [[FOX]] — Score 77%
 - [[ABNB]] — Score 77%
 - [[APO]] — Score 77%
