@@ -1,35 +1,35 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 48% über 267 abgeschlossene Empfehlungen.
+Trefferquote: 48% über 271 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[SMCI]] — Score 86%
-- [[DELL]] — Score 78%
-- [[HPE]] — Score 76%
-- [[WMT]] — Score 76%
-- [[CF]] — Score 75%
-- [[DLR]] — Score 75%
-- [[HON]] — Score 75%
-- [[LHX]] — Score 75%
-- [[RVTY]] — Score 75%
-- [[VEEV]] — Score 75%
-- [[VTR]] — Score 75%
-- [[EXPD]] — Score 74%
-- [[EVRG]] — Score 74%
-- [[FDX]] — Score 74%
-- [[NTRS]] — Score 74%
-- [[SBUX]] — Score 74%
-- [[TSCO]] — Score 74%
-- [[CIEN]] — Score 73%
-- [[HUM]] — Score 73%
-- [[MPC]] — Score 73%
-- [[ORCL]] — Score 73%
-- [[BDX]] — Score 73%
-- [[COP]] — Score 73%
-- [[FOXA]] — Score 73%
-- [[OKE]] — Score 73%
-- [[OTIS]] — Score 73%
-- [[TER]] — Score 73%
-- [[VLO]] — Score 73%
-- [[WELL]] — Score 73%
-- [[LITE]] — Score 72%
+- [[WDC]] — Score 79%
+- [[SNDK]] — Score 78%
+- [[SMCI]] — Score 77%
+- [[FISV]] — Score 76%
+- [[BLDR]] — Score 75%
+- [[HPQ]] — Score 74%
+- [[NFLX]] — Score 74%
+- [[DG]] — Score 74%
+- [[ATO]] — Score 74%
+- [[CINF]] — Score 74%
+- [[DECK]] — Score 74%
+- [[INVH]] — Score 74%
+- [[META]] — Score 74%
+- [[UDR]] — Score 74%
+- [[VRSN]] — Score 74%
+- [[WELL]] — Score 74%
+- [[QCOM]] — Score 74%
+- [[ABT]] — Score 74%
+- [[AKAM]] — Score 73%
+- [[CASY]] — Score 73%
+- [[CB]] — Score 73%
+- [[DPZ]] — Score 73%
+- [[EQR]] — Score 73%
+- [[ESS]] — Score 73%
+- [[EXR]] — Score 73%
+- [[GIS]] — Score 73%
+- [[HSY]] — Score 73%
+- [[IBM]] — Score 73%
+- [[IVZ]] — Score 73%
+- [[LDOS]] — Score 73%
