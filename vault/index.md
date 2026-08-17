@@ -1,11 +1,11 @@
 # Trading-Gehirn Übersicht
 
-Trefferquote: 49% über 291 abgeschlossene Empfehlungen.
+Trefferquote: 50% über 292 abgeschlossene Empfehlungen.
 
 ## Analysierte Aktien
-- [[MSFT]] — Score 60%
-- [[NVDA]] — Score 59%
-- [[AAPL]] — Score 57%
-- [[SPY]] — Score 54%
-- [[TSLA]] — Score 51%
-- [[STI]] — Score 44%
+- [[NVDA]] — Score 68%
+- [[MSFT]] — Score 65%
+- [[SPY]] — Score 56%
+- [[STI]] — Score 54%
+- [[AAPL]] — Score 54%
+- [[TSLA]] — Score 52%

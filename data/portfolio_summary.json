@@ -1,12 +1,20 @@
 {
-  "updated": "2026-08-17T13:45:36.195449+00:00",
+  "updated": "2026-08-17T16:00:48.983425+00:00",
   "starting_balance": 100.0,
-  "cash": 2.04,
+  "cash": 0.42,
   "invested_in_open_positions": 66.66,
-  "total_value": 68.7,
-  "return_pct": -31.3,
+  "total_value": 67.08,
+  "return_pct": -32.92,
   "open_position_count": 2,
   "recent_closed_trades": [
+    {
+      "symbol": "NVDA",
+      "opened_at": "2026-08-16T20:00:42.376148+00:00",
+      "resolved_at": "2026-08-17T16:00:48.983425+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -1.62,
+      "status": "ziel_1_erreicht"
+    },
     {
       "symbol": "MSFT",
       "opened_at": "2026-08-16T20:00:42.376148+00:00",
@@ -78,14 +86,6 @@
       "invested_eur": 33.33,
       "net_pnl_eur": -1.72,
       "status": "abgelaufen_gewinn"
-    },
-    {
-      "symbol": "SMCI",
-      "opened_at": "2026-07-22T13:30:37.624570+00:00",
-      "resolved_at": "2026-07-22T14:45:22.934667+00:00",
-      "invested_eur": 33.33,
-      "net_pnl_eur": -0.37,
-      "status": "ziel_1_erreicht"
     }
   ]
 }
