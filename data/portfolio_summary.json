@@ -1,12 +1,20 @@
 {
-  "updated": "2026-08-16T20:00:42.376148+00:00",
+  "updated": "2026-08-17T13:45:36.195449+00:00",
   "starting_balance": 100.0,
-  "cash": 4.68,
+  "cash": 2.04,
   "invested_in_open_positions": 66.66,
-  "total_value": 71.34,
-  "return_pct": -28.66,
+  "total_value": 68.7,
+  "return_pct": -31.3,
   "open_position_count": 2,
   "recent_closed_trades": [
+    {
+      "symbol": "MSFT",
+      "opened_at": "2026-08-16T20:00:42.376148+00:00",
+      "resolved_at": "2026-08-17T13:45:36.195449+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.64,
+      "status": "stop_loss_ausgeloest"
+    },
     {
       "symbol": "FDS",
       "opened_at": "2026-08-10T07:00:45.721197+00:00",
@@ -77,14 +85,6 @@
       "resolved_at": "2026-07-22T14:45:22.934667+00:00",
       "invested_eur": 33.33,
       "net_pnl_eur": -0.37,
-      "status": "ziel_1_erreicht"
-    },
-    {
-      "symbol": "WDC",
-      "opened_at": "2026-07-21T14:21:08.258081+00:00",
-      "resolved_at": "2026-07-22T14:00:43.544440+00:00",
-      "invested_eur": 33.33,
-      "net_pnl_eur": -0.77,
       "status": "ziel_1_erreicht"
     }
   ]

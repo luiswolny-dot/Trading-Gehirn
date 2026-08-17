@@ -1,15 +1,29 @@
 {
-  "updated": "2026-08-16T20:00:42.376148+00:00",
-  "total_closed": 290,
+  "updated": "2026-08-17T13:45:36.195449+00:00",
+  "total_closed": 291,
   "wins": 144,
-  "losses": 146,
-  "win_rate": 50,
+  "losses": 147,
+  "win_rate": 49,
   "avg_win": 2.66,
   "avg_loss": -1.58,
-  "expectancy": 0.54,
-  "total_pnl": 151.79,
+  "expectancy": 0.5,
+  "total_pnl": 149.88,
   "still_open": 2,
   "recent": [
+    {
+      "id": "MSFT_2026-08-16T20:00:42.376148+00:00",
+      "symbol": "MSFT",
+      "opened_at": "2026-08-16T20:00:42.376148+00:00",
+      "entry": "495.4",
+      "stop_loss": "492.36",
+      "target_1": "499.97",
+      "target_2": "504.53",
+      "status": "stop_loss_ausgeloest",
+      "resolved_at": "2026-08-17T13:45:36.195449+00:00",
+      "resolved_price": 485.93,
+      "pnl_pct": -1.91,
+      "invested_eur": "33.33"
+    },
     {
       "id": "ABNB_2026-08-13T12:30:41.200391+00:00",
       "symbol": "ABNB",
@@ -20,8 +34,8 @@
       "target_2": "200.62",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 184.06,
-      "pnl_pct": 3.36,
+      "resolved_price": "184.06",
+      "pnl_pct": "3.36",
       "invested_eur": ""
     },
     {
@@ -34,8 +48,8 @@
       "target_2": "527.11",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 508.8,
-      "pnl_pct": 5.61,
+      "resolved_price": "508.8",
+      "pnl_pct": "5.61",
       "invested_eur": ""
     },
     {
@@ -48,8 +62,8 @@
       "target_2": "32.1",
       "status": "ziel_1_erreicht",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 31.44,
-      "pnl_pct": 2.24,
+      "resolved_price": "31.44",
+      "pnl_pct": "2.24",
       "invested_eur": ""
     },
     {
@@ -62,8 +76,8 @@
       "target_2": "1822.59",
       "status": "abgelaufen_gewinn",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 1641.11,
-      "pnl_pct": 7.41,
+      "resolved_price": "1641.11",
+      "pnl_pct": "7.41",
       "invested_eur": ""
     },
     {
@@ -76,8 +90,8 @@
       "target_2": "1080.6",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 971.66,
-      "pnl_pct": -0.17,
+      "resolved_price": "971.66",
+      "pnl_pct": "-0.17",
       "invested_eur": ""
     },
     {
@@ -90,8 +104,8 @@
       "target_2": "287.1",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 198.68,
-      "pnl_pct": -4.37,
+      "resolved_price": "198.68",
+      "pnl_pct": "-4.37",
       "invested_eur": ""
     },
     {
@@ -104,8 +118,8 @@
       "target_2": "123.98",
       "status": "abgelaufen_verlust",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 114.01,
-      "pnl_pct": -1.86,
+      "resolved_price": "114.01",
+      "pnl_pct": "-1.86",
       "invested_eur": ""
     },
     {
@@ -118,8 +132,8 @@
       "target_2": "68.84",
       "status": "ziel_2_erreicht",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 69.04,
-      "pnl_pct": 5.79,
+      "resolved_price": "69.04",
+      "pnl_pct": "5.79",
       "invested_eur": ""
     },
     {
@@ -132,22 +146,8 @@
       "target_2": "398.97",
       "status": "stop_loss_ausgeloest",
       "resolved_at": "2026-08-16T20:00:42.376148+00:00",
-      "resolved_price": 345.66,
-      "pnl_pct": -4.24,
-      "invested_eur": ""
-    },
-    {
-      "id": "WDAY_2026-08-13T18:30:39.715317+00:00",
-      "symbol": "WDAY",
-      "opened_at": "2026-08-13T18:30:39.715317+00:00",
-      "entry": "199.99",
-      "stop_loss": "187.27",
-      "target_1": "219.07",
-      "target_2": "238.16",
-      "status": "ziel_1_erreicht",
-      "resolved_at": "2026-08-13T18:45:29.521497+00:00",
-      "resolved_price": "220.46",
-      "pnl_pct": "10.24",
+      "resolved_price": "345.66",
+      "pnl_pct": "-4.24",
       "invested_eur": ""
     }
   ]

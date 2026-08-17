@@ -1,7 +1,7 @@
 {
-  "cash": 4.68,
+  "cash": 2.04,
   "starting_balance": 100.0,
-  "updated": "2026-08-16T20:00:42.376148+00:00",
+  "updated": "2026-08-17T13:45:36.195449+00:00",
   "closed_trades": [
     {
       "symbol": "GPN",
@@ -122,6 +122,14 @@
       "invested_eur": 33.33,
       "net_pnl_eur": -2.17,
       "status": "abgelaufen_verlust"
+    },
+    {
+      "symbol": "MSFT",
+      "opened_at": "2026-08-16T20:00:42.376148+00:00",
+      "resolved_at": "2026-08-17T13:45:36.195449+00:00",
+      "invested_eur": 33.33,
+      "net_pnl_eur": -2.64,
+      "status": "stop_loss_ausgeloest"
     }
   ]
 }
